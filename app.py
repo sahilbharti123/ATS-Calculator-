@@ -18,12 +18,11 @@ if not hasattr(st, "rerun"):  # fallback for old Streamlit versions
 st.set_page_config(page_title="ATS Resume Screener", page_icon="🤖", layout="wide")
 st.title("🤖 ATS Resume Screener")
 
-# Read API key (supports either env var or Streamlit secrets)
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+# Read API key 
+OPENAI_API_KEY = st.secrets.get("OPENAI_API_KEY", os.getenv("OPENAI_API_KEY"))
 if not OPENAI_API_KEY:
-    st.warning(
-        "Add your OpenAI key as environment variable `OPENAI_API_KEY` "
-    )
+    st.error("Missing OPENAI_API_KEY.")
+    st.stop()
 
 client = OpenAI(api_key=OPENAI_API_KEY)
 
