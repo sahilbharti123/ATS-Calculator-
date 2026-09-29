@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="330" viewBox="0 0 720 330" font-family="Georgia, serif">
+<rect x="0" y="0" width="720" height="330" rx="12" fill="#fffaf0" stroke="#b8860b" stroke-width="2"/>
+<text x="360" y="32" text-anchor="middle" font-size="20" font-weight="bold" fill="#7f1d1d">Why your "Sun sign" moves back one sign in Vedic astrology</text>
+<!-- tropical ruler -->
+<text x="30" y="80" font-size="14" font-weight="bold" fill="#3b2314">Western (tropical) zodiac — starts at the spring equinox point</text>
+<g transform="translate(30,90)">
+  <rect x="0" y="0" width="660" height="34" fill="#bae6fd" stroke="#3b2314"/>
+  <line x1="55" y1="0" x2="55" y2="34" stroke="#3b2314"/><line x1="110" y1="0" x2="110" y2="34" stroke="#3b2314"/><line x1="165" y1="0" x2="165" y2="34" stroke="#3b2314"/><line x1="220" y1="0" x2="220" y2="34" stroke="#3b2314"/><line x1="275" y1="0" x2="275" y2="34" stroke="#3b2314"/><line x1="330" y1="0" x2="330" y2="34" stroke="#3b2314"/><line x1="385" y1="0" x2="385" y2="34" stroke="#3b2314"/><line x1="440" y1="0" x2="440" y2="34" stroke="#3b2314"/><line x1="495" y1="0" x2="495" y2="34" stroke="#3b2314"/><line x1="550" y1="0" x2="550" y2="34" stroke="#3b2314"/><line x1="605" y1="0" x2="605" y2="34" stroke="#3b2314"/>
+  <text x="27" y="22" text-anchor="middle" font-size="12">Ar</text><text x="82" y="22" text-anchor="middle" font-size="12">Ta</text><text x="137" y="22" text-anchor="middle" font-size="12">Ge</text><text x="192" y="22" text-anchor="middle" font-size="12">Cn</text><text x="247" y="22" text-anchor="middle" font-size="12">Le</text><text x="302" y="22" text-anchor="middle" font-size="12">Vi</text><text x="357" y="22" text-anchor="middle" font-size="12">Li</text><text x="412" y="22" text-anchor="middle" font-size="12">Sc</text><text x="467" y="22" text-anchor="middle" font-size="12">Sg</text><text x="522" y="22" text-anchor="middle" font-size="12">Cp</text><text x="577" y="22" text-anchor="middle" font-size="12">Aq</text><text x="632" y="22" text-anchor="middle" font-size="12">Pi</text>
+</g>
+<!-- sidereal ruler shifted right by ~24 degrees = 44px (55px per 30 deg) -->
+<text x="30" y="175" font-size="14" font-weight="bold" fill="#3b2314">Vedic (sidereal) zodiac — fixed to the actual stars; today it sits about 24° later</text>
+<g transform="translate(74,185)">
+  <rect x="0" y="0" width="660" height="34" fill="#fde68a" stroke="#3b2314"/>
+  <line x1="55" y1="0" x2="55" y2="34" stroke="#3b2314"/><line x1="110" y1="0" x2="110" y2="34" stroke="#3b2314"/><line x1="165" y1="0" x2="165" y2="34" stroke="#3b2314"/><line x1="220" y1="0" x2="220" y2="34" stroke="#3b2314"/><line x1="275" y1="0" x2="275" y2="34" stroke="#3b2314"/><line x1="330" y1="0" x2="330" y2="34" stroke="#3b2314"/><line x1="385" y1="0" x2="385" y2="34" stroke="#3b2314"/><line x1="440" y1="0" x2="440" y2="34" stroke="#3b2314"/><line x1="495" y1="0" x2="495" y2="34" stroke="#3b2314"/><line x1="550" y1="0" x2="550" y2="34" stroke="#3b2314"/><line x1="605" y1="0" x2="605" y2="34" stroke="#3b2314"/>
+  <text x="27" y="22" text-anchor="middle" font-size="12">Ar</text><text x="82" y="22" text-anchor="middle" font-size="12">Ta</text><text x="137" y="22" text-anchor="middle" font-size="12">Ge</text><text x="192" y="22" text-anchor="middle" font-size="12">Cn</text><text x="247" y="22" text-anchor="middle" font-size="12">Le</text><text x="302" y="22" text-anchor="middle" font-size="12">Vi</text><text x="357" y="22" text-anchor="middle" font-size="12">Li</text><text x="412" y="22" text-anchor="middle" font-size="12">Sc</text><text x="467" y="22" text-anchor="middle" font-size="12">Sg</text><text x="522" y="22" text-anchor="middle" font-size="12">Cp</text><text x="577" y="22" text-anchor="middle" font-size="12">Aq</text><text x="632" y="22" text-anchor="middle" font-size="12">Pi</text>
+</g>
+<!-- the Sun marker on 25 Aug -->
+<line x1="311" y1="82" x2="311" y2="228" stroke="#c2410c" stroke-width="2" stroke-dasharray="5,4"/>
+<circle cx="311" cy="72" r="9" fill="#fbbf24" stroke="#c2410c" stroke-width="2"/>
+<text x="311" y="250" text-anchor="middle" font-size="13" fill="#c2410c" font-weight="bold">Sun on 25 August</text>
+<text x="311" y="268" text-anchor="middle" font-size="12" fill="#3b2314">Western: early Virgo  ·  Vedic: Leo (about 8°)</text>
+<text x="360" y="300" text-anchor="middle" font-size="12" fill="#6b7280">The gap between the two rulers is the ayanamsa (Lahiri value ≈ 24°12′ in 2026). It grows about 1° every 72 years.</text>
+<text x="360" y="318" text-anchor="middle" font-size="12" fill="#6b7280">Both zodiacs are valid measuring tapes; Jyotish uses the star-based one.</text>
+</svg>

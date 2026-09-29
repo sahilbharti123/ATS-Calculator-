@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="605" height="605" viewBox="0 0 605 605" font-family="Georgia, 'Times New Roman', serif">
+<rect x="0" y="0" width="605" height="605" rx="12" fill="#fffaf0" stroke="#b8860b" stroke-width="2"/>
+<text x="302.5" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#7f1d1d">The Zodiac Belt (Rashi Chakra)</text>
+<path d="M20.0,304.99999999999994 A250.0,250.0 0 0 0 53.49364905389032,180.0 L144.42631645125638,232.5 A145.0,145.0 0 0 1 125.0,305.0 Z" fill="#fecaca" stroke="#3b2314" stroke-width="1.5"/>
+<text x="79.22964930790903" y="247.8832385922521" text-anchor="middle" font-size="13" font-weight="bold" fill="#3b2314">1. Aries</text>
+<text x="79.22964930790903" y="264.8832385922521" text-anchor="middle" font-size="11" fill="#7f1d1d">Lord: Mars</text>
+<path d="M53.49364905389032,180.0 A250.0,250.0 0 0 0 145.00000000000006,88.49364905389032 L197.50000000000003,179.42631645125638 A145.0,145.0 0 0 1 144.42631645125638,232.5 Z" fill="#d9f99d" stroke="#3b2314" stroke-width="1.5"/>
+<text x="130.34641071565687" y="159.34641071565684" text-anchor="middle" font-size="13" font-weight="bold" fill="#3b2314">2. Taurus</text>
+<text x="130.34641071565687" y="176.34641071565684" text-anchor="middle" font-size="11" fill="#7f1d1d">Lord: Venus</text>
+<path d="M145.00000000000006,88.49364905389032 A250.0,250.0 0 0 0 270.0,55.0 L270.0,160.0 A145.0,145.0 0 0 1 197.50000000000003,179.42631645125638 Z" fill="#bae6fd" stroke="#3b2314" stroke-width="1.5"/>
+<text x="218.88323859225213" y="108.229649307909" text-anchor="middle" font-size="13" font-weight="bold" fill="#3b2314">3. Gemini</text>
+<text x="218.88323859225213" y="125.229649307909" text-anchor="middle" font-size="11" fill="#7f1d1d">Lord: Mercury</text>
+<path d="M270.0,55.0 A250.0,250.0 0 0 0 395.0,88.49364905389035 L342.5,179.4263164512564 A145.0,145.0 0 0 1 270.0,160.0 Z" fill="#ddd6fe" stroke="#3b2314" stroke-width="1.5"/>
+<text x="321.11676140774784" y="108.229649307909" text-anchor="middle" font-size="13" font-weight="bold" fill="#3b2314">4. Cancer</text>
+<text x="321.11676140774784" y="125.229649307909" text-anchor="middle" font-size="11" fill="#7f1d1d">Lord: Moon</text>
+<path d="M395.0,88.49364905389035 A250.0,250.0 0 0 0 486.5063509461097,180.0 L395.5736835487436,232.5 A145.0,145.0 0 0 1 342.5,179.4263164512564 Z" fill="#fecaca" stroke="#3b2314" stroke-width="1.5"/>
+<text x="409.6535892843432" y="159.34641071565687" text-anchor="middle" font-size="13" font-weight="bold" fill="#3b2314">5. Leo</text>
+<text x="409.6535892843432" y="176.34641071565687" text-anchor="middle" font-size="11" fill="#7f1d1d">Lord: Sun</text>
+<path d="M486.5063509461097,180.0 A250.0,250.0 0 0 0 520.0,305.0 L415.0,305.0 A145.0,145.0 0 0 1 395.5736835487436,232.5 Z" fill="#d9f99d" stroke="#3b2314" stroke-width="1.5"/>
+<text x="460.77035069209103" y="247.88323859225216" text-anchor="middle" font-size="13" font-weight="bold" fill="#3b2314">6. Virgo</text>
+<text x="460.77035069209103" y="264.88323859225216" text-anchor="middle" font-size="11" fill="#7f1d1d">Lord: Mercury</text>
+<path d="M520.0,305.0 A250.0,250.0 0 0 0 486.5063509461097,430.0 L395.5736835487436,377.5 A145.0,145.0 0 0 1 415.0,305.0 Z" fill="#bae6fd" stroke="#3b2314" stroke-width="1.5"/>
+<text x="460.77035069209103" y="350.11676140774784" text-anchor="middle" font-size="13" font-weight="bold" fill="#3b2314">7. Libra</text>
+<text x="460.77035069209103" y="367.11676140774784" text-anchor="middle" font-size="11" fill="#7f1d1d">Lord: Venus</text>
+<path d="M486.5063509461097,430.0 A250.0,250.0 0 0 0 395.0,521.5063509461097 L342.5,430.5736835487436 A145.0,145.0 0 0 1 395.5736835487436,377.5 Z" fill="#ddd6fe" stroke="#3b2314" stroke-width="1.5"/>
+<text x="409.6535892843432" y="438.6535892843431" text-anchor="middle" font-size="13" font-weight="bold" fill="#3b2314">8. Scorpio</text>
+<text x="409.6535892843432" y="455.6535892843431" text-anchor="middle" font-size="11" fill="#7f1d1d">Lord: Mars</text>
+<path d="M395.0,521.5063509461097 A250.0,250.0 0 0 0 270.0,555.0 L270.0,450.0 A145.0,145.0 0 0 1 342.5,430.5736835487436 Z" fill="#fecaca" stroke="#3b2314" stroke-width="1.5"/>
+<text x="321.11676140774784" y="489.77035069209103" text-anchor="middle" font-size="13" font-weight="bold" fill="#3b2314">9. Sagittarius</text>
+<text x="321.11676140774784" y="506.77035069209103" text-anchor="middle" font-size="11" fill="#7f1d1d">Lord: Jupiter</text>
+<path d="M270.0,555.0 A250.0,250.0 0 0 0 145.00000000000006,521.5063509461097 L197.50000000000003,430.5736835487436 A145.0,145.0 0 0 1 270.0,450.0 Z" fill="#d9f99d" stroke="#3b2314" stroke-width="1.5"/>
+<text x="218.88323859225213" y="489.77035069209103" text-anchor="middle" font-size="13" font-weight="bold" fill="#3b2314">10. Capricorn</text>
+<text x="218.88323859225213" y="506.77035069209103" text-anchor="middle" font-size="11" fill="#7f1d1d">Lord: Saturn</text>
+<path d="M145.00000000000006,521.5063509461097 A250.0,250.0 0 0 0 53.49364905389032,430.0 L144.42631645125638,377.5 A145.0,145.0 0 0 1 197.50000000000003,430.5736835487436 Z" fill="#bae6fd" stroke="#3b2314" stroke-width="1.5"/>
+<text x="130.34641071565687" y="438.6535892843432" text-anchor="middle" font-size="13" font-weight="bold" fill="#3b2314">11. Aquarius</text>
+<text x="130.34641071565687" y="455.6535892843432" text-anchor="middle" font-size="11" fill="#7f1d1d">Lord: Saturn</text>
+<path d="M53.49364905389032,430.0 A250.0,250.0 0 0 0 20.0,305.00000000000006 L125.0,305.0 A145.0,145.0 0 0 1 144.42631645125638,377.5 Z" fill="#ddd6fe" stroke="#3b2314" stroke-width="1.5"/>
+<text x="79.22964930790903" y="350.1167614077479" text-anchor="middle" font-size="13" font-weight="bold" fill="#3b2314">12. Pisces</text>
+<text x="79.22964930790903" y="367.1167614077479" text-anchor="middle" font-size="11" fill="#7f1d1d">Lord: Jupiter</text>
+<circle cx="270.0" cy="305.0" r="145.0" fill="#fffaf0" stroke="#3b2314" stroke-width="1.5"/>
+<text x="270.0" y="275.0" text-anchor="middle" font-size="14" font-weight="bold" fill="#7f1d1d">12 signs × 30° = 360°</text>
+<text x="270.0" y="297.0" text-anchor="middle" font-size="12" fill="#3b2314">Order runs anti-clockwise,</text>
+<text x="270.0" y="315.0" text-anchor="middle" font-size="12" fill="#3b2314">Aries → Pisces, as the Moon moves.</text>
+<rect x="175.0" y="340.0" width="12" height="12" fill="#fecaca" stroke="#3b2314"/>
+<text x="191.0" y="351.0" font-size="11" fill="#3b2314">Fire</text>
+<rect x="225.0" y="340.0" width="12" height="12" fill="#d9f99d" stroke="#3b2314"/>
+<text x="241.0" y="351.0" font-size="11" fill="#3b2314">Earth</text>
+<rect x="275.0" y="340.0" width="12" height="12" fill="#bae6fd" stroke="#3b2314"/>
+<text x="291.0" y="351.0" font-size="11" fill="#3b2314">Air</text>
+<rect x="325.0" y="340.0" width="12" height="12" fill="#ddd6fe" stroke="#3b2314"/>
+<text x="341.0" y="351.0" font-size="11" fill="#3b2314">Water</text>
+<text x="302.5" y="593" text-anchor="middle" font-size="13" fill="#3b2314" font-style="italic">Figure 1.1: The zodiac belt. Count anti-clockwise from Aries.</text>
+</svg>
