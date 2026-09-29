@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="600" viewBox="0 0 760 600" font-family="Georgia, 'Times New Roman', serif">
+<rect x="0" y="0" width="760" height="600" rx="12" fill="#fffaf0" stroke="#b8860b" stroke-width="2"/>
+<text x="380.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#7f1d1d">Choosing a remedy: strengthen or pacify?</text>
+<defs><marker id="ah" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 Z" fill="#3b2314"/></marker></defs>
+<rect x="230" y="50" width="300" height="50" rx="8" fill="none" stroke="#3b2314" stroke-width="1.5"/>
+<text x="380.0" y="71.0" text-anchor="middle" font-size="12" fill="#7f1d1d" font-weight="bold">1. Name the problem</text>
+<text x="380.0" y="87.0" text-anchor="middle" font-size="12" fill="#3b2314">Which house? Which planet is causing it?</text>
+<line x1="380" y1="100" x2="380" y2="125" stroke="#3b2314" stroke-width="1.5" marker-end="url(#ah)"/>
+<rect x="200" y="125" width="360" height="56" rx="8" fill="none" stroke="#3b2314" stroke-width="1.5"/>
+<text x="380.0" y="149.0" text-anchor="middle" font-size="11" fill="#7f1d1d" font-weight="bold">2. Is that planet a FUNCTIONAL BENEFIC</text>
+<text x="380.0" y="165.0" text-anchor="middle" font-size="11" fill="#3b2314">for this Lagna? (Appendix A.6: Lagna, 5th, 9th lord, yogakaraka)</text>
+<line x1="300" y1="181" x2="180" y2="225" stroke="#3b2314" stroke-width="1.5" marker-end="url(#ah)"/>
+<text x="150" y="205" text-anchor="start" font-size="12" fill="#7f1d1d" font-weight="bold">YES</text>
+<line x1="460" y1="181" x2="580" y2="225" stroke="#3b2314" stroke-width="1.5" marker-end="url(#ah)"/>
+<text x="470" y="205" text-anchor="start" font-size="12" fill="#7f1d1d" font-weight="bold">NO (functional malefic)</text>
+<rect x="40" y="225" width="290" height="56" rx="8" fill="none" stroke="#3b2314" stroke-width="1.5"/>
+<text x="185.0" y="249.0" text-anchor="middle" font-size="11" fill="#7f1d1d" font-weight="bold">3a. Is it WEAK?</text>
+<text x="185.0" y="265.0" text-anchor="middle" font-size="11" fill="#3b2314">enemy sign, combust, dusthana, retro, low Shadbala</text>
+<rect x="430" y="225" width="290" height="56" rx="8" fill="#fecaca" stroke="#3b2314" stroke-width="1.5"/>
+<text x="575.0" y="249.0" text-anchor="middle" font-size="11" fill="#7f1d1d" font-weight="bold">3b. PACIFY, never strengthen</text>
+<text x="575.0" y="265.0" text-anchor="middle" font-size="11" fill="#3b2314">Daan of its items · seva on its day · mantra · fasting</text>
+<line x1="110" y1="281" x2="110" y2="325" stroke="#3b2314" stroke-width="1.5" marker-end="url(#ah)"/>
+<text x="60" y="305" text-anchor="start" font-size="12" fill="#7f1d1d" font-weight="bold">YES</text>
+<line x1="260" y1="281" x2="260" y2="325" stroke="#3b2314" stroke-width="1.5" marker-end="url(#ah)"/>
+<text x="270" y="305" text-anchor="start" font-size="12" fill="#7f1d1d" font-weight="bold">NO</text>
+<rect x="20" y="325" width="190" height="80" rx="8" fill="#bbf7d0" stroke="#3b2314" stroke-width="1.5"/>
+<text x="115.0" y="337.0" text-anchor="middle" font-size="11" fill="#7f1d1d" font-weight="bold">STRENGTHEN</text>
+<text x="115.0" y="353.0" text-anchor="middle" font-size="11" fill="#3b2314">conduct + mantra + daan</text>
+<text x="115.0" y="369.0" text-anchor="middle" font-size="11" fill="#3b2314">gem only if justified</text>
+<text x="115.0" y="385.0" text-anchor="middle" font-size="11" fill="#3b2314">(never if debilitated, unless</text>
+<text x="115.0" y="401.0" text-anchor="middle" font-size="11" fill="#3b2314">neecha bhanga)</text>
+<rect x="220" y="325" width="190" height="80" rx="8" fill="#fde68a" stroke="#3b2314" stroke-width="1.5"/>
+<text x="315.0" y="345.0" text-anchor="middle" font-size="11" fill="#7f1d1d" font-weight="bold">DON'T FIX WHAT</text>
+<text x="315.0" y="361.0" text-anchor="middle" font-size="11" fill="#3b2314">ISN'T BROKEN</text>
+<text x="315.0" y="377.0" text-anchor="middle" font-size="11" fill="#3b2314">support with conduct;</text>
+<text x="315.0" y="393.0" text-anchor="middle" font-size="11" fill="#3b2314">no stone needed</text>
+<rect x="430" y="325" width="290" height="80" rx="8" fill="#fecaca" stroke="#3b2314" stroke-width="1.5"/>
+<text x="575.0" y="345.0" text-anchor="middle" font-size="11" fill="#7f1d1d" font-weight="bold">NO GEMSTONE for a malefic</text>
+<text x="575.0" y="361.0" text-anchor="middle" font-size="11" fill="#3b2314">A stone strengthens; it cannot pacify.</text>
+<text x="575.0" y="377.0" text-anchor="middle" font-size="11" fill="#3b2314">Blue sapphire for a functional-malefic Saturn</text>
+<text x="575.0" y="393.0" text-anchor="middle" font-size="11" fill="#3b2314">is the classic beginner's error.</text>
+<line x1="115" y1="405" x2="380" y2="455" stroke="#3b2314" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="315" y1="405" x2="380" y2="455" stroke="#3b2314" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="575" y1="405" x2="380" y2="455" stroke="#3b2314" stroke-width="1.5" marker-end="url(#ah)"/>
+<rect x="130" y="455" width="500" height="110" rx="8" fill="none" stroke="#3b2314" stroke-width="1.5"/>
+<text x="380.0" y="490.0" text-anchor="middle" font-size="11" fill="#7f1d1d" font-weight="bold">4. Always, for every client</text>
+<text x="380.0" y="506.0" text-anchor="middle" font-size="11" fill="#3b2314">Two or three remedies at most · match faith and means (secular equivalents exist)</text>
+<text x="380.0" y="522.0" text-anchor="middle" font-size="11" fill="#3b2314">informed consent · disclose every cost · no fear, no guarantees</text>
+<text x="380.0" y="538.0" text-anchor="middle" font-size="11" fill="#3b2314">never medical advice · review at a fixed date</text>
+<text x="380.0" y="586" text-anchor="middle" font-size="11" fill="#3b2314" font-style="italic">Green = strengthen, amber = leave alone, red = pacify. Work top to bottom for one planet at a time.</text>
+</svg>

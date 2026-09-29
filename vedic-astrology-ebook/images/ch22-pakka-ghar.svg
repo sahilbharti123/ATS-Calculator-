@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="740" height="500" viewBox="0 0 740 500" font-family="Georgia, 'Times New Roman', serif">
+<rect x="0" y="0" width="740" height="500" rx="12" fill="#fffaf0" stroke="#b8860b" stroke-width="2"/>
+<text x="370.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#7f1d1d">Pakka ghar — the permanent houses of the planets (Lal Kitab)</text>
+<polygon points="220.0,55 320.0,155.0 220.0,255.0 120.0,155.0" fill="none" stroke="none"/>
+<polygon points="20,55 220.0,55 120.0,155.0" fill="none" stroke="none"/>
+<polygon points="20,55 120.0,155.0 20,255.0" fill="none" stroke="none"/>
+<polygon points="20,255.0 120.0,155.0 220.0,255.0 120.0,355.0" fill="none" stroke="none"/>
+<polygon points="20,455 20,255.0 120.0,355.0" fill="none" stroke="none"/>
+<polygon points="20,455 120.0,355.0 220.0,455" fill="none" stroke="none"/>
+<polygon points="220.0,455 120.0,355.0 220.0,255.0 320.0,355.0" fill="none" stroke="none"/>
+<polygon points="420,455 220.0,455 320.0,355.0" fill="none" stroke="none"/>
+<polygon points="420,455 320.0,355.0 420,255.0" fill="none" stroke="none"/>
+<polygon points="420,255.0 320.0,355.0 220.0,255.0 320.0,155.0" fill="none" stroke="none"/>
+<polygon points="420,55 420,255.0 320.0,155.0" fill="none" stroke="none"/>
+<polygon points="420,55 320.0,155.0 220.0,55" fill="none" stroke="none"/>
+<rect x="20" y="55" width="400" height="400" fill="none" stroke="#3b2314" stroke-width="2.2"/>
+<line x1="20" y1="55" x2="420" y2="455" stroke="#3b2314" stroke-width="1.8"/>
+<line x1="420" y1="55" x2="20" y2="455" stroke="#3b2314" stroke-width="1.8"/>
+<polygon points="220.0,55 420,255.0 220.0,455 20,255.0" fill="none" stroke="#3b2314" stroke-width="1.8"/>
+<text x="220.0" y="229.0" text-anchor="middle" font-size="11" fill="#3b2314" font-weight="bold">1</text>
+<text x="220.0" y="159.55" text-anchor="middle" font-size="13" fill="#c2410c" font-weight="bold">Su</text>
+<text x="120.0" y="143.0" text-anchor="middle" font-size="11" fill="#3b2314" font-weight="bold">2</text>
+<text x="120.0" y="103.64444444444445" text-anchor="middle" font-size="12" fill="#b45309" font-weight="bold">Ju</text>
+<text x="106.0" y="160.0" text-anchor="middle" font-size="11" fill="#3b2314" font-weight="bold">3</text>
+<text x="64.44444444444444" y="159.2" text-anchor="middle" font-size="12" fill="#b91c1c" font-weight="bold">Ma</text>
+<text x="194.0" y="260.0" text-anchor="middle" font-size="11" fill="#3b2314" font-weight="bold">4</text>
+<text x="120.0" y="259.55" text-anchor="middle" font-size="13" fill="#4b5563" font-weight="bold">Mo</text>
+<text x="106.0" y="360.0" text-anchor="middle" font-size="11" fill="#3b2314" font-weight="bold">5</text>
+<text x="64.44444444444444" y="359.2" text-anchor="middle" font-size="12" fill="#b45309" font-weight="bold">Ju</text>
+<text x="120.0" y="373.0" text-anchor="middle" font-size="11" fill="#3b2314" font-weight="bold">6</text>
+<text x="120.0" y="414.75555555555553" text-anchor="middle" font-size="12" fill="#6b21a8" font-weight="bold">Ke</text>
+<text x="220.0" y="289.0" text-anchor="middle" font-size="11" fill="#3b2314" font-weight="bold">7</text>
+<text x="220.0" y="352.05" text-anchor="middle" font-size="13" fill="#15803d" font-weight="bold">Me</text>
+<text x="220.0" y="367.05" text-anchor="middle" font-size="13" fill="#be185d" font-weight="bold">Ve</text>
+<text x="320.0" y="373.0" text-anchor="middle" font-size="11" fill="#3b2314" font-weight="bold">8</text>
+<text x="320.0" y="408.25555555555553" text-anchor="middle" font-size="12" fill="#b91c1c" font-weight="bold">Ma</text>
+<text x="320.0" y="421.25555555555553" text-anchor="middle" font-size="12" fill="#1e3a8a" font-weight="bold">Sa</text>
+<text x="334.0" y="360.0" text-anchor="middle" font-size="11" fill="#3b2314" font-weight="bold">9</text>
+<text x="375.55555555555554" y="359.2" text-anchor="middle" font-size="12" fill="#b45309" font-weight="bold">Ju</text>
+<text x="246.0" y="260.0" text-anchor="middle" font-size="11" fill="#3b2314" font-weight="bold">10</text>
+<text x="320.0" y="259.55" text-anchor="middle" font-size="13" fill="#1e3a8a" font-weight="bold">Sa</text>
+<text x="334.0" y="160.0" text-anchor="middle" font-size="11" fill="#3b2314" font-weight="bold">11</text>
+<text x="375.55555555555554" y="159.2" text-anchor="middle" font-size="12" fill="#b45309" font-weight="bold">Ju</text>
+<text x="320.0" y="143.0" text-anchor="middle" font-size="11" fill="#3b2314" font-weight="bold">12</text>
+<text x="320.0" y="103.64444444444445" text-anchor="middle" font-size="12" fill="#4c1d95" font-weight="bold">Ra</text>
+<text x="450" y="75" text-anchor="start" font-size="14" fill="#7f1d1d" font-weight="bold">Planet → permanent house(s)</text>
+<text x="450" y="103" text-anchor="start" font-size="14" fill="#c2410c" font-weight="bold">Su</text>
+<text x="484" y="103" text-anchor="start" font-size="13" fill="#3b2314">Sun</text>
+<text x="560" y="103" text-anchor="start" font-size="13" fill="#3b2314">1</text>
+<text x="450" y="133" text-anchor="start" font-size="14" fill="#4b5563" font-weight="bold">Mo</text>
+<text x="484" y="133" text-anchor="start" font-size="13" fill="#3b2314">Moon</text>
+<text x="560" y="133" text-anchor="start" font-size="13" fill="#3b2314">4</text>
+<text x="450" y="163" text-anchor="start" font-size="14" fill="#b91c1c" font-weight="bold">Ma</text>
+<text x="484" y="163" text-anchor="start" font-size="13" fill="#3b2314">Mars</text>
+<text x="560" y="163" text-anchor="start" font-size="13" fill="#3b2314">3 and 8</text>
+<text x="450" y="193" text-anchor="start" font-size="14" fill="#15803d" font-weight="bold">Me</text>
+<text x="484" y="193" text-anchor="start" font-size="13" fill="#3b2314">Mercury</text>
+<text x="560" y="193" text-anchor="start" font-size="13" fill="#3b2314">7 (some: 6 and 8)</text>
+<text x="450" y="223" text-anchor="start" font-size="14" fill="#b45309" font-weight="bold">Ju</text>
+<text x="484" y="223" text-anchor="start" font-size="13" fill="#3b2314">Jupiter</text>
+<text x="560" y="223" text-anchor="start" font-size="13" fill="#3b2314">2, 5, 9, 11 (some add 12)</text>
+<text x="450" y="253" text-anchor="start" font-size="14" fill="#be185d" font-weight="bold">Ve</text>
+<text x="484" y="253" text-anchor="start" font-size="13" fill="#3b2314">Venus</text>
+<text x="560" y="253" text-anchor="start" font-size="13" fill="#3b2314">7</text>
+<text x="450" y="283" text-anchor="start" font-size="14" fill="#1e3a8a" font-weight="bold">Sa</text>
+<text x="484" y="283" text-anchor="start" font-size="13" fill="#3b2314">Saturn</text>
+<text x="560" y="283" text-anchor="start" font-size="13" fill="#3b2314">8 and 10</text>
+<text x="450" y="313" text-anchor="start" font-size="14" fill="#4c1d95" font-weight="bold">Ra</text>
+<text x="484" y="313" text-anchor="start" font-size="13" fill="#3b2314">Rahu</text>
+<text x="560" y="313" text-anchor="start" font-size="13" fill="#3b2314">12</text>
+<text x="450" y="343" text-anchor="start" font-size="14" fill="#6b21a8" font-weight="bold">Ke</text>
+<text x="484" y="343" text-anchor="start" font-size="13" fill="#3b2314">Ketu</text>
+<text x="560" y="343" text-anchor="start" font-size="13" fill="#3b2314">6</text>
+<text x="450" y="379" text-anchor="start" font-size="12" fill="#3b2314" font-style="italic">A planet in its pakka ghar is 'at home'</text>
+<text x="450" y="397" text-anchor="start" font-size="12" fill="#3b2314" font-style="italic">and gives its results with confidence.</text>
+<text x="370.0" y="484" text-anchor="middle" font-size="12" fill="#3b2314" font-style="italic">This is a list drawn as a chart, not one person's kundali. Editions differ on Mercury and Jupiter.</text>
+</svg>

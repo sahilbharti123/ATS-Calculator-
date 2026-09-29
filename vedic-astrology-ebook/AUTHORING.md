@@ -70,7 +70,7 @@ Planets are given by **house** (1–12), the tool converts to signs from `--lagn
    Tool string: `--lagna 4 --planets "8:Su,Me,Sa;11:Mo;2:Ma(R);5:Ju;7:Ve;4:Ra;10:Ke"`
 **Chart C — "Devika", born 22 Jul 1979, 23:55, Kolkata (constructed).** Lagna Aries 7°. Sun Cancer (H4) 5°; Moon Sagittarius (H9) 14° (Purva Ashadha, Venus's star); Mars Gemini (H3) 27°; Mercury Leo (H5) 1°; Jupiter Cancer (H4) 26°; Venus Gemini (H3) 15°; Saturn Leo (H5) 18°; Rahu Leo (H5) 3°; Ketu Aquarius (H11) 3°. Themes: Aries lagna, exalted Jupiter in 4th with Sun, Moon in 9th, Saturn+Rahu+Mercury in 5th (children/education struggles then success), Mars 3rd. Balance of Venus dasha at birth ≈ 19 years ((26°40′−14°)/13°20′ × 20), then Sun 6 (age 19–25), Moon 10 (25–35), Mars 7 (35–42), Rahu 18 (42–60), Jupiter 16 (60–76).
    Tool string: `--lagna 1 --planets "4:Su,Ju;9:Mo;3:Ma,Ve;5:Me,Sa,Ra;11:Ke"`
-Chapters may add small illustrative charts of their own, but the full case studies in Chapter 24 use A, B, C.
+Chapters may add small illustrative charts of their own, but the full case studies in Chapter 25 use A, B, C.
 
 ## Tone samples
 Good: "Think of the Lagna as the front door of the house. Whatever walks in must pass it. A strong front door and even a modest house feels safe."

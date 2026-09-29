@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="740" height="540" viewBox="0 0 740 540" font-family="Georgia, 'Times New Roman', serif">
+<rect x="0" y="0" width="740" height="540" rx="12" fill="#fffaf0" stroke="#b8860b" stroke-width="2"/>
+<text x="370.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#7f1d1d">Which finger for which stone (common practice)</text>
+<path d="M140,280 L320,280 L326,430 Q326,490 270,495 L190,495 Q134,490 134,430 Z" fill="#fde7d3" stroke="#3b2314" stroke-width="1.8"/>
+<rect x="148" y="130" width="34" height="162" rx="17.0" fill="#fde7d3" stroke="#3b2314" stroke-width="1.8"/>
+<text x="165.0" y="156" text-anchor="middle" font-size="10" fill="#3b2314">Index</text>
+<rect x="192" y="100" width="36" height="192" rx="18.0" fill="#fde7d3" stroke="#3b2314" stroke-width="1.8"/>
+<text x="210.0" y="126" text-anchor="middle" font-size="10" fill="#3b2314">Middle</text>
+<rect x="238" y="115" width="34" height="177" rx="17.0" fill="#fde7d3" stroke="#3b2314" stroke-width="1.8"/>
+<text x="255.0" y="141" text-anchor="middle" font-size="10" fill="#3b2314">Ring</text>
+<rect x="282" y="160" width="30" height="132" rx="15.0" fill="#fde7d3" stroke="#3b2314" stroke-width="1.8"/>
+<text x="297.0" y="186" text-anchor="middle" font-size="10" fill="#3b2314">Little</text>
+<path d="M138,350 Q65,310 90,245 Q108,218 128,248 Q142,290 140,320 Z" fill="#fde7d3" stroke="#3b2314" stroke-width="1.8"/>
+<text x="108" y="285" text-anchor="middle" font-size="10" fill="#3b2314">Thumb</text>
+<text x="108" y="299" text-anchor="middle" font-size="9" fill="#3b2314">(no stone)</text>
+<text x="420" y="90" text-anchor="start" font-size="13" fill="#7f1d1d" font-weight="bold">Index — Jupiter</text>
+<text x="426" y="110" text-anchor="start" font-size="12" fill="#b45309" font-weight="bold">Ju</text>
+<text x="454" y="110" text-anchor="start" font-size="11" fill="#3b2314">Yellow sapphire (Pukhraj), gold</text>
+<text x="420" y="140" text-anchor="start" font-size="13" fill="#7f1d1d" font-weight="bold">Middle — Saturn, Rahu, Venus</text>
+<text x="426" y="160" text-anchor="start" font-size="12" fill="#1e3a8a" font-weight="bold">Sa</text>
+<text x="454" y="160" text-anchor="start" font-size="11" fill="#3b2314">Blue sapphire (Neelam), silver/panchdhatu</text>
+<text x="426" y="178" text-anchor="start" font-size="12" fill="#4c1d95" font-weight="bold">Ra</text>
+<text x="454" y="178" text-anchor="start" font-size="11" fill="#3b2314">Hessonite (Gomed), silver/panchdhatu</text>
+<text x="426" y="196" text-anchor="start" font-size="12" fill="#be185d" font-weight="bold">Ve</text>
+<text x="454" y="196" text-anchor="start" font-size="11" fill="#3b2314">Diamond / white sapphire, silver or platinum (some: ring)</text>
+<text x="420" y="226" text-anchor="start" font-size="13" fill="#7f1d1d" font-weight="bold">Ring — Sun, Mars, Ketu</text>
+<text x="426" y="246" text-anchor="start" font-size="12" fill="#c2410c" font-weight="bold">Su</text>
+<text x="454" y="246" text-anchor="start" font-size="11" fill="#3b2314">Ruby (Manikya), gold/copper</text>
+<text x="426" y="264" text-anchor="start" font-size="12" fill="#b91c1c" font-weight="bold">Ma</text>
+<text x="454" y="264" text-anchor="start" font-size="11" fill="#3b2314">Red coral (Moonga), gold/copper</text>
+<text x="426" y="282" text-anchor="start" font-size="12" fill="#6b21a8" font-weight="bold">Ke</text>
+<text x="454" y="282" text-anchor="start" font-size="11" fill="#3b2314">Cat's eye (Lehsunia), silver (some: little)</text>
+<text x="420" y="312" text-anchor="start" font-size="13" fill="#7f1d1d" font-weight="bold">Little — Mercury, Moon</text>
+<text x="426" y="332" text-anchor="start" font-size="12" fill="#15803d" font-weight="bold">Me</text>
+<text x="454" y="332" text-anchor="start" font-size="11" fill="#3b2314">Emerald (Panna), gold</text>
+<text x="426" y="350" text-anchor="start" font-size="12" fill="#4b5563" font-weight="bold">Mo</text>
+<text x="454" y="350" text-anchor="start" font-size="11" fill="#3b2314">Pearl (Moti), silver</text>
+<line x1="182" y1="147.0" x2="408" y2="86" stroke="#b8860b" stroke-width="1" stroke-dasharray="4 3"/>
+<line x1="228" y1="118.0" x2="408" y2="136" stroke="#b8860b" stroke-width="1" stroke-dasharray="4 3"/>
+<line x1="272" y1="132.0" x2="408" y2="222" stroke="#b8860b" stroke-width="1" stroke-dasharray="4 3"/>
+<line x1="312" y1="175.0" x2="408" y2="308" stroke="#b8860b" stroke-width="1" stroke-dasharray="4 3"/>
+<text x="420" y="390" text-anchor="start" font-size="11" fill="#3b2314">Wear on the working hand (usually the right);</text>
+<text x="420" y="406" text-anchor="start" font-size="11" fill="#3b2314">stone touching the skin; weight about 3–6 carats</text>
+<text x="420" y="422" text-anchor="start" font-size="11" fill="#3b2314">for most stones. Fingers follow the mainstream</text>
+<text x="420" y="438" text-anchor="start" font-size="11" fill="#3b2314">teaching; some lineages differ — say so to the client.</text>
+<text x="370.0" y="526" text-anchor="middle" font-size="11" fill="#3b2314" font-style="italic">A stone is prescribed only for a weak functional benefic (Appendix A.13). The finger is the easy part.</text>
+</svg>

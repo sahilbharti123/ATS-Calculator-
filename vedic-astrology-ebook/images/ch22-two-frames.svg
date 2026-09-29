@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="470" viewBox="0 0 760 470" font-family="Georgia, 'Times New Roman', serif">
+<rect x="0" y="0" width="760" height="470" rx="12" fill="#fffaf0" stroke="#b8860b" stroke-width="2"/>
+<text x="380.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#7f1d1d">Same birth, two frames: Parashari (signs move) vs Lal Kitab (houses fixed)</text>
+<text x="180.0" y="62" text-anchor="middle" font-size="13" fill="#7f1d1d" font-weight="bold">Parashari North chart — Lagna Scorpio (sign 8 in house 1)</text>
+<polygon points="180.0,75 255.0,150.0 180.0,225.0 105.0,150.0" fill="none" stroke="none"/>
+<polygon points="30,75 180.0,75 105.0,150.0" fill="none" stroke="none"/>
+<polygon points="30,75 105.0,150.0 30,225.0" fill="none" stroke="none"/>
+<polygon points="30,225.0 105.0,150.0 180.0,225.0 105.0,300.0" fill="none" stroke="none"/>
+<polygon points="30,375 30,225.0 105.0,300.0" fill="none" stroke="none"/>
+<polygon points="30,375 105.0,300.0 180.0,375" fill="none" stroke="none"/>
+<polygon points="180.0,375 105.0,300.0 180.0,225.0 255.0,300.0" fill="none" stroke="none"/>
+<polygon points="330,375 180.0,375 255.0,300.0" fill="none" stroke="none"/>
+<polygon points="330,375 255.0,300.0 330,225.0" fill="none" stroke="none"/>
+<polygon points="330,225.0 255.0,300.0 180.0,225.0 255.0,150.0" fill="none" stroke="none"/>
+<polygon points="330,75 330,225.0 255.0,150.0" fill="none" stroke="none"/>
+<polygon points="330,75 255.0,150.0 180.0,75" fill="none" stroke="none"/>
+<rect x="30" y="75" width="300" height="300" fill="none" stroke="#3b2314" stroke-width="2.2"/>
+<line x1="30" y1="75" x2="330" y2="375" stroke="#3b2314" stroke-width="1.8"/>
+<line x1="330" y1="75" x2="30" y2="375" stroke="#3b2314" stroke-width="1.8"/>
+<polygon points="180.0,75 330,225.0 180.0,375 30,225.0" fill="none" stroke="#3b2314" stroke-width="1.8"/>
+<text x="180.0" y="199.0" text-anchor="middle" font-size="11" fill="#b8860b" font-weight="bold">8</text>
+<text x="180.0" y="147.05" text-anchor="middle" font-size="13" fill="#c2410c" font-weight="bold">Su</text>
+<text x="180.0" y="162.05" text-anchor="middle" font-size="13" fill="#15803d" font-weight="bold">Me</text>
+<text x="105.0" y="138.0" text-anchor="middle" font-size="11" fill="#b8860b" font-weight="bold">9</text>
+<text x="105.0" y="112.53333333333335" text-anchor="middle" font-size="12" fill="#1e3a8a" font-weight="bold">Sa</text>
+<text x="91.0" y="155.0" text-anchor="middle" font-size="11" fill="#b8860b" font-weight="bold">10</text>
+<text x="154.0" y="230.0" text-anchor="middle" font-size="11" fill="#b8860b" font-weight="bold">11</text>
+<text x="105.0" y="229.55" text-anchor="middle" font-size="13" fill="#4c1d95" font-weight="bold">Ra</text>
+<text x="91.0" y="305.0" text-anchor="middle" font-size="11" fill="#b8860b" font-weight="bold">12</text>
+<text x="63.333333333333336" y="304.2" text-anchor="middle" font-size="12" fill="#b91c1c" font-weight="bold">Maᴿ</text>
+<text x="105.0" y="318.0" text-anchor="middle" font-size="11" fill="#b8860b" font-weight="bold">1</text>
+<text x="180.0" y="259.0" text-anchor="middle" font-size="11" fill="#b8860b" font-weight="bold">2</text>
+<text x="180.0" y="304.55" text-anchor="middle" font-size="13" fill="#b45309" font-weight="bold">Juᴿ</text>
+<text x="255.0" y="318.0" text-anchor="middle" font-size="11" fill="#b8860b" font-weight="bold">3</text>
+<text x="269.0" y="305.0" text-anchor="middle" font-size="11" fill="#b8860b" font-weight="bold">4</text>
+<text x="296.6666666666667" y="304.2" text-anchor="middle" font-size="12" fill="#4b5563" font-weight="bold">Mo</text>
+<text x="206.0" y="230.0" text-anchor="middle" font-size="11" fill="#b8860b" font-weight="bold">5</text>
+<text x="255.0" y="229.55" text-anchor="middle" font-size="13" fill="#6b21a8" font-weight="bold">Ke</text>
+<text x="269.0" y="155.0" text-anchor="middle" font-size="11" fill="#b8860b" font-weight="bold">6</text>
+<text x="255.0" y="138.0" text-anchor="middle" font-size="11" fill="#b8860b" font-weight="bold">7</text>
+<text x="255.0" y="112.53333333333335" text-anchor="middle" font-size="12" fill="#be185d" font-weight="bold">Ve</text>
+<text x="180.0" y="410" text-anchor="middle" font-size="12" fill="#3b2314">Gold numbers = SIGNS. The 1st house is Scorpio,</text>
+<text x="180.0" y="426" text-anchor="middle" font-size="12" fill="#3b2314">so Mars colours the body; Venus sits in Libra, its own sign.</text>
+<text x="580.0" y="62" text-anchor="middle" font-size="13" fill="#7f1d1d" font-weight="bold">Lal Kitab chart — house 1 is always 'Aries'</text>
+<polygon points="580.0,75 655.0,150.0 580.0,225.0 505.0,150.0" fill="none" stroke="none"/>
+<polygon points="430,75 580.0,75 505.0,150.0" fill="none" stroke="none"/>
+<polygon points="430,75 505.0,150.0 430,225.0" fill="none" stroke="none"/>
+<polygon points="430,225.0 505.0,150.0 580.0,225.0 505.0,300.0" fill="none" stroke="none"/>
+<polygon points="430,375 430,225.0 505.0,300.0" fill="none" stroke="none"/>
+<polygon points="430,375 505.0,300.0 580.0,375" fill="none" stroke="none"/>
+<polygon points="580.0,375 505.0,300.0 580.0,225.0 655.0,300.0" fill="none" stroke="none"/>
+<polygon points="730,375 580.0,375 655.0,300.0" fill="none" stroke="none"/>
+<polygon points="730,375 655.0,300.0 730,225.0" fill="none" stroke="none"/>
+<polygon points="730,225.0 655.0,300.0 580.0,225.0 655.0,150.0" fill="none" stroke="none"/>
+<polygon points="730,75 730,225.0 655.0,150.0" fill="none" stroke="none"/>
+<polygon points="730,75 655.0,150.0 580.0,75" fill="none" stroke="none"/>
+<rect x="430" y="75" width="300" height="300" fill="none" stroke="#3b2314" stroke-width="2.2"/>
+<line x1="430" y1="75" x2="730" y2="375" stroke="#3b2314" stroke-width="1.8"/>
+<line x1="730" y1="75" x2="430" y2="375" stroke="#3b2314" stroke-width="1.8"/>
+<polygon points="580.0,75 730,225.0 580.0,375 430,225.0" fill="none" stroke="#3b2314" stroke-width="1.8"/>
+<text x="580.0" y="199.0" text-anchor="middle" font-size="11" fill="#3b2314" font-weight="bold">1</text>
+<text x="580.0" y="147.05" text-anchor="middle" font-size="13" fill="#c2410c" font-weight="bold">Su</text>
+<text x="580.0" y="162.05" text-anchor="middle" font-size="13" fill="#15803d" font-weight="bold">Me</text>
+<text x="505.0" y="138.0" text-anchor="middle" font-size="11" fill="#3b2314" font-weight="bold">2</text>
+<text x="505.0" y="112.53333333333335" text-anchor="middle" font-size="12" fill="#1e3a8a" font-weight="bold">Sa</text>
+<text x="491.0" y="155.0" text-anchor="middle" font-size="11" fill="#3b2314" font-weight="bold">3</text>
+<text x="554.0" y="230.0" text-anchor="middle" font-size="11" fill="#3b2314" font-weight="bold">4</text>
+<text x="505.0" y="229.55" text-anchor="middle" font-size="13" fill="#4c1d95" font-weight="bold">Ra</text>
+<text x="491.0" y="305.0" text-anchor="middle" font-size="11" fill="#3b2314" font-weight="bold">5</text>
+<text x="463.3333333333333" y="304.2" text-anchor="middle" font-size="12" fill="#b91c1c" font-weight="bold">Maᴿ</text>
+<text x="505.0" y="318.0" text-anchor="middle" font-size="11" fill="#3b2314" font-weight="bold">6</text>
+<text x="580.0" y="259.0" text-anchor="middle" font-size="11" fill="#3b2314" font-weight="bold">7</text>
+<text x="580.0" y="304.55" text-anchor="middle" font-size="13" fill="#b45309" font-weight="bold">Juᴿ</text>
+<text x="655.0" y="318.0" text-anchor="middle" font-size="11" fill="#3b2314" font-weight="bold">8</text>
+<text x="669.0" y="305.0" text-anchor="middle" font-size="11" fill="#3b2314" font-weight="bold">9</text>
+<text x="696.6666666666667" y="304.2" text-anchor="middle" font-size="12" fill="#4b5563" font-weight="bold">Mo</text>
+<text x="606.0" y="230.0" text-anchor="middle" font-size="11" fill="#3b2314" font-weight="bold">10</text>
+<text x="655.0" y="229.55" text-anchor="middle" font-size="13" fill="#6b21a8" font-weight="bold">Ke</text>
+<text x="669.0" y="155.0" text-anchor="middle" font-size="11" fill="#3b2314" font-weight="bold">11</text>
+<text x="655.0" y="138.0" text-anchor="middle" font-size="11" fill="#3b2314" font-weight="bold">12</text>
+<text x="655.0" y="112.53333333333335" text-anchor="middle" font-size="12" fill="#be185d" font-weight="bold">Ve</text>
+<text x="580.0" y="410" text-anchor="middle" font-size="12" fill="#3b2314">Numbers = HOUSES only. No sign is read.</text>
+<text x="580.0" y="426" text-anchor="middle" font-size="12" fill="#3b2314">House 1 = Sun's pakka ghar; Venus in 12 = Rahu's pakka ghar.</text>
+<text x="380.0" y="454" text-anchor="middle" font-size="12" fill="#3b2314" font-style="italic">Planets keep their Parashari house numbers; only the meaning of the frame changes.</text>
+</svg>
