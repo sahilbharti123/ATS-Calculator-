@@ -165,7 +165,7 @@ Watch for these recurring boxes:
 
 > **✍️ Practice:** exercises at the end of every chapter, with answers. Do them. Reading about swimming has never kept anyone afloat.
 
-Colour dots mark every judgement in every table: 🟢 good or friendly, 🟡 mixed or neutral, 🔴 difficult or hostile. On a black-and-white Kindle they appear as a filled circle, a half circle and an empty circle, so the difference survives without colour.
+Colour dots mark every judgement in every table: a green filled circle for good or friendly, an amber half circle for mixed or neutral, a red empty circle for difficult or hostile. The three shapes differ, so the meaning survives on a black-and-white screen too.
 
 ## A word about the voice in this book
 

@@ -4,7 +4,7 @@ This appendix is the desk drawer: the books to read next, one-page tables to kee
 
 ## C.1 Reading list, in order of difficulty
 
-*Titles and authors are given as commonly published; editions, publishers and translators vary — verify before buying.* Read in roughly this order. One good book finished is worth ten skimmed.
+*Titles and authors are given as commonly published; editions, publishers and translators vary, verify before buying.* Read in roughly this order. One good book finished is worth ten skimmed.
 
 ### Beginner
 
@@ -16,7 +16,7 @@ This appendix is the desk drawer: the books to read next, one-page tables to kee
 | *Light on Life* | Hart de Fouw and Robert Svoboda | The philosophy and the *why* behind the rules, written for the Western-educated reader |
 | *The Essentials of Vedic Astrology* | Komilla Sutton | A well-organised, gentle overview with good chapter summaries |
 | *The Nakshatras* | Dennis Harness | A readable first book on the 27 stars, one chapter each |
-| *The 27 Celestial Portals* | Prash Trivedi | Deeper nakshatra lore — myths, symbols, padas; read after Harness |
+| *The 27 Celestial Portals* | Prash Trivedi | Deeper nakshatra lore, myths, symbols, padas; read after Harness |
 
 ### Intermediate
 
@@ -41,7 +41,7 @@ This appendix is the desk drawer: the books to read next, one-page tables to kee
 | Book | Author / translator | Why |
 |---|---|---|
 | *Lal Kitab* (five Urdu volumes, 1939, 1940, 1941, 1942, 1952) | Pt. Roop Chand Joshi | The original; in Urdu, rare, and the only true source |
-| Hindi translations and commentaries | e.g. Pt. Krishna Ashant; Umesh Puri "Gyaneshwar"; Radha Krishna Shrimali | The versions most readers use; **translations differ from one another on rules and remedies** — compare two before quoting |
+| Hindi translations and commentaries | e.g. Pt. Krishna Ashant; Umesh Puri "Gyaneshwar"; Radha Krishna Shrimali | The versions most readers use; **translations differ from one another on rules and remedies**, compare two before quoting |
 | *Lal Kitab* (English) | U.C. Mahajan | The most available English rendering; useful as a map, not as the territory |
 
 ### Classical astronomy and history
@@ -59,7 +59,7 @@ This appendix is the desk drawer: the books to read next, one-page tables to kee
 | Jagannatha Hora | Free, Windows; every varga and dasha; the professional's workhorse |
 | Parashara's Light | Paid; the standard in many Indian institutes; excellent printouts |
 | Maitreya | Free, open source; clean and reliable |
-| AstroSage (and similar apps) | Free, mobile; good for beginners — set the ayanamsa to Lahiri and check it |
+| AstroSage (and similar apps) | Free, mobile; good for beginners, set the ayanamsa to Lahiri and check it |
 
 ## C.2 One-page cheat sheets
 
@@ -85,9 +85,9 @@ This appendix is the desk drawer: the books to read next, one-page tables to kee
 | Jupiter | Sagittarius, Pisces | Cancer 5° | Capricorn 5° | Sagittarius 0°–10° |
 | Venus | Taurus, Libra | Pisces 27° | Virgo 27° | Libra 0°–15° |
 | Saturn | Capricorn, Aquarius | Libra 20° | Aries 20° | Aquarius 0°–20° |
-| Rahu / Ketu | — | Taurus / Scorpio (some say Gemini / Sagittarius) | Scorpio / Taurus (some say Sagittarius / Gemini) | — |
+| Rahu / Ketu | (none) | Taurus / Scorpio (some say Gemini / Sagittarius) | Scorpio / Taurus (some say Sagittarius / Gemini) | (none) |
 
-Combustion orbs from the Sun: Moon 12°, Mars 17°, Mercury 14° (12° retrograde), Jupiter 11°, Venus 10° (8° retrograde), Saturn 15°.
+Combustion orbs from the Sun: Moon 12°, Mars 17°, Mercury 14° (12° retrograde), Jupiter 11°, Venus 10° (8° retrograde), Saturn 15°. Why: a planet this close to the Sun cannot be seen, and the tradition reads the unseen as unable to act.
 
 ### Natural friendships
 
@@ -101,27 +101,33 @@ Combustion orbs from the Sun: Moon 12°, Mars 17°, Mercury 14° (12° retrograd
 | Venus | Mercury, Saturn | Mars, Jupiter | Sun, Moon |
 | Saturn | Mercury, Venus | Jupiter | Sun, Moon, Mars |
 
-Working convention for the nodes: Rahu 🟢 Venus, Saturn, Mercury / 🔴 Sun, Moon, Mars; Ketu 🟢 Mars, Venus, Saturn / 🔴 Moon, Sun.
+Why the pattern (Chapter 3): the Royal Party (Sun, Moon, Mars, Jupiter) and the People's Party (Mercury, Venus, Saturn) are friends within and enemies across; the Moon alone has no enemies. Working convention for the nodes: Rahu 🟢 Venus, Saturn, Mercury / 🔴 Sun, Moon, Mars; Ketu 🟢 Mars, Venus, Saturn / 🔴 Moon, Sun.
 
 ### Aspects (Parashari, full)
 
-| Planet | Aspects houses counted from itself |
-|---|---|
-| Sun, Moon, Mercury, Venus, Rahu, Ketu | 7th |
-| Mars | 4th, 7th, 8th |
-| Jupiter | 5th, 7th, 9th |
-| Saturn | 3rd, 7th, 10th |
+| Planet | Aspects houses counted from itself | Why (Chapter 6) |
+|---|---|---|
+| Sun, Moon, Mercury, Venus, Rahu, Ketu | 7th | Every planet sees what stands opposite it |
+| Mars | 4th, 7th, 8th | The commander leaps forward (4th) and strikes from behind (8th) |
+| Jupiter | 5th, 7th, 9th | The priest blesses the two trines from himself, the houses of merit |
+| Saturn | 3rd, 7th, 10th | The judge supervises effort (3rd) and work (10th) |
 
 ### House groups
 
-| Group | Houses | Group | Houses |
-|---|---|---|---|
-| Kendra (angles) | 1, 4, 7, 10 | Upachaya (growing) | 3, 6, 10, 11 |
-| Trikona (trines) | 1, 5, 9 | Maraka (killer) | 2, 7 |
-| Dusthana (difficult) | 6, 8, 12 | Trishadaya | 3, 6, 11 |
-| Dharma / Artha / Kama / Moksha trikonas | 1-5-9 / 2-6-10 / 3-7-11 / 4-8-12 | Panapara / Apoklima | 2, 5, 8, 11 / 3, 6, 9, 12 |
+| Group | Houses | Why (Chapter 4) |
+|---|---|---|
+| Kendra (angles) | 1, 4, 7, 10 | The four pillars: rising, lowest, setting and highest points of the sky |
+| Trikona (trines) | 1, 5, 9 | The fire houses counted from the self: purpose, merit, grace |
+| Dusthana (difficult) | 6, 8, 12 | The 12th from the 7th, 9th and 1st: loss of partnership, of fortune, of self |
+| Upachaya (growing) | 3, 6, 10, 11 | Houses of effort, competition, work and gain, which improve with time |
+| Maraka (killer) | 2, 7 | The 12th from the two longevity houses (3rd and 8th): where life-force is spent |
+| Trishadaya | 3, 6, 11 | Effort, enemies and desire: their lords charge a price for everything |
+| Dharma / Artha / Kama / Moksha trikonas | 1-5-9 / 2-6-10 / 3-7-11 / 4-8-12 | The four aims of life, each on one element's houses |
+| Panapara / Apoklima | 2, 5, 8, 11 / 3, 6, 9, 12 | Succedent and cadent to the kendras; medium and weaker positions |
 
 ### Functional benefics and malefics by Lagna (from A.6)
+
+Why the table looks as it does (Chapter 8): trikona lords (1, 5, 9) are benefic because those houses are merit; lords of 3, 6 and 11 are malefic because effort, enmity and desire are the price of everything; kendra lords go neutral because pillars carry both good and bad; the 2nd, 8th and 12th lords take the nature of their other sign. Derive one row yourself before you trust the rest.
 
 | Lagna | 🟢 Benefics | 🔴 Malefics | 🟡 Neutral / mixed | Yogakaraka | Marakas |
 |---|---|---|---|---|---|
@@ -163,32 +169,32 @@ Total 120. First dasha = lord of the Moon's nakshatra; balance = (degrees left i
 
 ### The ten-minute first read (Chapter 5)
 
-1. Lagna sign and its lord — where does the lord sit?
+1. Lagna sign and its lord, where does the lord sit?
 2. Moon sign and nakshatra.
 3. Which houses are occupied; which are empty.
-4. Planets in kendras (1, 4, 7, 10) — the pillars.
-5. Planets in trikonas (5, 9) — the merit.
-6. Planets in dusthanas (6, 8, 12) — the tests.
+4. Planets in kendras (1, 4, 7, 10), the pillars.
+5. Planets in trikonas (5, 9), the merit.
+6. Planets in dusthanas (6, 8, 12), the tests.
 7. Any planet in its own or exaltation sign; any debilitated.
 8. Retrograde or combust planets.
-9. Where Rahu and Ketu fall — the axis of the life.
+9. Where Rahu and Ketu fall, the axis of the life.
 10. One sentence about the person before you look at anything else.
 
 ### The five-step house method (Chapter 9)
 
-1. **The house** — its sign and occupants.
-2. **Its lord** — where it sits, in what dignity, with whom.
-3. **The karaka** — the natural signifier's condition.
+1. **The house**, its sign and occupants.
+2. **Its lord**, where it sits, in what dignity, with whom.
+3. **The karaka**, the natural signifier's condition.
 4. **The same house from the Moon.**
 5. **The divisional chart** for that matter (D9 marriage, D10 career, D7 children, D4 property, D24 education).
 
 ### The double-transit rule (Chapter 14)
 
-A house tends to deliver its results when **Saturn and Jupiter both**, by transit, occupy or aspect that house or its lord — and the running dasha agrees. Jupiter alone opens the door; Saturn alone builds the frame; both together, the event.
+A house tends to deliver its results when **Saturn and Jupiter both**, by transit, occupy or aspect that house or its lord, and the running dasha agrees. Jupiter alone opens the door; Saturn alone builds the frame; both together, the event.
 
 ### The gemstone rule (Chapter 23)
 
-A gemstone **strengthens**; it never pacifies. Prescribe one only for a **functional benefic** for that Lagna that needs strength — never for a functional malefic, and never for a planet you wish to quieten. Conduct, daan and mantra come first; the stone, if at all, comes last and after a trial.
+A gemstone **strengthens**; it never pacifies. Prescribe one only for a **functional benefic** for that Lagna that needs strength, never for a functional malefic, and never for a planet you wish to quieten. Conduct, daan and mantra come first; the stone, if at all, comes last and after a trial.
 
 ## C.3 The Consultation Checklist
 
@@ -203,7 +209,7 @@ These two lists are the canonical versions; Chapter 24 reproduces them word for 
 5. **Planets in kendras (1, 4, 7, 10), trikonas (5, 9) and dusthanas (6, 8, 12).**
 6. **Exalted, debilitated, combust and retrograde planets;** any Neecha Bhanga.
 7. **Yogas present,** and whether the planets forming them are strong enough to deliver.
-8. **The seven key houses — 1, 2, 4, 5, 7, 10, 11 —** read by the five-step method (the house, its lord, the karaka, the same house from the Moon, the divisional chart).
+8. **The seven key houses (1, 2, 4, 5, 7, 10, 11),** read by the five-step method (the house, its lord, the karaka, the same house from the Moon, the divisional chart).
 9. **Navamsa (D9) and Dasamsa (D10) quick read:** varga Lagnas, Vargottama planets, and the D9/D10 dignity of the Lagna lord, the 7th lord and the 10th lord.
 10. **Current Mahadasha and Antardasha with dates,** and the next two sub-periods.
 11. **Saturn and Jupiter transit positions** counted from the Lagna and from the Moon; Sade Sati or Dhaiya status; where the double transit falls.
@@ -272,7 +278,7 @@ Copy this table into your notebook for every chart. Fill the first six columns f
 
 | Planet | Sign | Degree | House | Nakshatra / pada | Dignity | Functional nature | Aspects received | Notes |
 |---|---|---|---|---|---|---|---|---|
-| Lagna | | | 1 | | — | — | | |
+| Lagna | | | 1 | | (none) | (none) | | |
 | Sun | | | | | | | | |
 | Moon | | | | | | | | |
 | Mars | | | | | | | | |

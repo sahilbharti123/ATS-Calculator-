@@ -39,6 +39,7 @@ th { background: #f3e6c8; color: var(--maroon); text-align: left; }
 tr:nth-child(even) td { background: #fbf5e8; }
 blockquote { margin: 1.1rem 0; padding: .8rem 1rem .8rem 1.1rem; border-left: 5px solid var(--gold); background: #fff7df; border-radius: 6px; }
 blockquote p { margin: .35rem 0; }
+strong.lbl { font-variant: small-caps; letter-spacing:.04em; color: var(--maroon); }
 blockquote.tip { border-left-color:#0e7490; background:#e6f7fb; }
 blockquote.fact { border-left-color:#7c3aed; background:#f3ecff; }
 blockquote.warn { border-left-color:#b91c1c; background:#fdecec; }
@@ -94,6 +95,14 @@ hr { border:none; border-top:1px solid #d9c9a8; margin:2rem 0; }
 
 BOX_CLASSES = [("🧭", "tip"), ("💡", "fact"), ("⚠️", "warn"), ("🪔", "consult"), ("📕", "lalkitab"), ("✍️", "practice"), ("📖", "story"), ("🔍", "why")]
 
+def strip_label_emoji(html_text):
+    """The emoji are parsing markers in the source; the published book shows clean labels."""
+    def repl(m):
+        body = m.group(2)
+        body = re.sub(r"<strong>\s*[🧭🔍📖💡🪔📕✍️⚠]\uFE0F?\s*", "<strong class=\"lbl\">", body, count=1)
+        return f"<blockquote{m.group(1)}>{body}</blockquote>"
+    return re.sub(r"<blockquote([^>]*)>(.*?)</blockquote>", repl, html_text, flags=re.S)
+
 def slugify(s):
     s = re.sub(r"[^\w\s-]", "", s.lower())
     return re.sub(r"[\s_]+", "-", s).strip("-")
@@ -139,6 +148,7 @@ def convert(md_text):
     # italic caption lines directly after a figure
     out = re.sub(r"(</figure>)\s*<p><em>(.*?)</em></p>", r'\1<p class="caption"><em>\2</em></p>', out, flags=re.S)
     out = dots(out)
+    out = strip_label_emoji(out)
     return out, md.toc_tokens
 
 PARTS = {
@@ -211,7 +221,7 @@ def main():
   <p>First edition, {today}.</p>
   <p><strong>A note on what this book is and is not.</strong> This book teaches Vedic astrology (Jyotish) as a way of understanding tendencies and timings. It is not medical, legal, financial or psychological advice, and nothing in it should be used to make decisions about health, money or law in place of a qualified professional. Every person named in the examples is a composite, and the three case-study charts are constructed for teaching.</p>
   <p><strong>Sources.</strong> The backbone is Parashari astrology (<em>Brihat Parashara Hora Shastra</em>). Anything drawn from <em>Lal Kitab</em> (Pt. Roop Chand Joshi, Urdu editions 1939 to 1952) appears only inside boxes labelled <strong>From Lal Kitab</strong> with the source stated. Jaimini, Tajaka and KP appear where named.</p>
-  <p class="legend"><strong>Boxes used in this book:</strong> 🧭 Anushka's rule of thumb · 🔍 Why? · 📖 Story · 💡 Did you know? · ⚠️ Common beginner mistake · 🪔 Consultation tip · 📕 From Lal Kitab · ✍️ Practice. <strong>Colour dots:</strong> {DOTS["🟢"]} good or friendly · {DOTS["🟡"]} mixed or neutral · {DOTS["🔴"]} difficult or hostile.</p>
+  <p class="legend"><strong>Boxes used in this book:</strong> Anushka's rule of thumb · Why? · Story · Did you know? · Common beginner mistake · Consultation tip · From Lal Kitab (red dashed border) · Practice. <strong>Colour dots:</strong> {DOTS["🟢"]} good or friendly · {DOTS["🟡"]} mixed or neutral · {DOTS["🔴"]} difficult or hostile.</p>
 </section>
 <section class="dedication">
   <p>For everyone who bought the books and understood nothing.<br>This one is for you.</p>

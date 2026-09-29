@@ -1,93 +1,70 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="2560" viewBox="0 0 1600 2560" font-family="Georgia, 'Times New Roman', serif">
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="2560" viewBox="0 0 1600 2560" font-family="'Liberation Serif', 'Times New Roman', Georgia, serif">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#fff9ec"/>
-      <stop offset="0.55" stop-color="#fdf1dc"/>
-      <stop offset="1" stop-color="#f9dcc4"/>
-    </linearGradient>
-    <radialGradient id="sun" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0" stop-color="#ffe9a8"/>
-      <stop offset="0.7" stop-color="#f9c85a"/>
-      <stop offset="1" stop-color="#f2a93b"/>
+    <radialGradient id="bg" cx="0.5" cy="0.38" r="0.9">
+      <stop offset="0" stop-color="#fffdf7"/>
+      <stop offset="0.6" stop-color="#f8f1e2"/>
+      <stop offset="1" stop-color="#eadfca"/>
     </radialGradient>
-    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0" stop-color="#ffd58a" stop-opacity="0.55"/>
-      <stop offset="1" stop-color="#ffd58a" stop-opacity="0"/>
-    </radialGradient>
-    <linearGradient id="hill" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#f6c9b0"/>
-      <stop offset="1" stop-color="#eeb39a"/>
-    </linearGradient>
   </defs>
   <rect width="1600" height="2560" fill="url(#bg)"/>
 
-  <!-- soft glow behind the sun -->
-  <circle cx="1180" cy="520" r="420" fill="url(#glow)"/>
-  <!-- sun rays (soft, rounded) -->
-  <g stroke="#f4b95a" stroke-width="22" stroke-linecap="round" opacity="0.7">
-    <line x1="1180" y1="200" x2="1180" y2="270"/><line x1="1180" y1="770" x2="1180" y2="840"/>
-    <line x1="860" y1="520" x2="930" y2="520"/><line x1="1430" y1="520" x2="1500" y2="520"/>
-    <line x1="954" y1="294" x2="1003" y2="343"/><line x1="1357" y1="697" x2="1406" y2="746"/>
-    <line x1="1406" y1="294" x2="1357" y2="343"/><line x1="1003" y1="697" x2="954" y2="746"/>
+  <!-- double hairline frame -->
+  <rect x="70" y="70" width="1460" height="2420" fill="none" stroke="#b8956a" stroke-width="3"/>
+  <rect x="88" y="88" width="1424" height="2384" fill="none" stroke="#b8956a" stroke-width="1.2"/>
+
+  <!-- large pale zodiac wheel, cropped at top right -->
+  <g transform="translate(1290,300)" stroke="#d8c19a" fill="none" opacity="0.75">
+    <circle r="640" stroke-width="2"/>
+    <circle r="560" stroke-width="1.2"/>
+    <circle r="480" stroke-width="1.2"/>
+    <g stroke-width="1.2">
+      <line x1="0" y1="-640" x2="0" y2="-480"/><line x1="0" y1="640" x2="0" y2="480"/>
+      <line x1="-640" y1="0" x2="-480" y2="0"/><line x1="640" y1="0" x2="480" y2="0"/>
+      <line x1="-320" y1="-554" x2="-240" y2="-416"/><line x1="320" y1="554" x2="240" y2="416"/>
+      <line x1="-554" y1="-320" x2="-416" y2="-240"/><line x1="554" y1="320" x2="416" y2="240"/>
+      <line x1="320" y1="-554" x2="240" y2="-416"/><line x1="-320" y1="554" x2="-240" y2="416"/>
+      <line x1="554" y1="-320" x2="416" y2="-240"/><line x1="-554" y1="320" x2="-416" y2="240"/>
+    </g>
   </g>
-  <circle cx="1180" cy="520" r="215" fill="url(#sun)"/>
-  <!-- gentle face on the sun: two soft closed eyes and a small smile -->
-  <g stroke="#b45309" stroke-width="10" stroke-linecap="round" fill="none" opacity="0.8">
-    <path d="M1105 505 q25 -22 50 0"/><path d="M1205 505 q25 -22 50 0"/>
-    <path d="M1120 585 q60 55 120 0"/>
-  </g>
-  <!-- crescent moon, top left -->
-  <g transform="translate(330,330)">
-    <circle cx="0" cy="0" r="120" fill="#f3e9d2" stroke="#e0cfa8" stroke-width="4"/>
-    <circle cx="48" cy="-22" r="108" fill="#fff9ec"/>
-  </g>
-  <!-- little stars -->
-  <g fill="#e9b949" opacity="0.9">
-    <path d="M560 250 l10 28 28 10 -28 10 -10 28 -10 -28 -28 -10 28 -10z"/>
-    <path d="M700 420 l7 20 20 7 -20 7 -7 20 -7 -20 -20 -7 20 -7z"/>
-    <path d="M220 640 l7 20 20 7 -20 7 -7 20 -7 -20 -20 -7 20 -7z"/>
-    <path d="M1480 900 l8 22 22 8 -22 8 -8 22 -8 -22 -22 -8 22 -8z"/>
-    <path d="M130 1000 l6 16 16 6 -16 6 -6 16 -6 -16 -16 -6 16 -6z"/>
+  <!-- a few small star points -->
+  <g fill="#b8956a" opacity="0.8">
+    <circle cx="300" cy="420" r="4"/><circle cx="420" cy="300" r="3"/><circle cx="240" cy="700" r="3"/>
+    <circle cx="1380" cy="1180" r="3"/><circle cx="1300" cy="1330" r="4"/><circle cx="260" cy="1500" r="3"/>
   </g>
 
-  <!-- rolling hills -->
-  <path d="M0 2080 C 300 1960, 600 2020, 900 1980 S 1400 1900, 1600 1990 L1600 2560 L0 2560 Z" fill="url(#hill)"/>
-  <path d="M0 2200 C 400 2100, 700 2180, 1000 2120 S 1400 2060, 1600 2140 L1600 2560 L0 2560 Z" fill="#e8a88c" opacity="0.85"/>
+  <!-- title -->
+  <text x="800" y="640" text-anchor="middle" font-size="176" font-weight="bold" fill="#6b1f1f" letter-spacing="4">Kundali</text>
+  <text x="800" y="800" text-anchor="middle" font-size="150" font-weight="bold" fill="#6b1f1f" letter-spacing="2">Made Simple</text>
+  <line x1="560" y1="870" x2="1040" y2="870" stroke="#b8956a" stroke-width="2"/>
+  <text x="800" y="940" text-anchor="middle" font-size="42" fill="#5a3a28" letter-spacing="6">VEDIC ASTROLOGY WITH A REASON FOR EVERYTHING</text>
 
-  <!-- the friendly kundali: rounded diamond chart with pastel planets -->
-  <g transform="translate(800,1410) scale(0.85)">
-    <rect x="-330" y="-330" width="660" height="660" rx="34" fill="#fffdf6" stroke="#c98a5b" stroke-width="10"/>
-    <g stroke="#c98a5b" stroke-width="7" stroke-linecap="round" fill="none">
+  <!-- the chart: fine line-work, Chart A (Meera) -->
+  <g transform="translate(800,1470)">
+    <rect x="-330" y="-330" width="660" height="660" fill="#fffdf8" stroke="#a0603c" stroke-width="4"/>
+    <g stroke="#a0603c" stroke-width="2.5" fill="none">
       <line x1="-330" y1="-330" x2="330" y2="330"/>
       <line x1="330" y1="-330" x2="-330" y2="330"/>
       <path d="M0 -330 L330 0 L0 330 L-330 0 Z"/>
     </g>
-    <!-- pastel planet dots -->
-    <circle cx="0" cy="-165" r="30" fill="#f6b26b"/>          <!-- Sun, house 1 -->
-    <circle cx="-215" cy="-262" r="22" fill="#b7d7a8"/>       <!-- Mercury -->
-    <circle cx="-265" cy="-215" r="22" fill="#f4a6a6"/>       <!-- Mars -->
-    <circle cx="-165" cy="0" r="30" fill="#f9d976"/>          <!-- Jupiter -->
-    <circle cx="0" cy="165" r="30" fill="#f4b6c2"/>           <!-- Venus -->
-    <circle cx="165" cy="0" r="30" fill="#cfd8e8"/>           <!-- Moon -->
-    <circle cx="215" cy="262" r="22" fill="#a9c4e2"/>         <!-- Saturn -->
-    <circle cx="265" cy="-215" r="22" fill="#cbb7e6"/>        <!-- Rahu -->
-    <circle cx="-265" cy="215" r="22" fill="#d8c7ea"/>        <!-- Ketu -->
-    <text x="0" y="-152" text-anchor="middle" font-size="26" font-weight="bold" fill="#7a3e12">Su</text>
-    <text x="-165" y="10" text-anchor="middle" font-size="26" font-weight="bold" fill="#7a3e12">Ju</text>
-    <text x="0" y="176" text-anchor="middle" font-size="26" font-weight="bold" fill="#7a3e12">Ve</text>
-    <text x="165" y="10" text-anchor="middle" font-size="26" font-weight="bold" fill="#3b4a63">Mo</text>
+    <g font-size="34" fill="#3b2314" text-anchor="middle" font-weight="bold">
+      <text x="0" y="-150">Su  Me</text>
+      <text x="-165" y="12">Ra</text>
+      <text x="165" y="12">Ke</text>
+      <text x="0" y="176">Ju</text>
+      <text x="-165" y="-262">Sa</text>
+      <text x="-268" y="185">Ma</text>
+      <text x="165" y="-262">Ve</text>
+      <text x="268" y="185">Mo</text>
+    </g>
+    <g font-size="22" fill="#b8956a" text-anchor="middle">
+      <text x="0" y="-40">8</text><text x="-42" y="12">11</text><text x="42" y="12">5</text><text x="0" y="60">2</text>
+      <text x="-165" y="-178">9</text><text x="-190" y="-150">10</text><text x="190" y="-150">6</text><text x="165" y="-178">7</text>
+      <text x="-190" y="170">12</text><text x="-165" y="200">1</text><text x="165" y="200">3</text><text x="190" y="170">4</text>
+    </g>
   </g>
-
-  <!-- title block -->
-  <text x="800" y="930" text-anchor="middle" font-size="172" font-weight="bold" fill="#8a3b2a" letter-spacing="2">Kundali</text>
-  <text x="800" y="1075" text-anchor="middle" font-size="140" font-weight="bold" fill="#8a3b2a">Made Simple</text>
-
-  <!-- subtitle ribbon -->
-  <rect x="200" y="1760" width="1200" height="150" rx="75" fill="#fff4df" stroke="#e0a874" stroke-width="5"/>
-  <text x="800" y="1820" text-anchor="middle" font-size="52" font-style="italic" fill="#7a3e12">Vedic astrology with a reason for everything</text>
-  <text x="800" y="1880" text-anchor="middle" font-size="40" fill="#9a5a34">from your first chart to your first consultation</text>
+  <text x="800" y="1900" text-anchor="middle" font-size="34" font-style="italic" fill="#5a3a28">From your first chart to your first consultation</text>
 
   <!-- author -->
-  <text x="800" y="2380" text-anchor="middle" font-size="88" fill="#5a2a1a" letter-spacing="4">Anushka Bharti</text>
-  <text x="800" y="2450" text-anchor="middle" font-size="36" fill="#5a2a1a" font-style="italic">a love letter to everyone who found the old books closed</text>
+  <line x1="640" y1="2200" x2="960" y2="2200" stroke="#b8956a" stroke-width="2"/>
+  <text x="800" y="2300" text-anchor="middle" font-size="76" fill="#3b2314" letter-spacing="10">ANUSHKA BHARTI</text>
 </svg>
