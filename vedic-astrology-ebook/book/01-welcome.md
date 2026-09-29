@@ -70,6 +70,8 @@ The old texts describe them as a royal court, and I have never found a better wa
 | Rahu | The shadow, the foreigner at the gate | Obsession |
 | Ketu | The headless ascetic | Detachment |
 
+> **📖 Story: The court assembles.** Picture a kingdom. The **King** (Sun) sits on the throne — proud, warm, impossible to ignore; when he is strong, the whole court has confidence, and when he is weak, nobody knows who is in charge. Beside him the **Queen Mother** (Moon) runs the household and knows every servant's troubles; she is the mood of the palace, changing a little every day. The **Commander** (Mars) guards the gates and starts the fights. The clever young **Prince** (Mercury) writes the letters and counts the money. The **Royal Priest** (Jupiter) advises, blesses and teaches the children. The **Minister of Pleasure** (Venus) arranges music, weddings and comfort. The old **Judge of Labour** (Saturn) — once the King's neglected son — keeps the accounts of every debt and lets nobody leave until the work is done. At the gate stand two strangers: **Rahu**, a smoke-headed traveller who wants everything he sees, and **Ketu**, a headless sadhu who wants nothing at all. Every chart you will ever read is a story about which of these nine sits in which room of the palace, and who is on speaking terms with whom. **Rule:** learn the nine characters first; the rest of astrology is watching them interact.
+
 Every planet "owns" one or two signs — those are its home ground. Every planet also has a sign where it feels strongest (its **exaltation**) and one where it feels weakest (its **debilitation**). We will go through each planet's personality slowly in Chapter 3. For now, just meet them.
 
 ## The stage: twelve rooms of a house
@@ -139,6 +141,8 @@ Watch for these recurring boxes:
 
 > **🪔 Consultation tip:** how to phrase it across the table, and the ethics of doing so.
 
+> **📖 Story** boxes are memory stories. The reader who asked for this book said that lists do not stay but stories do. So every rule that is normally memorised — who is whose enemy, which conjunctions help, which planets serve which Lagna — comes with a short tale from the royal court, and then the rule in one line. The cast never changes, so by Chapter 6 you will know these characters like family.
+
 > **📕 From Lal Kitab:** material drawn from *Lal Kitab* (Pt. Roop Chand Joshi, Urdu editions 1939–1952). Everything from that tradition lives **only** in these boxes, with the source stated, so you always know which system you are using. Mixing the two without labels is one of the biggest sources of confusion in today's online courses. *(Source: Lal Kitab, Pt. Roop Chand Joshi, 1939–1952 Urdu editions; Hindi translations vary.)*
 
 > **✍️ Practice:** exercises at the end of every chapter, with answers. Do them. Reading about swimming has never kept anyone afloat.
@@ -167,6 +171,7 @@ Let us begin with the twelve signs.
 - The Lagna (rising sign) is fixed by birth time and place; it makes the chart yours.
 - Vedic astrology uses the star-fixed (sidereal) zodiac with the Lahiri ayanamsa; that is why your Sun sign shifts about one sign back from Western astrology.
 - Planet = who, Sign = how, House = where. Every "list" in the old books is a combination of these three.
+- The nine planets are a royal court — King, Queen Mother, Commander, Prince, Priest, Minister of Pleasure, Judge, and two strangers at the gate. Stories about them carry the rules; 🟢🟡🔴 colour dots mark good, mixed and difficult in every table.
 - North Indian charts fix the houses; South Indian charts fix the signs. Learn to read both.
 - Lal Kitab material appears only in marked boxes with its source stated.
 

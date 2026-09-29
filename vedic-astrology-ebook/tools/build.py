@@ -42,6 +42,8 @@ blockquote.warn { border-left-color:#b91c1c; background:#fdecec; }
 blockquote.consult { border-left-color:#b45309; background:#fff3e0; }
 blockquote.lalkitab { border-left-color:#dc2626; background:#fff1f1; border:1px dashed #dc2626; border-left-width:5px; }
 blockquote.practice { border-left-color:#15803d; background:#edfaf0; }
+blockquote.story { border-left-color:#0f766e; background:#f0fdfa; font-style: italic; }
+blockquote.story strong { font-style: normal; }
 details { background:#f7f1e3; border:1px solid #e2d3b0; border-radius:6px; padding:.5rem .9rem; margin:.6rem 0 1.2rem; }
 summary { cursor:pointer; font-weight:bold; color: var(--maroon); }
 code { background:#f3ead6; padding:.05rem .3rem; border-radius:3px; font-size:.9em; }
@@ -75,7 +77,7 @@ hr { border:none; border-top:1px solid #d9c9a8; margin:2rem 0; }
 }
 """
 
-BOX_CLASSES = [("🧭", "tip"), ("💡", "fact"), ("⚠️", "warn"), ("🪔", "consult"), ("📕", "lalkitab"), ("✍️", "practice")]
+BOX_CLASSES = [("🧭", "tip"), ("💡", "fact"), ("⚠️", "warn"), ("🪔", "consult"), ("📕", "lalkitab"), ("✍️", "practice"), ("📖", "story")]
 
 def slugify(s):
     s = re.sub(r"[^\w\s-]", "", s.lower())
@@ -176,7 +178,7 @@ def main():
 <section class="frontnote">
   <p><strong>About this book.</strong> The teaching voice is that of a veteran Indian astrologer with thirty years of practice; the anecdotes are composites and the three case-study charts (Meera, Arjun, Devika) are constructed for teaching. Nothing here is a substitute for medical, legal or financial advice, and no prediction in astrology is a certainty — the book teaches you to say so, too.</p>
   <p><strong>How material is marked.</strong> The backbone is Parashari astrology (<em>Brihat Parashara Hora Shastra</em>). Anything drawn from <em>Lal Kitab</em> (Pt. Roop Chand Joshi, Urdu editions 1939–1952) appears only inside red dashed boxes labelled <strong>📕 From Lal Kitab</strong> with the source stated, so you always know which system you are using. Jaimini, Tajaka and KP appear where named.</p>
-  <p class="legend"><strong>Boxes:</strong> 🧭 Guruji's rule of thumb · 💡 Did you know? · ⚠️ Common beginner mistake · 🪔 Consultation tip · 📕 From Lal Kitab · ✍️ Practice</p>
+  <p class="legend"><strong>Boxes:</strong> 🧭 Guruji's rule of thumb · 💡 Did you know? · ⚠️ Common beginner mistake · 🪔 Consultation tip · 📖 Story (memory tale) · 📕 From Lal Kitab · ✍️ Practice</p>
 </section>
 '''
     body_html = []
