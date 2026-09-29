@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="740" height="420" viewBox="0 0 740 420" font-family="Georgia, 'Times New Roman', serif">
+<rect x="0" y="0" width="740" height="420" rx="12" fill="#fffaf0" stroke="#b8860b" stroke-width="2"/>
+<text x="370.0" y="32" text-anchor="middle" font-size="20" font-weight="bold" fill="#7f1d1d">Chart A: follow the owners — the dispositor chain</text>
+<rect x="40" y="70" width="120" height="52" rx="8" fill="none" stroke="#3b2314" stroke-width="1.5"/>
+<text x="100.0" y="92" text-anchor="middle" font-size="13" fill="#7f1d1d" font-weight="bold">Ketu</text>
+<text x="100.0" y="110" text-anchor="middle" font-size="10" fill="#3b2314">Leo → owner Sun</text>
+<rect x="200" y="70" width="120" height="52" rx="8" fill="none" stroke="#3b2314" stroke-width="1.5"/>
+<text x="260.0" y="92" text-anchor="middle" font-size="13" fill="#7f1d1d" font-weight="bold">Sun</text>
+<text x="260.0" y="110" text-anchor="middle" font-size="10" fill="#3b2314">Scorpio → owner Mars</text>
+<rect x="200" y="150" width="120" height="52" rx="8" fill="none" stroke="#3b2314" stroke-width="1.5"/>
+<text x="260.0" y="172" text-anchor="middle" font-size="13" fill="#7f1d1d" font-weight="bold">Mercury</text>
+<text x="260.0" y="190" text-anchor="middle" font-size="10" fill="#3b2314">Scorpio → owner Mars</text>
+<rect x="40" y="230" width="120" height="52" rx="8" fill="none" stroke="#3b2314" stroke-width="1.5"/>
+<text x="100.0" y="252" text-anchor="middle" font-size="13" fill="#7f1d1d" font-weight="bold">Rahu</text>
+<text x="100.0" y="270" text-anchor="middle" font-size="10" fill="#3b2314">Aquarius → owner Saturn</text>
+<rect x="200" y="230" width="120" height="52" rx="8" fill="none" stroke="#3b2314" stroke-width="1.5"/>
+<text x="260.0" y="252" text-anchor="middle" font-size="13" fill="#7f1d1d" font-weight="bold">Saturn</text>
+<text x="260.0" y="270" text-anchor="middle" font-size="10" fill="#3b2314">Sagittarius → owner Jupiter</text>
+<rect x="360" y="110" width="120" height="52" rx="8" fill="none" stroke="#3b2314" stroke-width="1.5"/>
+<text x="420.0" y="132" text-anchor="middle" font-size="13" fill="#7f1d1d" font-weight="bold">Mars</text>
+<text x="420.0" y="150" text-anchor="middle" font-size="10" fill="#3b2314">Pisces → owner Jupiter</text>
+<rect x="520" y="110" width="120" height="52" rx="8" fill="none" stroke="#3b2314" stroke-width="1.5"/>
+<text x="580.0" y="132" text-anchor="middle" font-size="13" fill="#7f1d1d" font-weight="bold">Jupiter</text>
+<text x="580.0" y="150" text-anchor="middle" font-size="10" fill="#3b2314">Taurus → owner Venus</text>
+<rect x="520" y="230" width="120" height="52" rx="8" fill="#fde68a" stroke="#3b2314" stroke-width="1.5"/>
+<text x="580.0" y="252" text-anchor="middle" font-size="13" fill="#7f1d1d" font-weight="bold">Venus</text>
+<text x="580.0" y="270" text-anchor="middle" font-size="10" fill="#3b2314">Libra: OWN sign</text>
+<rect x="40" y="320" width="120" height="52" rx="8" fill="#fde68a" stroke="#3b2314" stroke-width="1.5"/>
+<text x="100.0" y="342" text-anchor="middle" font-size="13" fill="#7f1d1d" font-weight="bold">Moon</text>
+<text x="100.0" y="360" text-anchor="middle" font-size="10" fill="#3b2314">Cancer: OWN sign</text>
+<line x1="160" y1="96.0" x2="200" y2="96.0" stroke="#3b2314" stroke-width="1.6"/>
+<circle cx="200" cy="96.0" r="3.5" fill="#3b2314"/>
+<line x1="320" y1="96.0" x2="360" y2="136.0" stroke="#3b2314" stroke-width="1.6"/>
+<circle cx="360" cy="136.0" r="3.5" fill="#3b2314"/>
+<line x1="320" y1="176.0" x2="360" y2="136.0" stroke="#3b2314" stroke-width="1.6"/>
+<circle cx="360" cy="136.0" r="3.5" fill="#3b2314"/>
+<line x1="160" y1="256.0" x2="200" y2="256.0" stroke="#3b2314" stroke-width="1.6"/>
+<circle cx="200" cy="256.0" r="3.5" fill="#3b2314"/>
+<line x1="320" y1="256.0" x2="580.0" y2="162" stroke="#3b2314" stroke-width="1.6"/>
+<circle cx="580.0" cy="162" r="3.5" fill="#3b2314"/>
+<line x1="480" y1="136.0" x2="520" y2="136.0" stroke="#3b2314" stroke-width="1.6"/>
+<circle cx="520" cy="136.0" r="3.5" fill="#3b2314"/>
+<line x1="580.0" y1="162" x2="580.0" y2="230" stroke="#3b2314" stroke-width="1.6"/>
+<circle cx="580.0" cy="230" r="3.5" fill="#3b2314"/>
+<text x="580" y="300" text-anchor="middle" font-size="12" fill="#7f1d1d" font-weight="bold">Final dispositor of 7 planets: VENUS</text>
+<text x="580" y="318" text-anchor="middle" font-size="11" fill="#3b2314" font-style="italic">(Libra, own sign, 12th house)</text>
+<text x="100" y="395" text-anchor="middle" font-size="11" fill="#3b2314" font-style="italic">Moon stands alone: its own master</text>
+<text x="370.0" y="398" text-anchor="middle" font-size="12" fill="#3b2314" font-style="italic">Everything here eventually answers to Venus: an arts-and-relationships flavour beneath a Scorpio surface.</text>
+</svg>

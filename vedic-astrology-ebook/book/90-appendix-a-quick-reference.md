@@ -162,7 +162,7 @@ Each nakshatra spans 13°20′ and has four quarters (padas) of 3°20′. Vimsho
 | 27 | Revati | 16°40′ – 30°00′ Pi | Mercury (17) | Pushan | Fish, drum | Deva | Nourishing journeys, completion |
 
 **Gandanta (knots):** the last 3°20′ of Ashlesha/Jyeshtha/Revati and the first 3°20′ of Magha/Mula/Ashwini — the water–fire junctions. Considered sensitive; check the Moon and Lagna here.
-**Abhijit:** a 28th "nakshatra" (last quarter of Uttara Ashadha + first 4° of Shravana) used in muhurta, not in dasha.
+**Abhijit:** a 28th "nakshatra" (the last quarter of Uttara Ashadha plus the first sliver of Shravana, about 4 ghatis or 0°53′) used in muhurta, not in dasha.
 
 ## A.8 Vimshottari Dasha
 

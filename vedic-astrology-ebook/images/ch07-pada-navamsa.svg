@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="740" height="330" viewBox="0 0 740 330" font-family="Georgia, 'Times New Roman', serif">
+<rect x="0" y="0" width="740" height="330" rx="12" fill="#fffaf0" stroke="#b8860b" stroke-width="2"/>
+<text x="370.0" y="32" text-anchor="middle" font-size="20" font-weight="bold" fill="#7f1d1d">Aries, cut into nine padas: each pada is one Navamsa sign</text>
+<text x="370.0" y="58" text-anchor="middle" font-size="12" fill="#3b2314" font-style="italic">The sign Aries, 0° to 30°  (the whole bar is one Rasi sign)</text>
+<rect x="30.0" y="70" width="75.55555555555556" height="60" rx="0" fill="#e9d5ff" stroke="#3b2314" stroke-width="1.5"/>
+<text x="67.77777777777777" y="94" text-anchor="middle" font-size="11" fill="#3b2314" font-weight="bold">Ashwini</text>
+<text x="67.77777777777777" y="114" text-anchor="middle" font-size="11" fill="#3b2314">pada 1</text>
+<rect x="105.55555555555556" y="70" width="75.55555555555556" height="60" rx="0" fill="#e9d5ff" stroke="#3b2314" stroke-width="1.5"/>
+<text x="143.33333333333334" y="94" text-anchor="middle" font-size="11" fill="#3b2314" font-weight="bold">Ashwini</text>
+<text x="143.33333333333334" y="114" text-anchor="middle" font-size="11" fill="#3b2314">pada 2</text>
+<rect x="181.11111111111111" y="70" width="75.55555555555556" height="60" rx="0" fill="#e9d5ff" stroke="#3b2314" stroke-width="1.5"/>
+<text x="218.88888888888889" y="94" text-anchor="middle" font-size="11" fill="#3b2314" font-weight="bold">Ashwini</text>
+<text x="218.88888888888889" y="114" text-anchor="middle" font-size="11" fill="#3b2314">pada 3</text>
+<rect x="256.6666666666667" y="70" width="75.55555555555556" height="60" rx="0" fill="#e9d5ff" stroke="#3b2314" stroke-width="1.5"/>
+<text x="294.44444444444446" y="94" text-anchor="middle" font-size="11" fill="#3b2314" font-weight="bold">Ashwini</text>
+<text x="294.44444444444446" y="114" text-anchor="middle" font-size="11" fill="#3b2314">pada 4</text>
+<rect x="332.22222222222223" y="70" width="75.55555555555556" height="60" rx="0" fill="#fbcfe8" stroke="#3b2314" stroke-width="1.5"/>
+<text x="370.0" y="94" text-anchor="middle" font-size="11" fill="#3b2314" font-weight="bold">Bharani</text>
+<text x="370.0" y="114" text-anchor="middle" font-size="11" fill="#3b2314">pada 1</text>
+<rect x="407.77777777777777" y="70" width="75.55555555555556" height="60" rx="0" fill="#fbcfe8" stroke="#3b2314" stroke-width="1.5"/>
+<text x="445.55555555555554" y="94" text-anchor="middle" font-size="11" fill="#3b2314" font-weight="bold">Bharani</text>
+<text x="445.55555555555554" y="114" text-anchor="middle" font-size="11" fill="#3b2314">pada 2</text>
+<rect x="483.33333333333337" y="70" width="75.55555555555556" height="60" rx="0" fill="#fbcfe8" stroke="#3b2314" stroke-width="1.5"/>
+<text x="521.1111111111112" y="94" text-anchor="middle" font-size="11" fill="#3b2314" font-weight="bold">Bharani</text>
+<text x="521.1111111111112" y="114" text-anchor="middle" font-size="11" fill="#3b2314">pada 3</text>
+<rect x="558.8888888888889" y="70" width="75.55555555555556" height="60" rx="0" fill="#fbcfe8" stroke="#3b2314" stroke-width="1.5"/>
+<text x="596.6666666666667" y="94" text-anchor="middle" font-size="11" fill="#3b2314" font-weight="bold">Bharani</text>
+<text x="596.6666666666667" y="114" text-anchor="middle" font-size="11" fill="#3b2314">pada 4</text>
+<rect x="634.4444444444445" y="70" width="75.55555555555556" height="60" rx="0" fill="#fed7aa" stroke="#3b2314" stroke-width="1.5"/>
+<text x="672.2222222222223" y="94" text-anchor="middle" font-size="11" fill="#3b2314" font-weight="bold">Krittika</text>
+<text x="672.2222222222223" y="114" text-anchor="middle" font-size="11" fill="#3b2314">pada 1</text>
+<line x1="30.0" y1="130" x2="30.0" y2="140" stroke="#3b2314"/>
+<text x="30.0" y="154" text-anchor="middle" font-size="10" fill="#3b2314">0°</text>
+<line x1="105.55555555555556" y1="130" x2="105.55555555555556" y2="140" stroke="#3b2314"/>
+<text x="105.55555555555556" y="154" text-anchor="middle" font-size="10" fill="#3b2314">3°20′</text>
+<line x1="181.11111111111111" y1="130" x2="181.11111111111111" y2="140" stroke="#3b2314"/>
+<text x="181.11111111111111" y="154" text-anchor="middle" font-size="10" fill="#3b2314">6°40′</text>
+<line x1="256.6666666666667" y1="130" x2="256.6666666666667" y2="140" stroke="#3b2314"/>
+<text x="256.6666666666667" y="154" text-anchor="middle" font-size="10" fill="#3b2314">10°</text>
+<line x1="332.22222222222223" y1="130" x2="332.22222222222223" y2="140" stroke="#3b2314"/>
+<text x="332.22222222222223" y="154" text-anchor="middle" font-size="10" fill="#3b2314">13°20′</text>
+<line x1="407.77777777777777" y1="130" x2="407.77777777777777" y2="140" stroke="#3b2314"/>
+<text x="407.77777777777777" y="154" text-anchor="middle" font-size="10" fill="#3b2314">16°40′</text>
+<line x1="483.33333333333337" y1="130" x2="483.33333333333337" y2="140" stroke="#3b2314"/>
+<text x="483.33333333333337" y="154" text-anchor="middle" font-size="10" fill="#3b2314">20°</text>
+<line x1="558.8888888888889" y1="130" x2="558.8888888888889" y2="140" stroke="#3b2314"/>
+<text x="558.8888888888889" y="154" text-anchor="middle" font-size="10" fill="#3b2314">23°20′</text>
+<line x1="634.4444444444445" y1="130" x2="634.4444444444445" y2="140" stroke="#3b2314"/>
+<text x="634.4444444444445" y="154" text-anchor="middle" font-size="10" fill="#3b2314">26°40′</text>
+<line x1="710.0" y1="130" x2="710.0" y2="140" stroke="#3b2314"/>
+<text x="710.0" y="154" text-anchor="middle" font-size="10" fill="#3b2314">30°</text>
+<line x1="67.77777777777777" y1="162" x2="67.77777777777777" y2="188" stroke="#7f1d1d" stroke-width="1.5"/>
+<polygon points="63.77777777777777,184 71.77777777777777,184 67.77777777777777,192" fill="#7f1d1d"/>
+<line x1="143.33333333333334" y1="162" x2="143.33333333333334" y2="188" stroke="#7f1d1d" stroke-width="1.5"/>
+<polygon points="139.33333333333334,184 147.33333333333334,184 143.33333333333334,192" fill="#7f1d1d"/>
+<line x1="218.88888888888889" y1="162" x2="218.88888888888889" y2="188" stroke="#7f1d1d" stroke-width="1.5"/>
+<polygon points="214.88888888888889,184 222.88888888888889,184 218.88888888888889,192" fill="#7f1d1d"/>
+<line x1="294.44444444444446" y1="162" x2="294.44444444444446" y2="188" stroke="#7f1d1d" stroke-width="1.5"/>
+<polygon points="290.44444444444446,184 298.44444444444446,184 294.44444444444446,192" fill="#7f1d1d"/>
+<line x1="370.0" y1="162" x2="370.0" y2="188" stroke="#7f1d1d" stroke-width="1.5"/>
+<polygon points="366.0,184 374.0,184 370.0,192" fill="#7f1d1d"/>
+<line x1="445.55555555555554" y1="162" x2="445.55555555555554" y2="188" stroke="#7f1d1d" stroke-width="1.5"/>
+<polygon points="441.55555555555554,184 449.55555555555554,184 445.55555555555554,192" fill="#7f1d1d"/>
+<line x1="521.1111111111112" y1="162" x2="521.1111111111112" y2="188" stroke="#7f1d1d" stroke-width="1.5"/>
+<polygon points="517.1111111111112,184 525.1111111111112,184 521.1111111111112,192" fill="#7f1d1d"/>
+<line x1="596.6666666666667" y1="162" x2="596.6666666666667" y2="188" stroke="#7f1d1d" stroke-width="1.5"/>
+<polygon points="592.6666666666667,184 600.6666666666667,184 596.6666666666667,192" fill="#7f1d1d"/>
+<line x1="672.2222222222223" y1="162" x2="672.2222222222223" y2="188" stroke="#7f1d1d" stroke-width="1.5"/>
+<polygon points="668.2222222222223,184 676.2222222222223,184 672.2222222222223,192" fill="#7f1d1d"/>
+<rect x="30.0" y="198" width="75.55555555555556" height="50" rx="0" fill="#fde68a" stroke="#3b2314" stroke-width="1.5"/>
+<text x="67.77777777777777" y="220" text-anchor="middle" font-size="10" fill="#3b2314">D9 sign 1</text>
+<text x="67.77777777777777" y="238" text-anchor="middle" font-size="11" fill="#7f1d1d" font-weight="bold">Aries</text>
+<rect x="105.55555555555556" y="198" width="75.55555555555556" height="50" rx="0" fill="#fde68a" stroke="#3b2314" stroke-width="1.5"/>
+<text x="143.33333333333334" y="220" text-anchor="middle" font-size="10" fill="#3b2314">D9 sign 2</text>
+<text x="143.33333333333334" y="238" text-anchor="middle" font-size="11" fill="#7f1d1d" font-weight="bold">Taurus</text>
+<rect x="181.11111111111111" y="198" width="75.55555555555556" height="50" rx="0" fill="#fde68a" stroke="#3b2314" stroke-width="1.5"/>
+<text x="218.88888888888889" y="220" text-anchor="middle" font-size="10" fill="#3b2314">D9 sign 3</text>
+<text x="218.88888888888889" y="238" text-anchor="middle" font-size="11" fill="#7f1d1d" font-weight="bold">Gemini</text>
+<rect x="256.6666666666667" y="198" width="75.55555555555556" height="50" rx="0" fill="#fde68a" stroke="#3b2314" stroke-width="1.5"/>
+<text x="294.44444444444446" y="220" text-anchor="middle" font-size="10" fill="#3b2314">D9 sign 4</text>
+<text x="294.44444444444446" y="238" text-anchor="middle" font-size="11" fill="#7f1d1d" font-weight="bold">Cancer</text>
+<rect x="332.22222222222223" y="198" width="75.55555555555556" height="50" rx="0" fill="#fde68a" stroke="#3b2314" stroke-width="1.5"/>
+<text x="370.0" y="220" text-anchor="middle" font-size="10" fill="#3b2314">D9 sign 5</text>
+<text x="370.0" y="238" text-anchor="middle" font-size="11" fill="#7f1d1d" font-weight="bold">Leo</text>
+<rect x="407.77777777777777" y="198" width="75.55555555555556" height="50" rx="0" fill="#fde68a" stroke="#3b2314" stroke-width="1.5"/>
+<text x="445.55555555555554" y="220" text-anchor="middle" font-size="10" fill="#3b2314">D9 sign 6</text>
+<text x="445.55555555555554" y="238" text-anchor="middle" font-size="11" fill="#7f1d1d" font-weight="bold">Virgo</text>
+<rect x="483.33333333333337" y="198" width="75.55555555555556" height="50" rx="0" fill="#fde68a" stroke="#3b2314" stroke-width="1.5"/>
+<text x="521.1111111111112" y="220" text-anchor="middle" font-size="10" fill="#3b2314">D9 sign 7</text>
+<text x="521.1111111111112" y="238" text-anchor="middle" font-size="11" fill="#7f1d1d" font-weight="bold">Libra</text>
+<rect x="558.8888888888889" y="198" width="75.55555555555556" height="50" rx="0" fill="#fde68a" stroke="#3b2314" stroke-width="1.5"/>
+<text x="596.6666666666667" y="220" text-anchor="middle" font-size="10" fill="#3b2314">D9 sign 8</text>
+<text x="596.6666666666667" y="238" text-anchor="middle" font-size="11" fill="#7f1d1d" font-weight="bold">Scorpio</text>
+<rect x="634.4444444444445" y="198" width="75.55555555555556" height="50" rx="0" fill="#fde68a" stroke="#3b2314" stroke-width="1.5"/>
+<text x="672.2222222222223" y="220" text-anchor="middle" font-size="10" fill="#3b2314">D9 sign 9</text>
+<text x="672.2222222222223" y="238" text-anchor="middle" font-size="11" fill="#7f1d1d" font-weight="bold">Sagittarius</text>
+<text x="370.0" y="278" text-anchor="middle" font-size="12" fill="#3b2314">Ashwini pada 1 = Aries Navamsa, pada 2 = Taurus … Krittika pada 1 = Sagittarius.</text>
+<text x="370.0" y="298" text-anchor="middle" font-size="12" fill="#3b2314">Taurus continues the count: Krittika pada 2 = Capricorn (the 9th from Taurus, as the Navamsa rule says).</text>
+<text x="370.0" y="320" text-anchor="middle" font-size="12" fill="#3b2314" font-style="italic">108 padas around the zodiac = 9 full rounds of the 12 Navamsa signs.</text>
+</svg>

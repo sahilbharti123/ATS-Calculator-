@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="740" height="300" viewBox="0 0 740 300" font-family="Georgia, 'Times New Roman', serif">
+<rect x="0" y="0" width="740" height="300" rx="12" fill="#fffaf0" stroke="#b8860b" stroke-width="2"/>
+<text x="370.0" y="32" text-anchor="middle" font-size="20" font-weight="bold" fill="#7f1d1d">The five-step method for judging any house</text>
+<rect x="25.0" y="70" width="126.8" height="110" rx="10" fill="#fde68a" stroke="#3b2314" stroke-width="1.5"/>
+<text x="88.4" y="100" text-anchor="middle" font-size="14" fill="#7f1d1d" font-weight="bold">1  The house</text>
+<text x="88.4" y="128" text-anchor="middle" font-size="11" fill="#3b2314">Who sits in it?</text>
+<text x="88.4" y="146" text-anchor="middle" font-size="11" fill="#3b2314">Who aspects it?</text>
+<polygon points="153.8,120 163.8,125 153.8,130" fill="#3b2314"/>
+<rect x="165.8" y="70" width="126.8" height="110" rx="10" fill="#fde68a" stroke="#3b2314" stroke-width="1.5"/>
+<text x="229.20000000000002" y="100" text-anchor="middle" font-size="14" fill="#7f1d1d" font-weight="bold">2  The lord</text>
+<text x="229.20000000000002" y="128" text-anchor="middle" font-size="11" fill="#3b2314">Where has it gone?</text>
+<text x="229.20000000000002" y="146" text-anchor="middle" font-size="11" fill="#3b2314">Dignity? Aspects?</text>
+<polygon points="294.6,120 304.6,125 294.6,130" fill="#3b2314"/>
+<rect x="306.6" y="70" width="126.8" height="110" rx="10" fill="#fde68a" stroke="#3b2314" stroke-width="1.5"/>
+<text x="370.0" y="100" text-anchor="middle" font-size="14" fill="#7f1d1d" font-weight="bold">3  The karaka</text>
+<text x="370.0" y="128" text-anchor="middle" font-size="11" fill="#3b2314">The natural</text>
+<text x="370.0" y="146" text-anchor="middle" font-size="11" fill="#3b2314">significator's dignity</text>
+<polygon points="435.40000000000003,120 445.40000000000003,125 435.40000000000003,130" fill="#3b2314"/>
+<rect x="447.40000000000003" y="70" width="126.8" height="110" rx="10" fill="#e5e7eb" stroke="#3b2314" stroke-width="1.5"/>
+<text x="510.8" y="100" text-anchor="middle" font-size="14" fill="#7f1d1d" font-weight="bold">4  From the Moon</text>
+<text x="510.8" y="128" text-anchor="middle" font-size="11" fill="#3b2314">Same house counted</text>
+<text x="510.8" y="146" text-anchor="middle" font-size="11" fill="#3b2314">from the Moon sign</text>
+<polygon points="576.2,120 586.2,125 576.2,130" fill="#3b2314"/>
+<rect x="588.2" y="70" width="126.8" height="110" rx="10" fill="#e5e7eb" stroke="#3b2314" stroke-width="1.5"/>
+<text x="651.6" y="100" text-anchor="middle" font-size="14" fill="#7f1d1d" font-weight="bold">5  The varga</text>
+<text x="651.6" y="128" text-anchor="middle" font-size="11" fill="#3b2314">The divisional chart</text>
+<text x="651.6" y="146" text-anchor="middle" font-size="11" fill="#3b2314">for that matter (later)</text>
+<text x="370.0" y="220" text-anchor="middle" font-size="12" fill="#3b2314">Steps 1–3 give the verdict in the birth chart; step 4 confirms it from the mind's angle; step 5 refines it.</text>
+<text x="370.0" y="242" text-anchor="middle" font-size="12" fill="#3b2314">Two of three good in steps 1–3: the matter is protected. Three of three weak: it needs effort and remedy.</text>
+<text x="370.0" y="270" text-anchor="middle" font-size="13" fill="#7f1d1d" font-weight="bold">Never judge a house from one signal alone.</text>
+</svg>
