@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="740" height="560" viewBox="0 0 740 560" font-family="Georgia, 'Times New Roman', serif">
+<rect x="0" y="0" width="740" height="560" rx="12" fill="#fffaf0" stroke="#b8860b" stroke-width="2"/>
+<text x="370.0" y="32" text-anchor="middle" font-size="20" font-weight="bold" fill="#7f1d1d">The Prashna method in six steps</text>
+<rect x="220" y="55" width="300" height="56" rx="8" fill="#fff7ed" stroke="#3b2314" stroke-width="1.5"/>
+<text x="370.0" y="75" text-anchor="middle" font-size="12" fill="#3b2314" font-weight="bold">1. One sincere question</text>
+<text x="370.0" y="91" text-anchor="middle" font-size="11" fill="#3b2314">Cast the chart for the moment it is asked,</text>
+<text x="370.0" y="107" text-anchor="middle" font-size="11" fill="#3b2314">at the astrologer's place (Lahiri, whole signs).</text>
+<line x1="370" y1="111" x2="370" y2="125" stroke="#7f1d1d" stroke-width="2"/>
+<polygon points="370,125 364,115 376,115" fill="#7f1d1d"/>
+<rect x="220" y="125" width="300" height="56" rx="8" fill="#fff7ed" stroke="#3b2314" stroke-width="1.5"/>
+<text x="370.0" y="145" text-anchor="middle" font-size="12" fill="#3b2314" font-weight="bold">2. Find the two players</text>
+<text x="370.0" y="161" text-anchor="middle" font-size="11" fill="#3b2314">Prashna Lagna = the person asking.</text>
+<text x="370.0" y="177" text-anchor="middle" font-size="11" fill="#3b2314">The matter = its own house (7 marriage, 10 job…).</text>
+<line x1="370" y1="181" x2="370" y2="195" stroke="#7f1d1d" stroke-width="2"/>
+<polygon points="370,195 364,185 376,185" fill="#7f1d1d"/>
+<rect x="220" y="195" width="300" height="56" rx="8" fill="#fff7ed" stroke="#3b2314" stroke-width="1.5"/>
+<text x="370.0" y="215" text-anchor="middle" font-size="12" fill="#3b2314" font-weight="bold">3. Read the Moon</text>
+<text x="370.0" y="231" text-anchor="middle" font-size="11" fill="#3b2314">Mind of the querent; the flow of the matter.</text>
+<text x="370.0" y="247" text-anchor="middle" font-size="11" fill="#3b2314">What is it applying to next? Benefic or malefic?</text>
+<line x1="370" y1="251" x2="370" y2="265" stroke="#7f1d1d" stroke-width="2"/>
+<polygon points="370,265 364,255 376,255" fill="#7f1d1d"/>
+<rect x="40" y="265" width="300" height="72" rx="8" fill="#ecfdf5" stroke="#3b2314" stroke-width="1.5"/>
+<text x="190.0" y="285" text-anchor="middle" font-size="12" fill="#3b2314" font-weight="bold">4a. Are the lords connected?</text>
+<text x="190.0" y="301" text-anchor="middle" font-size="11" fill="#3b2314">Lagna lord and house lord together, in</text>
+<text x="190.0" y="317" text-anchor="middle" font-size="11" fill="#3b2314">mutual aspect, or exchanging signs → YES.</text>
+<text x="190.0" y="333" text-anchor="middle" font-size="11" fill="#3b2314">In 6/8/12 from each other → no, or delay.</text>
+<rect x="400" y="265" width="300" height="72" rx="8" fill="#fef2f2" stroke="#3b2314" stroke-width="1.5"/>
+<text x="550.0" y="285" text-anchor="middle" font-size="12" fill="#3b2314" font-weight="bold">4b. Who sits where?</text>
+<text x="550.0" y="301" text-anchor="middle" font-size="11" fill="#3b2314">Benefics in Lagna/kendras → favourable.</text>
+<text x="550.0" y="317" text-anchor="middle" font-size="11" fill="#3b2314">Malefics in Lagna or on the matter → trouble.</text>
+<text x="550.0" y="333" text-anchor="middle" font-size="11" fill="#3b2314">Retrograde house lord → the matter turns back.</text>
+<line x1="190" y1="337" x2="300" y2="355" stroke="#7f1d1d" stroke-width="2"/>
+<polygon points="300,355 294,345 306,345" fill="#7f1d1d"/>
+<line x1="550" y1="337" x2="440" y2="355" stroke="#7f1d1d" stroke-width="2"/>
+<polygon points="440,355 434,345 446,345" fill="#7f1d1d"/>
+<rect x="220" y="355" width="300" height="56" rx="8" fill="#fff7ed" stroke="#3b2314" stroke-width="1.5"/>
+<text x="370.0" y="375" text-anchor="middle" font-size="12" fill="#3b2314" font-weight="bold">5. Weigh, then decide</text>
+<text x="370.0" y="391" text-anchor="middle" font-size="11" fill="#3b2314">Three signals agreeing = a clear answer.</text>
+<text x="370.0" y="407" text-anchor="middle" font-size="11" fill="#3b2314">Signals split = 'yes, but…' — say so honestly.</text>
+<line x1="370" y1="411" x2="370" y2="425" stroke="#7f1d1d" stroke-width="2"/>
+<polygon points="370,425 364,415 376,415" fill="#7f1d1d"/>
+<rect x="220" y="425" width="300" height="56" rx="8" fill="#fff7ed" stroke="#3b2314" stroke-width="1.5"/>
+<text x="370.0" y="445" text-anchor="middle" font-size="12" fill="#3b2314" font-weight="bold">6. Time it</text>
+<text x="370.0" y="461" text-anchor="middle" font-size="11" fill="#3b2314">Moon's degrees to the next aspect; the transit of</text>
+<text x="370.0" y="477" text-anchor="middle" font-size="11" fill="#3b2314">the house lord over the house; Sun/Moon ingress.</text>
+<text x="370.0" y="520" text-anchor="middle" font-size="11" fill="#3b2314" font-style="italic">Ethics first: no questions about another person's private life, no death questions,</text>
+<text x="370.0" y="536" text-anchor="middle" font-size="11" fill="#3b2314" font-style="italic">and never the same question again because you disliked the first answer.</text>
+</svg>
