@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="495" viewBox="0 0 460 495" font-family="Georgia, 'Times New Roman', serif">
+<rect x="0" y="0" width="460" height="495" rx="12" fill="#fffaf0" stroke="#b8860b" stroke-width="2"/>
+<text x="230.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#7f1d1d">Chart B (Arjun): Rasi chart, South Indian</text>
+<rect x="10.0" y="45.0" width="110.0" height="110.0" fill="none" stroke="#3b2314" stroke-width="2"/>
+<text x="16.0" y="61.0" font-size="11" fill="#b8860b" font-weight="bold">Pi</text>
+<text x="114.0" y="61.0" font-size="11" text-anchor="end" fill="#9ca3af">H9</text>
+<rect x="120.0" y="45.0" width="110.0" height="110.0" fill="none" stroke="#3b2314" stroke-width="2"/>
+<text x="126.0" y="61.0" font-size="11" fill="#b8860b" font-weight="bold">Ar</text>
+<text x="224.0" y="61.0" font-size="11" text-anchor="end" fill="#9ca3af">H10</text>
+<text x="175.0" y="110.9" text-anchor="middle" font-size="14" font-weight="bold" fill="#6b21a8">Ke</text>
+<rect x="230.0" y="45.0" width="110.0" height="110.0" fill="none" stroke="#3b2314" stroke-width="2"/>
+<text x="236.0" y="61.0" font-size="11" fill="#b8860b" font-weight="bold">Ta</text>
+<text x="334.0" y="61.0" font-size="11" text-anchor="end" fill="#9ca3af">H11</text>
+<text x="285.0" y="110.9" text-anchor="middle" font-size="14" font-weight="bold" fill="#4b5563">Mo</text>
+<rect x="340.0" y="45.0" width="110.0" height="110.0" fill="none" stroke="#3b2314" stroke-width="2"/>
+<text x="346.0" y="61.0" font-size="11" fill="#b8860b" font-weight="bold">Ge</text>
+<text x="444.0" y="61.0" font-size="11" text-anchor="end" fill="#9ca3af">H12</text>
+<rect x="340.0" y="155.0" width="110.0" height="110.0" fill="none" stroke="#3b2314" stroke-width="2"/>
+<text x="346.0" y="171.0" font-size="11" fill="#b8860b" font-weight="bold">Cn</text>
+<text x="444.0" y="171.0" font-size="11" text-anchor="end" fill="#9ca3af">H1</text>
+<line x1="340.0" y1="181.0" x2="366.0" y2="155.0" stroke="#7f1d1d" stroke-width="2.5"/>
+<rect x="340.0" y="265.0" width="110.0" height="110.0" fill="none" stroke="#3b2314" stroke-width="2"/>
+<text x="346.0" y="281.0" font-size="11" fill="#b8860b" font-weight="bold">Le</text>
+<text x="444.0" y="281.0" font-size="11" text-anchor="end" fill="#9ca3af">H2</text>
+<text x="395.0" y="330.9" text-anchor="middle" font-size="14" font-weight="bold" fill="#b91c1c">Maᴿ</text>
+<rect x="340.0" y="375.0" width="110.0" height="110.0" fill="none" stroke="#3b2314" stroke-width="2"/>
+<text x="346.0" y="391.0" font-size="11" fill="#b8860b" font-weight="bold">Vi</text>
+<text x="444.0" y="391.0" font-size="11" text-anchor="end" fill="#9ca3af">H3</text>
+<rect x="230.0" y="375.0" width="110.0" height="110.0" fill="none" stroke="#3b2314" stroke-width="2"/>
+<text x="236.0" y="391.0" font-size="11" fill="#b8860b" font-weight="bold">Li</text>
+<text x="334.0" y="391.0" font-size="11" text-anchor="end" fill="#9ca3af">H4</text>
+<text x="285.0" y="440.9" text-anchor="middle" font-size="14" font-weight="bold" fill="#4c1d95">Ra</text>
+<rect x="120.0" y="375.0" width="110.0" height="110.0" fill="none" stroke="#3b2314" stroke-width="2"/>
+<text x="126.0" y="391.0" font-size="11" fill="#b8860b" font-weight="bold">Sc</text>
+<text x="224.0" y="391.0" font-size="11" text-anchor="end" fill="#9ca3af">H5</text>
+<text x="175.0" y="440.9" text-anchor="middle" font-size="14" font-weight="bold" fill="#b45309">Ju</text>
+<rect x="10.0" y="375.0" width="110.0" height="110.0" fill="none" stroke="#3b2314" stroke-width="2"/>
+<text x="16.0" y="391.0" font-size="11" fill="#b8860b" font-weight="bold">Sg</text>
+<text x="114.0" y="391.0" font-size="11" text-anchor="end" fill="#9ca3af">H6</text>
+<rect x="10.0" y="265.0" width="110.0" height="110.0" fill="none" stroke="#3b2314" stroke-width="2"/>
+<text x="16.0" y="281.0" font-size="11" fill="#b8860b" font-weight="bold">Cp</text>
+<text x="114.0" y="281.0" font-size="11" text-anchor="end" fill="#9ca3af">H7</text>
+<text x="65.0" y="330.9" text-anchor="middle" font-size="14" font-weight="bold" fill="#be185d">Ve</text>
+<rect x="10.0" y="155.0" width="110.0" height="110.0" fill="none" stroke="#3b2314" stroke-width="2"/>
+<text x="16.0" y="171.0" font-size="11" fill="#b8860b" font-weight="bold">Aq</text>
+<text x="114.0" y="171.0" font-size="11" text-anchor="end" fill="#9ca3af">H8</text>
+<text x="65.0" y="204.9" text-anchor="middle" font-size="14" font-weight="bold" fill="#c2410c">Su</text>
+<text x="65.0" y="220.9" text-anchor="middle" font-size="14" font-weight="bold" fill="#15803d">Me</text>
+<text x="65.0" y="236.9" text-anchor="middle" font-size="14" font-weight="bold" fill="#1e3a8a">Sa</text>
+<text x="230.0" y="257.0" text-anchor="middle" font-size="14" fill="#7f1d1d" font-weight="bold">Rasi Chart</text>
+<text x="230.0" y="277.0" text-anchor="middle" font-size="12" fill="#3b2314">Lagna: Cancer</text>
+<text x="230.0" y="295.0" text-anchor="middle" font-size="11" fill="#6b7280">(signs fixed; slash marks Lagna)</text>
+</svg>

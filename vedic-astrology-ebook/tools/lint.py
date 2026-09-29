@@ -31,7 +31,7 @@ for f in sorted(glob.glob(f"{BOOK}/*.md")):
     if name[0] in "012" and not name.startswith("01"):
         n=s.count("**📖 Story:")
         if n<2: errs.append(f"only {n} Story boxes (need 2+)")
-    for m in re.finditer(r"> \*\*📖 Story:[^\n]*", s):
+    for m in re.finditer(r"> \*\*📖 Story:[^\n]*(?:\n>[^\n]*)*", s):
         if "**Rule:**" not in m.group(0): errs.append(f"Story without a Rule line: {m.group(0)[:60]!r}")
     words=len(s.split())
     print(f"{name:55s} {words:6d} words  {'OK' if not errs else ''}")

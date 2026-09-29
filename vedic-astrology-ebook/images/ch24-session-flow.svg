@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="740" height="520" viewBox="0 0 740 520" font-family="Georgia, serif">
+<defs><marker id="ar" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#3b2314"/></marker></defs>
+<rect x="0" y="0" width="740" height="520" rx="12" fill="#fffaf0" stroke="#b8860b" stroke-width="2"/>
+<text x="370.0" y="34" text-anchor="middle" font-size="20" font-weight="bold" fill="#7f1d1d">The consultation, step by step</text>
+<rect x="30" y="90" width="160" height="74" rx="10" fill="#fde68a" stroke="#3b2314" stroke-width="1.4"/>
+<text x="110.0" y="116" text-anchor="middle" font-size="14" fill="#7f1d1d" font-weight="bold">1  INTAKE</text>
+<text x="110.0" y="136" text-anchor="middle" font-size="10.5" fill="#3b2314">form, time source, events list</text>
+<text x="110.0" y="152" text-anchor="middle" font-size="10" fill="#b8860b" font-style="italic">before</text>
+<line x1="190" y1="127.0" x2="206" y2="127.0" stroke="#3b2314" stroke-width="1.6" marker-end="url(#ar)"/>
+<rect x="210" y="90" width="160" height="74" rx="10" fill="#fde68a" stroke="#3b2314" stroke-width="1.4"/>
+<text x="290.0" y="116" text-anchor="middle" font-size="14" fill="#7f1d1d" font-weight="bold">2  PREPARE</text>
+<text x="290.0" y="136" text-anchor="middle" font-size="10.5" fill="#3b2314">60–90 min, 14-point checklist</text>
+<text x="290.0" y="152" text-anchor="middle" font-size="10" fill="#b8860b" font-style="italic">before</text>
+<line x1="370" y1="127.0" x2="386" y2="127.0" stroke="#3b2314" stroke-width="1.6" marker-end="url(#ar)"/>
+<rect x="390" y="90" width="160" height="74" rx="10" fill="#fff" stroke="#3b2314" stroke-width="1.4"/>
+<text x="470.0" y="116" text-anchor="middle" font-size="14" fill="#7f1d1d" font-weight="bold">3  CONFIRM</text>
+<text x="470.0" y="136" text-anchor="middle" font-size="10.5" fill="#3b2314">2–3 past events fix the time</text>
+<text x="470.0" y="152" text-anchor="middle" font-size="10" fill="#b8860b" font-style="italic">in the room</text>
+<line x1="550" y1="127.0" x2="566" y2="127.0" stroke="#3b2314" stroke-width="1.6" marker-end="url(#ar)"/>
+<rect x="570" y="90" width="160" height="74" rx="10" fill="#fff" stroke="#3b2314" stroke-width="1.4"/>
+<text x="650.0" y="116" text-anchor="middle" font-size="14" fill="#7f1d1d" font-weight="bold">4  OVERVIEW</text>
+<text x="650.0" y="136" text-anchor="middle" font-size="10.5" fill="#3b2314">Lagna, Moon, strongest, weakest</text>
+<text x="650.0" y="152" text-anchor="middle" font-size="10" fill="#b8860b" font-style="italic">in the room</text>
+<rect x="30" y="274" width="160" height="74" rx="10" fill="#fff" stroke="#3b2314" stroke-width="1.4"/>
+<text x="110.0" y="300" text-anchor="middle" font-size="14" fill="#7f1d1d" font-weight="bold">5  QUESTIONS</text>
+<text x="110.0" y="320" text-anchor="middle" font-size="10.5" fill="#3b2314">their list, mapped to houses</text>
+<text x="110.0" y="336" text-anchor="middle" font-size="10" fill="#b8860b" font-style="italic">in the room</text>
+<line x1="190" y1="311.0" x2="206" y2="311.0" stroke="#3b2314" stroke-width="1.6" marker-end="url(#ar)"/>
+<rect x="210" y="274" width="160" height="74" rx="10" fill="#fff" stroke="#3b2314" stroke-width="1.4"/>
+<text x="290.0" y="300" text-anchor="middle" font-size="14" fill="#7f1d1d" font-weight="bold">6  TIMING</text>
+<text x="290.0" y="320" text-anchor="middle" font-size="10.5" fill="#3b2314">dasha + double transit, periods</text>
+<text x="290.0" y="336" text-anchor="middle" font-size="10" fill="#b8860b" font-style="italic">in the room</text>
+<line x1="370" y1="311.0" x2="386" y2="311.0" stroke="#3b2314" stroke-width="1.6" marker-end="url(#ar)"/>
+<rect x="390" y="274" width="160" height="74" rx="10" fill="#fff" stroke="#3b2314" stroke-width="1.4"/>
+<text x="470.0" y="300" text-anchor="middle" font-size="14" fill="#7f1d1d" font-weight="bold">7  REMEDIES</text>
+<text x="470.0" y="320" text-anchor="middle" font-size="10.5" fill="#3b2314">conduct first, daan, mantra; gems rarely</text>
+<text x="470.0" y="336" text-anchor="middle" font-size="10" fill="#b8860b" font-style="italic">in the room</text>
+<line x1="550" y1="311.0" x2="566" y2="311.0" stroke="#3b2314" stroke-width="1.6" marker-end="url(#ar)"/>
+<rect x="570" y="274" width="160" height="74" rx="10" fill="#bbf7d0" stroke="#3b2314" stroke-width="1.4"/>
+<text x="650.0" y="300" text-anchor="middle" font-size="14" fill="#7f1d1d" font-weight="bold">8  REPORT</text>
+<text x="650.0" y="320" text-anchor="middle" font-size="10.5" fill="#3b2314">written summary, follow-up date</text>
+<text x="650.0" y="336" text-anchor="middle" font-size="10" fill="#b8860b" font-style="italic">after</text>
+<path d="M 650.0 164 L 650.0 214 L 110.0 214 L 110.0 268" fill="none" stroke="#3b2314" stroke-width="1.6" marker-end="url(#ar)"/>
+<path d="M 650.0 348 L 650.0 388 L 110.0 388 L 110.0 388" fill="none" stroke="#b8860b" stroke-width="1.4" stroke-dasharray="5,4"/>
+<text x="370.0" y="382" text-anchor="middle" font-size="11" fill="#b8860b" font-style="italic">follow-up in 6–12 months: the log tells you how you did</text>
+<rect x="30" y="468" width="14" height="14" fill="#fde68a" stroke="#3b2314"/>
+<text x="50" y="480" text-anchor="start" font-size="11" fill="#3b2314">before the client arrives</text>
+<rect x="230" y="468" width="14" height="14" fill="#fff" stroke="#3b2314"/>
+<text x="250" y="480" text-anchor="start" font-size="11" fill="#3b2314">with the client (60–75 minutes)</text>
+<rect x="460" y="468" width="14" height="14" fill="#bbf7d0" stroke="#3b2314"/>
+<text x="480" y="480" text-anchor="start" font-size="11" fill="#3b2314">after (within 48 hours)</text>
+<text x="370.0" y="506" text-anchor="middle" font-size="12" fill="#3b2314" font-style="italic">Never skip step 3. A chart you have not confirmed is a chart you should not predict from.</text>
+</svg>

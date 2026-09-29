@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="230" viewBox="0 0 760 230" font-family="Georgia, 'Times New Roman', serif">
+<rect x="0" y="0" width="760" height="230" rx="12" fill="#fffaf0" stroke="#b8860b" stroke-width="2"/>
+<text x="380.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#7f1d1d">Chart B (Arjun): Vimshottari order from Sun</text>
+<rect x="30" y="70" width="35.0" height="46" fill="#fed7aa" stroke="#3b2314" stroke-width="1.2"/>
+<text x="47.5" y="90" text-anchor="middle" font-size="10" font-weight="bold" fill="#3b2314">Su</text>
+<text x="47.5" y="107" text-anchor="middle" font-size="11" fill="#7f1d1d">6 y</text>
+<line x1="65.0" y1="116" x2="65.0" y2="124" stroke="#3b2314"/>
+<text x="65.0" y="138" text-anchor="middle" font-size="10" fill="#3b2314">age 6</text>
+<rect x="65.0" y="70" width="58.333333333333336" height="46" fill="#e5e7eb" stroke="#3b2314" stroke-width="1.2"/>
+<text x="94.16666666666667" y="90" text-anchor="middle" font-size="12" font-weight="bold" fill="#3b2314">Mo</text>
+<text x="94.16666666666667" y="107" text-anchor="middle" font-size="11" fill="#7f1d1d">10 y</text>
+<line x1="123.33333333333334" y1="116" x2="123.33333333333334" y2="124" stroke="#3b2314"/>
+<text x="123.33333333333334" y="138" text-anchor="middle" font-size="10" fill="#3b2314">age 16</text>
+<rect x="123.33333333333334" y="70" width="40.833333333333336" height="46" fill="#fecaca" stroke="#3b2314" stroke-width="1.2"/>
+<text x="143.75" y="90" text-anchor="middle" font-size="10" font-weight="bold" fill="#3b2314">Ma</text>
+<text x="143.75" y="107" text-anchor="middle" font-size="11" fill="#7f1d1d">7 y</text>
+<line x1="164.16666666666669" y1="116" x2="164.16666666666669" y2="124" stroke="#3b2314"/>
+<text x="164.16666666666669" y="138" text-anchor="middle" font-size="10" fill="#3b2314">age 23</text>
+<rect x="164.16666666666669" y="70" width="105.0" height="46" fill="#c7d2fe" stroke="#3b2314" stroke-width="1.2"/>
+<text x="216.66666666666669" y="90" text-anchor="middle" font-size="12" font-weight="bold" fill="#3b2314">Rahu</text>
+<text x="216.66666666666669" y="107" text-anchor="middle" font-size="11" fill="#7f1d1d">18 y</text>
+<line x1="269.1666666666667" y1="116" x2="269.1666666666667" y2="124" stroke="#3b2314"/>
+<text x="269.1666666666667" y="138" text-anchor="middle" font-size="10" fill="#3b2314">age 41</text>
+<rect x="269.1666666666667" y="70" width="93.33333333333333" height="46" fill="#fde68a" stroke="#3b2314" stroke-width="1.2"/>
+<text x="315.83333333333337" y="90" text-anchor="middle" font-size="12" font-weight="bold" fill="#3b2314">Jupiter</text>
+<text x="315.83333333333337" y="107" text-anchor="middle" font-size="11" fill="#7f1d1d">16 y</text>
+<line x1="362.5" y1="116" x2="362.5" y2="124" stroke="#3b2314"/>
+<text x="362.5" y="138" text-anchor="middle" font-size="10" fill="#3b2314">age 57</text>
+<rect x="362.5" y="70" width="110.83333333333333" height="46" fill="#bfdbfe" stroke="#3b2314" stroke-width="1.2"/>
+<text x="417.9166666666667" y="90" text-anchor="middle" font-size="12" font-weight="bold" fill="#3b2314">Saturn</text>
+<text x="417.9166666666667" y="107" text-anchor="middle" font-size="11" fill="#7f1d1d">19 y</text>
+<line x1="473.3333333333333" y1="116" x2="473.3333333333333" y2="124" stroke="#3b2314"/>
+<text x="473.3333333333333" y="138" text-anchor="middle" font-size="10" fill="#3b2314">age 76</text>
+<rect x="473.3333333333333" y="70" width="99.16666666666667" height="46" fill="#bbf7d0" stroke="#3b2314" stroke-width="1.2"/>
+<text x="522.9166666666666" y="90" text-anchor="middle" font-size="12" font-weight="bold" fill="#3b2314">Mercury</text>
+<text x="522.9166666666666" y="107" text-anchor="middle" font-size="11" fill="#7f1d1d">17 y</text>
+<line x1="572.5" y1="116" x2="572.5" y2="124" stroke="#3b2314"/>
+<text x="572.5" y="138" text-anchor="middle" font-size="10" fill="#3b2314">age 93</text>
+<rect x="572.5" y="70" width="40.833333333333336" height="46" fill="#e9d5ff" stroke="#3b2314" stroke-width="1.2"/>
+<text x="592.9166666666666" y="90" text-anchor="middle" font-size="10" font-weight="bold" fill="#3b2314">Ke</text>
+<text x="592.9166666666666" y="107" text-anchor="middle" font-size="11" fill="#7f1d1d">7 y</text>
+<line x1="613.3333333333334" y1="116" x2="613.3333333333334" y2="124" stroke="#3b2314"/>
+<text x="613.3333333333334" y="138" text-anchor="middle" font-size="10" fill="#3b2314">age 100</text>
+<rect x="613.3333333333334" y="70" width="116.66666666666667" height="46" fill="#fbcfe8" stroke="#3b2314" stroke-width="1.2"/>
+<text x="671.6666666666667" y="90" text-anchor="middle" font-size="12" font-weight="bold" fill="#3b2314">Venus</text>
+<text x="671.6666666666667" y="107" text-anchor="middle" font-size="11" fill="#7f1d1d">20 y</text>
+<line x1="730.0" y1="116" x2="730.0" y2="124" stroke="#3b2314"/>
+<text x="730.0" y="138" text-anchor="middle" font-size="10" fill="#3b2314">age 120</text>
+<text x="30" y="60" font-size="12" fill="#3b2314">Birth (balance of Sun dasha runs first)</text>
+<text x="30" y="161" font-size="12" fill="#3b2314">Order never changes: Ketu → Venus → Sun → Moon → Mars → Rahu → Jupiter → Saturn → Mercury → (Ketu again)</text>
+<text x="380.0" y="218" text-anchor="middle" font-size="13" fill="#3b2314" font-style="italic">Sun balance 1.8 y at birth: Moon Dec 1996, Mars Dec 2006, Rahu Dec 2013, Jupiter Dec 2031, Saturn Dec 2047</text>
+</svg>
