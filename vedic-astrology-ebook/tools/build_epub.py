@@ -148,7 +148,8 @@ def main():
     spine = []
     for k in ["cover.xhtml", "title.xhtml", "copyright.xhtml", "dedication.xhtml"]:
         iid = k.replace(".xhtml", "")
-        manifest.append(f'<item id="{iid}" href="{k}" media-type="application/xhtml+xml"/>'); spine.append(f'<itemref idref="{iid}"{" linear=\"no\"" if iid=="cover" else ""}/>')
+        linear = ' linear="no"' if iid == "cover" else ""
+        manifest.append(f'<item id="{iid}" href="{k}" media-type="application/xhtml+xml"/>'); spine.append(f'<itemref idref="{iid}"{linear}/>')
     spine.append('<itemref idref="nav"/>')
     for c in chapters:
         manifest.append(f'<item id="{c["id"]}" href="{c["file"]}" media-type="application/xhtml+xml"/>'); spine.append(f'<itemref idref="{c["id"]}"/>')
