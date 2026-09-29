@@ -14,6 +14,9 @@ BOOK = os.path.join(ROOT, "book")
 IMAGES = os.path.join(ROOT, "images")
 DIST = os.path.join(ROOT, "dist")
 TITLE = "Kundali Made Simple"
+AUTHOR = "Anushka Bharti"
+YEAR = "2026"
+COVER = os.path.join(ROOT, "cover", "cover-front.jpg")
 SUBTITLE = "Vedic Astrology from Your First Chart to Your First Consultation"
 CHROME = "/opt/pw-browsers/chromium-1194/chrome-linux/chrome"
 
@@ -65,6 +68,16 @@ hr { border:none; border-top:1px solid #d9c9a8; margin:2rem 0; }
 .frontnote { font-size:.95rem; color:#4b3a2e; border:1px solid #e2d3b0; padding:1rem 1.2rem; border-radius:8px; background:#fbf5e8; }
 .chapter { page-break-before: always; }
 .legend { font-size:.9rem; }
+.dot { font-weight:bold; font-size:1.05em; }
+.dot.g { color:#15803d; } .dot.y { color:#b45309; } .dot.r { color:#b91c1c; }
+.coverpage { text-align:center; page-break-after: always; margin:0; padding:0; }
+.coverpage img { width:100%; max-width:820px; margin:0 auto; display:block; }
+.titlepage { text-align:center; padding: 140px 20px 60px; page-break-after: always; }
+.titlepage h1 { font-size:2.8rem; border:none; }
+.titlepage .sub { font-size:1.25rem; font-style:italic; color:#5b2a1a; margin: .5rem 0 3rem; }
+.titlepage .author { font-size:1.4rem; letter-spacing:.08em; color:#3b2314; }
+.copyright { font-size:.85rem; color:#4b3a2e; page-break-after: always; padding-top: 40vh; }
+.dedication { text-align:center; font-style:italic; font-size:1.2rem; padding: 35vh 40px; page-break-after: always; }
 @media print {
   html { font-size: 11.5pt; }
   .page { max-width: none; padding: 0; }
@@ -75,6 +88,7 @@ hr { border:none; border-top:1px solid #d9c9a8; margin:2rem 0; }
   h1, h2, h3 { page-break-after: avoid; }
   img, svg, table, blockquote { page-break-inside: avoid; }
   @page { size: A4; margin: 18mm 16mm 20mm 16mm; }
+  .coverpage img { max-width:none; width:100%; height:auto; }
 }
 """
 
@@ -110,6 +124,12 @@ def classify_boxes(html_text):
         return m.group(0)
     return re.sub(r"<blockquote>(.*?)</blockquote>", repl, html_text, flags=re.S)
 
+DOTS = {"🟢": '<span class="dot g" title="good">●</span>', "🟡": '<span class="dot y" title="mixed">◐</span>', "🔴": '<span class="dot r" title="difficult">○</span>'}
+def dots(html_text):
+    for k, v in DOTS.items():
+        html_text = html_text.replace(k, v)
+    return html_text
+
 def convert(md_text):
     md = markdown.Markdown(extensions=["tables", "fenced_code", "attr_list", "md_in_html", "sane_lists", "toc"],
                            extension_configs={"toc": {"toc_depth": "1-2", "slugify": lambda v, s: slugify(v)}})
@@ -118,6 +138,7 @@ def convert(md_text):
     out = classify_boxes(out)
     # italic caption lines directly after a figure
     out = re.sub(r"(</figure>)\s*<p><em>(.*?)</em></p>", r'\1<p class="caption"><em>\2</em></p>', out, flags=re.S)
+    out = dots(out)
     return out, md.toc_tokens
 
 PARTS = {
@@ -138,6 +159,7 @@ def cover_svg():
 
 def main():
     no_pdf = "--no-pdf" in sys.argv
+    print_6x9 = "--print" in sys.argv
     files = sorted(glob.glob(os.path.join(BOOK, "*.md")))
     chapters = []
     for f in files:
@@ -170,42 +192,58 @@ def main():
     toc_html.append("</ol></nav>")
 
     today = datetime.date.today().strftime("%B %Y")
-    front = f'''
-<section class="cover">
+    cover_html = ""
+    if os.path.exists(COVER):
+        import base64
+        b64 = base64.b64encode(open(COVER, "rb").read()).decode()
+        cover_html = f'<section class="coverpage"><img src="data:image/jpeg;base64,{b64}" alt="Cover: {TITLE}"></section>'
+    front = f"""
+{cover_html}
+<section class="titlepage">
   <h1>{TITLE}</h1>
   <div class="sub">{SUBTITLE}</div>
   {cover_svg()}
-  <div class="by">A complete beginner's course in Jyotish: with pictures, worked charts,<br>and Lal Kitab clearly marked wherever it appears</div>
-  <div class="by" style="margin-top:2.5rem">{today} edition</div>
+  <div class="author">{AUTHOR}</div>
 </section>
-<section class="frontnote">
-  <p><strong>About this book.</strong> The teaching voice is that of a veteran Indian astrologer with thirty years of practice; the anecdotes are composites and the three case-study charts (Meera, Arjun, Devika) are constructed for teaching. Nothing here is a substitute for medical, legal or financial advice, and no prediction in astrology is a certainty: the book teaches you to say so, too.</p>
-  <p><strong>How material is marked.</strong> The backbone is Parashari astrology (<em>Brihat Parashara Hora Shastra</em>). Anything drawn from <em>Lal Kitab</em> (Pt. Roop Chand Joshi, Urdu editions 1939–1952) appears only inside red dashed boxes labelled <strong>📕 From Lal Kitab</strong> with the source stated, so you always know which system you are using. Jaimini, Tajaka and KP appear where named.</p>
-  <p class="legend"><strong>Boxes:</strong> 🧭 Guruji's rule of thumb · 💡 Did you know? · ⚠️ Common beginner mistake · 🪔 Consultation tip · 📖 Story (memory tale) · 📕 From Lal Kitab · ✍️ Practice</p>
+<section class="copyright">
+  <p><strong>{TITLE}: {SUBTITLE}</strong><br>Copyright &copy; {YEAR} {AUTHOR}. All rights reserved.</p>
+  <p>No part of this book may be reproduced, stored or transmitted in any form without the prior written permission of the author, except for brief quotations in reviews.</p>
+  <p>First edition, {today}.</p>
+  <p><strong>A note on what this book is and is not.</strong> This book teaches Vedic astrology (Jyotish) as a way of understanding tendencies and timings. It is not medical, legal, financial or psychological advice, and nothing in it should be used to make decisions about health, money or law in place of a qualified professional. Every person named in the examples is a composite, and the three case-study charts are constructed for teaching.</p>
+  <p><strong>Sources.</strong> The backbone is Parashari astrology (<em>Brihat Parashara Hora Shastra</em>). Anything drawn from <em>Lal Kitab</em> (Pt. Roop Chand Joshi, Urdu editions 1939 to 1952) appears only inside boxes labelled <strong>From Lal Kitab</strong> with the source stated. Jaimini, Tajaka and KP appear where named.</p>
+  <p class="legend"><strong>Boxes used in this book:</strong> 🧭 Anushka's rule of thumb · 🔍 Why? · 📖 Story · 💡 Did you know? · ⚠️ Common beginner mistake · 🪔 Consultation tip · 📕 From Lal Kitab · ✍️ Practice. <strong>Colour dots:</strong> {DOTS["🟢"]} good or friendly · {DOTS["🟡"]} mixed or neutral · {DOTS["🔴"]} difficult or hostile.</p>
 </section>
-'''
+<section class="dedication">
+  <p>For everyone who bought the books and understood nothing.<br>This one is for you.</p>
+</section>
+"""
     body_html = []
     for ch in chapters:
         # give the H1 an id
         b = re.sub(r"<h1(.*?)>", f'<h1 id="{ch["id"]}"\\1>', ch["body"], count=1)
         body_html.append(f'<article class="chapter">{b}</article>')
 
+    print_css = ""
+    if print_6x9:
+        print_css = "@media print { @page { size: 6in 9in; margin: 0.75in 0.6in 0.7in 0.6in; } html { font-size: 10.5pt; } .page { padding:0; } }"
     doc = f'''<!doctype html><html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{TITLE}: {SUBTITLE}</title><style>{CSS}</style></head>
 <body><div class="page">{front}{"".join(toc_html)}{"".join(body_html)}</div></body></html>'''
     os.makedirs(DIST, exist_ok=True)
-    out_html = os.path.join(DIST, "Kundali-Made-Simple.html")
+    out_html = os.path.join(DIST, "Kundali-Made-Simple-print-6x9.html" if print_6x9 else "Kundali-Made-Simple.html")
     open(out_html, "w", encoding="utf-8").write(doc)
     words = sum(len(re.sub(r"<[^>]+>", " ", c["body"]).split()) for c in chapters)
     print(f"wrote {out_html}  ({len(chapters)} sections, ~{words:,} words, {os.path.getsize(out_html)/1e6:.1f} MB)")
     if not no_pdf and os.path.exists(CHROME):
-        out_pdf = os.path.join(DIST, "Kundali-Made-Simple.pdf")
+        out_pdf = os.path.join(DIST, "Kundali-Made-Simple-print-6x9.pdf" if print_6x9 else "Kundali-Made-Simple.pdf")
         cmd = [CHROME, "--headless", "--no-sandbox", "--disable-gpu", "--no-pdf-header-footer",
                f"--print-to-pdf={out_pdf}", "--virtual-time-budget=10000", f"file://{out_html}"]
         r = subprocess.run(cmd, capture_output=True, text=True, timeout=600)
         if os.path.exists(out_pdf):
             print(f"wrote {out_pdf}  ({os.path.getsize(out_pdf)/1e6:.1f} MB)")
+            if print_6x9:
+                os.remove(out_html)
         else:
             print("PDF failed:", r.stderr[-800:])
 
