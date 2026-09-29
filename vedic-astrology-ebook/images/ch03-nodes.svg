@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="420" viewBox="0 0 700 420" font-family="Georgia, 'Times New Roman', serif">
+<rect x="0" y="0" width="700" height="420" rx="12" fill="#fffaf0" stroke="#b8860b" stroke-width="2"/>
+<text x="350.0" y="30" text-anchor="middle" font-size="19" font-weight="bold" fill="#7f1d1d">Rahu and Ketu: where the Moon's path crosses the Sun's</text>
+<ellipse cx="350" cy="225" rx="270" ry="80" fill="none" stroke="#c2410c" stroke-width="2.5"/>
+<text x="580.0" y="153.0" text-anchor="end" font-size="12" font-weight="bold" font-style="normal" fill="#c2410c">Sun's path (ecliptic)</text>
+<ellipse cx="350" cy="225" rx="270" ry="80" fill="none" stroke="#4b5563" stroke-width="2" stroke-dasharray="7,5" transform="rotate(-14 350 225)"/>
+<text x="290.0" y="107.0" text-anchor="middle" font-size="12" font-weight="bold" font-style="normal" fill="#4b5563">Moon's path (tilted about 5°; exaggerated here)</text>
+<circle cx="350" cy="225" r="16" fill="#bae6fd" stroke="#3b2314" stroke-width="2"/>
+<text x="350.0" y="255.0" text-anchor="middle" font-size="12" font-weight="normal" font-style="normal" fill="#3b2314">Earth</text>
+<line x1="100.6" y1="255.6" x2="599.4" y2="194.4" stroke="#b8860b" stroke-width="1.2" stroke-dasharray="3,5"/>
+<circle cx="100.6" cy="255.6" r="9" fill="#4c1d95"/>
+<text x="86.6" y="241.6" text-anchor="start" font-size="15" font-weight="bold" font-style="normal" fill="#4c1d95">Rahu</text>
+<text x="106.6" y="297.6" text-anchor="start" font-size="10.5" font-weight="normal" font-style="italic" fill="#4c1d95">north node: the Moon crosses going north</text>
+<circle cx="599.4" cy="194.4" r="9" fill="#6b21a8"/>
+<text x="613.4" y="218.4" text-anchor="end" font-size="15" font-weight="bold" font-style="normal" fill="#6b21a8">Ketu</text>
+<text x="593.4" y="158.4" text-anchor="end" font-size="10.5" font-weight="normal" font-style="italic" fill="#6b21a8">south node: the Moon crosses going south</text>
+<text x="350.0" y="382.0" text-anchor="middle" font-size="12" font-weight="normal" font-style="normal" fill="#3b2314">The two crossing points are always exactly opposite (180° apart) and drift backwards through the zodiac,</text>
+<text x="350.0" y="400.0" text-anchor="middle" font-size="12" font-weight="normal" font-style="normal" fill="#3b2314">one full circle in about 18.6 years. Eclipses happen only when Sun and Moon meet near one of them.</text>
+</svg>

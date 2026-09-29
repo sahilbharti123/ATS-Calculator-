@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="570" viewBox="0 0 700 570" font-family="Georgia, 'Times New Roman', serif">
+<rect x="0" y="0" width="700" height="570" rx="12" fill="#fffaf0" stroke="#b8860b" stroke-width="2"/>
+<text x="350.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#7f1d1d">Directional strength (Dig Bala)</text>
+<polygon points="350.0,70 450.0,170.0 350.0,270.0 250.0,170.0" fill="#fde68a" stroke="none"/>
+<polygon points="150,270.0 250.0,170.0 350.0,270.0 250.0,370.0" fill="#fde68a" stroke="none"/>
+<polygon points="350.0,470 250.0,370.0 350.0,270.0 450.0,370.0" fill="#fde68a" stroke="none"/>
+<polygon points="550,270.0 450.0,370.0 350.0,270.0 450.0,170.0" fill="#fde68a" stroke="none"/>
+<rect x="150" y="70" width="400" height="400" fill="none" stroke="#3b2314" stroke-width="2.5"/>
+<line x1="150" y1="70" x2="550" y2="470" stroke="#3b2314" stroke-width="2"/>
+<line x1="550" y1="70" x2="150" y2="470" stroke="#3b2314" stroke-width="2"/>
+<polygon points="350.0,70 550,270.0 350.0,470 150,270.0" fill="none" stroke="#3b2314" stroke-width="2"/>
+<text x="350.0" y="154.0" text-anchor="middle" font-size="12" font-weight="bold" font-style="normal" fill="#7f1d1d">1st house — EAST</text>
+<text x="350.0" y="174.0" text-anchor="middle" font-size="15" font-weight="bold" font-style="normal" fill="#3b2314">Jupiter, Mercury</text>
+<text x="350.0" y="192.0" text-anchor="middle" font-size="10.5" font-weight="normal" font-style="italic" fill="#3b2314">sunrise: clear mind, counsel</text>
+<text x="250.0" y="254.0" text-anchor="middle" font-size="12" font-weight="bold" font-style="normal" fill="#7f1d1d">4th house — NORTH</text>
+<text x="250.0" y="274.0" text-anchor="middle" font-size="15" font-weight="bold" font-style="normal" fill="#3b2314">Moon, Venus</text>
+<text x="250.0" y="292.0" text-anchor="middle" font-size="10.5" font-weight="normal" font-style="italic" fill="#3b2314">midnight: rest, comfort, home</text>
+<text x="350.0" y="354.0" text-anchor="middle" font-size="12" font-weight="bold" font-style="normal" fill="#7f1d1d">7th house — WEST</text>
+<text x="350.0" y="374.0" text-anchor="middle" font-size="15" font-weight="bold" font-style="normal" fill="#3b2314">Saturn</text>
+<text x="350.0" y="392.0" text-anchor="middle" font-size="10.5" font-weight="normal" font-style="italic" fill="#3b2314">sunset: the long day ends</text>
+<text x="450.0" y="254.0" text-anchor="middle" font-size="12" font-weight="bold" font-style="normal" fill="#7f1d1d">10th house — SOUTH</text>
+<text x="450.0" y="274.0" text-anchor="middle" font-size="15" font-weight="bold" font-style="normal" fill="#3b2314">Sun, Mars</text>
+<text x="450.0" y="292.0" text-anchor="middle" font-size="10.5" font-weight="normal" font-style="italic" fill="#3b2314">noon: full blaze, command</text>
+<text x="200.0" y="120.0" text-anchor="middle" font-size="11" font-weight="normal" font-style="normal" fill="#b8860b">2</text>
+<text x="200.0" y="420.0" text-anchor="middle" font-size="11" font-weight="normal" font-style="normal" fill="#b8860b">6</text>
+<text x="500.0" y="420.0" text-anchor="middle" font-size="11" font-weight="normal" font-style="normal" fill="#b8860b">8</text>
+<text x="500.0" y="120.0" text-anchor="middle" font-size="11" font-weight="normal" font-style="normal" fill="#b8860b">12</text>
+<text x="350.0" y="530.0" text-anchor="middle" font-size="11" font-weight="normal" font-style="normal" fill="#3b2314">The 1st house is the eastern (rising) point, the 10th is overhead at noon, the 7th is the setting point,</text>
+<text x="350.0" y="546.0" text-anchor="middle" font-size="11" font-weight="normal" font-style="normal" fill="#3b2314">the 4th is underfoot at midnight. Each planet stands tallest in the house that matches its hour of the day.</text>
+</svg>

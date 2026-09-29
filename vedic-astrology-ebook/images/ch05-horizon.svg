@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="450" viewBox="0 0 780 450" font-family="Georgia, 'Times New Roman', serif">
+<rect x="0" y="0" width="780" height="450" rx="12" fill="#fffaf0" stroke="#b8860b" stroke-width="2"/>
+<text x="390.0" y="30" text-anchor="middle" font-size="19" font-weight="bold" fill="#7f1d1d">The Lagna is the sign on the eastern horizon at the moment of birth</text>
+<line x1="40" y1="350" x2="740" y2="350" stroke="#3b2314" stroke-width="2.5"/>
+<text x="740.0" y="372.0" text-anchor="end" font-size="13" font-weight="bold" font-style="normal" fill="#3b2314">EAST</text>
+<text x="40.0" y="372.0" text-anchor="start" font-size="13" font-weight="bold" font-style="normal" fill="#3b2314">WEST</text>
+<text x="390.0" y="372.0" text-anchor="middle" font-size="12" font-weight="normal" font-style="italic" fill="#3b2314">horizon at Jaipur, 12 December 1988, 06:40 — Chart A (Meera)</text>
+<path d="M140,350 A250,250 0 0 1 640,350" fill="none" stroke="#b8860b" stroke-width="3"/>
+<path d="M640,350 A250,250 0 0 1 624.9,435.5" fill="none" stroke="#b8860b" stroke-width="2" stroke-dasharray="6,5"/>
+<text x="390.0" y="70.0" text-anchor="middle" font-size="12" font-weight="normal" font-style="italic" fill="#b8860b">the zodiac belt, rising in the east and setting in the west</text>
+<circle cx="639.4" cy="332.6" r="4" fill="#b8860b"/>
+<text x="657.3" y="335.3" text-anchor="middle" font-size="11" font-weight="normal" font-style="normal" fill="#3b2314">Scorpio</text>
+<circle cx="597.3" cy="210.2" r="4" fill="#b8860b"/>
+<text x="612.2" y="204.1" text-anchor="middle" font-size="11" font-weight="normal" font-style="normal" fill="#3b2314">Libra</text>
+<circle cx="499.6" cy="125.3" r="4" fill="#b8860b"/>
+<text x="507.5" y="113.1" text-anchor="middle" font-size="11" font-weight="normal" font-style="normal" fill="#3b2314">Virgo</text>
+<circle cx="372.6" cy="100.6" r="4" fill="#b8860b"/>
+<text x="371.3" y="86.7" text-anchor="middle" font-size="11" font-weight="normal" font-style="normal" fill="#3b2314">Leo</text>
+<circle cx="250.2" cy="142.7" r="4" fill="#b8860b"/>
+<text x="240.1" y="131.8" text-anchor="middle" font-size="11" font-weight="normal" font-style="normal" fill="#3b2314">Cancer</text>
+<circle cx="165.3" cy="240.4" r="4" fill="#b8860b"/>
+<text x="149.1" y="236.5" text-anchor="middle" font-size="11" font-weight="normal" font-style="normal" fill="#3b2314">Gemini</text>
+<circle cx="640" cy="350" r="8" fill="#7f1d1d"/>
+<text x="626.0" y="310.0" text-anchor="end" font-size="13" font-weight="bold" font-style="normal" fill="#7f1d1d">Lagna = Scorpio 12°</text>
+<text x="626.0" y="326.0" text-anchor="end" font-size="11" font-weight="normal" font-style="italic" fill="#7f1d1d">(this point is rising right now)</text>
+<circle cx="634.5" cy="402.0" r="10" fill="#fbbf24" stroke="#c2410c" stroke-width="2"/>
+<text x="618.5" y="407.0" text-anchor="end" font-size="11" font-weight="normal" font-style="normal" fill="#c2410c">Sun at Scorpio 28°, still below the horizon: sunrise is about an hour away</text>
+<circle cx="268.1" cy="169.3" r="8" fill="#e5e7eb" stroke="#4b5563" stroke-width="2"/>
+<text x="282.1" y="157.3" text-anchor="start" font-size="11" font-weight="normal" font-style="normal" fill="#4b5563">Moon in Cancer (9th house)</text>
+<path d="M509,144 A238,238 0 0 0 431,116" fill="none" stroke="#3b2314" stroke-width="1.5"/>
+<polygon points="425,114 443,104 442,123" fill="#3b2314"/>
+<text x="390.0" y="190.0" text-anchor="middle" font-size="11" font-weight="normal" font-style="normal" fill="#3b2314">the sky turns this way: a new sign rises about every 2 hours</text>
+</svg>

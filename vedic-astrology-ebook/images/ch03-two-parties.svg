@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="600" viewBox="0 0 780 600" font-family="Georgia, 'Times New Roman', serif">
+<rect x="0" y="0" width="780" height="600" rx="12" fill="#fffaf0" stroke="#b8860b" stroke-width="2"/>
+<defs>
+<marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#15803d"/></marker>
+<marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b91c1c"/></marker>
+</defs>
+<text x="390.0" y="32.0" text-anchor="middle" font-size="20" font-weight="bold" font-style="normal" fill="#7f1d1d">The two parties at court: who is friend and who is foe</text>
+<rect x="40" y="60" width="300" height="440" rx="14" fill="#bbf7d0" fill-opacity="0.35" stroke="#15803d" stroke-width="1.5"/>
+<rect x="440" y="60" width="300" height="440" rx="14" fill="#dbeafe" fill-opacity="0.5" stroke="#1e3a8a" stroke-width="1.5"/>
+<text x="190.0" y="84.0" text-anchor="middle" font-size="14" font-weight="bold" font-style="normal" fill="#7f1d1d">THE ROYAL PARTY</text>
+<text x="190.0" y="101.0" text-anchor="middle" font-size="11" font-weight="normal" font-style="italic" fill="#3b2314">throne, dharma, duty</text>
+<text x="590.0" y="84.0" text-anchor="middle" font-size="14" font-weight="bold" font-style="normal" fill="#1e3a8a">THE PEOPLE'S PARTY</text>
+<text x="590.0" y="101.0" text-anchor="middle" font-size="11" font-weight="normal" font-style="italic" fill="#3b2314">trade, comfort, cleverness, labour</text>
+<line x1="251.5" y1="173.1" x2="528.5" y2="276.9" stroke="#b91c1c" stroke-width="2.5" fill="none"/>
+<line x1="224.5" y1="173.7" x2="555.5" y2="401.3" stroke="#b91c1c" stroke-width="2.5" fill="none"/>
+<line x1="268.0" y1="154.9" x2="512.0" y2="170.1" stroke="#15803d" stroke-width="2.5" fill="none" marker-start="url(#ag)"/>
+<line x1="266.7" y1="228.5" x2="510.8" y2="182.7" stroke="#15803d" stroke-width="2.5" fill="none" marker-end="url(#ag)"/>
+<line x1="269.2" y1="242.3" x2="513.3" y2="196.5" stroke="#b91c1c" stroke-width="2.5" fill="none" marker-start="url(#ar)"/>
+<line x1="243.0" y1="273.2" x2="537.0" y2="401.8" stroke="#b91c1c" stroke-width="2.5" fill="none" marker-start="url(#ar)"/>
+<line x1="243.0" y1="326.8" x2="537.0" y2="198.2" stroke="#b91c1c" stroke-width="2.5" fill="none" marker-end="url(#ar)"/>
+<line x1="267.9" y1="364.6" x2="512.1" y2="410.4" stroke="#b91c1c" stroke-width="2.5" fill="none" marker-start="url(#ar)"/>
+<line x1="224.5" y1="426.3" x2="555.5" y2="198.7" stroke="#b91c1c" stroke-width="2.5" fill="none" marker-end="url(#ar)"/>
+<line x1="251.5" y1="426.9" x2="528.5" y2="323.1" stroke="#b91c1c" stroke-width="2.5" fill="none" marker-end="url(#ar)"/>
+<line x1="190.0" y1="175.0" x2="190.0" y2="225.0" stroke="#15803d" stroke-width="2.5" fill="none"/>
+<line x1="190.0" y1="375.0" x2="190.0" y2="425.0" stroke="#15803d" stroke-width="2.5" fill="none"/>
+<line x1="190.0" y1="275.0" x2="190.0" y2="325.0" stroke="#15803d" stroke-width="2.5" fill="none" marker-start="url(#ag)"/>
+<path d="M112.0,150 Q52.0,250.0 112.0,350" stroke="#15803d" stroke-width="2.5" fill="none"/>
+<path d="M112.0,150 Q2.0,300.0 112.0,450" stroke="#15803d" stroke-width="2.5" fill="none"/>
+<path d="M112.0,250 Q52.0,350.0 112.0,450" stroke="#15803d" stroke-width="2.5" fill="none" marker-start="url(#ag)"/>
+<line x1="590.0" y1="200.0" x2="590.0" y2="275.0" stroke="#15803d" stroke-width="2.5" fill="none"/>
+<line x1="590.0" y1="325.0" x2="590.0" y2="400.0" stroke="#15803d" stroke-width="2.5" fill="none"/>
+<path d="M668.0,175 Q738.0,300.0 668.0,425" stroke="#15803d" stroke-width="2.5" fill="none" marker-start="url(#ag)"/>
+<rect x="115.0" y="128.0" width="150" height="44" rx="9" fill="#fff" stroke="#c2410c" stroke-width="2.5"/>
+<text x="190.0" y="147.0" text-anchor="middle" font-size="14" font-weight="bold" font-style="normal" fill="#c2410c">Sun</text>
+<text x="190.0" y="164.0" text-anchor="middle" font-size="10.5" font-weight="normal" font-style="italic" fill="#3b2314">the King</text>
+<rect x="115.0" y="228.0" width="150" height="44" rx="9" fill="#fff" stroke="#4b5563" stroke-width="2.5"/>
+<text x="190.0" y="247.0" text-anchor="middle" font-size="14" font-weight="bold" font-style="normal" fill="#4b5563">Moon</text>
+<text x="190.0" y="264.0" text-anchor="middle" font-size="10.5" font-weight="normal" font-style="italic" fill="#3b2314">the Queen Mother</text>
+<rect x="115.0" y="328.0" width="150" height="44" rx="9" fill="#fff" stroke="#b91c1c" stroke-width="2.5"/>
+<text x="190.0" y="347.0" text-anchor="middle" font-size="14" font-weight="bold" font-style="normal" fill="#b91c1c">Mars</text>
+<text x="190.0" y="364.0" text-anchor="middle" font-size="10.5" font-weight="normal" font-style="italic" fill="#3b2314">the Commander</text>
+<rect x="115.0" y="428.0" width="150" height="44" rx="9" fill="#fff" stroke="#b45309" stroke-width="2.5"/>
+<text x="190.0" y="447.0" text-anchor="middle" font-size="14" font-weight="bold" font-style="normal" fill="#b45309">Jupiter</text>
+<text x="190.0" y="464.0" text-anchor="middle" font-size="10.5" font-weight="normal" font-style="italic" fill="#3b2314">the Royal Priest</text>
+<rect x="515.0" y="153.0" width="150" height="44" rx="9" fill="#fff" stroke="#15803d" stroke-width="2.5"/>
+<text x="590.0" y="172.0" text-anchor="middle" font-size="14" font-weight="bold" font-style="normal" fill="#15803d">Mercury</text>
+<text x="590.0" y="189.0" text-anchor="middle" font-size="10.5" font-weight="normal" font-style="italic" fill="#3b2314">the Prince-Secretary</text>
+<rect x="515.0" y="278.0" width="150" height="44" rx="9" fill="#fff" stroke="#be185d" stroke-width="2.5"/>
+<text x="590.0" y="297.0" text-anchor="middle" font-size="14" font-weight="bold" font-style="normal" fill="#be185d">Venus</text>
+<text x="590.0" y="314.0" text-anchor="middle" font-size="10.5" font-weight="normal" font-style="italic" fill="#3b2314">Minister of Arts</text>
+<rect x="515.0" y="403.0" width="150" height="44" rx="9" fill="#fff" stroke="#1e3a8a" stroke-width="2.5"/>
+<text x="590.0" y="422.0" text-anchor="middle" font-size="14" font-weight="bold" font-style="normal" fill="#1e3a8a">Saturn</text>
+<text x="590.0" y="439.0" text-anchor="middle" font-size="10.5" font-weight="normal" font-style="italic" fill="#3b2314">the Judge of Labour</text>
+<line x1="60" y1="525" x2="110" y2="525" stroke="#15803d" stroke-width="2.5"/>
+<text x="118.0" y="529.0" text-anchor="start" font-size="12" font-weight="normal" font-style="normal" fill="#3b2314">friendship</text>
+<line x1="220" y1="525" x2="270" y2="525" stroke="#b91c1c" stroke-width="2.5"/>
+<text x="278.0" y="529.0" text-anchor="start" font-size="12" font-weight="normal" font-style="normal" fill="#3b2314">enmity</text>
+<line x1="360" y1="525" x2="410" y2="525" stroke="#3b2314" stroke-width="2.5" marker-end="url(#ag)"/>
+<text x="418.0" y="529.0" text-anchor="start" font-size="12" font-weight="normal" font-style="normal" fill="#3b2314">arrow = one-way feeling; it points at the one felt about</text>
+<text x="390.0" y="551.0" text-anchor="middle" font-size="12" font-weight="normal" font-style="italic" fill="#3b2314">No line between two courtiers = neutral. Every red line crosses the aisle; inside a party there is only green.</text>
+<text x="390.0" y="573.0" text-anchor="middle" font-size="11" font-weight="normal" font-style="normal" fill="#7f1d1d">Moon and Mercury: the mother's green arrow goes one way, the son's red arrow comes back — friendship is not always mutual.</text>
+</svg>

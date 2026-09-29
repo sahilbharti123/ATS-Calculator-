@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="480" viewBox="0 0 700 480" font-family="Georgia, 'Times New Roman', serif">
+<rect x="0" y="0" width="700" height="480" rx="12" fill="#fffaf0" stroke="#b8860b" stroke-width="2"/>
+<text x="350.0" y="30" text-anchor="middle" font-size="19" font-weight="bold" fill="#7f1d1d">Why the sign lords are easy to remember: a perfect mirror</text>
+<text x="350.0" y="66.0" text-anchor="middle" font-size="12" font-weight="normal" font-style="italic" fill="#7f1d1d">the two lights</text>
+<rect x="216.0" y="74" width="118" height="36" rx="8" fill="#fff" stroke="#4b5563" stroke-width="2"/>
+<text x="275.0" y="89.0" text-anchor="middle" font-size="13" font-weight="bold" font-style="normal" fill="#3b2314">Cancer</text>
+<text x="275.0" y="104.0" text-anchor="middle" font-size="11" font-weight="normal" font-style="normal" fill="#4b5563">lord: Moon</text>
+<rect x="366.0" y="74" width="118" height="36" rx="8" fill="#fff" stroke="#c2410c" stroke-width="2"/>
+<text x="425.0" y="89.0" text-anchor="middle" font-size="13" font-weight="bold" font-style="normal" fill="#3b2314">Leo</text>
+<text x="425.0" y="104.0" text-anchor="middle" font-size="11" font-weight="normal" font-style="normal" fill="#c2410c">lord: Sun</text>
+<rect x="178.0" y="136" width="118" height="36" rx="8" fill="#fff" stroke="#15803d" stroke-width="2"/>
+<text x="237.0" y="151.0" text-anchor="middle" font-size="13" font-weight="bold" font-style="normal" fill="#3b2314">Gemini</text>
+<text x="237.0" y="166.0" text-anchor="middle" font-size="11" font-weight="normal" font-style="normal" fill="#15803d">lord: Mercury</text>
+<rect x="404.0" y="136" width="118" height="36" rx="8" fill="#fff" stroke="#15803d" stroke-width="2"/>
+<text x="463.0" y="151.0" text-anchor="middle" font-size="13" font-weight="bold" font-style="normal" fill="#3b2314">Virgo</text>
+<text x="463.0" y="166.0" text-anchor="middle" font-size="11" font-weight="normal" font-style="normal" fill="#15803d">lord: Mercury</text>
+<line x1="296.0" y1="154.0" x2="404.0" y2="154.0" stroke="#15803d" stroke-width="1.5" stroke-dasharray="5,4"/>
+<rect x="310.0" y="143.0" width="80" height="22" rx="11" fill="#fffaf0" stroke="#15803d"/>
+<text x="350.0" y="158.0" text-anchor="middle" font-size="12" font-weight="bold" font-style="normal" fill="#15803d">Mercury</text>
+<rect x="140.0" y="198" width="118" height="36" rx="8" fill="#fff" stroke="#be185d" stroke-width="2"/>
+<text x="199.0" y="213.0" text-anchor="middle" font-size="13" font-weight="bold" font-style="normal" fill="#3b2314">Taurus</text>
+<text x="199.0" y="228.0" text-anchor="middle" font-size="11" font-weight="normal" font-style="normal" fill="#be185d">lord: Venus</text>
+<rect x="442.0" y="198" width="118" height="36" rx="8" fill="#fff" stroke="#be185d" stroke-width="2"/>
+<text x="501.0" y="213.0" text-anchor="middle" font-size="13" font-weight="bold" font-style="normal" fill="#3b2314">Libra</text>
+<text x="501.0" y="228.0" text-anchor="middle" font-size="11" font-weight="normal" font-style="normal" fill="#be185d">lord: Venus</text>
+<line x1="258.0" y1="216.0" x2="442.0" y2="216.0" stroke="#be185d" stroke-width="1.5" stroke-dasharray="5,4"/>
+<rect x="310.0" y="205.0" width="80" height="22" rx="11" fill="#fffaf0" stroke="#be185d"/>
+<text x="350.0" y="220.0" text-anchor="middle" font-size="12" font-weight="bold" font-style="normal" fill="#be185d">Venus</text>
+<rect x="102.0" y="260" width="118" height="36" rx="8" fill="#fff" stroke="#b91c1c" stroke-width="2"/>
+<text x="161.0" y="275.0" text-anchor="middle" font-size="13" font-weight="bold" font-style="normal" fill="#3b2314">Aries</text>
+<text x="161.0" y="290.0" text-anchor="middle" font-size="11" font-weight="normal" font-style="normal" fill="#b91c1c">lord: Mars</text>
+<rect x="480.0" y="260" width="118" height="36" rx="8" fill="#fff" stroke="#b91c1c" stroke-width="2"/>
+<text x="539.0" y="275.0" text-anchor="middle" font-size="13" font-weight="bold" font-style="normal" fill="#3b2314">Scorpio</text>
+<text x="539.0" y="290.0" text-anchor="middle" font-size="11" font-weight="normal" font-style="normal" fill="#b91c1c">lord: Mars</text>
+<line x1="220.0" y1="278.0" x2="480.0" y2="278.0" stroke="#b91c1c" stroke-width="1.5" stroke-dasharray="5,4"/>
+<rect x="310.0" y="267.0" width="80" height="22" rx="11" fill="#fffaf0" stroke="#b91c1c"/>
+<text x="350.0" y="282.0" text-anchor="middle" font-size="12" font-weight="bold" font-style="normal" fill="#b91c1c">Mars</text>
+<rect x="64.0" y="322" width="118" height="36" rx="8" fill="#fff" stroke="#b45309" stroke-width="2"/>
+<text x="123.0" y="337.0" text-anchor="middle" font-size="13" font-weight="bold" font-style="normal" fill="#3b2314">Pisces</text>
+<text x="123.0" y="352.0" text-anchor="middle" font-size="11" font-weight="normal" font-style="normal" fill="#b45309">lord: Jupiter</text>
+<rect x="518.0" y="322" width="118" height="36" rx="8" fill="#fff" stroke="#b45309" stroke-width="2"/>
+<text x="577.0" y="337.0" text-anchor="middle" font-size="13" font-weight="bold" font-style="normal" fill="#3b2314">Sagittarius</text>
+<text x="577.0" y="352.0" text-anchor="middle" font-size="11" font-weight="normal" font-style="normal" fill="#b45309">lord: Jupiter</text>
+<line x1="182.0" y1="340.0" x2="518.0" y2="340.0" stroke="#b45309" stroke-width="1.5" stroke-dasharray="5,4"/>
+<rect x="310.0" y="329.0" width="80" height="22" rx="11" fill="#fffaf0" stroke="#b45309"/>
+<text x="350.0" y="344.0" text-anchor="middle" font-size="12" font-weight="bold" font-style="normal" fill="#b45309">Jupiter</text>
+<rect x="26.0" y="384" width="118" height="36" rx="8" fill="#fff" stroke="#1e3a8a" stroke-width="2"/>
+<text x="85.0" y="399.0" text-anchor="middle" font-size="13" font-weight="bold" font-style="normal" fill="#3b2314">Aquarius</text>
+<text x="85.0" y="414.0" text-anchor="middle" font-size="11" font-weight="normal" font-style="normal" fill="#1e3a8a">lord: Saturn</text>
+<rect x="556.0" y="384" width="118" height="36" rx="8" fill="#fff" stroke="#1e3a8a" stroke-width="2"/>
+<text x="615.0" y="399.0" text-anchor="middle" font-size="13" font-weight="bold" font-style="normal" fill="#3b2314">Capricorn</text>
+<text x="615.0" y="414.0" text-anchor="middle" font-size="11" font-weight="normal" font-style="normal" fill="#1e3a8a">lord: Saturn</text>
+<line x1="144.0" y1="402.0" x2="556.0" y2="402.0" stroke="#1e3a8a" stroke-width="1.5" stroke-dasharray="5,4"/>
+<rect x="310.0" y="391.0" width="80" height="22" rx="11" fill="#fffaf0" stroke="#1e3a8a"/>
+<text x="350.0" y="406.0" text-anchor="middle" font-size="12" font-weight="bold" font-style="normal" fill="#1e3a8a">Saturn</text>
+<line x1="350.0" y1="120" x2="350.0" y2="410" stroke="#b8860b" stroke-width="1" stroke-dasharray="2,6"/>
+<text x="350.0" y="442.0" text-anchor="middle" font-size="12" font-weight="normal" font-style="normal" fill="#3b2314">Read downward: Mercury, Venus, Mars, Jupiter, Saturn — in order of distance from the Sun.</text>
+<text x="350.0" y="460.0" text-anchor="middle" font-size="12" font-weight="normal" font-style="italic" fill="#3b2314">One sign on the Moon's side (left), one on the Sun's side (right). Six facts give all twelve lords.</text>
+</svg>
