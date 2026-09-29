@@ -333,6 +333,7 @@ Ten minutes. You have not predicted anything yet, and already you could describe
 ## Practice
 
 > **✍️ Practice:**
+>
 > 1. In Figure 5.3 (Chart B, North Indian), which sign number sits in the 8th house, and which planets are there? Confirm by finding the same box in Figure 5.4.
 > 2. A client was born about two hours after sunrise in late April, when the Sun is in sidereal Aries. Roughly which sign rises? Which neighbouring signs would you also keep in mind, and why?
 > 3. For a Libra Lagna, name the yogakaraka and the two planets Appendix A.6 lists as marakas. In one sentence, why is Saturn friendly to Libra even though it is a natural malefic? (Hint: which houses does it own from Libra?)

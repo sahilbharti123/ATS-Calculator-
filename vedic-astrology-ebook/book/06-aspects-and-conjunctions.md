@@ -279,6 +279,7 @@ Notice what the table *does not* show: no malefic aspects the Lagna. Saturn's 8t
 ## Practice
 
 > **✍️ Practice:**
+>
 > 1. Jupiter sits in the 3rd house. Which three houses does it aspect?
 > 2. In Chart B (Figure 6.6), does Venus in the 7th aspect the Moon in the 11th? Does the Moon aspect Venus? Is there a Sambandha between them?
 > 3. Chart C (Devika, Aries Lagna) has Mars in the 3rd and the Moon in the 9th. Are they in mutual aspect? What is the name of the yoga this forms?

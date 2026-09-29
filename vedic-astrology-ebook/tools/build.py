@@ -3,7 +3,7 @@
 build.py: assembles book/*.md into a single self-contained HTML ebook (SVGs inlined)
 and, if Chromium is available, prints it to PDF.
 
-  python3 tools/build.py            # writes dist/Kundali-Made-Simple.html and .pdf
+  python3 tools/build.py            # writes dist/Astrology-Gently.html and .pdf
   python3 tools/build.py --no-pdf
 """
 import re, os, sys, glob, html, subprocess, datetime
@@ -13,15 +13,15 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BOOK = os.path.join(ROOT, "book")
 IMAGES = os.path.join(ROOT, "images")
 DIST = os.path.join(ROOT, "dist")
-TITLE = "Kundali Made Simple"
+TITLE = "Astrology, Gently"
 AUTHOR = "Anushka Bharti"
 YEAR = "2026"
 COVER = os.path.join(ROOT, "cover", "cover-front.jpg")
-SUBTITLE = "Vedic Astrology from Your First Chart to Your First Consultation"
+SUBTITLE = "A kind, beginner-friendly guide to understanding your chart and yourself"
 CHROME = "/opt/pw-browsers/chromium-1194/chrome-linux/chrome"
 
 CSS = r"""
-:root { --ink:#2b1a10; --paper:#fffdf7; --maroon:#7f1d1d; --gold:#b8860b; --muted:#6b5b4e; }
+:root { --ink:#2b1a10; --paper:#fffdf7; --maroon:#1e2a5a; --gold:#b8860b; --muted:#6b5b4e; }
 * { box-sizing: border-box; }
 html { font-size: 17px; }
 body { font-family: Georgia, "Noto Serif", "Times New Roman", serif; color: var(--ink); background: var(--paper);
@@ -29,13 +29,13 @@ body { font-family: Georgia, "Noto Serif", "Times New Roman", serif; color: var(
 .page { max-width: 820px; margin: 0 auto; padding: 32px 28px 80px; }
 h1 { font-size: 2.1rem; color: var(--maroon); border-bottom: 3px solid var(--gold); padding-bottom: .3rem; margin-top: 2.2rem; line-height: 1.2; }
 h2 { font-size: 1.45rem; color: var(--maroon); margin-top: 2rem; }
-h3 { font-size: 1.15rem; color: #5b2a1a; margin-top: 1.4rem; }
+h3 { font-size: 1.15rem; color: #2b3350; margin-top: 1.4rem; }
 p { margin: .7rem 0; text-align: left; }
 img, svg { max-width: 100%; height: auto; display: block; margin: 1.2rem auto .3rem; }
 p.caption { display:block; text-align:center; color: var(--muted); font-size: .92rem; margin-top: .1rem; }
 table { border-collapse: collapse; width: 100%; margin: 1rem 0; font-size: .9rem; }
 th, td { border: 1px solid #d9c9a8; padding: .4rem .55rem; vertical-align: top; }
-th { background: #f3e6c8; color: var(--maroon); text-align: left; }
+th { background: #eef1f8; color: var(--maroon); text-align: left; }
 tr:nth-child(even) td { background: #fbf5e8; }
 blockquote { margin: 1.1rem 0; padding: .8rem 1rem .8rem 1.1rem; border-left: 5px solid var(--gold); background: #fff7df; border-radius: 6px; }
 blockquote p { margin: .35rem 0; }
@@ -49,7 +49,7 @@ blockquote.practice { border-left-color:#15803d; background:#edfaf0; }
 blockquote.story { border-left-color:#0f766e; background:#f0fdfa; font-style: italic; }
 blockquote.why { border-left-color:#4338ca; background:#eef2ff; }
 blockquote.story strong { font-style: normal; }
-details { background:#f7f1e3; border:1px solid #e2d3b0; border-radius:6px; padding:.5rem .9rem; margin:.6rem 0 1.2rem; }
+details, div.answers { background:#f7f1e3; border:1px solid #e2d3b0; border-radius:6px; padding:.5rem .9rem; margin:.6rem 0 1.2rem; font-size:.95rem; }
 summary { cursor:pointer; font-weight:bold; color: var(--maroon); }
 code { background:#f3ead6; padding:.05rem .3rem; border-radius:3px; font-size:.9em; }
 pre { background:#f3ead6; padding:.8rem; overflow:auto; border-radius:6px; }
@@ -72,7 +72,7 @@ hr { border:none; border-top:1px solid #d9c9a8; margin:2rem 0; }
 .dot { font-weight:bold; font-size:1.05em; }
 .dot.g { color:#15803d; } .dot.y { color:#b45309; } .dot.r { color:#b91c1c; }
 .coverpage { text-align:center; page-break-after: always; margin:0; padding:0; }
-.coverpage img { width:100%; max-width:820px; margin:0 auto; display:block; }
+.coverpage img { max-width:820px; max-height:96vh; width:auto; margin:0 auto; display:block; }
 .titlepage { text-align:center; padding: 140px 20px 60px; page-break-after: always; }
 .titlepage h1 { font-size:2.8rem; border:none; }
 .titlepage .sub { font-size:1.25rem; font-style:italic; color:#5b2a1a; margin: .5rem 0 3rem; }
@@ -88,8 +88,7 @@ hr { border:none; border-top:1px solid #d9c9a8; margin:2rem 0; }
   summary { list-style:none; }
   h1, h2, h3 { page-break-after: avoid; }
   img, svg, table, blockquote { page-break-inside: avoid; }
-  @page { size: A4; margin: 18mm 16mm 20mm 16mm; }
-  .coverpage img { max-width:none; width:100%; height:auto; }
+  .coverpage { height: 96vh; overflow:hidden; } .coverpage img { max-width:100%; max-height:96vh; width:auto; height:auto; }
 }
 """
 
@@ -99,7 +98,7 @@ def strip_label_emoji(html_text):
     """The emoji are parsing markers in the source; the published book shows clean labels."""
     def repl(m):
         body = m.group(2)
-        body = re.sub(r"<strong>\s*[🧭🔍📖💡🪔📕✍️⚠]\uFE0F?\s*", "<strong class=\"lbl\">", body, count=1)
+        body = re.sub(r"<strong>\s*[🧭🔍📖💡🪔📕✍️⚠]\uFE0F?\s*", "<strong class=\"lbl\">", body)
         return f"<blockquote{m.group(1)}>{body}</blockquote>"
     return re.sub(r"<blockquote([^>]*)>(.*?)</blockquote>", repl, html_text, flags=re.S)
 
@@ -109,8 +108,9 @@ def slugify(s):
 
 def inline_svgs(html_text):
     def repl(m):
-        src = m.group(1)
-        alt = m.group(2) or ""
+        tag = m.group(0)
+        src = (re.search(r'src="([^"]+)"', tag) or [None, ""])[1]
+        alt = (re.search(r'alt="([^"]*)"', tag) or [None, ""])[1]
         path = os.path.normpath(os.path.join(BOOK, src))
         if not os.path.exists(path):
             path = os.path.join(IMAGES, os.path.basename(src))
@@ -122,7 +122,7 @@ def inline_svgs(html_text):
                 svg = re.sub(r"(<svg[^>]*>)", r"\1<title>" + html.escape(alt) + "</title>", svg, count=1)
             return f'<figure role="img" aria-label="{html.escape(alt)}">{svg}</figure>'
         return m.group(0)
-    return re.sub(r'<img[^>]*src="([^"]+)"[^>]*alt="([^"]*)"[^>]*/?>', repl, html_text)
+    return re.sub(r'<img\b[^>]*?>', repl, html_text)
 
 def classify_boxes(html_text):
     def repl(m):
@@ -147,6 +147,7 @@ def convert(md_text):
     out = classify_boxes(out)
     # italic caption lines directly after a figure
     out = re.sub(r"(</figure>)\s*<p><em>(.*?)</em></p>", r'\1<p class="caption"><em>\2</em></p>', out, flags=re.S)
+    out = re.sub(r"<details>\s*<summary>(.*?)</summary>(.*?)</details>", r'<div class="answers"><p><strong>\1</strong></p>\2</div>', out, flags=re.S)
     out = dots(out)
     out = strip_label_emoji(out)
     return out, md.toc_tokens
@@ -160,10 +161,10 @@ def cover_svg():
     # a simple decorative north-indian diamond as a cover ornament
     S = 260; ox = 0
     return f'''<svg xmlns="http://www.w3.org/2000/svg" width="{S}" height="{S}" viewBox="0 0 {S} {S}">
-<rect x="4" y="4" width="{S-8}" height="{S-8}" fill="#fffaf0" stroke="#7f1d1d" stroke-width="3"/>
-<line x1="4" y1="4" x2="{S-4}" y2="{S-4}" stroke="#7f1d1d" stroke-width="2"/>
-<line x1="{S-4}" y1="4" x2="4" y2="{S-4}" stroke="#7f1d1d" stroke-width="2"/>
-<polygon points="{S/2},4 {S-4},{S/2} {S/2},{S-4} 4,{S/2}" fill="none" stroke="#7f1d1d" stroke-width="2"/>
+<rect x="4" y="4" width="{S-8}" height="{S-8}" fill="#fffaf0" stroke="#1e2a5a" stroke-width="3"/>
+<line x1="4" y1="4" x2="{S-4}" y2="{S-4}" stroke="#1e2a5a" stroke-width="2"/>
+<line x1="{S-4}" y1="4" x2="4" y2="{S-4}" stroke="#1e2a5a" stroke-width="2"/>
+<polygon points="{S/2},4 {S-4},{S/2} {S/2},{S-4} 4,{S/2}" fill="none" stroke="#1e2a5a" stroke-width="2"/>
 <text x="{S/2}" y="{S/4+6}" text-anchor="middle" font-family="Georgia" font-size="18" fill="#b8860b">ॐ</text>
 </svg>'''
 
@@ -190,9 +191,7 @@ def main():
         if ch["num"] is None and ch["title"].startswith("Appendix") and not any("Appendix" in c["title"] for c in chapters[:chapters.index(ch)]):
             toc_html.append('<li class="part">Appendices</li>')
         toc_html.append(f'<li><a href="#{ch["id"]}">{html.escape(ch["title"])}</a>')
-        subs = [t for t in ch["toc"][0]["children"]] if ch["toc"] else []
-        if ch["title"].startswith("Appendix D") or ch["title"].startswith("Appendix B"):
-            subs = []
+        subs = []
         if subs:
             toc_html.append("<ol>")
             for s in subs:
@@ -233,20 +232,20 @@ def main():
         b = re.sub(r"<h1(.*?)>", f'<h1 id="{ch["id"]}"\\1>', ch["body"], count=1)
         body_html.append(f'<article class="chapter">{b}</article>')
 
-    print_css = ""
+    print_css = "@page { size: A4; margin: 18mm 16mm 20mm 16mm; }"
     if print_6x9:
-        print_css = "@media print { @page { size: 6in 9in; margin: 0.75in 0.6in 0.7in 0.6in; } html { font-size: 10.5pt; } .page { padding:0; } }"
+        print_css = "@page { size: 6in 9in; margin: 0.75in 0.6in 0.7in 0.6in; } @media print { html { font-size: 10.5pt; } .page { padding:0; } }"
     doc = f'''<!doctype html><html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{TITLE}: {SUBTITLE}</title><style>{CSS}</style></head>
+<title>{TITLE}: {SUBTITLE}</title><style>{CSS}{print_css}</style></head>
 <body><div class="page">{front}{"".join(toc_html)}{"".join(body_html)}</div></body></html>'''
     os.makedirs(DIST, exist_ok=True)
-    out_html = os.path.join(DIST, "Kundali-Made-Simple-print-6x9.html" if print_6x9 else "Kundali-Made-Simple.html")
+    out_html = os.path.join(DIST, "Astrology-Gently-print-6x9.html" if print_6x9 else "Astrology-Gently.html")
     open(out_html, "w", encoding="utf-8").write(doc)
     words = sum(len(re.sub(r"<[^>]+>", " ", c["body"]).split()) for c in chapters)
     print(f"wrote {out_html}  ({len(chapters)} sections, ~{words:,} words, {os.path.getsize(out_html)/1e6:.1f} MB)")
     if not no_pdf and os.path.exists(CHROME):
-        out_pdf = os.path.join(DIST, "Kundali-Made-Simple-print-6x9.pdf" if print_6x9 else "Kundali-Made-Simple.pdf")
+        out_pdf = os.path.join(DIST, "Astrology-Gently-print-6x9.pdf" if print_6x9 else "Astrology-Gently.pdf")
         cmd = [CHROME, "--headless", "--no-sandbox", "--disable-gpu", "--no-pdf-header-footer",
                f"--print-to-pdf={out_pdf}", "--virtual-time-budget=10000", f"file://{out_html}"]
         r = subprocess.run(cmd, capture_output=True, text=True, timeout=600)

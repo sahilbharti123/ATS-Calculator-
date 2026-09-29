@@ -3,7 +3,7 @@
 build_epub.py — builds a reflowable EPUB 3 (Kindle-ready) from book/*.md.
 
   python3 tools/svg2png.py      # first: renders diagrams to images_png/
-  python3 tools/build_epub.py   # → dist/Kundali-Made-Simple.epub
+  python3 tools/build_epub.py   # → dist/Astrology-Gently.epub
 """
 import os, re, glob, html, zipfile, uuid, datetime, sys
 import markdown
@@ -12,15 +12,15 @@ from lxml import html as LH, etree
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BOOK = os.path.join(ROOT, "book"); PNG = os.path.join(ROOT, "images_png"); DIST = os.path.join(ROOT, "dist")
 COVER = os.path.join(ROOT, "cover", "cover-front.jpg")
-TITLE = "Kundali Made Simple"; SUBTITLE = "Vedic Astrology from Your First Chart to Your First Consultation"
+TITLE = "Astrology, Gently"; SUBTITLE = "A kind, beginner-friendly guide to understanding your chart and yourself"
 AUTHOR = "Anushka Bharti"; LANG = "en"; YEAR = "2026"
 BOOK_ID = "urn:uuid:" + str(uuid.uuid5(uuid.NAMESPACE_URL, "kundali-made-simple-anushka-bharti-2026"))
 
 CSS = """
 body { font-family: Georgia, serif; line-height: 1.5; margin: 0 1em; color:#222; }
-h1 { font-size: 1.7em; color:#7f1d1d; margin: 1.2em 0 .6em; line-height:1.2; page-break-before: always; }
-h2 { font-size: 1.3em; color:#7f1d1d; margin-top: 1.4em; }
-h3 { font-size: 1.1em; color:#5b2a1a; }
+h1 { font-size: 1.7em; color:#1e2a5a; margin: 1.2em 0 .6em; line-height:1.2; page-break-before: always; }
+h2 { font-size: 1.3em; color:#1e2a5a; margin-top: 1.4em; }
+h3 { font-size: 1.1em; color:#2b3350; }
 p { margin: .6em 0; text-indent: 0; }
 img { max-width: 100%; height: auto; display:block; margin: .8em auto .2em; }
 p.caption { text-align:center; font-size:.9em; color:#555; font-style: italic; margin-top:.1em; }
@@ -38,10 +38,10 @@ blockquote.practice { border-left-color:#15803d; background:#edfaf0; }
 blockquote.story { border-left-color:#0f766e; background:#f0fdfa; font-style: italic; }
 div.answers { border:1px solid #ddd; background:#f7f1e3; padding:.5em .9em; margin:.6em 0 1.2em; }
 .dot { font-weight:bold; }
-strong.lbl { font-variant: small-caps; letter-spacing:.04em; color:#7f1d1d; } .dot.g { color:#15803d; } .dot.y { color:#b45309; } .dot.r { color:#b91c1c; }
+strong.lbl { font-variant: small-caps; letter-spacing:.04em; color:#1e2a5a; } .dot.g { color:#15803d; } .dot.y { color:#b45309; } .dot.r { color:#b91c1c; }
 .titlepage { text-align:center; margin-top: 25%; }
 .titlepage h1 { border:none; page-break-before: auto; font-size: 2.2em; }
-.titlepage .sub { font-style: italic; color:#5b2a1a; font-size: 1.1em; margin-bottom: 2em; }
+.titlepage .sub { font-style: italic; color:#2b3350; font-size: 1.1em; margin-bottom: 2em; }
 .titlepage .author { font-size:1.2em; letter-spacing:.05em; }
 .copyright { font-size:.85em; color:#444; margin-top: 30%; }
 .dedication { text-align:center; font-style:italic; font-size:1.1em; margin-top: 35%; }
@@ -54,7 +54,7 @@ def strip_label_emoji(html_text):
     """The emoji are parsing markers in the source; the published book shows clean labels."""
     def repl(m):
         body = m.group(2)
-        body = re.sub(r"<strong>\s*[🧭🔍📖💡🪔📕✍️⚠]\uFE0F?\s*", "<strong class=\"lbl\">", body, count=1)
+        body = re.sub(r"<strong>\s*[🧭🔍📖💡🪔📕✍️⚠]\uFE0F?\s*", "<strong class=\"lbl\">", body)
         return f"<blockquote{m.group(1)}>{body}</blockquote>"
     return re.sub(r"<blockquote([^>]*)>(.*?)</blockquote>", repl, html_text, flags=re.S)
 
@@ -66,13 +66,14 @@ def md2xhtml(md_text, images_used):
     out = md.convert(md_text)
     # images: ../images/x.svg -> images/x.png
     def img(m):
-        src = m.group(1); alt = m.group(2)
+        tag = m.group(0)
+        src = (re.search(r'src="([^"]+)"', tag) or [None, ""])[1]; alt = (re.search(r'alt="([^"]*)"', tag) or [None, ""])[1]
         name = os.path.basename(src)[:-4] + ".png"
         if os.path.exists(os.path.join(PNG, name)):
             images_used.add(name)
             return f'<img src="images/{name}" alt="{html.escape(alt)}"/>'
         return ""
-    out = re.sub(r'<img[^>]*src="([^"]+)"[^>]*alt="([^"]*)"[^>]*/?>', img, out)
+    out = re.sub(r'<img\b[^>]*?>', img, out)
     # box classes
     def box(m):
         body = m.group(1)
@@ -173,7 +174,7 @@ def main():
 <spine toc="ncx">{"".join(spine)}</spine>
 </package>'''
     os.makedirs(DIST, exist_ok=True)
-    out = os.path.join(DIST, "Kundali-Made-Simple.epub")
+    out = os.path.join(DIST, "Astrology-Gently.epub")
     with zipfile.ZipFile(out, "w") as z:
         z.writestr(zipfile.ZipInfo("mimetype"), "application/epub+zip", compress_type=zipfile.ZIP_STORED)
         z.writestr("META-INF/container.xml", '<?xml version="1.0" encoding="utf-8"?><container version="1.0" xmlns="urn:oasis:names:tc:opendocument:xmlns:container"><rootfiles><rootfile full-path="OEBPS/content.opf" media-type="application/oebps-package+xml"/></rootfiles></container>', zipfile.ZIP_DEFLATED)

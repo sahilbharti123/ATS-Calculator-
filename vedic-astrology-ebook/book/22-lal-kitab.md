@@ -285,6 +285,7 @@ Usually the other astrologer was not wrong; he was speaking Lal Kitab.
 ## Practice
 
 > **✍️ Practice:**
+>
 > 1. Convert Chart B (Arjun; Parashari houses: Sun, Mercury, Saturn in 8; Moon in 11; Mars in 2; Jupiter in 5; Venus in 7; Rahu in 4; Ketu in 10) into the Lal Kitab frame. Which planets sit in their own pakka ghar? Which are guests, and in whose house?
 > 2. In Chart A, which houses are empty and therefore "asleep" in the Lal Kitab reading? Give one Parashari reason why an empty house is not a problem in itself.
 > 3. Is Chart B's Mars Mangal Nek or Mangal Bad by the commonly taught conditions? What does Parashari say about the same Mars for a Cancer Lagna?

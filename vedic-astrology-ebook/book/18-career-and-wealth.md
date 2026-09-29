@@ -254,6 +254,7 @@ Write the answers down before you speak. A written checklist separates a reader 
 ## Practice
 
 > **✍️ Practice:**
+>
 > 1. For Chart C (Devika, Aries Lagna: Sun 5° and Jupiter 26° in Cancer in the 4th; Moon in Sagittarius in the 9th; Mars 27° and Venus in Gemini in the 3rd; Mercury, Saturn and Rahu in Leo in the 5th; Ketu in Aquarius in the 11th), find the 10th house from the Lagna, from the Moon and from the Sun. Which is strongest?
 > 2. Devika's 10th lord is Saturn. Where does it sit, and with whom? Using the planet and sign tables, describe the *shape* of her career in two sentences.
 > 3. Is Chart C a job chart or a business chart? Give two reasons from the 6th and 7th houses.

@@ -257,6 +257,7 @@ The indicators of marital strain, all 🔴: the lords of the 6th, 8th or 12th in
 ## Practice
 
 > **✍️ Practice:**
+>
 > 1. Chart C (Devika, Aries Lagna: Sun 5° and Jupiter 26° Cancer; Moon 14° Sagittarius; Mars 27° and Venus 15° Gemini; Mercury 1°, Saturn 18°, Rahu 3° Leo; Ketu 3° Aquarius). Find her 7th house, its lord and where that lord sits. In one sentence, what does it say about partnership?
 > 2. Compute Devika's Darakaraka and her Upapada Lagna (12th house Pisces; lord Jupiter in Cancer).
 > 3. Devika's Moon is in Purva Ashadha; Arjun's is in Krittika. Compute Gana, Yoni and Nadi for that pair.

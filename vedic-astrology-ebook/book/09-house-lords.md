@@ -377,6 +377,7 @@ Now look at Chart C, because it has a real one. Devika's Moon sits in Sagittariu
 ## Practice
 
 > **✍️ Practice:**
+>
 > 1. For a Leo Lagna, name the lord of the 4th house. If it sits in the 10th house, what sign is it in, and what does the placement suggest?
 > 2. In Chart B (Cancer Lagna), where is the 10th lord? Apply the five-step method's first two steps to Arjun's career.
 > 3. Chart C (Aries Lagna): find the dispositor of Saturn, then of that planet, and name the final dispositor of Saturn's chain.

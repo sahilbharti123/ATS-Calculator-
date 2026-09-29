@@ -219,6 +219,7 @@ Where they sit: Mars, the yogakaraka, in the 2nd house Leo, retrograde, in the S
 ## Practice
 
 > **✍️ Practice:**
+>
 > 1. Derive the functional nature of Jupiter for a Gemini Lagna. Which houses does it own, and what does Parashara's rule say?
 > 2. Which two Lagnas have Venus as yogakaraka by the strict angle-plus-trine test? Show the houses.
 > 3. Chart C (Devika) is an Aries Lagna. Her Saturn is in the 5th. Is Saturn a functional benefic or malefic for her, and which house group does its placement fall in?

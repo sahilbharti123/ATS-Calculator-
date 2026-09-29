@@ -187,6 +187,7 @@ A deep, research-type mind: Jupiter in Scorpio in the 5th, Mercury in the 8th (t
 ## Practice
 
 > **✍️ Practice:**
+>
 > 1. Compute the D7 sign of Chart C's Jupiter (26° Cancer) and of Chart A's 5th lord Jupiter (8° Taurus). Show the working.
 > 2. Chart A (Meera): the 5th is Pisces with retrograde Mars; the 5th lord Jupiter is retrograde in the 7th. Judge her children question in three sentences, using the 5th from the Moon as well.
 > 3. Chart C (Devika): which planet dominates her 4th, 5th and 9th, and which subject table row would you read? Explain in two sentences.

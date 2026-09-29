@@ -1,13 +1,16 @@
-# Kundali Made Simple: Vedic Astrology from Your First Chart to Your First Consultation
+# Astrology, Gently: A kind, beginner-friendly guide to understanding your chart and yourself
 
-A complete, illustrated beginner-to-consultant ebook on Vedic astrology (Jyotish), written in the voice of a veteran Indian astrologer. Parashari astrology is the backbone; **Lal Kitab** material appears only in clearly labelled boxes with its source stated.
+A complete, illustrated beginner-to-consultant book on Vedic astrology (Jyotish) by **Anushka Bharti**, written for everyone who bought the classics and understood nothing. Every rule comes with its reason and an everyday parallel; every hard idea comes with a memory story from a royal court; every table is colour-coded. Parashari astrology is the backbone; **Lal Kitab** material appears only in clearly labelled boxes with its source stated. Ready for Amazon KDP (see `PUBLISHING.md`).
 
 ## Read it
 
 | Format | File |
 |---|---|
-| PDF (print-ready, A4) | `dist/Kundali-Made-Simple.pdf` |
-| Single-file HTML (open in any browser, dark charts inline) | `dist/Kundali-Made-Simple.html` |
+| Kindle eBook (reflowable EPUB 3) | `dist/Astrology-Gently.epub` |
+| Paperback interior (6 × 9 in PDF) | `dist/Astrology-Gently-print-6x9.pdf` |
+| Reading PDF (A4) | `dist/Astrology-Gently.pdf` |
+| Single-file HTML (all diagrams inline) | `dist/Astrology-Gently.html` |
+| Covers (eBook front JPG, paperback wrap PDF) | `cover/` |
 | Markdown chapters (GitHub renders these with the diagrams) | `book/` |
 
 ## Contents
@@ -27,8 +30,12 @@ A complete, illustrated beginner-to-consultant ebook on Vedic astrology (Jyotish
 cd vedic-astrology-ebook
 pip install markdown            # once
 python3 tools/storybank.py      # regenerates Appendix D from the chapters' Story boxes
-python3 tools/lint.py           # structural checks
-python3 tools/build.py          # → dist/*.html and (if Chromium is available) dist/*.pdf
+python3 tools/lint.py           # structure, facts-of-form, no em dashes
+python3 tools/build.py          # → dist/Astrology-Gently.html and .pdf (A4)
+python3 tools/build.py --print  # → dist/Astrology-Gently-print-6x9.pdf (KDP paperback interior)
+python3 tools/svg2png.py        # renders diagrams to images_png/ for the EPUB
+python3 tools/build_epub.py     # → dist/Astrology-Gently.epub (Kindle)
+python3 tools/print_wrap_cover.py 446   # → cover/cover-paperback-wrap.pdf (use the print page count)
 ```
 
 Diagrams are generated with `tools/kundali_svg.py` (North/South Indian charts, Lal Kitab chart, aspect diagrams, zodiac and nakshatra wheels, dasha bars). Example:
@@ -43,4 +50,4 @@ python3 tools/kundali_svg.py north --lagna 8 \
 
 ## A note on sources
 
-The teaching voice is a persona; anecdotes are composites and the three case-study charts are constructed for teaching. Classical sources: *Brihat Parashara Hora Shastra*, *Brihat Jataka*, *Phaladeepika*, *Saravali*, *Jataka Parijata*, *Prashna Marga*. Lal Kitab references are to Pt. Roop Chand Joshi's Urdu editions (1939–1952); Hindi translations vary and the book says so wherever it matters.
+Anecdotes are composites and the three case-study charts are constructed for teaching. Classical sources: *Brihat Parashara Hora Shastra*, *Brihat Jataka*, *Phaladeepika*, *Saravali*, *Jataka Parijata*, *Prashna Marga*. Lal Kitab references are to Pt. Roop Chand Joshi's Urdu editions (1939–1952); Hindi translations vary and the book says so wherever it matters.

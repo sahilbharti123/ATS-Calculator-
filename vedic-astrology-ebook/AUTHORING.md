@@ -1,9 +1,9 @@
-# Authoring guide for *Kundali Made Simple*
+# Authoring guide for *Astrology, Gently*
 
 This file is the contract every chapter follows. Read it fully before writing.
 
 ## The book
-**Title:** *Kundali Made Simple — Vedic Astrology from Your First Chart to Your First Consultation*
+**Title:** *Astrology, Gently — A kind, beginner-friendly guide to understanding your chart and yourself*
 **Reader:** an absolute beginner who bought classic books and "understood nothing". Smart, curious, no Sanskrit, no prior astrology. Goal: by the last page they can read a chart end-to-end and sit for a paid consultation with confidence and ethics.
 **Author:** Anushka Bharti, a practising astrologer who learned the hard way — she bought the classic books and understood nothing, then rebuilt the subject for herself from first principles. The book is her *love letter* to everyone struggling to learn astrology. Its motive, stated in the preface and honoured in every chapter: even if the reader never takes a single paid consultation, they should be able to understand their own nature and know what is happening with themselves and the people they love.
 **Voice:** first person ("I", "when I was learning this", "the way I finally understood it"), warm, plain-spoken, a little humorous, a fellow traveller a few steps ahead — never a distant guru. NEVER claim decades of practice, a count of charts read, a grandfather-astrologer lineage, or clients calling the author "Guruji". Anecdotes are drawn from ordinary life and from *learning*: "a friend's chart", "my own chart", "a cousin's wedding", "the day this finally clicked for me", "a woman I read for" (composite). Clients, when they appear, address her as "Anushka" or "Didi" or not at all. Everyday Indian life supplies the analogies: a joint family, a kitchen, a railway station, a school, a cricket team, an office, a bus ride, a wedding, exam season, a WhatsApp family group.

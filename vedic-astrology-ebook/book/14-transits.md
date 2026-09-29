@@ -256,6 +256,7 @@ Let us read Meera's sky for the years around this book, the way I would for a fr
 ## Practice
 
 > **✍️ Practice:**
+>
 > 1. Chart B (Arjun) has his Moon in Taurus. With Saturn in Pisces (2025–27), which house from his Moon is Saturn in, and is it a named transit? What happens when Saturn enters Aries?
 > 2. Chart C (Devika) has her Moon in Sagittarius. Is she in Sade Sati or Dhaiya during Saturn's stay in Pisces? Count and name it.
 > 3. Jupiter transits Cancer. For a person with the Moon in Pisces, which house from the Moon is that, and is it on Jupiter's good list? Which three houses from their Moon does Jupiter aspect from there?

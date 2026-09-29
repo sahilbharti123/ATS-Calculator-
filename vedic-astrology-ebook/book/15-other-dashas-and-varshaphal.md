@@ -202,6 +202,7 @@ You now have four timekeepers (Vimshottari, Yogini, Chara, Varshaphal) and each 
 ## Practice
 
 > **✍️ Practice:**
+>
 > 1. A Moon in Rohini (nakshatra 4). Which yogini comes first, and for how many years in full?
 > 2. A Moon in Revati (27) at 25° Pisces. Find the first yogini and its balance at birth.
 > 3. Chart B's Lagna is Cancer; its lord the Moon is in Taurus. Compute Arjun's Arudha Lagna. Does the exception apply?

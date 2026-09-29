@@ -227,6 +227,7 @@ There is a second limit, more practical: **perfection does not exist.** Every da
 ## Practice
 
 > **✍️ Practice:**
+>
 > 1. The Sun is at 10° Leo and the Moon at 22° Scorpio. Compute the tithi (name and paksha), the tithi family, and the yoga number.
 > 2. Which day of the week is Purna-family Dashami "Siddha" on? Which family is Chaturdashi, and what does that mean for a house-warming?
 > 3. Arjun (Chart B) has his Moon in Taurus, birth star Krittika. On a day when the Moon is in Sagittarius in Mula, is the day good for him to sign a lease? Check Chandra bala and Tara bala.

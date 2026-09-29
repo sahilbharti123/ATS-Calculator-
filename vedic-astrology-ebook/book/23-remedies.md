@@ -344,6 +344,7 @@ For each chart: the functional nature of the planet (Appendix A.6), the decision
 ## Practice
 
 > **✍️ Practice:**
+>
 > 1. A Taurus-Lagna client asks for a yellow sapphire "for luck". Using Appendix A.6, decide and explain in two sentences.
 > 2. For Chart B, design a complete prescription card for the Saturn-in-the-8th concern, using the template above.
 > 3. Which of these pairs may be worn together, and which not: ruby and pearl; pearl and hessonite; emerald and blue sapphire; coral and emerald? Give the reason from natural friendship.

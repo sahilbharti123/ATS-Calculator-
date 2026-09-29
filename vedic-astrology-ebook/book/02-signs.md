@@ -275,6 +275,7 @@ Three questions, every time: *Who is the planet? What does the sign ask of it? A
 ## Practice
 
 > **✍️ Practice:**
+>
 > 1. Without looking at the table, write the lords of Pisces, Virgo and Aquarius. Then check them against the mirror in Figure 2.2 and explain, in one sentence, how the mirror gave you each answer.
 > 2. Name the element and quality of Scorpio, Gemini and Capricorn, and give each a two-word nature (like "movable fire").
 > 3. Meera's Venus is in Libra. Answer the three questions (who, what does the sign ask, are they friends) and write a two-sentence reading.

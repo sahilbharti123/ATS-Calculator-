@@ -375,6 +375,7 @@ The fourteen preparation points and the twelve-point code, one page, identical t
 ## Practice
 
 > **✍️ Practice:**
+>
 > 1. A client writes on the intake form: "Born 1990, morning, in Lucknow. Grandmother remembers it was just after the milkman came." Write the three follow-up questions you would ask before casting any chart.
 > 2. Rewrite each of these in the language of the ten rules: (a) "Your Saturn dasha will destroy your business." (b) "You will have a son in 2027." (c) "Your husband's chart is the reason you are unhappy."
 > 3. A client asks, "Just tell me, will my father survive this illness?" Write your reply in full, in no more than four sentences.

@@ -271,6 +271,7 @@ Keep this table by your desk until you no longer need it. Every value agrees wit
 ## Practice
 
 > **✍️ Practice:**
+>
 > 1. A client's Moon is at 5° Scorpio, born two days before a new moon. Comment on the Moon's sign dignity and its natural nature, and write one gentle sentence you could say about it.
 > 2. In Chart C (Devika), Mercury is at 1° Leo and the Sun at 5° Cancer. Are they in the same sign? How many degrees apart are they? Is Mercury combust?
 > 3. Which planets are friends of Venus? A chart has Venus in Sagittarius. How does Venus feel there, and why?

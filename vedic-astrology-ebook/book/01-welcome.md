@@ -198,6 +198,7 @@ Let us begin with the twelve signs.
 ## Practice
 
 > **✍️ Practice:**
+>
 > 1. In Figure 1.3, which sign is in Meera's 4th house? Which planet sits there?
 > 2. Meera's Jupiter is in the 7th house. Using the North Indian layout, which sign number is that, and what is the sign's name?
 > 3. Your friend says, "I'm a Sagittarius Sun, born 5 December." In which sign would Vedic astrology most likely place their Sun? Why?

@@ -588,6 +588,7 @@ The sky will keep moving whether or not you look up. The difference an astrologe
 ## Practice
 
 > **✍️ Practice:**
+>
 > 1. Compute the nakshatra and pada of Arjun's Venus (24° Capricorn) and Devika's Jupiter (26° Cancer) from the absolute longitude, and name each nakshatra's lord.
 > 2. Using the A.10 rule, find the Navamsa sign of Meera's Saturn (5° Sagittarius) and Devika's Venus (15° Gemini). Show the counting.
 > 3. In Chart B, Saturn is the 7th lord and Venus occupies the 7th. Write two sentences on marriage for Arjun that use both facts and neither the word "delay" nor the word "dosha".

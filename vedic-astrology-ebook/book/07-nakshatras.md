@@ -275,6 +275,7 @@ The old texts speak of a 28th nakshatra, **Abhijit** ("victorious"), squeezed be
 ## Practice
 
 > **✍️ Practice:**
+>
 > 1. Without looking at the table, name the lord of Dhanishta (number 23) by counting.
 > 2. A Moon at 25° Leo: which nakshatra, which pada, and which Navamsa sign?
 > 3. Is a Moon at 28° Scorpio in Gandanta? What about a Moon at 18° Scorpio?

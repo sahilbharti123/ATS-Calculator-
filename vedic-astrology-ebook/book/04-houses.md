@@ -245,6 +245,7 @@ Arjun's chart concentrates in the 8th: Sun, Mercury, Saturn. Three planets in on
 ## Practice
 
 > **✍️ Practice:**
+>
 > 1. Without a table, derive the meanings of the 11th house from its natural sign, lord and body part. Then name its karaka.
 > 2. Devika (Chart C) has Sun and Jupiter in the 4th (Cancer) and Saturn, Rahu and Mercury in the 5th (Leo). Which planets sit in kendras? Which in trikonas? Which house group is the 5th, and does a malefic there follow the "benefics in kendra/trikona, malefics in upachaya" preference?
 > 3. Explain in two sentences why the 7th house is called a maraka, using the 12th-from logic.

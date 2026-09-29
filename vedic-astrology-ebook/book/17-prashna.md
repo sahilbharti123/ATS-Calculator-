@@ -209,6 +209,7 @@ The Moon at 8° Aries is 202° ahead of the Sun: the second tithi after the full
 ## Practice
 
 > **✍️ Practice:**
+>
 > 1. A question about marriage is asked with Capricorn rising. Saturn is in Capricorn; the Moon (7th lord) is in Virgo. Is the connection a yes, a no, or a delay? What else would you check?
 > 2. A lost-objects question: Taurus rising, the 4th lord Sun is in Sagittarius, the Moon is in Leo. Where would you look, and has the object moved?
 > 3. In a job question with Aries rising, Mars is in the 8th and the 10th lord Saturn is in Aries. Read the connection and the company.

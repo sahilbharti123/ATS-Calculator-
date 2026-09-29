@@ -6,6 +6,6 @@ Her first years of study were frustrating. The classical texts assumed knowledge
 
 She reads charts for people in the Parashari tradition, uses Lal Kitab as a clearly separate lens for remedies, and believes that the most important use of astrology is not prediction but understanding: of one's own nature, of one's seasons, and of the people one loves.
 
-*Kundali Made Simple* is her first book.
+*Astrology, Gently* is her first book.
 
 If this book helped you, the kindest thing you can do is tell someone else who is struggling with the same closed books. And if you find an error, please write; a second edition should be better than the first.

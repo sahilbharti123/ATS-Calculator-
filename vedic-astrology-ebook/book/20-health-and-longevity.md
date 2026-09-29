@@ -209,6 +209,7 @@ Aries Lagna. Lagna lord Mars in the 3rd in Gemini at 27°. Sun 5° and Jupiter 2
 ## Practice
 
 > **✍️ Practice:**
+>
 > 1. Chart B (Arjun, Cancer Lagna: Sun 18°, Mercury 2°, Saturn 25° in Aquarius in the 8th; Moon 6° Taurus in the 11th; Mars 21° (R) Leo in the 2nd; Jupiter 22° Scorpio in the 5th; Venus 24° Capricorn in the 7th; Rahu Libra in the 4th; Ketu Aries in the 10th). Name his Lagna lord and where it sits, and judge his constitution in one sentence.
 > 2. Which body areas does Arjun's 8th-house cluster point to? Use both the sign and the house.
 > 3. Arjun's Moon in Taurus: is it afflicted? What does Rahu in the 4th add to the mental-health reading?
