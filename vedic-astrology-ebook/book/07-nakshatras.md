@@ -25,6 +25,8 @@ Ashwini (1) is Ketu's, Bharani (2) Venus's, Krittika (3) Sun's, and so on to Ash
 
 To find any lord: take the nakshatra number, subtract 9 or 18 until you are between 1 and 9, then read off the sequence. Shravana is number 22; 22 − 18 = 4; the fourth lord is the Moon. Vishakha is 16; 16 − 9 = 7; the seventh lord is Jupiter. After a week you will not need the arithmetic — the nine-name chant will simply run in your head.
 
+> **📖 Story: Nine relay runners, three laps.** Picture the zodiac as a running track of twenty-seven lanes-lengths, and nine runners from the court passing a baton. The Headless Sadhu, Ketu, always starts — he has nothing to carry, so he runs light. He hands to the Minister of Pleasure, Venus, who runs the longest leg (twenty years of dasha; she likes to linger). She hands to the King, who runs a short, proud six. The King hands to the Queen Mother, she to the Commander, he to the Smoke-headed Stranger — who runs a long, strange eighteen — then the Royal Priest, the old Judge (nineteen; he is slow), and last the young Prince, who sprints seventeen and hands back to the Sadhu. Nine runners, one lap. Then the same nine run the lap again, and again: three laps make twenty-seven. The Sadhu's three starting lines are Ashwini, Magha and Mula — the first streets of the three fire districts. **Rule:** Nakshatra lords run Ketu, Venus, Sun, Moon, Mars, Rahu, Jupiter, Saturn, Mercury, three times round; the lord of nakshatra *n* is the ((n − 1) mod 9) + 1-th runner.
+
 > **🧭 Guruji's rule of thumb:** Learn the nine lords as a chant, in order, before you learn anything else about nakshatras. *Ke-Ve-Su-Mo-Ma-Ra-Ju-Sa-Me.* It unlocks dasha, Tara Bala and marriage matching, all at once.
 
 ## Padas and the Navamsa: why the quarters matter
@@ -48,9 +50,17 @@ Each pada is 3°20′ — and 3°20′ is also exactly one-ninth of a sign, whic
 
 So the pada tells you *which flavour* of the nakshatra a planet expresses. A Moon in Ashwini pada 1 (Aries Navamsa) is the pioneer; in pada 4 (Cancer Navamsa) the healer who nurses. When you know the pada, you already know half the Navamsa chart.
 
+> **📖 Story: Four rooms on one street.** Every street in the kingdom — every nakshatra — has exactly four houses on it, and the houses are numbered round the whole kingdom without a break. Walk down Ashwini Street: house 1 is painted in Aries red, house 2 in Taurus earth, house 3 in Gemini's airy blue, house 4 in Cancer's water-purple. Turn into Bharani Street and the numbering simply continues — Leo, Virgo, Libra, Scorpio — and Krittika Street begins with Sagittarius. After twelve houses the painters run out of colours and start again from Aries red. Walk all 108 houses and you will have passed each of the twelve colours nine times. The colour of the house is the Navamsa sign. **Rule:** Each pada is one Navamsa sign; count padas from Ashwini pada 1 = Aries and cycle through the twelve signs.
+
 ## The twenty-seven streets
 
-Below is one compact profile for each nakshatra. Read them slowly, and then read the profile of *your own* Moon and see whether your family would recognise you. Spans, lords, deities, symbols and ganas are exactly as in Appendix A.7; the Gana (temperament) is Deva (godly, refined), Manushya (human, practical) or Rakshasa (fierce, intense) — descriptive words, not verdicts.
+Below is one compact profile for each nakshatra. Read them slowly, and then read the profile of *your own* Moon and see whether your family would recognise you. Spans, lords, deities, symbols and ganas are exactly as in Appendix A.7. The **Gana** (temperament) is Deva (godly, refined), Manushya (human, practical) or Rakshasa (fierce, intense). The colours below are the marriage-matching convention (Deva with Deva is easiest, Rakshasa with Deva the hardest to blend) — a code for compatibility, not a verdict on anyone's character.
+
+| Gana | Nakshatras |
+|---|---|
+| 🟢 Deva (refined, gentle) | Ashwini, Mrigashira, Punarvasu, Pushya, Hasta, Swati, Anuradha, Shravana, Revati |
+| 🟡 Manushya (human, practical) | Bharani, Rohini, Ardra, Purva Phalguni, Uttara Phalguni, Purva Ashadha, Uttara Ashadha, Purva Bhadrapada, Uttara Bhadrapada |
+| 🔴 Rakshasa (fierce, intense) | Krittika, Ashlesha, Magha, Chitra, Vishakha, Jyeshtha, Mula, Dhanishta, Shatabhisha |
 
 **1. Ashwini** — 0°00′–13°20′ Aries · Lord Ketu (7 yrs) · Deity the Ashwini Kumaras, the divine physicians · Symbol a horse's head · Gana Deva.
 *Theme:* speed, healing, first arrivals. *Moon here:* quick, impatient, kind in a brisk way, always first to help and first to leave. *Often seen:* doctors, paramedics, athletes, couriers, anyone whose value is in being fast.
@@ -161,6 +171,8 @@ Three times around the zodiac a water sign ends and a fire sign begins: Cancer i
 ![The three Gandanta junctions between water and fire signs](../images/ch07-gandanta.svg)
 *Figure 7.4: The three knots. Each is a 6°40′ strip straddling the end of a water sign and the start of a fire sign.*
 
+> **📖 Story: The ford between two rivers.** Three times in the kingdom a water district ends and a fire district begins, and there is no bridge — only a ford. On the water bank the last street belongs to the young Prince, Mercury (Ashlesha, Jyeshtha, Revati); on the fire bank the first street belongs to the Headless Sadhu, Ketu (Magha, Mula, Ashwini). A traveller born while crossing the ford — the Queen Mother's carriage in the last 3°20′ of the water street or the first 3°20′ of the fire street — gets her feet wet: a turbulent start, feelings that run raw. But every pilgrim who reaches the far bank has crossed something the people on either shore never had to. **Rule:** Gandanta is the last 3°20′ of Ashlesha, Jyeshtha, Revati and the first 3°20′ of Magha, Mula, Ashwini; check the Moon and Lagna there and speak of intensity, not doom.
+
 What to say to a client born with the Moon in a knot: "Your emotional life began with intensity, and you may feel things more rawly than others — that same intensity is also your depth." What *not* to say: anything about danger to parents, early death, or "dosha" as a curse. In my experience Gandanta Moons belong to people of unusual depth who had a bumpy first few years; the knot marks a transition, not a sentence. A brief note: Chart C's Mercury at 1° Leo sits in the Magha knot; for a planet other than the Moon or Lagna most teachers simply note this and move on.
 
 > **⚠️ Common beginner mistake:** Calling every planet in Ashlesha, Jyeshtha, Revati, Magha, Mula or Ashwini "Gandanta". The knot is only the 3°20′ on either side of the join. Meera's Moon at 21° Cancer is in Ashlesha and nowhere near it.
@@ -175,18 +187,20 @@ The **Tara Bala** ("strength of the star") is the oldest everyday use of the nak
 
 | Count | Tara | Meaning | Use |
 |---|---|---|---|
-| 1 | Janma | birth | mixed; care for health, avoid big risks |
-| 2 | Sampat | wealth | good |
-| 3 | Vipat | danger | avoid starting things |
-| 4 | Kshema | well-being | good |
-| 5 | Pratyari | obstacle | avoid |
-| 6 | Sadhaka | achievement | good |
-| 7 | Vadha | harm | avoid |
-| 8 | Mitra | friend | good |
-| 9 (or 0) | Ati-Mitra | great friend | good |
+| 1 | Janma | birth | 🟡 mixed; care for health, avoid big risks |
+| 2 | Sampat | wealth | 🟢 good |
+| 3 | Vipat | danger | 🔴 avoid starting things |
+| 4 | Kshema | well-being | 🟢 good |
+| 5 | Pratyari | obstacle | 🔴 avoid |
+| 6 | Sadhaka | achievement | 🟢 good |
+| 7 | Vadha | harm | 🔴 avoid |
+| 8 | Mitra | friend | 🟢 good |
+| 9 (or 0) | Ati-Mitra | great friend | 🟢 good |
 
 ![The nine Taras as a coloured strip with the counting rule and a worked example](../images/ch07-tara-bala.svg)
 *Figure 7.5: The nine-fold count. Green days favour new beginnings; red days are for routine work; the birth star itself is a day to rest.*
+
+> **📖 Story: The nine gates.** From your birth street to any other street in the kingdom you must pass through gates, and the gates repeat in a cycle of nine. The first gate is your own front door (Janma — stay home, rest). The second opens onto the treasury (Sampat). The third is guarded by a suspicious sentry (Vipat — turn back). The fourth is the garden gate (Kshema). The fifth is where the rival's men wait (Pratyari — turn back). The sixth is the gate of the workshop where things get finished (Sadhaka). The seventh is the executioner's gate (Vadha — turn back). The eighth is your friend's door (Mitra) and the ninth your best friend's (Ati-Mitra). Then the cycle begins again at your own door. **Rule:** Count from birth star to today's star, both included, subtract nines; 2, 4, 6, 8, 9 are open gates, 3, 5, 7 are closed, 1 is home.
 
 **Worked example.** Meera's birth star is Ashlesha, number 9. Suppose she wants to sign a lease on a day when the Moon is in Hasta, number 13. Count 9, 10, 11, 12, 13 — that is 5. Remainder 5 is Pratyari, obstacle: sign tomorrow instead. Tomorrow the Moon is in Chitra, 14. The count is 6, Sadhaka, achievement: a fine day. When the count runs over 9 — say her birth star is 9 and the Moon is in Revati, 27 — count 19, subtract 18, get 1: Janma, a day to rest. The same nine-fold count between two people's birth stars is the *Tara koota* in marriage matching (Appendix A.12).
 

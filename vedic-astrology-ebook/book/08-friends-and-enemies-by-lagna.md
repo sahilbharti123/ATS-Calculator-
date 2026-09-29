@@ -10,6 +10,8 @@ Take a Libra Lagna. Libra is the 1st house; count round: Scorpio 2nd, Sagittariu
 
 Meanwhile Jupiter, the great natural benefic, owns Sagittarius and Pisces for this Libra: the 3rd and the 6th. Effort, siblings, rivals, disputes, debts, illness. Jupiter is still generous by nature — but its generosity is now spent on *those* departments. A Libra in a Jupiter period may find themselves generous to a fault with enemies and expansive in expenses. Jupiter has not become evil. It has become an employee of the wrong houses.
 
+> **📖 Story: The strict uncle who is on your side.** In every joint family there is one uncle the children fear — the one who checks homework, switches off the television at nine, and never gives sweets. In the Libra household that uncle, navy Saturn, has been made guardian of two rooms: the study (the 5th, intelligence and children) and the family home itself (the 4th). So the same strictness that frightens the other households *builds* this one. The Libra child complains about him at fifteen and thanks him at thirty-five, standing in a house she owns, holding a degree she finished. Meanwhile the jolly uncle who brings sweets — golden Jupiter — has been put in charge of the storeroom of debts and the room where the cousins quarrel (the 6th and 3rd). He is still jolly; he is just generous with the wrong things. **Rule:** Judge a planet by the houses it owns for *this* Lagna, not by its reputation in the neighbourhood.
+
 > **🧭 Guruji's rule of thumb:** Nature is what a planet *is*; function is who it *works for*. In a consultation, function wins. Ask "whose employee is this planet?" before you ask "is it a good planet?"
 
 ## Parashara's rules
@@ -24,6 +26,10 @@ Here are the rules from *Brihat Parashara Hora Shastra*, exactly as summarised i
 6. **The Lagna lord is treated as benefic in practice**, even when its other house is difficult. It is the captain; you do not call your captain an enemy.
 
 Two words you need. A **functional benefic** is a planet whose houses are good for you. A **functional malefic** is one whose houses are difficult for you. Every Lagna has some of each, and the planets that fall into neither are **neutral** — read them by their placement and their company.
+
+> **📖 Story: The courtyard where everyone is equal.** The haveli has four rooms that open straight onto the central courtyard — the 1st, 4th, 7th and 10th, the pillars. The courtyard is public ground: whoever is appointed to guard those rooms stands in full daylight, watched by the whole family. The Royal Priest, who in a private room could hand out favours freely, finds that in the courtyard he must be fair to everyone; his generosity is flattened into mere duty. The old Judge, who in a private room could be harsh, finds that in the courtyard he too must be seen to be fair; his harshness is flattened into mere firmness. The courtyard makes everybody ordinary. Only the trines — the 5th and 9th, the lamp-lit rooms at the back — and the Lagna itself let a planet be fully good. **Rule:** Angle lords are neutral: natural benefics lose goodness there, natural malefics lose badness.
+
+> **📖 Story: Whose employee is this planet?** A new steward arrives at the haveli and asks, sensibly, not "who is a nice man?" but "who works for whom?" He walks the twelve rooms and reads the nameplate on each door — the sign, and so its lord. Whoever's name is on the doors of the lamp-lit rooms (1, 5, 9) works for the family's good fortune and is paid well. Whoever's name is on the doors of the storeroom of debts, the sick-room and the room of losses (6, 8, 12), or on the rooms where the cousins fight and scheme (3, 6, 11), is employed to manage trouble — and trouble is what he will bring into any conversation. The steward writes two columns in his ledger, *works for us* and *tests us*, and only then asks about anybody's character. **Rule:** Read the lord of each house from the Lagna, sort by house quality, and you have the functional table without memorising it.
 
 ## Deriving the table for Aries, step by step
 
@@ -51,6 +57,8 @@ Now the most valuable word in this chapter. When a *single* planet owns both an 
 ![Libra Lagna with Saturn in the fourth house, the fourth and fifth houses shaded](../images/ch08-libra-saturn-yogakaraka.svg)
 *Figure 8.2: Libra Lagna. Saturn owns Capricorn (4th, an angle) and Aquarius (5th, a trine). One planet, one angle, one trine: Saturn is the yogakaraka.*
 
+> **📖 Story: The minister who holds two keys.** The King keeps two rings of keys. One ring opens the pillar rooms on the courtyard — the angles, where the kingdom's strength is stored. The other opens the lamp-lit back rooms — the trines, where its grace and merit are kept. Most ministers are trusted with one key from one ring. But now and then a single minister is handed a key from *each* ring: he can walk from the strong-room to the shrine without asking anyone. In the Libra court that minister is the old Judge, Saturn, with the keys to the 4th and 5th. In the Cancer court it is the Commander, Mars, with the 5th and 10th. In the Capricorn court it is the Minister of Pleasure, Venus, with the 5th and 10th. When his years come round, the whole household rises with him. **Rule:** A yogakaraka owns one angle and one trine by itself; strengthen it, and its dasha is the best of the life.
+
 Only some Lagnas have one. Run the ownership yourself and you will find:
 
 - **Taurus and Libra:** Saturn (9th and 10th for Taurus; 4th and 5th for Libra).
@@ -62,22 +70,22 @@ The other Lagnas have no single yogakaraka; there the good is done by a *pair* �
 
 ## The full table, and what is interesting about each Lagna
 
-Here is the working table every Indian teacher uses, reproduced exactly from Appendix A.6. Below it, a short paragraph for each Lagna on what makes that row interesting.
+Here is the working table every Indian teacher uses, reproduced from Appendix A.6 with colour dots added (🟢 works for you, 🔴 tests you, 🟡 depends on placement). Below it, a short paragraph for each Lagna on what makes that row interesting.
 
 | Lagna | Benefics | Malefics | Neutral / mixed | Yogakaraka (single planet giving rajayoga) | Marakas to watch |
 |---|---|---|---|---|---|
-| Aries | Sun, Mars, Jupiter | Mercury, Venus, Saturn | Moon | (Sun + Jupiter together act as yogakarakas) | Venus, Mercury |
-| Taurus | Saturn, Sun, Mercury | Moon, Jupiter, Mars | Venus (own lagna but 6th lord) | **Saturn** | Jupiter, Venus, Mars |
-| Gemini | Venus, Saturn, Mercury | Mars, Jupiter, Sun | Moon | (Venus + Saturn combination) | Moon, Jupiter |
-| Cancer | Mars, Jupiter, Moon | Venus, Mercury | Sun, Saturn | **Mars** | Saturn, Venus |
-| Leo | Mars, Jupiter, Sun | Mercury, Venus, Saturn | Moon | **Mars** | Saturn, Mercury |
-| Virgo | Venus, Mercury | Mars, Jupiter, Moon | Sun, Saturn | **Venus** | Venus, Jupiter |
-| Libra | Saturn, Mercury, Venus | Jupiter, Sun, Mars | Moon | **Saturn** (Moon + Mercury together too) | Mars, Jupiter |
-| Scorpio | Jupiter, Moon, Sun, Mars | Mercury, Venus, Saturn | (none) | (Sun + Moon together) | Venus, Mercury |
-| Sagittarius | Sun, Mars, Jupiter | Venus, Saturn | Mercury, Moon | (Sun + Mercury together) | Saturn, Venus |
-| Capricorn | Venus, Mercury, Saturn | Mars, Jupiter, Moon | Sun | **Venus** | Mars, Moon |
-| Aquarius | Venus, Saturn | Jupiter, Moon, Mars | Mercury, Sun | **Venus** | Jupiter, Sun, Mars |
-| Pisces | Mars, Moon, Jupiter | Saturn, Venus, Sun, Mercury | (none) | (Mars + Jupiter together) | Mercury, Saturn |
+| Aries | 🟢 Sun, 🟢 Mars, 🟢 Jupiter | 🔴 Mercury, 🔴 Venus, 🔴 Saturn | 🟡 Moon | (Sun + Jupiter together act as yogakarakas) | 🔴 Venus, 🔴 Mercury |
+| Taurus | 🟢 Saturn, 🟢 Sun, 🟢 Mercury | 🔴 Moon, 🔴 Jupiter, 🔴 Mars | 🟡 Venus (own lagna but 6th lord) | **Saturn** | 🔴 Jupiter, 🔴 Venus, 🔴 Mars |
+| Gemini | 🟢 Venus, 🟢 Saturn, 🟢 Mercury | 🔴 Mars, 🔴 Jupiter, 🔴 Sun | 🟡 Moon | (Venus + Saturn combination) | 🔴 Moon, 🔴 Jupiter |
+| Cancer | 🟢 Mars, 🟢 Jupiter, 🟢 Moon | 🔴 Venus, 🔴 Mercury | 🟡 Sun, 🟡 Saturn | **Mars** | 🔴 Saturn, 🔴 Venus |
+| Leo | 🟢 Mars, 🟢 Jupiter, 🟢 Sun | 🔴 Mercury, 🔴 Venus, 🔴 Saturn | 🟡 Moon | **Mars** | 🔴 Saturn, 🔴 Mercury |
+| Virgo | 🟢 Venus, 🟢 Mercury | 🔴 Mars, 🔴 Jupiter, 🔴 Moon | 🟡 Sun, 🟡 Saturn | **Venus** | 🔴 Venus, 🔴 Jupiter |
+| Libra | 🟢 Saturn, 🟢 Mercury, 🟢 Venus | 🔴 Jupiter, 🔴 Sun, 🔴 Mars | 🟡 Moon | **Saturn** (Moon + Mercury together too) | 🔴 Mars, 🔴 Jupiter |
+| Scorpio | 🟢 Jupiter, 🟢 Moon, 🟢 Sun, 🟢 Mars | 🔴 Mercury, 🔴 Venus, 🔴 Saturn | (none) | (Sun + Moon together) | 🔴 Venus, 🔴 Mercury |
+| Sagittarius | 🟢 Sun, 🟢 Mars, 🟢 Jupiter | 🔴 Venus, 🔴 Saturn | 🟡 Mercury, 🟡 Moon | (Sun + Mercury together) | 🔴 Saturn, 🔴 Venus |
+| Capricorn | 🟢 Venus, 🟢 Mercury, 🟢 Saturn | 🔴 Mars, 🔴 Jupiter, 🔴 Moon | 🟡 Sun | **Venus** | 🔴 Mars, 🔴 Moon |
+| Aquarius | 🟢 Venus, 🟢 Saturn | 🔴 Jupiter, 🔴 Moon, 🔴 Mars | 🟡 Mercury, 🟡 Sun | **Venus** | 🔴 Jupiter, 🔴 Sun, 🔴 Mars |
+| Pisces | 🟢 Mars, 🟢 Moon, 🟢 Jupiter | 🔴 Saturn, 🔴 Venus, 🔴 Sun, 🔴 Mercury | (none) | (Mars + Jupiter together) | 🔴 Mercury, 🔴 Saturn |
 
 ![Traffic-light table of functional nature for all twelve Lagnas](../images/ch08-traffic-light.svg)
 *Figure 8.3: The same table as colours. Green works for you, red tests you, grey depends on placement. Photograph this page; you will use it at every consultation for the rest of your life.*
@@ -112,13 +120,15 @@ Here is the working table every Indian teacher uses, reproduced exactly from App
 
 The 2nd and the 7th houses are called **maraka** ("killer") houses in the classics. The reasoning is old and logical: the 8th house is longevity; the 12th from any house is its loss; the 12th from the 8th is the 7th, and the 12th from the 3rd (the secondary house of longevity, being the 8th from the 8th) is the 2nd. So the 2nd and 7th are the houses that *spend* life. Their lords, and planets sitting in them, are the ones whose periods bring illness, exhaustion, and — at the end of a long life — death.
 
+> **📖 Story: The two rooms twelfth from the life-rooms.** In the haveli, the room *twelfth* from any room is its back door — the way things leave. Life itself is kept in the 8th room (longevity) and, as a second store, in the 3rd (which is the 8th from the 8th). Count twelve rooms on from the 8th and you arrive at the 7th; count twelve on from the 3rd and you arrive at the 2nd. Those two rooms — the 2nd and the 7th — are the back doors through which vitality slips out. Whoever holds the keys to those doors (their lords), whoever is standing in them (occupants), and the old Judge who patrols all exits (Saturn) are the *marakas*. In their years, the household runs low: illness, drained savings, a partnership that ends. That is all the word means in practice. **Rule:** Marakas are the 2nd and 7th lords, malefics in 2 or 7, the 12th lord, and Saturn; their periods call for care of health and money, never for a prophecy.
+
 The standard hierarchy of marakas, strongest first:
 
-1. The **2nd lord**.
-2. The **7th lord**.
-3. **Malefics sitting in the 2nd or 7th**.
-4. The **12th lord**, and malefics with it.
-5. **Saturn**, which is a general maraka in any chart when it is a functional malefic and the dasha coincides with a low ebb.
+1. 🔴 The **2nd lord**.
+2. 🔴 The **7th lord**.
+3. 🔴 **Malefics sitting in the 2nd or 7th**.
+4. 🟡 The **12th lord**, and malefics with it.
+5. 🟡 **Saturn**, which is a general maraka in any chart when it is a functional malefic and the dasha coincides with a low ebb.
 
 What marakas *actually do*, in ninety-nine consultations out of a hundred, is bring **health crises, financial drains and relationship endings** during their periods. That is how you should read and speak of them.
 
@@ -155,13 +165,13 @@ Scorpio 1st, Sagittarius 2nd, Capricorn 3rd, Aquarius 4th, Pisces 5th, Aries 6th
 
 | Planet | Owns | Function | Why |
 |---|---|---|---|
-| Mars | 1st, 6th | Benefic (Lagna lord) | Captain; the 6th lordship is forgiven, but Mars periods can bring competition and health tests |
-| Jupiter | 2nd, 5th | Benefic | Trine lord; wealth and speech (2nd) ride with intelligence and children (5th) |
-| Saturn | 3rd, 4th | Malefic (mild) | 3rd lordship makes it malefic; 4th (an angle) softens; A.6 lists it malefic |
-| Sun | 10th | Benefic | Angle lord, natural malefic losing badness, friend of the Lagna lord; A.6 counts it a benefic and pairs it with the Moon |
-| Moon | 9th | Benefic | The best trine; fortune, father, grace |
-| Mercury | 8th, 11th | Malefic | 8th and one of the fighting three; also a maraka |
-| Venus | 7th, 12th | Malefic (maraka) | 7th is a maraka house; the 12th adds expense and distance |
+| Mars | 1st, 6th | 🟢 Benefic (Lagna lord) | Captain; the 6th lordship is forgiven, but Mars periods can bring competition and health tests |
+| Jupiter | 2nd, 5th | 🟢 Benefic | Trine lord; wealth and speech (2nd) ride with intelligence and children (5th) |
+| Saturn | 3rd, 4th | 🔴 Malefic (mild) | 3rd lordship makes it malefic; 4th (an angle) softens; A.6 lists it malefic |
+| Sun | 10th | 🟢 Benefic | Angle lord, natural malefic losing badness, friend of the Lagna lord; A.6 counts it a benefic and pairs it with the Moon |
+| Moon | 9th | 🟢 Benefic | The best trine; fortune, father, grace |
+| Mercury | 8th, 11th | 🔴 Malefic | 8th and one of the fighting three; also a maraka |
+| Venus | 7th, 12th | 🔴 Malefic (maraka) | 7th is a maraka house; the 12th adds expense and distance |
 
 Now look at where they sit. Sun (benefic) and Mercury (malefic) share the Lagna — mixed, but the Sun is the 10th lord in the 1st, a career-defining placement, and Mercury, though functionally malefic, gives her the articulate mind that makes her a teacher. Jupiter (benefic) sits in the 7th, protecting marriage. The Moon (benefic) sits in its own sign in the 9th, the house it owns — fortune guarded. Venus, the maraka, sits in its own sign in the 12th: her expenses and her marriage will be tied to distance, comfort and foreign or far places, and her Venus dasha (age 18½ to 38½) was a mixed period — the marriage in 2016 came in it, but so did the spending and the distance.
 
@@ -174,13 +184,13 @@ Cancer 1st, Leo 2nd, Virgo 3rd, Libra 4th, Scorpio 5th, Sagittarius 6th, Caprico
 
 | Planet | Owns | Function | Why |
 |---|---|---|---|
-| Moon | 1st | Benefic (Lagna lord) | Captain |
-| Sun | 2nd | Neutral | Only the 2nd; a maraka house, read by placement |
-| Mars | 5th, 10th | **Yogakaraka** | A trine and an angle in one hand |
-| Mercury | 3rd, 12th | Malefic | Effort and loss |
-| Jupiter | 6th, 9th | Benefic | The 9th decides; a 6th-house tinge |
-| Venus | 4th, 11th | Malefic | The 11th decides; also the Badhaka lord |
-| Saturn | 7th, 8th | Neutral / maraka | Angle neutralises; 8th is difficult; chief maraka |
+| Moon | 1st | 🟢 Benefic (Lagna lord) | Captain |
+| Sun | 2nd | 🟡 Neutral | Only the 2nd; a maraka house, read by placement |
+| Mars | 5th, 10th | 🟢 **Yogakaraka** | A trine and an angle in one hand |
+| Mercury | 3rd, 12th | 🔴 Malefic | Effort and loss |
+| Jupiter | 6th, 9th | 🟢 Benefic | The 9th decides; a 6th-house tinge |
+| Venus | 4th, 11th | 🔴 Malefic | The 11th decides; also the Badhaka lord |
+| Saturn | 7th, 8th | 🟡 Neutral / maraka | Angle neutralises; 8th is difficult; chief maraka |
 
 Where they sit: Mars, the yogakaraka, in the 2nd house Leo, retrograde, in the Sun's sign — a friend's house. Career and intelligence feed wealth and speech; Arjun earns by his mind and his voice, and his Mars dasha (age 11.8 to 18.8) was when he found his subject. Jupiter, a benefic, sits in the 5th, its own trine. The Moon, captain, sits in the 11th in Venus's Taurus — well placed for gains through the public. Saturn, the maraka, sits in the 8th in its own sign, combust: a long life, and health matters that surface in Saturn's periods and must not be ignored. Venus, malefic, sits in the 7th in Saturn's sign — a partner who is disciplined and older-seeming; the 11th-lord flavour brings the partner's family and friends into the marriage. The three in the 8th we already read in Chapter 6; now you know that of those three, the Sun is neutral, Mercury malefic, Saturn neutral-maraka — which is why I read that house as research and depth, not as disaster.
 

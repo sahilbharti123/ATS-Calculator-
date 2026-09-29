@@ -14,6 +14,8 @@ Three questions about any house lord, in this order:
 2. **How is it doing there?** Own sign or exaltation: strong owner, matters prosper. Enemy's sign or debilitation: weak owner, matters need help. Combust, in a planetary war, hemmed by malefics: weakened. Aspected by Jupiter: protected.
 3. **What does the destination house *mean*?** This is where the reading comes alive. The 4th lord in the 10th: mother, home, education and comfort (4th) have gone to career and public life (10th). Perhaps a family business, a career in real estate or teaching, work from home, a mother who shaped the career. You do not memorise which; you offer the possibilities and let the rest of the chart choose.
 
+> **📖 Story: The owner who went to another room.** Each of the twelve rooms in the haveli has an owner whose name is on the door, but owners wander. The owner of the kitchen (the 4th, home and mother) is found every day in the office (the 10th) — so the family's meals are eaten at the desk, the mother keeps the accounts, and the business is run from home. The owner of the marriage room (the 7th) is found in the guest-house at the edge of the estate (the 12th) — so the spouse comes from far away and the couple's happiest hours are private ones. The owner of the treasury (the 2nd) is found lying in the sick-room (the 6th) — so money goes on medicines and disputes until he recovers. Wherever the owner sits, that is where his room's business is done, and the state of the room he sits in decides how well it goes. **Rule:** A house lord carries its house's matters to the house it occupies; good destination, good results; difficult destination, struggle or transformation.
+
 > **🧭 Guruji's rule of thumb:** Say it as a sentence: "The matters of house N have gone to house M." Then ask what happens when those two departments of life share an office. That sentence is worth more than any list.
 
 ## The five-step method for judging any house
@@ -30,6 +32,8 @@ When a client asks about children, marriage, career, or health, they are asking 
 5. **The divisional chart** for that matter — D7 for children, D9 for marriage, D10 for career (Appendix A.10). Chapter 11 teaches these; for now, know that the step exists.
 
 Two of the first three strong, and the matter is protected. All three weak, and it needs effort and remedy.
+
+> **📖 Story: Visiting a house.** When the steward is asked "how are the children of this family?", he does not guess. First he visits the children's room itself (the 5th) and sees who is living there and who keeps peering in through the windows — occupants and aspects. Then he goes looking for the landlord of that room, wherever he has wandered, and checks whether he is well-dressed or in rags — the lord and its dignity. Then he visits the shrine of the room's patron deity — the karaka, Jupiter for children — and sees whether the lamp is lit. Then he looks at the room's reflection in the Queen Mother's mirror — the same house counted from the Moon — to learn how the family *feels* about it. Last, he unrolls the district map for that matter — the divisional chart. Only then does he speak. **Rule:** House, lord, karaka, from the Moon, varga — five steps, every time.
 
 ### Worked example: Chart C, the 5th house (children)
 
@@ -99,192 +103,194 @@ The Lagna lord gets a paragraph per placement, because it is the person walking 
 
 ### The other eleven lords
 
+Each row carries a dot for the quality of the destination house: 🟢 angle, trine, 2nd or 11th; 🟡 the 3rd (effort); 🔴 the 6th, 8th or 12th. Where a 🔴 destination is the lord's own house or forms a Viparita yoga, the row is marked 🟡, because the difficult house then works in your favour.
+
 **Lord of the 2nd (wealth, speech, family) in the…**
 
 | House | Derived meaning |
 |---|---|
-| 1 | Wealth by own effort; speaks freely; family-centred identity |
-| 2 | Steady accumulation, good speech, strong lineage (own house) |
-| 3 | Money through communication, writing, siblings; effort for earnings |
-| 4 | Wealth from property, mother's side, education; comfortable home |
-| 5 | Earns through intelligence, children, speculation; learned speech |
-| 6 | Money through service or medicine; debts and disputes over family funds |
-| 7 | Wealth through spouse or partnership; pleasing speech in business |
-| 8 | Inheritance, insurance, sudden ups and downs in savings; guarded speech |
-| 9 | Wealth through fortune, father, higher learning; truthful, generous speech |
-| 10 | Wealth through career; speech is a professional tool |
-| 11 | Wealth grows through gains and networks; a strong earner |
-| 12 | Spending outruns saving; money abroad or in charity; quiet speech |
+| 1 🟢 | Wealth by own effort; speaks freely; family-centred identity |
+| 2 🟢 | Steady accumulation, good speech, strong lineage (own house) |
+| 3 🟡 | Money through communication, writing, siblings; effort for earnings |
+| 4 🟢 | Wealth from property, mother's side, education; comfortable home |
+| 5 🟢 | Earns through intelligence, children, speculation; learned speech |
+| 6 🔴 | Money through service or medicine; debts and disputes over family funds |
+| 7 🟢 | Wealth through spouse or partnership; pleasing speech in business |
+| 8 🔴 | Inheritance, insurance, sudden ups and downs in savings; guarded speech |
+| 9 🟢 | Wealth through fortune, father, higher learning; truthful, generous speech |
+| 10 🟢 | Wealth through career; speech is a professional tool |
+| 11 🟢 | Wealth grows through gains and networks; a strong earner |
+| 12 🔴 | Spending outruns saving; money abroad or in charity; quiet speech |
 
 **Lord of the 3rd (courage, siblings, communication) in the…**
 
 | House | Derived meaning |
 |---|---|
-| 1 | Brave, self-willed, a natural communicator; siblings shape the self |
-| 2 | Siblings and family close; income from communication |
-| 3 | Courage, hard work, artistic hobbies, good sibling bonds (own house) |
-| 4 | Courage applied at home; siblings nearby; short journeys for study |
-| 5 | Creative communication; effort in learning; siblings' children dear |
-| 6 | Rivalry with siblings or competitors; courage in service; short work trips |
-| 7 | Partnership built on communication; spouse like a friend; business travel |
-| 8 | Siblings distant or in difficulty; courage tested; research writing |
-| 9 | Siblings fortunate or abroad; effort for dharma; long journeys |
-| 10 | Career in communication, sales, media, writing; a hard worker |
-| 11 | Gains through initiative, siblings and networks |
-| 12 | Sibling far away; effort spent quietly; foreign correspondence |
+| 1 🟢 | Brave, self-willed, a natural communicator; siblings shape the self |
+| 2 🟢 | Siblings and family close; income from communication |
+| 3 🟡 | Courage, hard work, artistic hobbies, good sibling bonds (own house) |
+| 4 🟢 | Courage applied at home; siblings nearby; short journeys for study |
+| 5 🟢 | Creative communication; effort in learning; siblings' children dear |
+| 6 🔴 | Rivalry with siblings or competitors; courage in service; short work trips |
+| 7 🟢 | Partnership built on communication; spouse like a friend; business travel |
+| 8 🔴 | Siblings distant or in difficulty; courage tested; research writing |
+| 9 🟢 | Siblings fortunate or abroad; effort for dharma; long journeys |
+| 10 🟢 | Career in communication, sales, media, writing; a hard worker |
+| 11 🟢 | Gains through initiative, siblings and networks |
+| 12 🔴 | Sibling far away; effort spent quietly; foreign correspondence |
 
 **Lord of the 4th (mother, home, education, comforts) in the…**
 
 | House | Derived meaning |
 |---|---|
-| 1 | Home-loving, mother's strong influence, well educated, comfortable |
-| 2 | Property adds to wealth; mother's family helps; education pays |
-| 3 | Changes of residence; effort for comforts; mother close to siblings |
-| 4 | Settled home, strong mother, sound education, vehicles (own house) |
-| 5 | Education leads to creativity; a wise mother; property luck |
-| 6 | Domestic disturbance; mother's health to watch; work away from home |
-| 7 | Home shared with partner; mother influences marriage; property via spouse |
-| 8 | Inherited property; mother's health caution; renovations and moves |
-| 9 | Fortunate home; higher education; a religious mother; study abroad |
-| 10 | Home, mother or education linked to career: family business, work from home, real estate, teaching |
-| 11 | Gains through property; comforts increase; mother's friends help |
-| 12 | Home far away; expenses on property; mother distant; spiritual learning |
+| 1 🟢 | Home-loving, mother's strong influence, well educated, comfortable |
+| 2 🟢 | Property adds to wealth; mother's family helps; education pays |
+| 3 🟡 | Changes of residence; effort for comforts; mother close to siblings |
+| 4 🟢 | Settled home, strong mother, sound education, vehicles (own house) |
+| 5 🟢 | Education leads to creativity; a wise mother; property luck |
+| 6 🔴 | Domestic disturbance; mother's health to watch; work away from home |
+| 7 🟢 | Home shared with partner; mother influences marriage; property via spouse |
+| 8 🔴 | Inherited property; mother's health caution; renovations and moves |
+| 9 🟢 | Fortunate home; higher education; a religious mother; study abroad |
+| 10 🟢 | Home, mother or education linked to career: family business, work from home, real estate, teaching |
+| 11 🟢 | Gains through property; comforts increase; mother's friends help |
+| 12 🔴 | Home far away; expenses on property; mother distant; spiritual learning |
 
 **Lord of the 5th (children, intellect, merit) in the…**
 
 | House | Derived meaning |
 |---|---|
-| 1 | Intelligent, creative, close to children; merit shows in the personality |
-| 2 | Earns from intellect; children add to wealth; learned speech |
-| 3 | Creative communication; studious effort; active children |
-| 4 | Education strong; mother's blessing; children at home |
-| 5 | Bright mind, blessed children, good past merit (own house) |
-| 6 | Children's health or studies need care; intellect in service; competitive study |
-| 7 | Children through partner; a creative spouse; romance becomes marriage |
-| 8 | Children delayed or the relationship transformed; occult intellect; research |
-| 9 | Dharmic intelligence; fortunate children; guru's grace |
-| 10 | Creative career; children successful; recognition for intellect |
-| 11 | Gains from intellect and speculation; prosperous children |
-| 12 | Children far away or late; spiritual intellect; expenses on children |
+| 1 🟢 | Intelligent, creative, close to children; merit shows in the personality |
+| 2 🟢 | Earns from intellect; children add to wealth; learned speech |
+| 3 🟡 | Creative communication; studious effort; active children |
+| 4 🟢 | Education strong; mother's blessing; children at home |
+| 5 🟢 | Bright mind, blessed children, good past merit (own house) |
+| 6 🔴 | Children's health or studies need care; intellect in service; competitive study |
+| 7 🟢 | Children through partner; a creative spouse; romance becomes marriage |
+| 8 🔴 | Children delayed or the relationship transformed; occult intellect; research |
+| 9 🟢 | Dharmic intelligence; fortunate children; guru's grace |
+| 10 🟢 | Creative career; children successful; recognition for intellect |
+| 11 🟢 | Gains from intellect and speculation; prosperous children |
+| 12 🔴 | Children far away or late; spiritual intellect; expenses on children |
 
 **Lord of the 6th (enemies, disease, service, debts) in the…**
 
 | House | Derived meaning |
 |---|---|
-| 1 | Health needs attention; competitive nature; service-minded |
-| 2 | Debts touch family wealth; disputes over money; family health |
-| 3 | Struggles with siblings; hard work; courage against rivals |
-| 4 | Domestic disputes; mother's health; property litigation |
-| 5 | Children's health; competition in studies; a sharp, combative intellect |
-| 6 | Defeats enemies, excels in service, resists disease (own house) |
-| 7 | Friction with partner; service through partnership; spouse's health |
-| 8 | Harsha Viparita: enemies undo themselves; strong longevity |
-| 9 | Disagreements with father or guru; service abroad; fortune by effort |
-| 10 | Career in service, medicine, law, the army; competition at work |
-| 11 | Gains through service and competition; friction with elder siblings |
-| 12 | Harsha Viparita: enemies vanish; hospitals or service abroad |
+| 1 🟢 | Health needs attention; competitive nature; service-minded |
+| 2 🟢 | Debts touch family wealth; disputes over money; family health |
+| 3 🟡 | Struggles with siblings; hard work; courage against rivals |
+| 4 🟢 | Domestic disputes; mother's health; property litigation |
+| 5 🟢 | Children's health; competition in studies; a sharp, combative intellect |
+| 6 🟡 | Defeats enemies, excels in service, resists disease (own house) |
+| 7 🟢 | Friction with partner; service through partnership; spouse's health |
+| 8 🟡 | Harsha Viparita: enemies undo themselves; strong longevity |
+| 9 🟢 | Disagreements with father or guru; service abroad; fortune by effort |
+| 10 🟢 | Career in service, medicine, law, the army; competition at work |
+| 11 🟢 | Gains through service and competition; friction with elder siblings |
+| 12 🟡 | Harsha Viparita: enemies vanish; hospitals or service abroad |
 
 **Lord of the 7th (spouse, partnership, business) in the…**
 
 | House | Derived meaning |
 |---|---|
-| 1 | Partner-centred life; the spouse influences the self strongly |
-| 2 | Spouse brings wealth; family grows through marriage |
-| 3 | Partner met through communication; travel after marriage |
-| 4 | Spouse from a familiar circle; domestic harmony; property via marriage |
-| 5 | Love marriage tendency; a creative partner; children through the partner |
-| 6 | Friction or health issues in marriage; partner in service; patience needed |
-| 7 | Strong marriage and partnerships; business acumen (own house) |
-| 8 | Marriage brings deep change; partner's health; in-laws' wealth |
-| 9 | Fortunate spouse; marriage abroad or across communities; dharmic partner |
-| 10 | Partner tied to career; business partnerships; status through marriage |
-| 11 | Gains through partner; spouse from friends' circle |
-| 12 | Spouse from far away; expenses on marriage; private comforts |
+| 1 🟢 | Partner-centred life; the spouse influences the self strongly |
+| 2 🟢 | Spouse brings wealth; family grows through marriage |
+| 3 🟡 | Partner met through communication; travel after marriage |
+| 4 🟢 | Spouse from a familiar circle; domestic harmony; property via marriage |
+| 5 🟢 | Love marriage tendency; a creative partner; children through the partner |
+| 6 🔴 | Friction or health issues in marriage; partner in service; patience needed |
+| 7 🟢 | Strong marriage and partnerships; business acumen (own house) |
+| 8 🔴 | Marriage brings deep change; partner's health; in-laws' wealth |
+| 9 🟢 | Fortunate spouse; marriage abroad or across communities; dharmic partner |
+| 10 🟢 | Partner tied to career; business partnerships; status through marriage |
+| 11 🟢 | Gains through partner; spouse from friends' circle |
+| 12 🔴 | Spouse from far away; expenses on marriage; private comforts |
 
 **Lord of the 8th (longevity, hidden matters, transformation) in the…**
 
 | House | Derived meaning |
 |---|---|
-| 1 | Transformative personality; health caution; occult interest |
-| 2 | Inheritance shapes wealth; secretive speech; fluctuating savings |
-| 3 | Courage tested; siblings' hidden matters; research writing |
-| 4 | Property through inheritance; mother's health; deep education |
-| 5 | Children's matters transformed; occult intellect; speculation caution |
-| 6 | Sarala Viparita: hidden troubles defeated; strong longevity |
-| 7 | Partner's health; hidden sides of marriage; in-laws prominent |
-| 8 | Long life, deep researcher, handles crises well (own house) |
-| 9 | Father's hidden matters; unorthodox dharma; fortune through change |
-| 10 | Career in insurance, research, surgery, the occult; career breaks |
-| 11 | Gains through inheritance, insurance, sudden windfalls |
-| 12 | Sarala Viparita: hidden enemies vanish; moksha inclination |
+| 1 🟢 | Transformative personality; health caution; occult interest |
+| 2 🟢 | Inheritance shapes wealth; secretive speech; fluctuating savings |
+| 3 🟡 | Courage tested; siblings' hidden matters; research writing |
+| 4 🟢 | Property through inheritance; mother's health; deep education |
+| 5 🟢 | Children's matters transformed; occult intellect; speculation caution |
+| 6 🟡 | Sarala Viparita: hidden troubles defeated; strong longevity |
+| 7 🟢 | Partner's health; hidden sides of marriage; in-laws prominent |
+| 8 🟡 | Long life, deep researcher, handles crises well (own house) |
+| 9 🟢 | Father's hidden matters; unorthodox dharma; fortune through change |
+| 10 🟢 | Career in insurance, research, surgery, the occult; career breaks |
+| 11 🟢 | Gains through inheritance, insurance, sudden windfalls |
+| 12 🟡 | Sarala Viparita: hidden enemies vanish; moksha inclination |
 
 **Lord of the 9th (fortune, father, guru) in the…**
 
 | House | Derived meaning |
 |---|---|
-| 1 | Fortunate, dharmic personality; father's blessing |
-| 2 | Wealth through luck; a religious family; truthful speech |
-| 3 | Fortune by effort; fortunate siblings; short pilgrimages |
-| 4 | Fortunate home; strong education; a devout mother |
-| 5 | Strong past merit; wise children; guru's grace |
-| 6 | Father's health; disputes with teachers; fortune through service |
-| 7 | Fortunate spouse; marriage abroad; dharma through partnership |
-| 8 | Father's health caution; fortune fluctuates; deep philosophy |
-| 9 | Strong fortune, guru, father (own house) |
-| 10 | Dharma-Karma link: a righteous, fortunate career; father helps |
-| 11 | Gains through fortune; fortunate elder siblings; wishes granted |
-| 12 | Fortune abroad; charitable; father distant; spiritual life |
+| 1 🟢 | Fortunate, dharmic personality; father's blessing |
+| 2 🟢 | Wealth through luck; a religious family; truthful speech |
+| 3 🟡 | Fortune by effort; fortunate siblings; short pilgrimages |
+| 4 🟢 | Fortunate home; strong education; a devout mother |
+| 5 🟢 | Strong past merit; wise children; guru's grace |
+| 6 🔴 | Father's health; disputes with teachers; fortune through service |
+| 7 🟢 | Fortunate spouse; marriage abroad; dharma through partnership |
+| 8 🔴 | Father's health caution; fortune fluctuates; deep philosophy |
+| 9 🟢 | Strong fortune, guru, father (own house) |
+| 10 🟢 | Dharma-Karma link: a righteous, fortunate career; father helps |
+| 11 🟢 | Gains through fortune; fortunate elder siblings; wishes granted |
+| 12 🔴 | Fortune abroad; charitable; father distant; spiritual life |
 
 **Lord of the 10th (career, status) in the…**
 
 | House | Derived meaning |
 |---|---|
-| 1 | Career-driven; self-employment; recognition |
-| 2 | Career builds wealth; family business; speech in the profession |
-| 3 | Career in communication, sales, media; success by effort |
-| 4 | Career from home, property or education; mother's help |
-| 5 | Creative or advisory career; speculation; work with children |
-| 6 | Career in service, medicine, law; competition; job changes |
-| 7 | Career through partnerships; business; spouse in the work |
-| 8 | Career transformations; insurance, research, occult; breaks and comebacks |
-| 9 | Dharma-Karma link: fortunate career; teaching, law, travel |
-| 10 | Strong career and status (own house) |
-| 11 | Gains from career; ambitious; strong networks |
-| 12 | Career abroad or behind the scenes; hospitals; isolation |
+| 1 🟢 | Career-driven; self-employment; recognition |
+| 2 🟢 | Career builds wealth; family business; speech in the profession |
+| 3 🟡 | Career in communication, sales, media; success by effort |
+| 4 🟢 | Career from home, property or education; mother's help |
+| 5 🟢 | Creative or advisory career; speculation; work with children |
+| 6 🔴 | Career in service, medicine, law; competition; job changes |
+| 7 🟢 | Career through partnerships; business; spouse in the work |
+| 8 🔴 | Career transformations; insurance, research, occult; breaks and comebacks |
+| 9 🟢 | Dharma-Karma link: fortunate career; teaching, law, travel |
+| 10 🟢 | Strong career and status (own house) |
+| 11 🟢 | Gains from career; ambitious; strong networks |
+| 12 🔴 | Career abroad or behind the scenes; hospitals; isolation |
 
 **Lord of the 11th (gains, elder siblings, friends) in the…**
 
 | House | Derived meaning |
 |---|---|
-| 1 | A gainful personality; friends help; wishes fulfilled |
-| 2 | Gains build wealth; family friendships |
-| 3 | Gains through effort and siblings |
-| 4 | Gains through property and mother |
-| 5 | Gains through children, intellect, speculation |
-| 6 | Gains through service; disputes with friends; debts |
-| 7 | Gains through spouse and business |
-| 8 | Gains through inheritance or insurance; friends' losses |
-| 9 | Gains through fortune and father |
-| 10 | Gains through career; ambitious |
-| 11 | Strong gains, helpful elder siblings (own house) |
-| 12 | Gains spent; income from abroad; friends far away |
+| 1 🟢 | A gainful personality; friends help; wishes fulfilled |
+| 2 🟢 | Gains build wealth; family friendships |
+| 3 🟡 | Gains through effort and siblings |
+| 4 🟢 | Gains through property and mother |
+| 5 🟢 | Gains through children, intellect, speculation |
+| 6 🔴 | Gains through service; disputes with friends; debts |
+| 7 🟢 | Gains through spouse and business |
+| 8 🔴 | Gains through inheritance or insurance; friends' losses |
+| 9 🟢 | Gains through fortune and father |
+| 10 🟢 | Gains through career; ambitious |
+| 11 🟢 | Strong gains, helpful elder siblings (own house) |
+| 12 🔴 | Gains spent; income from abroad; friends far away |
 
 **Lord of the 12th (expenses, distance, release) in the…**
 
 | House | Derived meaning |
 |---|---|
-| 1 | Expenses on self; foreign residence; a spiritual bent |
-| 2 | Expenses on family; spending exceeds saving |
-| 3 | Expenses on siblings and journeys; effort abroad |
-| 4 | Expenses on home; mother far away; love of sleep and comfort |
-| 5 | Expenses on children and education; meditative intellect |
-| 6 | Vimala Viparita: losses cancel; hospital or service work abroad |
-| 7 | Expenses on spouse; a foreign partner |
-| 8 | Vimala Viparita: losses cancel; occult depth |
-| 9 | Expenses on pilgrimage and father; fortune abroad |
-| 10 | Career abroad; behind-the-scenes work; expenses on career |
-| 11 | Gains balance expenses; friends abroad |
-| 12 | Controlled expenses; a life abroad; moksha (own house) |
+| 1 🟢 | Expenses on self; foreign residence; a spiritual bent |
+| 2 🟢 | Expenses on family; spending exceeds saving |
+| 3 🟡 | Expenses on siblings and journeys; effort abroad |
+| 4 🟢 | Expenses on home; mother far away; love of sleep and comfort |
+| 5 🟢 | Expenses on children and education; meditative intellect |
+| 6 🟡 | Vimala Viparita: losses cancel; hospital or service work abroad |
+| 7 🟢 | Expenses on spouse; a foreign partner |
+| 8 🟡 | Vimala Viparita: losses cancel; occult depth |
+| 9 🟢 | Expenses on pilgrimage and father; fortune abroad |
+| 10 🟢 | Career abroad; behind-the-scenes work; expenses on career |
+| 11 🟢 | Gains balance expenses; friends abroad |
+| 12 🟡 | Controlled expenses; a life abroad; moksha (own house) |
 
 > **⚠️ Common beginner mistake:** Reading one line from these tables as a prediction. "7th lord in the 6th means divorce" is not in the table, and it is not true. The table says *friction, and patience needed*. Whether that friction is a stormy first year or a lifelong struggle is decided by dignity, aspects, the karaka, the Navamsa and the dasha — never by one line.
 
@@ -313,6 +319,8 @@ Every planet sits in a sign, and that sign has a lord. The lord of the sign a pl
 
 In Chart A: the Sun and Mercury (Scorpio) answer to Mars; Mars (Pisces) and Saturn (Sagittarius) answer to Jupiter; Jupiter (Taurus) answers to Venus; Rahu (Aquarius) answers to Saturn and so to Jupiter and Venus; Ketu (Leo) answers to the Sun and so to Mars, Jupiter, Venus. Seven of nine end at Venus. The Moon sits in Cancer, its own sign, and answers to nobody.
 
+> **📖 Story: Who does your landlord pay rent to?** The young Prince rents a room in the Commander's house. Ask the Commander, and he admits he rents *his* house from the Royal Priest. The Priest, it turns out, rents from the Minister of Pleasure. And the Minister of Pleasure? She owns her house outright. So when the Prince's rent goes up, it is because the Minister raised it three landlords away. Follow the rent up the chain and you find who really runs the neighbourhood. In Chart A that is Venus: the Sun and Mercury pay Mars, Mars and Saturn pay Jupiter, Jupiter pays Venus, and Venus pays nobody. The Queen Mother, in her own Cancer house, is the one tenant on the street who is also her own landlord. **Rule:** A planet's dispositor is the lord of the sign it occupies; follow the chain to the planet in its own sign — the final dispositor — to find the chart's hidden centre.
+
 What this tells you: beneath Meera's Scorpio surface — intense, private, Sun-and-Mercury sharp — the chart is ultimately run by Venus: relationships, aesthetics, harmony, comfort. Whatever happens to Venus by dasha or transit ripples through everything; the Moon's independence means her emotional life runs on its own track. A final dispositor in its own or exalted sign, as here, marks a chart with a strong central motive. When there is no single final dispositor — two planets in their own signs, or a loop — the person has two centres of gravity, and you read both.
 
 ## Exchange of lords: Parivartana
@@ -330,6 +338,8 @@ The most striking of the four Sambandhas from Chapter 6 is the **exchange** (*Pa
 
 In the constructed chart above, an Aries Lagna has Mars (1st lord) in the 10th and Saturn (10th lord) in the 1st: a Maha Parivartana between the 1st and 10th. Identity and career are one — the self-made professional who rises to authority, with Saturn's discipline in the personality and Mars's drive in the work. It even softens Saturn's debilitation in Aries, because Saturn is exchanging with its own dispositor — a Neecha Bhanga, as Appendix A.11 notes.
 
+> **📖 Story: Two landlords swap keys.** The Queen Mother owns the Cancer house in the 4th district; the Royal Priest owns the Sagittarius house in the 9th. One day they exchange keys: she moves into his house, he moves into hers. Now every repair she orders in his house is a repair to her own interest, and every blessing he gives in her house comes home to him. The two households become one estate — neither can be judged without the other. If both houses are in good districts, the estate prospers (Maha). If one of them is the cramped house of effort in the 3rd district, the swap is mischievous — profit, but with labour (Khala). If one of them is the sick-room, the storeroom of debts or the guest-house of losses, the good landlord is dragged into a bad neighbourhood (Dainya). **Rule:** Parivartana fuses two houses; judge it Maha, Khala or Dainya by the houses involved.
+
 Now look at Chart C, because it has a real one. Devika's Moon sits in Sagittarius, Jupiter's sign; her Jupiter sits in Cancer, the Moon's sign. For Aries Lagna, Cancer is the 4th house and Sagittarius the 9th. So the 4th lord and the 9th lord have exchanged — an angle and a trine, both good houses: a **Maha Parivartana**, and at the same time a Raja yoga by exchange (Chapter 10). Home and fortune are fused; the mother is devout and the home a place of learning; higher education and grace come through the family; and exalted Jupiter in the 4th is read as if it were in its own 9th as well. This is the quiet engine beneath her chart, and it is also why the pressured 5th house, whose lord sits with this Jupiter, ends in success. When you meet an exchange in a client's chart, it is often the single most important feature, and you should say so.
 
 > **💡 Did you know?** *Parivartana* is the everyday Hindi word for "change". Some South Indian teachers call the exchange the strongest of all relationships — stronger even than conjunction — because it is *mutual and complete*: each planet is read as if it had gone home.
@@ -339,7 +349,7 @@ Now look at Chart C, because it has a real one. Devika's Moon sits in Sagittariu
 - Every house has a lord (the lord of its sign), and the lord carries the house's matters to wherever it sits.
 - A lord in an angle, trine, 2nd or 11th makes its house flourish; in the 3rd it works hard; in 6, 8 or 12 it struggles or is transformed — unless it is in its own sign, or forms a Viparita yoga.
 - Judge any house in five steps: the house, the lord, the karaka, the same house from the Moon, the divisional chart.
-- The 144 "lord of N in M" combinations are derived, not memorised: combine the two houses' meanings and colour by the destination's quality.
+- The 144 "lord of N in M" combinations are derived, not memorised: combine the two houses' meanings and colour by the destination's quality (🟢 good houses, 🟡 the 3rd, 🔴 the 6th, 8th, 12th).
 - The Lagna lord is the captain; its placement tells you where the person's life energy is invested.
 - A lord in its own house stabilises that house — even the 6th, 8th and 12th lords.
 - Two lords together fuse two houses; an angle lord and a trine lord connected is a Raja yoga (Chapter 10).
