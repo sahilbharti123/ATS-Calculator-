@@ -19,29 +19,29 @@
 <line x1="352" y1="300" x2="448" y2="300" stroke="#b8860b" stroke-width="1" stroke-dasharray="3,4"/>
 <line x1="352" y1="335" x2="448" y2="335" stroke="#b8860b" stroke-width="1" stroke-dasharray="3,4"/>
 <line x1="400" y1="80" x2="530" y2="80" stroke="#7f1d1d" stroke-width="1"/>
-<text x="536.0" y="84.0" text-anchor="start" font-size="12" font-weight="normal" font-style="normal" fill="#7f1d1d">1 Aries — head</text>
+<text x="536.0" y="84.0" text-anchor="start" font-size="12" font-weight="normal" font-style="normal" fill="#7f1d1d">1 Aries: head</text>
 <line x1="400" y1="140" x2="270" y2="140" stroke="#7f1d1d" stroke-width="1"/>
-<text x="264.0" y="144.0" text-anchor="end" font-size="12" font-weight="normal" font-style="normal" fill="#7f1d1d">2 Taurus — face, neck, throat</text>
+<text x="264.0" y="144.0" text-anchor="end" font-size="12" font-weight="normal" font-style="normal" fill="#7f1d1d">2 Taurus: face, neck, throat</text>
 <line x1="448" y1="185" x2="530" y2="185" stroke="#7f1d1d" stroke-width="1"/>
-<text x="536.0" y="189.0" text-anchor="start" font-size="12" font-weight="normal" font-style="normal" fill="#7f1d1d">3 Gemini — shoulders, arms, lungs</text>
+<text x="536.0" y="189.0" text-anchor="start" font-size="12" font-weight="normal" font-style="normal" fill="#7f1d1d">3 Gemini: shoulders, arms, lungs</text>
 <line x1="352" y1="205" x2="270" y2="205" stroke="#7f1d1d" stroke-width="1"/>
-<text x="264.0" y="209.0" text-anchor="end" font-size="12" font-weight="normal" font-style="normal" fill="#7f1d1d">4 Cancer — chest, heart</text>
+<text x="264.0" y="209.0" text-anchor="end" font-size="12" font-weight="normal" font-style="normal" fill="#7f1d1d">4 Cancer: chest, heart</text>
 <line x1="448" y1="240" x2="530" y2="240" stroke="#7f1d1d" stroke-width="1"/>
-<text x="536.0" y="244.0" text-anchor="start" font-size="12" font-weight="normal" font-style="normal" fill="#7f1d1d">5 Leo — stomach, upper abdomen</text>
+<text x="536.0" y="244.0" text-anchor="start" font-size="12" font-weight="normal" font-style="normal" fill="#7f1d1d">5 Leo: stomach, upper abdomen</text>
 <line x1="352" y1="280" x2="270" y2="280" stroke="#7f1d1d" stroke-width="1"/>
-<text x="264.0" y="284.0" text-anchor="end" font-size="12" font-weight="normal" font-style="normal" fill="#7f1d1d">6 Virgo — intestines, lower abdomen</text>
+<text x="264.0" y="284.0" text-anchor="end" font-size="12" font-weight="normal" font-style="normal" fill="#7f1d1d">6 Virgo: intestines, lower abdomen</text>
 <line x1="448" y1="318" x2="530" y2="318" stroke="#7f1d1d" stroke-width="1"/>
-<text x="536.0" y="322.0" text-anchor="start" font-size="12" font-weight="normal" font-style="normal" fill="#7f1d1d">7 Libra — kidneys, waist, lower back</text>
+<text x="536.0" y="322.0" text-anchor="start" font-size="12" font-weight="normal" font-style="normal" fill="#7f1d1d">7 Libra: kidneys, waist, lower back</text>
 <line x1="375" y1="350" x2="270" y2="350" stroke="#7f1d1d" stroke-width="1"/>
-<text x="264.0" y="354.0" text-anchor="end" font-size="12" font-weight="normal" font-style="normal" fill="#7f1d1d">8 Scorpio — genitals, excretion</text>
+<text x="264.0" y="354.0" text-anchor="end" font-size="12" font-weight="normal" font-style="normal" fill="#7f1d1d">8 Scorpio: genitals, excretion</text>
 <line x1="435" y1="415" x2="530" y2="415" stroke="#7f1d1d" stroke-width="1"/>
-<text x="536.0" y="419.0" text-anchor="start" font-size="12" font-weight="normal" font-style="normal" fill="#7f1d1d">9 Sagittarius — hips, thighs</text>
+<text x="536.0" y="419.0" text-anchor="start" font-size="12" font-weight="normal" font-style="normal" fill="#7f1d1d">9 Sagittarius: hips, thighs</text>
 <line x1="360" y1="470" x2="270" y2="470" stroke="#7f1d1d" stroke-width="1"/>
-<text x="264.0" y="474.0" text-anchor="end" font-size="12" font-weight="normal" font-style="normal" fill="#7f1d1d">10 Capricorn — knees</text>
+<text x="264.0" y="474.0" text-anchor="end" font-size="12" font-weight="normal" font-style="normal" fill="#7f1d1d">10 Capricorn: knees</text>
 <line x1="443" y1="540" x2="530" y2="540" stroke="#7f1d1d" stroke-width="1"/>
-<text x="536.0" y="544.0" text-anchor="start" font-size="12" font-weight="normal" font-style="normal" fill="#7f1d1d">11 Aquarius — calves, shins, ankles</text>
+<text x="536.0" y="544.0" text-anchor="start" font-size="12" font-weight="normal" font-style="normal" fill="#7f1d1d">11 Aquarius: calves, shins, ankles</text>
 <line x1="340" y1="606" x2="270" y2="606" stroke="#7f1d1d" stroke-width="1"/>
-<text x="264.0" y="610.0" text-anchor="end" font-size="12" font-weight="normal" font-style="normal" fill="#7f1d1d">12 Pisces — feet</text>
+<text x="264.0" y="610.0" text-anchor="end" font-size="12" font-weight="normal" font-style="normal" fill="#7f1d1d">12 Pisces: feet</text>
 <text x="400.0" y="660.0" text-anchor="middle" font-size="12" font-weight="normal" font-style="normal" fill="#3b2314">The zodiac laid on a human body. A sign's body part is also the body part</text>
 <text x="400.0" y="678.0" text-anchor="middle" font-size="12" font-weight="normal" font-style="normal" fill="#3b2314">of the house that carries the same number (Chapter 4).</text>
 </svg>

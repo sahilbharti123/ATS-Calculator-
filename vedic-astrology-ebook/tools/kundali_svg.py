@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-kundali_svg.py — draws Vedic astrology diagrams as clean SVG files.
+kundali_svg.py: draws Vedic astrology diagrams as clean SVG files.
 
 Usage examples
 --------------
@@ -327,10 +327,10 @@ def dasha_bar(title="Vimshottari Dasha: the 120-year cycle", caption=None, start
 # ---------------------------------------------------------------- HOUSE GROUPS
 def house_groups(title="House groups every astrologer memorises", size=440):
     """Four small north charts side by side: Kendra, Trikona, Dusthana, Upachaya."""
-    groups = [("Kendra (1,4,7,10) — pillars", [1,4,7,10]),
-              ("Trikona (1,5,9) — Lakshmi's houses", [1,5,9]),
-              ("Dusthana (6,8,12) — the difficult trio", [6,8,12]),
-              ("Upachaya (3,6,10,11) — growth with time", [3,6,10,11])]
+    groups = [("Kendra (1,4,7,10): pillars", [1,4,7,10]),
+              ("Trikona (1,5,9): Lakshmi's houses", [1,5,9]),
+              ("Dusthana (6,8,12): the difficult trio", [6,8,12]),
+              ("Upachaya (3,6,10,11): growth with time", [3,6,10,11])]
     small = 300
     W = 2*(small+20) + 20; H = 2*(small+60) + 50
     svg = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" font-family="Georgia, serif">',

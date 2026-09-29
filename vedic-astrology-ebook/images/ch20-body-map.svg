@@ -12,29 +12,29 @@
 <line x1="170" y1="690" x2="140" y2="700" stroke="#3b2314" stroke-width="3"/>
 <line x1="330" y1="690" x2="360" y2="700" stroke="#3b2314" stroke-width="3"/>
 <line x1="290" y1="110" x2="390" y2="110" stroke="#b8860b" stroke-width="1.5" stroke-dasharray="4,3"/>
-<text x="400" y="114" text-anchor="start" font-size="13" fill="#3b2314">1 Aries — head, brain</text>
+<text x="400" y="114" text-anchor="start" font-size="13" fill="#3b2314">1 Aries: head, brain</text>
 <line x1="290" y1="160" x2="390" y2="160" stroke="#b8860b" stroke-width="1.5" stroke-dasharray="4,3"/>
-<text x="400" y="164" text-anchor="start" font-size="13" fill="#3b2314">2 Taurus — face, neck, throat</text>
+<text x="400" y="164" text-anchor="start" font-size="13" fill="#3b2314">2 Taurus: face, neck, throat</text>
 <line x1="290" y1="200" x2="390" y2="200" stroke="#b8860b" stroke-width="1.5" stroke-dasharray="4,3"/>
-<text x="400" y="204" text-anchor="start" font-size="13" fill="#3b2314">3 Gemini — shoulders, arms, lungs</text>
+<text x="400" y="204" text-anchor="start" font-size="13" fill="#3b2314">3 Gemini: shoulders, arms, lungs</text>
 <line x1="290" y1="245" x2="390" y2="245" stroke="#b8860b" stroke-width="1.5" stroke-dasharray="4,3"/>
-<text x="400" y="249" text-anchor="start" font-size="13" fill="#3b2314">4 Cancer — chest, heart, breasts</text>
+<text x="400" y="249" text-anchor="start" font-size="13" fill="#3b2314">4 Cancer: chest, heart, breasts</text>
 <line x1="290" y1="290" x2="390" y2="290" stroke="#b8860b" stroke-width="1.5" stroke-dasharray="4,3"/>
-<text x="400" y="294" text-anchor="start" font-size="13" fill="#3b2314">5 Leo — upper abdomen, stomach, spine*</text>
+<text x="400" y="294" text-anchor="start" font-size="13" fill="#3b2314">5 Leo: upper abdomen, stomach, spine*</text>
 <line x1="290" y1="335" x2="390" y2="335" stroke="#b8860b" stroke-width="1.5" stroke-dasharray="4,3"/>
-<text x="400" y="339" text-anchor="start" font-size="13" fill="#3b2314">6 Virgo — intestines, lower abdomen</text>
+<text x="400" y="339" text-anchor="start" font-size="13" fill="#3b2314">6 Virgo: intestines, lower abdomen</text>
 <line x1="290" y1="380" x2="390" y2="380" stroke="#b8860b" stroke-width="1.5" stroke-dasharray="4,3"/>
-<text x="400" y="384" text-anchor="start" font-size="13" fill="#3b2314">7 Libra — kidneys, lower back, waist</text>
+<text x="400" y="384" text-anchor="start" font-size="13" fill="#3b2314">7 Libra: kidneys, lower back, waist</text>
 <line x1="290" y1="425" x2="390" y2="425" stroke="#b8860b" stroke-width="1.5" stroke-dasharray="4,3"/>
-<text x="400" y="429" text-anchor="start" font-size="13" fill="#3b2314">8 Scorpio — genitals, excretory organs</text>
+<text x="400" y="429" text-anchor="start" font-size="13" fill="#3b2314">8 Scorpio: genitals, excretory organs</text>
 <line x1="290" y1="495" x2="390" y2="495" stroke="#b8860b" stroke-width="1.5" stroke-dasharray="4,3"/>
-<text x="400" y="499" text-anchor="start" font-size="13" fill="#3b2314">9 Sagittarius — hips, thighs</text>
+<text x="400" y="499" text-anchor="start" font-size="13" fill="#3b2314">9 Sagittarius: hips, thighs</text>
 <line x1="290" y1="560" x2="390" y2="560" stroke="#b8860b" stroke-width="1.5" stroke-dasharray="4,3"/>
-<text x="400" y="564" text-anchor="start" font-size="13" fill="#3b2314">10 Capricorn — knees</text>
+<text x="400" y="564" text-anchor="start" font-size="13" fill="#3b2314">10 Capricorn: knees</text>
 <line x1="290" y1="630" x2="390" y2="630" stroke="#b8860b" stroke-width="1.5" stroke-dasharray="4,3"/>
-<text x="400" y="634" text-anchor="start" font-size="13" fill="#3b2314">11 Aquarius — calves, shins, ankles</text>
+<text x="400" y="634" text-anchor="start" font-size="13" fill="#3b2314">11 Aquarius: calves, shins, ankles</text>
 <line x1="290" y1="698" x2="390" y2="698" stroke="#b8860b" stroke-width="1.5" stroke-dasharray="4,3"/>
-<text x="400" y="702" text-anchor="start" font-size="13" fill="#3b2314">12 Pisces — feet</text>
+<text x="400" y="702" text-anchor="start" font-size="13" fill="#3b2314">12 Pisces: feet</text>
 <text x="360.0" y="722" text-anchor="middle" font-size="12" fill="#3b2314" font-style="italic">Head to feet, Aries to Pisces: the zodiac laid on the body of the Kala Purusha (BPHS). *Spine: traditional addition.</text>
 <text x="360.0" y="742" text-anchor="middle" font-size="12" fill="#3b2314" font-style="italic">Houses follow the same order from the Lagna (1st = head … 12th = feet). Both maps are read together.</text>
 </svg>

@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="760" height="470" viewBox="0 0 760 470" font-family="Georgia, 'Times New Roman', serif">
 <rect x="0" y="0" width="760" height="470" rx="12" fill="#fffaf0" stroke="#b8860b" stroke-width="2"/>
 <text x="380.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#7f1d1d">Same birth, two frames: Parashari (signs move) vs Lal Kitab (houses fixed)</text>
-<text x="180.0" y="62" text-anchor="middle" font-size="13" fill="#7f1d1d" font-weight="bold">Parashari North chart — Lagna Scorpio (sign 8 in house 1)</text>
+<text x="180.0" y="62" text-anchor="middle" font-size="13" fill="#7f1d1d" font-weight="bold">Parashari North chart: Lagna Scorpio (sign 8 in house 1)</text>
 <polygon points="180.0,75 255.0,150.0 180.0,225.0 105.0,150.0" fill="none" stroke="none"/>
 <polygon points="30,75 180.0,75 105.0,150.0" fill="none" stroke="none"/>
 <polygon points="30,75 105.0,150.0 30,225.0" fill="none" stroke="none"/>
@@ -41,7 +41,7 @@
 <text x="255.0" y="112.53333333333335" text-anchor="middle" font-size="12" fill="#be185d" font-weight="bold">Ve</text>
 <text x="180.0" y="410" text-anchor="middle" font-size="12" fill="#3b2314">Gold numbers = SIGNS. The 1st house is Scorpio,</text>
 <text x="180.0" y="426" text-anchor="middle" font-size="12" fill="#3b2314">so Mars colours the body; Venus sits in Libra, its own sign.</text>
-<text x="580.0" y="62" text-anchor="middle" font-size="13" fill="#7f1d1d" font-weight="bold">Lal Kitab chart — house 1 is always 'Aries'</text>
+<text x="580.0" y="62" text-anchor="middle" font-size="13" fill="#7f1d1d" font-weight="bold">Lal Kitab chart: house 1 is always 'Aries'</text>
 <polygon points="580.0,75 655.0,150.0 580.0,225.0 505.0,150.0" fill="none" stroke="none"/>
 <polygon points="430,75 580.0,75 505.0,150.0" fill="none" stroke="none"/>
 <polygon points="430,75 505.0,150.0 430,225.0" fill="none" stroke="none"/>

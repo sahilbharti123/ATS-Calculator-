@@ -3,9 +3,9 @@
 <text x="370.0" y="34" text-anchor="middle" font-size="20" font-weight="bold" fill="#7f1d1d">The written report: one page, seven sections</text>
 <rect x="70" y="60" width="600" height="660" fill="#fff" stroke="#3b2314" stroke-width="1.5"/>
 <rect x="78" y="68" width="584" height="644" fill="none" stroke="#b8860b" stroke-width="0.8" stroke-dasharray="3,3"/>
-<text x="370.0" y="100" text-anchor="middle" font-size="15" fill="#7f1d1d" font-weight="bold">KUNDALI READING — SUMMARY FOR ___________</text>
+<text x="370.0" y="100" text-anchor="middle" font-size="15" fill="#7f1d1d" font-weight="bold">KUNDALI READING: SUMMARY FOR ___________</text>
 <text x="370.0" y="120" text-anchor="middle" font-size="10" fill="#3b2314" font-style="italic">Date of reading ____   Birth data used: __ / __ / ____, __:__ (source: ______), place ______</text>
-<text x="370.0" y="134" text-anchor="middle" font-size="10" fill="#3b2314" font-style="italic">Rectified? yes / no   Ayanamsa: Lahiri   Confidential — prepared only for the person named above</text>
+<text x="370.0" y="134" text-anchor="middle" font-size="10" fill="#3b2314" font-style="italic">Rectified? yes / no   Ayanamsa: Lahiri   Confidential: prepared only for the person named above</text>
 <rect x="94" y="146" width="552" height="20" fill="#fde68a" stroke="none"/>
 <text x="100" y="160" text-anchor="start" font-size="12.5" fill="#7f1d1d" font-weight="bold">1. The picture in five lines</text>
 <text x="104" y="182" text-anchor="start" font-size="10.5" fill="#3b2314">Lagna and lord · Moon sign and nakshatra · strongest planet · weakest planet · one-line</text>
@@ -27,7 +27,7 @@
 <line x1="104" y1="421" x2="636" y2="421" stroke="#3b2314" stroke-width="0.5" stroke-dasharray="1,3"/>
 <rect x="94" y="427" width="552" height="20" fill="#fde68a" stroke="none"/>
 <text x="100" y="441" text-anchor="start" font-size="12.5" fill="#7f1d1d" font-weight="bold">5. Tests to prepare for</text>
-<text x="104" y="463" text-anchor="start" font-size="10.5" fill="#3b2314">One difficult truth, wrapped in a plan — never a threat</text>
+<text x="104" y="463" text-anchor="start" font-size="10.5" fill="#3b2314">One difficult truth, wrapped in a plan: never a threat</text>
 <line x1="104" y1="480" x2="636" y2="480" stroke="#3b2314" stroke-width="0.5" stroke-dasharray="1,3"/>
 <rect x="94" y="486" width="552" height="20" fill="#fde68a" stroke="none"/>
 <text x="100" y="500" text-anchor="start" font-size="12.5" fill="#7f1d1d" font-weight="bold">6. Remedies (in order of importance)</text>

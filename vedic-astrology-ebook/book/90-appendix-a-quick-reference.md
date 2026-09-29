@@ -33,8 +33,8 @@ Odd signs (1,3,5,7,9,11) are male/active; even signs are female/receptive.
 | Jupiter | Guru / Brihaspati | Great benefic | Wisdom, guru, children, wealth, dharma, husband (in a woman's chart), liver, fat, minister | Sagittarius, Pisces | Cancer 5° | Capricorn 5° | Sagittarius 0°–10° |
 | Venus | Shukra | Benefic | Love, marriage, wife (in a man's chart), beauty, luxury, arts, vehicles, reproductive system, minister | Taurus, Libra | Pisces 27° | Virgo 27° | Libra 0°–15° |
 | Saturn | Shani | Great malefic | Longevity, discipline, sorrow, labour, servants, delay, chronic disease, old age, bones/teeth/nerves, servant | Capricorn, Aquarius | Libra 20° | Aries 20° | Aquarius 0°–20° |
-| Rahu | Rahu (north node) | Malefic (shadow) | Obsession, foreigners, technology, illusion, sudden rise, paternal grandfather, poison, smoke | — (behaves like Saturn) | Taurus (some say Gemini) | Scorpio (some say Sagittarius) | — |
-| Ketu | Ketu (south node) | Malefic (shadow) | Detachment, moksha, past-life skills, occult, sudden loss, maternal grandfather, wounds, spirituality | — (behaves like Mars) | Scorpio (some say Sagittarius) | Taurus (some say Gemini) | — |
+| Rahu | Rahu (north node) | Malefic (shadow) | Obsession, foreigners, technology, illusion, sudden rise, paternal grandfather, poison, smoke | none (behaves like Saturn) | Taurus (some say Gemini) | Scorpio (some say Sagittarius) | none |
+| Ketu | Ketu (south node) | Malefic (shadow) | Detachment, moksha, past-life skills, occult, sudden loss, maternal grandfather, wounds, spirituality | none (behaves like Mars) | Scorpio (some say Sagittarius) | Taurus (some say Gemini) | none |
 
 Rahu and Ketu are not physical bodies; they are the two points where the Moon's orbit crosses the Sun's path (the lunar nodes). They are always exactly opposite each other and move backwards (retrograde) through the zodiac.
 
@@ -42,7 +42,7 @@ Rahu and Ketu are not physical bodies; they are the two points where the Moon's 
 
 **Speed through the zodiac (approx.):** Moon 2¼ days per sign (27.3 days round); Sun, Mercury, Venus about 1 month per sign (1 year round); Mars about 45 days per sign (~2 years round); Jupiter about 1 year per sign (~12 years); Saturn about 2½ years per sign (~29.5 years); Rahu/Ketu about 18 months per sign (~18.6 years), moving backwards.
 
-**Combustion (Asta) — when a planet is too close to the Sun and loses strength (approximate orbs):** Moon 12°, Mars 17°, Mercury 14° (12° when retrograde), Jupiter 11°, Venus 10° (8° when retrograde), Saturn 15°. Rahu and Ketu are never combust.
+**Combustion (Asta), when a planet is too close to the Sun and loses strength (approximate orbs):** Moon 12°, Mars 17°, Mercury 14° (12° when retrograde), Jupiter 11°, Venus 10° (8° when retrograde), Saturn 15°. Rahu and Ketu are never combust.
 
 ## A.3 Natural friendship (Naisargika Maitri)
 
@@ -60,7 +60,7 @@ Rahu and Ketu are not in Parashara's table. Mainstream practice: Rahu is friendl
 
 **Temporary friendship (Tatkalika Maitri):** planets in the 2nd, 3rd, 4th, 10th, 11th, 12th from a planet are its temporary friends; those in 1st, 5th, 6th, 7th, 8th, 9th are temporary enemies. Combine natural + temporary → five-fold relationship (Panchadha Maitri): great friend, friend, neutral, enemy, great enemy.
 
-## A.4 Aspects (Drishti) — Parashari
+## A.4 Aspects (Drishti), Parashari
 
 | Planet | Full aspect on houses counted from itself |
 |---|---|
@@ -161,7 +161,7 @@ Each nakshatra spans 13°20′ and has four quarters (padas) of 3°20′. Vimsho
 | 26 | Uttara Bhadrapada | 3°20′ – 16°40′ Pi | Saturn (19) | Ahir Budhnya | Back legs of funeral cot, serpent of the deep | Manushya | Depth, wisdom, patience |
 | 27 | Revati | 16°40′ – 30°00′ Pi | Mercury (17) | Pushan | Fish, drum | Deva | Nourishing journeys, completion |
 
-**Gandanta (knots):** the last 3°20′ of Ashlesha/Jyeshtha/Revati and the first 3°20′ of Magha/Mula/Ashwini — the water–fire junctions. Considered sensitive; check the Moon and Lagna here.
+**Gandanta (knots):** the last 3°20′ of Ashlesha/Jyeshtha/Revati and the first 3°20′ of Magha/Mula/Ashwini: the water-to-fire junctions. Considered sensitive; check the Moon and Lagna here.
 **Abhijit:** a 28th "nakshatra" (the last quarter of Uttara Ashadha plus the first sliver of Shravana, about 4 ghatis or 0°53′) used in muhurta, not in dasha.
 
 ## A.8 Vimshottari Dasha
@@ -227,7 +227,7 @@ Sub-period lengths for common lookups (years-months-days): Saturn/Saturn 3-0-3; 
 | Saraswati | Jupiter, Venus, Mercury in kendra/trikona/2nd, Jupiter strong | Learning, arts |
 | Lakshmi | 9th lord strong in kendra/own/exalted, Lagna lord strong | Wealth and grace |
 
-## A.12 Marriage matching — Ashtakoota (36 points)
+## A.12 Marriage matching: Ashtakoota (36 points)
 
 | Koota | Points | Tests |
 |---|---|---|
@@ -240,9 +240,9 @@ Sub-period lengths for common lookups (years-months-days): Saturn/Saturn 3-0-3; 
 | Bhakoot | 7 | Moon-sign distance; family welfare, finances |
 | Nadi | 8 | Health, progeny (Adi / Madhya / Antya) |
 
-Below 18 = not recommended; 18–24 = acceptable; 25–32 = good; 33–36 = excellent. Always read the full charts (7th house, Venus/Jupiter, Navamsa, dasha) — the points are only the first sieve.
+Below 18 = not recommended; 18–24 = acceptable; 25–32 = good; 33–36 = excellent. Always read the full charts (7th house, Venus/Jupiter, Navamsa, dasha); the points are only the first sieve.
 
-## A.13 Remedies — gemstones, mantras, days
+## A.13 Remedies: gemstones, mantras, days
 
 | Planet | Gemstone (Hindi) | Metal & finger (common) | Weekday | Beeja mantra | Classical japa count | Donation (daan) |
 |---|---|---|---|---|---|---|
@@ -256,9 +256,9 @@ Below 18 = not recommended; 18–24 = acceptable; 25–32 = good; 33–36 = exce
 | Rahu | Hessonite (Gomed) | Silver/panchdhatu, middle finger | Saturday (some: Wednesday) | Om Bhraam Bhreem Bhraum Sah Rahave Namah | 18,000 | Coconut, blue cloth, mustard, blanket |
 | Ketu | Cat's eye (Lehsunia) | Silver/panchdhatu, ring or little finger | Tuesday/Thursday | Om Sraam Sreem Sraum Sah Ketave Namah | 17,000 | Blanket, sesame, multi-coloured cloth, feeding dogs |
 
-Gemstones are prescribed **only** for functional benefics that need strength — never to "pacify" a functional malefic (a stone strengthens; it does not pacify). Japa counts are the classical figures; the tradition multiplies by four in Kali Yuga.
+Gemstones are prescribed **only** for functional benefics that need strength, never to "pacify" a functional malefic (a stone strengthens; it does not pacify). Japa counts are the classical figures; the tradition multiplies by four in Kali Yuga.
 
-## A.14 Panchanga — the five limbs of the day
+## A.14 Panchanga: the five limbs of the day
 
 | Limb | Meaning | Count |
 |---|---|---|
@@ -270,14 +270,14 @@ Gemstones are prescribed **only** for functional benefics that need strength —
 
 **Rahu Kaal (approximate 1½-hour slot, from sunrise):** Mon 7:30–9, Tue 3–4:30 pm, Wed 12–1:30, Thu 1:30–3, Fri 10:30–12, Sat 9–10:30, Sun 4:30–6 pm (adjust to the actual day length by dividing daylight into eight equal parts).
 
-## A.15 Lal Kitab — reference facts (attributed)
+## A.15 Lal Kitab: reference facts (attributed)
 
 *(Source: Lal Kitab, Pt. Roop Chand Joshi, five Urdu volumes 1939, 1940, 1941, 1942 and 1952; Hindi translations vary. Use only inside "From Lal Kitab" boxes.)*
 
 - The Lal Kitab chart keeps the **houses fixed**: house 1 is always treated as Aries, house 2 as Taurus, and so on. Signs are not read separately; planets are placed by house.
-- **Pakka ghar (permanent houses):** Sun — 1; Moon — 4; Mars — 3 and 8; Mercury — 7 (teachers differ: some editions give 6 and 8); Jupiter — 2, 5, 9, 11 (12 in some editions); Venus — 7; Saturn — 8 and 10; Rahu — 12; Ketu — 6.
-- Rahu and Ketu are treated as full planets; Mars has two forms — **Mangal Nek** (benefic) and **Mangal Bad** (malefic).
+- **Pakka ghar (permanent houses):** Sun 1; Moon 4; Mars 3 and 8; Mercury 7 (teachers differ: some editions give 6 and 8); Jupiter 2, 5, 9, 11 (12 in some editions); Venus 7; Saturn 8 and 10; Rahu 12; Ketu 6.
+- Rahu and Ketu are treated as full planets; Mars has two forms, **Mangal Nek** (benefic) and **Mangal Bad** (malefic).
 - A house with no planet, or a planet whose result is not "awake", is called **sleeping** (*soya hua ghar / soya hua grah*); it gives results only when activated by transit or related planets. Precise rules differ between editions.
-- **Rin (karmic debts):** the tradition lists debts such as self-debt (*swayam rin*), ancestral debt (*pitru rin*), mother's debt (*matru rin*), sibling debt, spouse debt, daughter/sister debt, and divine debt, each read from particular planets in particular houses, and each with a collective family remedy. Placement rules vary by edition — verify against the edition you use.
+- **Rin (karmic debts):** the tradition lists debts such as self-debt (*swayam rin*), ancestral debt (*pitru rin*), mother's debt (*matru rin*), sibling debt, spouse debt, daughter/sister debt, and divine debt, each read from particular planets in particular houses, and each with a collective family remedy. Placement rules vary by edition: verify against the edition you use.
 - **Varshphal:** the annual chart follows a **35-year cycle** in which each year is ruled by a planet according to a fixed table.
 - **Remedy (upay) principles:** simple household items, low cost; done for **40 or 43 consecutive days** (restart if a day is missed); never harm another being; not to be used for selfish gain against others; remedies do not replace right conduct.

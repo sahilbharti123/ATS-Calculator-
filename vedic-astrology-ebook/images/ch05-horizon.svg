@@ -4,7 +4,7 @@
 <line x1="40" y1="350" x2="740" y2="350" stroke="#3b2314" stroke-width="2.5"/>
 <text x="740.0" y="372.0" text-anchor="end" font-size="13" font-weight="bold" font-style="normal" fill="#3b2314">EAST</text>
 <text x="40.0" y="372.0" text-anchor="start" font-size="13" font-weight="bold" font-style="normal" fill="#3b2314">WEST</text>
-<text x="390.0" y="372.0" text-anchor="middle" font-size="12" font-weight="normal" font-style="italic" fill="#3b2314">horizon at Jaipur, 12 December 1988, 06:40 — Chart A (Meera)</text>
+<text x="390.0" y="372.0" text-anchor="middle" font-size="12" font-weight="normal" font-style="italic" fill="#3b2314">horizon at Jaipur, 12 December 1988, 06:40: Chart A (Meera)</text>
 <path d="M140,350 A250,250 0 0 1 640,350" fill="none" stroke="#b8860b" stroke-width="3"/>
 <path d="M640,350 A250,250 0 0 1 624.9,435.5" fill="none" stroke="#b8860b" stroke-width="2" stroke-dasharray="6,5"/>
 <text x="390.0" y="70.0" text-anchor="middle" font-size="12" font-weight="normal" font-style="italic" fill="#b8860b">the zodiac belt, rising in the east and setting in the west</text>

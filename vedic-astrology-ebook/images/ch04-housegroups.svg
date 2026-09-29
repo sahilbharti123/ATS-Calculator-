@@ -31,7 +31,7 @@
 <text x="251.0" y="90.0" text-anchor="middle" font-size="12" fill="#b8860b" font-weight="bold">11</text>
 <text x="235.0" y="71.0" text-anchor="middle" font-size="12" fill="#b8860b" font-weight="bold">12</text>
 </g>
-<text x="170.0" y="388" text-anchor="middle" font-size="14" font-weight="bold" fill="#3b2314">Kendra (1,4,7,10) — pillars</text>
+<text x="170.0" y="388" text-anchor="middle" font-size="14" font-weight="bold" fill="#3b2314">Kendra (1,4,7,10): pillars</text>
 <g transform="translate(330,50)"><polygon points="160.0,10 235.0,85.0 160.0,160.0 85.0,85.0" fill="#fde68a" stroke="none"/>
 <polygon points="10,10 160.0,10 85.0,85.0" fill="none" stroke="none"/>
 <polygon points="10,10 85.0,85.0 10,160.0" fill="none" stroke="none"/>
@@ -62,7 +62,7 @@
 <text x="251.0" y="90.0" text-anchor="middle" font-size="12" fill="#b8860b" font-weight="bold">11</text>
 <text x="235.0" y="71.0" text-anchor="middle" font-size="12" fill="#b8860b" font-weight="bold">12</text>
 </g>
-<text x="490.0" y="388" text-anchor="middle" font-size="14" font-weight="bold" fill="#3b2314">Trikona (1,5,9) — Lakshmi's houses</text>
+<text x="490.0" y="388" text-anchor="middle" font-size="14" font-weight="bold" fill="#3b2314">Trikona (1,5,9): Lakshmi's houses</text>
 <g transform="translate(10,410)"><polygon points="160.0,10 235.0,85.0 160.0,160.0 85.0,85.0" fill="none" stroke="none"/>
 <polygon points="10,10 160.0,10 85.0,85.0" fill="none" stroke="none"/>
 <polygon points="10,10 85.0,85.0 10,160.0" fill="none" stroke="none"/>
@@ -93,7 +93,7 @@
 <text x="251.0" y="90.0" text-anchor="middle" font-size="12" fill="#b8860b" font-weight="bold">11</text>
 <text x="235.0" y="71.0" text-anchor="middle" font-size="12" fill="#b8860b" font-weight="bold">12</text>
 </g>
-<text x="170.0" y="748" text-anchor="middle" font-size="14" font-weight="bold" fill="#3b2314">Dusthana (6,8,12) — the difficult trio</text>
+<text x="170.0" y="748" text-anchor="middle" font-size="14" font-weight="bold" fill="#3b2314">Dusthana (6,8,12): the difficult trio</text>
 <g transform="translate(330,410)"><polygon points="160.0,10 235.0,85.0 160.0,160.0 85.0,85.0" fill="none" stroke="none"/>
 <polygon points="10,10 160.0,10 85.0,85.0" fill="none" stroke="none"/>
 <polygon points="10,10 85.0,85.0 10,160.0" fill="#fde68a" stroke="none"/>
@@ -124,5 +124,5 @@
 <text x="251.0" y="90.0" text-anchor="middle" font-size="12" fill="#b8860b" font-weight="bold">11</text>
 <text x="235.0" y="71.0" text-anchor="middle" font-size="12" fill="#b8860b" font-weight="bold">12</text>
 </g>
-<text x="490.0" y="748" text-anchor="middle" font-size="14" font-weight="bold" fill="#3b2314">Upachaya (3,6,10,11) — growth with time</text>
+<text x="490.0" y="748" text-anchor="middle" font-size="14" font-weight="bold" fill="#3b2314">Upachaya (3,6,10,11): growth with time</text>
 </svg>

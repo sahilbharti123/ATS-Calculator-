@@ -54,6 +54,6 @@
 <rect x="310.0" y="391.0" width="80" height="22" rx="11" fill="#fffaf0" stroke="#1e3a8a"/>
 <text x="350.0" y="406.0" text-anchor="middle" font-size="12" font-weight="bold" font-style="normal" fill="#1e3a8a">Saturn</text>
 <line x1="350.0" y1="120" x2="350.0" y2="410" stroke="#b8860b" stroke-width="1" stroke-dasharray="2,6"/>
-<text x="350.0" y="442.0" text-anchor="middle" font-size="12" font-weight="normal" font-style="normal" fill="#3b2314">Read downward: Mercury, Venus, Mars, Jupiter, Saturn — in order of distance from the Sun.</text>
+<text x="350.0" y="442.0" text-anchor="middle" font-size="12" font-weight="normal" font-style="normal" fill="#3b2314">Read downward: Mercury, Venus, Mars, Jupiter, Saturn: in order of distance from the Sun.</text>
 <text x="350.0" y="460.0" text-anchor="middle" font-size="12" font-weight="normal" font-style="italic" fill="#3b2314">One sign on the Moon's side (left), one on the Sun's side (right). Six facts give all twelve lords.</text>
 </svg>

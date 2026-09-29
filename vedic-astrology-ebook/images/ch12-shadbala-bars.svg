@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="740" height="400" viewBox="0 0 740 400" font-family="Georgia, 'Times New Roman', serif">
 <rect x="0" y="0" width="740" height="400" rx="12" fill="#fffaf0" stroke="#b8860b" stroke-width="2"/>
-<text x="370.0" y="30" text-anchor="middle" font-size="19" fill="#7f1d1d" font-weight="bold" >Shadbala of a sample chart — total strength vs. required minimum (rupas)</text>
+<text x="370.0" y="30" text-anchor="middle" font-size="19" fill="#7f1d1d" font-weight="bold" >Shadbala of a sample chart: total strength vs. required minimum (rupas)</text>
 <line x1="80" y1="300" x2="720" y2="300" stroke="#d6cbb3" stroke-width="1"/>
 <text x="74" y="304" text-anchor="end" font-size="10" fill="#3b2314" >0</text>
 <line x1="80" y1="275" x2="720" y2="275" stroke="#d6cbb3" stroke-width="1"/>

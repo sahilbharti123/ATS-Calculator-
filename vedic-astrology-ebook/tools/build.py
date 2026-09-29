@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-build.py — assembles book/*.md into a single self-contained HTML ebook (SVGs inlined)
+build.py: assembles book/*.md into a single self-contained HTML ebook (SVGs inlined)
 and, if Chromium is available, prints it to PDF.
 
   python3 tools/build.py            # writes dist/Kundali-Made-Simple.html and .pdf
@@ -43,6 +43,7 @@ blockquote.consult { border-left-color:#b45309; background:#fff3e0; }
 blockquote.lalkitab { border-left-color:#dc2626; background:#fff1f1; border:1px dashed #dc2626; border-left-width:5px; }
 blockquote.practice { border-left-color:#15803d; background:#edfaf0; }
 blockquote.story { border-left-color:#0f766e; background:#f0fdfa; font-style: italic; }
+blockquote.why { border-left-color:#4338ca; background:#eef2ff; }
 blockquote.story strong { font-style: normal; }
 details { background:#f7f1e3; border:1px solid #e2d3b0; border-radius:6px; padding:.5rem .9rem; margin:.6rem 0 1.2rem; }
 summary { cursor:pointer; font-weight:bold; color: var(--maroon); }
@@ -77,7 +78,7 @@ hr { border:none; border-top:1px solid #d9c9a8; margin:2rem 0; }
 }
 """
 
-BOX_CLASSES = [("🧭", "tip"), ("💡", "fact"), ("⚠️", "warn"), ("🪔", "consult"), ("📕", "lalkitab"), ("✍️", "practice"), ("📖", "story")]
+BOX_CLASSES = [("🧭", "tip"), ("💡", "fact"), ("⚠️", "warn"), ("🪔", "consult"), ("📕", "lalkitab"), ("✍️", "practice"), ("📖", "story"), ("🔍", "why")]
 
 def slugify(s):
     s = re.sub(r"[^\w\s-]", "", s.lower())
@@ -120,8 +121,8 @@ def convert(md_text):
     return out, md.toc_tokens
 
 PARTS = {
-    1: "Part I — Foundations", 6: "Part II — Core Tools", 13: "Part III — Timing",
-    18: "Part IV — Life Questions", 22: "Part V — Lal Kitab, Remedies and the Consulting Room",
+    1: "Part I: Foundations", 6: "Part II: Core Tools", 13: "Part III: Timing",
+    18: "Part IV: Life Questions", 22: "Part V: Lal Kitab, Remedies and the Consulting Room",
 }
 
 def cover_svg():
@@ -174,11 +175,11 @@ def main():
   <h1>{TITLE}</h1>
   <div class="sub">{SUBTITLE}</div>
   {cover_svg()}
-  <div class="by">A complete beginner's course in Jyotish — with pictures, worked charts,<br>and Lal Kitab clearly marked wherever it appears</div>
+  <div class="by">A complete beginner's course in Jyotish: with pictures, worked charts,<br>and Lal Kitab clearly marked wherever it appears</div>
   <div class="by" style="margin-top:2.5rem">{today} edition</div>
 </section>
 <section class="frontnote">
-  <p><strong>About this book.</strong> The teaching voice is that of a veteran Indian astrologer with thirty years of practice; the anecdotes are composites and the three case-study charts (Meera, Arjun, Devika) are constructed for teaching. Nothing here is a substitute for medical, legal or financial advice, and no prediction in astrology is a certainty — the book teaches you to say so, too.</p>
+  <p><strong>About this book.</strong> The teaching voice is that of a veteran Indian astrologer with thirty years of practice; the anecdotes are composites and the three case-study charts (Meera, Arjun, Devika) are constructed for teaching. Nothing here is a substitute for medical, legal or financial advice, and no prediction in astrology is a certainty: the book teaches you to say so, too.</p>
   <p><strong>How material is marked.</strong> The backbone is Parashari astrology (<em>Brihat Parashara Hora Shastra</em>). Anything drawn from <em>Lal Kitab</em> (Pt. Roop Chand Joshi, Urdu editions 1939–1952) appears only inside red dashed boxes labelled <strong>📕 From Lal Kitab</strong> with the source stated, so you always know which system you are using. Jaimini, Tajaka and KP appear where named.</p>
   <p class="legend"><strong>Boxes:</strong> 🧭 Guruji's rule of thumb · 💡 Did you know? · ⚠️ Common beginner mistake · 🪔 Consultation tip · 📖 Story (memory tale) · 📕 From Lal Kitab · ✍️ Practice</p>
 </section>
@@ -191,7 +192,7 @@ def main():
 
     doc = f'''<!doctype html><html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{TITLE} — {SUBTITLE}</title><style>{CSS}</style></head>
+<title>{TITLE}: {SUBTITLE}</title><style>{CSS}</style></head>
 <body><div class="page">{front}{"".join(toc_html)}{"".join(body_html)}</div></body></html>'''
     os.makedirs(DIST, exist_ok=True)
     out_html = os.path.join(DIST, "Kundali-Made-Simple.html")

@@ -12,7 +12,7 @@
 <text x="618.0" y="87.0" text-anchor="middle" font-size="12" font-weight="bold" font-style="normal" fill="#1e3a8a">Saturn</text>
 <text x="142.0" y="122.0" text-anchor="end" font-size="12" font-weight="bold" font-style="normal" fill="#c2410c">Sun</text>
 <rect x="150" y="95" width="72" height="46" fill="#e5e7eb" stroke="#3b2314" stroke-width="1"/>
-<text x="186.0" y="122.0" text-anchor="middle" font-size="11" font-weight="normal" font-style="normal" fill="#3b2314">—</text>
+<text x="186.0" y="122.0" text-anchor="middle" font-size="11" font-weight="normal" font-style="normal" fill="#3b2314">, </text>
 <rect x="222" y="95" width="72" height="46" fill="#bbf7d0" stroke="#3b2314" stroke-width="1"/>
 <text x="258.0" y="122.0" text-anchor="middle" font-size="11" font-weight="normal" font-style="normal" fill="#3b2314">Friend</text>
 <rect x="294" y="95" width="72" height="46" fill="#bbf7d0" stroke="#3b2314" stroke-width="1"/>
@@ -29,7 +29,7 @@
 <rect x="150" y="141" width="72" height="46" fill="#bbf7d0" stroke="#3b2314" stroke-width="1"/>
 <text x="186.0" y="168.0" text-anchor="middle" font-size="11" font-weight="normal" font-style="normal" fill="#3b2314">Friend</text>
 <rect x="222" y="141" width="72" height="46" fill="#e5e7eb" stroke="#3b2314" stroke-width="1"/>
-<text x="258.0" y="168.0" text-anchor="middle" font-size="11" font-weight="normal" font-style="normal" fill="#3b2314">—</text>
+<text x="258.0" y="168.0" text-anchor="middle" font-size="11" font-weight="normal" font-style="normal" fill="#3b2314">, </text>
 <rect x="294" y="141" width="72" height="46" fill="#fde68a" stroke="#3b2314" stroke-width="1"/>
 <text x="330.0" y="168.0" text-anchor="middle" font-size="11" font-weight="normal" font-style="normal" fill="#3b2314">Neutral</text>
 <rect x="366" y="141" width="72" height="46" fill="#bbf7d0" stroke="#3b2314" stroke-width="1"/>
@@ -46,7 +46,7 @@
 <rect x="222" y="187" width="72" height="46" fill="#bbf7d0" stroke="#3b2314" stroke-width="1"/>
 <text x="258.0" y="214.0" text-anchor="middle" font-size="11" font-weight="normal" font-style="normal" fill="#3b2314">Friend</text>
 <rect x="294" y="187" width="72" height="46" fill="#e5e7eb" stroke="#3b2314" stroke-width="1"/>
-<text x="330.0" y="214.0" text-anchor="middle" font-size="11" font-weight="normal" font-style="normal" fill="#3b2314">—</text>
+<text x="330.0" y="214.0" text-anchor="middle" font-size="11" font-weight="normal" font-style="normal" fill="#3b2314">, </text>
 <rect x="366" y="187" width="72" height="46" fill="#fecaca" stroke="#3b2314" stroke-width="1"/>
 <text x="402.0" y="214.0" text-anchor="middle" font-size="11" font-weight="normal" font-style="normal" fill="#3b2314">Enemy</text>
 <rect x="438" y="187" width="72" height="46" fill="#bbf7d0" stroke="#3b2314" stroke-width="1"/>
@@ -63,7 +63,7 @@
 <rect x="294" y="233" width="72" height="46" fill="#fde68a" stroke="#3b2314" stroke-width="1"/>
 <text x="330.0" y="260.0" text-anchor="middle" font-size="11" font-weight="normal" font-style="normal" fill="#3b2314">Neutral</text>
 <rect x="366" y="233" width="72" height="46" fill="#e5e7eb" stroke="#3b2314" stroke-width="1"/>
-<text x="402.0" y="260.0" text-anchor="middle" font-size="11" font-weight="normal" font-style="normal" fill="#3b2314">—</text>
+<text x="402.0" y="260.0" text-anchor="middle" font-size="11" font-weight="normal" font-style="normal" fill="#3b2314">, </text>
 <rect x="438" y="233" width="72" height="46" fill="#fde68a" stroke="#3b2314" stroke-width="1"/>
 <text x="474.0" y="260.0" text-anchor="middle" font-size="11" font-weight="normal" font-style="normal" fill="#3b2314">Neutral</text>
 <rect x="510" y="233" width="72" height="46" fill="#bbf7d0" stroke="#3b2314" stroke-width="1"/>
@@ -80,7 +80,7 @@
 <rect x="366" y="279" width="72" height="46" fill="#fecaca" stroke="#3b2314" stroke-width="1"/>
 <text x="402.0" y="306.0" text-anchor="middle" font-size="11" font-weight="normal" font-style="normal" fill="#3b2314">Enemy</text>
 <rect x="438" y="279" width="72" height="46" fill="#e5e7eb" stroke="#3b2314" stroke-width="1"/>
-<text x="474.0" y="306.0" text-anchor="middle" font-size="11" font-weight="normal" font-style="normal" fill="#3b2314">—</text>
+<text x="474.0" y="306.0" text-anchor="middle" font-size="11" font-weight="normal" font-style="normal" fill="#3b2314">, </text>
 <rect x="510" y="279" width="72" height="46" fill="#fecaca" stroke="#3b2314" stroke-width="1"/>
 <text x="546.0" y="306.0" text-anchor="middle" font-size="11" font-weight="normal" font-style="normal" fill="#3b2314">Enemy</text>
 <rect x="582" y="279" width="72" height="46" fill="#fde68a" stroke="#3b2314" stroke-width="1"/>
@@ -97,7 +97,7 @@
 <rect x="438" y="325" width="72" height="46" fill="#fde68a" stroke="#3b2314" stroke-width="1"/>
 <text x="474.0" y="352.0" text-anchor="middle" font-size="11" font-weight="normal" font-style="normal" fill="#3b2314">Neutral</text>
 <rect x="510" y="325" width="72" height="46" fill="#e5e7eb" stroke="#3b2314" stroke-width="1"/>
-<text x="546.0" y="352.0" text-anchor="middle" font-size="11" font-weight="normal" font-style="normal" fill="#3b2314">—</text>
+<text x="546.0" y="352.0" text-anchor="middle" font-size="11" font-weight="normal" font-style="normal" fill="#3b2314">, </text>
 <rect x="582" y="325" width="72" height="46" fill="#bbf7d0" stroke="#3b2314" stroke-width="1"/>
 <text x="618.0" y="352.0" text-anchor="middle" font-size="11" font-weight="normal" font-style="normal" fill="#3b2314">Friend</text>
 <text x="142.0" y="398.0" text-anchor="end" font-size="12" font-weight="bold" font-style="normal" fill="#1e3a8a">Saturn</text>
@@ -114,7 +114,7 @@
 <rect x="510" y="371" width="72" height="46" fill="#bbf7d0" stroke="#3b2314" stroke-width="1"/>
 <text x="546.0" y="398.0" text-anchor="middle" font-size="11" font-weight="normal" font-style="normal" fill="#3b2314">Friend</text>
 <rect x="582" y="371" width="72" height="46" fill="#e5e7eb" stroke="#3b2314" stroke-width="1"/>
-<text x="618.0" y="398.0" text-anchor="middle" font-size="11" font-weight="normal" font-style="normal" fill="#3b2314">—</text>
+<text x="618.0" y="398.0" text-anchor="middle" font-size="11" font-weight="normal" font-style="normal" fill="#3b2314">, </text>
 <path d="M152,431 L152,439 L364,439 L364,431" fill="none" stroke="#7f1d1d" stroke-width="1.5"/>
 <path d="M440,431 L440,439 L508,439 L508,431" fill="none" stroke="#7f1d1d" stroke-width="1.5"/>
 <text x="330.0" y="455.0" text-anchor="middle" font-size="12" font-weight="bold" font-style="normal" fill="#7f1d1d">The royal party: Sun, Moon, Mars, and their priest Jupiter</text>

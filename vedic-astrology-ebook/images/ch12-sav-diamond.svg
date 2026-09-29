@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="740" height="560" viewBox="0 0 740 560" font-family="Georgia, 'Times New Roman', serif">
 <rect x="0" y="0" width="740" height="560" rx="12" fill="#fffaf0" stroke="#b8860b" stroke-width="2"/>
-<text x="370.0" y="30" text-anchor="middle" font-size="19" font-weight="bold" fill="#7f1d1d">Sarvashtakavarga (SAV) of Chart A — sample bindus per house</text>
+<text x="370.0" y="30" text-anchor="middle" font-size="19" font-weight="bold" fill="#7f1d1d">Sarvashtakavarga (SAV) of Chart A: sample bindus per house</text>
 <polygon points="370.0,60 470.0,160.0 370.0,260.0 270.0,160.0" fill="#bbf7d0" stroke="none"/>
 <polygon points="170.0,60 370.0,60 270.0,160.0" fill="none" stroke="none"/>
 <polygon points="170.0,60 270.0,160.0 170.0,260.0" fill="#bbf7d0" stroke="none"/>
