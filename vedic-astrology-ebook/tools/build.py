@@ -29,7 +29,7 @@ h2 { font-size: 1.45rem; color: var(--maroon); margin-top: 2rem; }
 h3 { font-size: 1.15rem; color: #5b2a1a; margin-top: 1.4rem; }
 p { margin: .7rem 0; text-align: left; }
 img, svg { max-width: 100%; height: auto; display: block; margin: 1.2rem auto .3rem; }
-p.caption, p > em:only-child { display:block; text-align:center; color: var(--muted); font-size: .92rem; margin-top: .1rem; }
+p.caption { display:block; text-align:center; color: var(--muted); font-size: .92rem; margin-top: .1rem; }
 table { border-collapse: collapse; width: 100%; margin: 1rem 0; font-size: .9rem; }
 th, td { border: 1px solid #d9c9a8; padding: .4rem .55rem; vertical-align: top; }
 th { background: #f3e6c8; color: var(--maroon); text-align: left; }
@@ -158,6 +158,8 @@ def main():
             toc_html.append('<li class="part">Appendices</li>')
         toc_html.append(f'<li><a href="#{ch["id"]}">{html.escape(ch["title"])}</a>')
         subs = [t for t in ch["toc"][0]["children"]] if ch["toc"] else []
+        if ch["title"].startswith("Appendix D") or ch["title"].startswith("Appendix B"):
+            subs = []
         if subs:
             toc_html.append("<ol>")
             for s in subs:

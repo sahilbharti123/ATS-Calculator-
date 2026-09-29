@@ -86,7 +86,7 @@ No transit frightens Indian clients like this one, and no transit is more misund
 
 The word is the same; the experience is not. Four things decide it, and you already know how to check all four.
 
-**1. The Moon's strength (Chapter 12).** A bright, well-placed Moon — waxing, in its own or a friend's sign, aspected by Jupiter — carries weight the way a strong back carries a sack of rice. A dark Moon in the 8th with Ketu bends under it. Meera's Moon, in its own sign Cancer in the 9th with Jupiter's aspect, is a good back.
+**1. The Moon's strength (Chapter 12).** A bright, well-placed Moon — waxing, in its own or a friend's sign, aspected by Jupiter — carries weight the way a strong back carries a sack of rice. A dark Moon in the 8th with Ketu bends under it. Meera's Moon, in its own sign Cancer in the 9th, a trikona, with no malefic sitting on it (Jupiter in her 7th does not aspect the 9th, so the Moon stands on its own dignity), is a good back.
 
 **2. Saturn's functional nature for the Lagna (Chapter 8, Appendix A.6).** Almost nobody tells clients this. For **Libra** and **Taurus** Lagnas Saturn is the *yogakaraka*; for Capricorn and Aquarius it is the Lagna lord; for Gemini and Virgo a friend. These people routinely report Sade Sati as the years they were promoted, bought a house, or finally became serious — hard, but *productive* hard. A Libra Lagna's Sade Sati is very often a promotion. For Aries, Cancer, Leo, Scorpio, Sagittarius and Pisces Lagnas, Saturn owns difficult houses and the same transit demands more and gives less.
 

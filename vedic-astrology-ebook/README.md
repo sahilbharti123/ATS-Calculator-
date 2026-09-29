@@ -17,13 +17,17 @@ A complete, illustrated beginner-to-consultant ebook on Vedic astrology (Jyotish
 **Part III — Timing:** 13 Vimshottari Dasha · 14 Transits and Sade Sati · 15 Yogini, Jaimini and the Annual Chart · 16 Panchanga and Muhurta · 17 Prashna
 **Part IV — Life questions:** 18 Career and Wealth · 19 Marriage and Relationships · 20 Health and Longevity · 21 Children, Education, Property, Travel and Spirituality
 **Part V — The consulting room:** 22 Lal Kitab (clearly labelled) · 23 Remedies · 24 The Consultation · 25 Three Complete Case Studies
-**Appendices:** A Quick Reference Tables · B Glossary · C Reading List, Cheat Sheets and the Consultation Checklist
+**Appendices:** A Quick Reference Tables · B Glossary · C Reading List, Cheat Sheets and the Consultation Checklist · D The Story Bank (all 100+ memory stories in one place)
+
+**How it teaches.** Every rule that is normally memorised — who is whose enemy, which conjunctions help, which planets serve which Lagna — comes as a short **📖 Story** from a royal court (the King Sun, the Queen Mother Moon, the Commander Mars, the Prince Mercury, the Priest Jupiter, the Minister of Pleasure Venus, the Judge Saturn, and the two strangers Rahu and Ketu), followed by the rule in one line. Every judging table is colour-coded 🟢 good · 🟡 mixed · 🔴 difficult, and the key diagrams (friendship web, conjunction grid, functional-nature table) use the same three colours.
 
 ## Rebuild the book
 
 ```bash
 cd vedic-astrology-ebook
 pip install markdown            # once
+python3 tools/storybank.py      # regenerates Appendix D from the chapters' Story boxes
+python3 tools/lint.py           # structural checks
 python3 tools/build.py          # → dist/*.html and (if Chromium is available) dist/*.pdf
 ```
 

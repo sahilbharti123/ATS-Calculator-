@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="740" height="300" viewBox="0 0 740 300" font-family="Georgia, 'Times New Roman', serif">
+<rect x="0" y="0" width="740" height="300" rx="12" fill="#fffaf0" stroke="#b8860b" stroke-width="2"/>
+<text x="370.0" y="30" text-anchor="middle" font-size="19" font-weight="bold" fill="#7f1d1d">Baladi avasthas: a planet’s ‘age’ by degree</text>
+<text x="52" y="98" text-anchor="end" font-size="12" fill="#7f1d1d" font-weight="bold" >Odd sign</text>
+<rect x="60.0" y="70" width="128.0" height="44" fill="#bbf7d0" stroke="#3b2314" stroke-width="1.2"/>
+<text x="124.0" y="97" text-anchor="middle" font-size="12" fill="#3b2314" font-weight="bold" >Bala (infant)</text>
+<rect x="188.0" y="70" width="128.0" height="44" fill="#d9f99d" stroke="#3b2314" stroke-width="1.2"/>
+<text x="252.0" y="97" text-anchor="middle" font-size="12" fill="#3b2314" font-weight="bold" >Kumara (child)</text>
+<rect x="316.0" y="70" width="128.0" height="44" fill="#fde68a" stroke="#3b2314" stroke-width="1.2"/>
+<text x="380.0" y="97" text-anchor="middle" font-size="12" fill="#3b2314" font-weight="bold" >Yuva (youth)</text>
+<rect x="444.0" y="70" width="128.0" height="44" fill="#fed7aa" stroke="#3b2314" stroke-width="1.2"/>
+<text x="508.0" y="97" text-anchor="middle" font-size="12" fill="#3b2314" font-weight="bold" >Vriddha (old)</text>
+<rect x="572.0" y="70" width="128.0" height="44" fill="#fecaca" stroke="#3b2314" stroke-width="1.2"/>
+<text x="636.0" y="97" text-anchor="middle" font-size="12" fill="#3b2314" font-weight="bold" >Mrita (dead)</text>
+<text x="60.0" y="128" text-anchor="middle" font-size="10" fill="#3b2314" >0°</text>
+<text x="188.0" y="128" text-anchor="middle" font-size="10" fill="#3b2314" >6°</text>
+<text x="316.0" y="128" text-anchor="middle" font-size="10" fill="#3b2314" >12°</text>
+<text x="444.0" y="128" text-anchor="middle" font-size="10" fill="#3b2314" >18°</text>
+<text x="572.0" y="128" text-anchor="middle" font-size="10" fill="#3b2314" >24°</text>
+<text x="700.0" y="128" text-anchor="middle" font-size="10" fill="#3b2314" >30°</text>
+<text x="52" y="178" text-anchor="end" font-size="12" fill="#7f1d1d" font-weight="bold" >Even sign</text>
+<rect x="60.0" y="150" width="128.0" height="44" fill="#fecaca" stroke="#3b2314" stroke-width="1.2"/>
+<text x="124.0" y="177" text-anchor="middle" font-size="12" fill="#3b2314" font-weight="bold" >Mrita (dead)</text>
+<rect x="188.0" y="150" width="128.0" height="44" fill="#fed7aa" stroke="#3b2314" stroke-width="1.2"/>
+<text x="252.0" y="177" text-anchor="middle" font-size="12" fill="#3b2314" font-weight="bold" >Vriddha (old)</text>
+<rect x="316.0" y="150" width="128.0" height="44" fill="#fde68a" stroke="#3b2314" stroke-width="1.2"/>
+<text x="380.0" y="177" text-anchor="middle" font-size="12" fill="#3b2314" font-weight="bold" >Yuva (youth)</text>
+<rect x="444.0" y="150" width="128.0" height="44" fill="#d9f99d" stroke="#3b2314" stroke-width="1.2"/>
+<text x="508.0" y="177" text-anchor="middle" font-size="12" fill="#3b2314" font-weight="bold" >Kumara (child)</text>
+<rect x="572.0" y="150" width="128.0" height="44" fill="#bbf7d0" stroke="#3b2314" stroke-width="1.2"/>
+<text x="636.0" y="177" text-anchor="middle" font-size="12" fill="#3b2314" font-weight="bold" >Bala (infant)</text>
+<text x="60.0" y="208" text-anchor="middle" font-size="10" fill="#3b2314" >0°</text>
+<text x="188.0" y="208" text-anchor="middle" font-size="10" fill="#3b2314" >6°</text>
+<text x="316.0" y="208" text-anchor="middle" font-size="10" fill="#3b2314" >12°</text>
+<text x="444.0" y="208" text-anchor="middle" font-size="10" fill="#3b2314" >18°</text>
+<text x="572.0" y="208" text-anchor="middle" font-size="10" fill="#3b2314" >24°</text>
+<text x="700.0" y="208" text-anchor="middle" font-size="10" fill="#3b2314" >30°</text>
+<line x1="529.3333333333333" y1="64" x2="529.3333333333333" y2="120" stroke="#be185d" stroke-width="2"/>
+<text x="529.3333333333333" y="60" text-anchor="middle" font-size="10" fill="#be185d" font-weight="bold" >Ve 22° Li</text>
+<line x1="166.66666666666669" y1="64" x2="166.66666666666669" y2="120" stroke="#1e3a8a" stroke-width="2"/>
+<text x="166.66666666666669" y="60" text-anchor="middle" font-size="10" fill="#1e3a8a" font-weight="bold" >Sa 5° Sg</text>
+<line x1="657.3333333333334" y1="144" x2="657.3333333333334" y2="200" stroke="#c2410c" stroke-width="2"/>
+<text x="657.3333333333334" y="140" text-anchor="middle" font-size="10" fill="#c2410c" font-weight="bold" >Su 28° Sc</text>
+<line x1="508.0" y1="144" x2="508.0" y2="200" stroke="#4b5563" stroke-width="2"/>
+<text x="508.0" y="140" text-anchor="middle" font-size="10" fill="#4b5563" font-weight="bold" >Mo 21° Cn</text>
+<line x1="145.33333333333331" y1="144" x2="145.33333333333331" y2="200" stroke="#b91c1c" stroke-width="2"/>
+<text x="145.33333333333331" y="140" text-anchor="middle" font-size="10" fill="#b91c1c" font-weight="bold" >Ma 4° Pi</text>
+<line x1="252.0" y1="144" x2="252.0" y2="200" stroke="#15803d" stroke-width="2"/>
+<text x="252.0" y="140" text-anchor="middle" font-size="10" fill="#15803d" font-weight="bold" >Me 9° Sc / Ju 8° Ta</text>
+<text x="370.0" y="260" text-anchor="middle" font-size="11" fill="#3b2314" >Chart A: Sun 28° Scorpio (even) → Bala; Mars 4° Pisces (even) → Mrita; Venus 22° Libra (odd) → Vriddha; Moon 21° Cancer (even) → Kumara.</text>
+<text x="370.0" y="280" text-anchor="middle" font-size="11" fill="#3b2314" font-style="italic" >Bala and Yuva give the fullest results; Vriddha gives little; Mrita gives almost nothing of its own — it borrows from its dispositor and dasha.</text>
+</svg>
