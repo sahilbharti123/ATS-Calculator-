@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="740" height="640" viewBox="0 0 740 640" font-family="Georgia, 'Times New Roman', serif">
+<rect x="0" y="0" width="740" height="640" rx="12" fill="#fffaf0" stroke="#b8860b" stroke-width="2"/>
+<text x="370.0" y="32" text-anchor="middle" font-size="20" font-weight="bold" fill="#7f1d1d">The four aims of life: four triangles in the diamond</text>
+<polygon points="270.0,70 375.0,175.0 270.0,280.0 165.0,175.0" fill="#fecaca" stroke="none"/>
+<polygon points="60,490 60,280.0 165.0,385.0" fill="#fecaca" stroke="none"/>
+<polygon points="480,490 375.0,385.0 480,280.0" fill="#fecaca" stroke="none"/>
+<polygon points="60,70 270.0,70 165.0,175.0" fill="#d9f99d" stroke="none"/>
+<polygon points="60,490 165.0,385.0 270.0,490" fill="#d9f99d" stroke="none"/>
+<polygon points="480,280.0 375.0,385.0 270.0,280.0 375.0,175.0" fill="#d9f99d" stroke="none"/>
+<polygon points="60,70 165.0,175.0 60,280.0" fill="#bae6fd" stroke="none"/>
+<polygon points="270.0,490 165.0,385.0 270.0,280.0 375.0,385.0" fill="#bae6fd" stroke="none"/>
+<polygon points="480,70 480,280.0 375.0,175.0" fill="#bae6fd" stroke="none"/>
+<polygon points="60,280.0 165.0,175.0 270.0,280.0 165.0,385.0" fill="#ddd6fe" stroke="none"/>
+<polygon points="480,490 270.0,490 375.0,385.0" fill="#ddd6fe" stroke="none"/>
+<polygon points="480,70 375.0,175.0 270.0,70" fill="#ddd6fe" stroke="none"/>
+<rect x="60" y="70" width="420" height="420" fill="none" stroke="#3b2314" stroke-width="2.5"/>
+<line x1="60" y1="70" x2="480" y2="490" stroke="#3b2314" stroke-width="2"/>
+<line x1="480" y1="70" x2="60" y2="490" stroke="#3b2314" stroke-width="2"/>
+<polygon points="270.0,70 480,280.0 270.0,490 60,280.0" fill="none" stroke="#3b2314" stroke-width="2"/>
+<text x="270.0" y="180.0" text-anchor="middle" font-size="15" fill="#3b2314" font-weight="bold">1</text>
+<text x="165.0" y="121.66666666666666" text-anchor="middle" font-size="15" fill="#3b2314" font-weight="bold">2</text>
+<text x="106.66666666666666" y="180.0" text-anchor="middle" font-size="15" fill="#3b2314" font-weight="bold">3</text>
+<text x="165.0" y="285.0" text-anchor="middle" font-size="15" fill="#3b2314" font-weight="bold">4</text>
+<text x="106.66666666666666" y="390.0" text-anchor="middle" font-size="15" fill="#3b2314" font-weight="bold">5</text>
+<text x="165.0" y="448.3333333333333" text-anchor="middle" font-size="15" fill="#3b2314" font-weight="bold">6</text>
+<text x="270.0" y="390.0" text-anchor="middle" font-size="15" fill="#3b2314" font-weight="bold">7</text>
+<text x="375.0" y="448.3333333333333" text-anchor="middle" font-size="15" fill="#3b2314" font-weight="bold">8</text>
+<text x="433.3333333333333" y="390.0" text-anchor="middle" font-size="15" fill="#3b2314" font-weight="bold">9</text>
+<text x="375.0" y="285.0" text-anchor="middle" font-size="15" fill="#3b2314" font-weight="bold">10</text>
+<text x="433.3333333333333" y="180.0" text-anchor="middle" font-size="15" fill="#3b2314" font-weight="bold">11</text>
+<text x="375.0" y="121.66666666666666" text-anchor="middle" font-size="15" fill="#3b2314" font-weight="bold">12</text>
+<rect x="510" y="110" width="18" height="18" fill="#fecaca" stroke="#3b2314"/>
+<text x="536" y="124" text-anchor="start" font-size="13" fill="#3b2314" font-weight="bold">Dharma (purpose)</text>
+<text x="536" y="142" text-anchor="start" font-size="12" fill="#3b2314">houses 1, 5, 9</text>
+<text x="536" y="158" text-anchor="start" font-size="11" fill="#3b2314" font-style="italic">fire houses</text>
+<rect x="510" y="180" width="18" height="18" fill="#d9f99d" stroke="#3b2314"/>
+<text x="536" y="194" text-anchor="start" font-size="13" fill="#3b2314" font-weight="bold">Artha (means)</text>
+<text x="536" y="212" text-anchor="start" font-size="12" fill="#3b2314">houses 2, 6, 10</text>
+<text x="536" y="228" text-anchor="start" font-size="11" fill="#3b2314" font-style="italic">earth houses</text>
+<rect x="510" y="250" width="18" height="18" fill="#bae6fd" stroke="#3b2314"/>
+<text x="536" y="264" text-anchor="start" font-size="13" fill="#3b2314" font-weight="bold">Kama (desire)</text>
+<text x="536" y="282" text-anchor="start" font-size="12" fill="#3b2314">houses 3, 7, 11</text>
+<text x="536" y="298" text-anchor="start" font-size="11" fill="#3b2314" font-style="italic">air houses</text>
+<rect x="510" y="320" width="18" height="18" fill="#ddd6fe" stroke="#3b2314"/>
+<text x="536" y="334" text-anchor="start" font-size="13" fill="#3b2314" font-weight="bold">Moksha (release)</text>
+<text x="536" y="352" text-anchor="start" font-size="12" fill="#3b2314">houses 4, 8, 12</text>
+<text x="536" y="368" text-anchor="start" font-size="11" fill="#3b2314" font-style="italic">water houses</text>
+<text x="370.0" y="580" text-anchor="middle" font-size="12" fill="#3b2314" font-style="italic">Each aim is a triangle of three houses, four signs apart — the same pattern as the elements in the natural zodiac.</text>
+<text x="370.0" y="600" text-anchor="middle" font-size="12" fill="#3b2314" font-style="italic">The spiritual questions of this chapter live in the Moksha triangle (4, 8, 12), with the 9th (dharma) as the door.</text>
+<text x="370.0" y="620" text-anchor="middle" font-size="12" fill="#3b2314" font-style="italic">Ketu, Jupiter and Saturn are its three karakas: release, guidance, renunciation.</text>
+</svg>

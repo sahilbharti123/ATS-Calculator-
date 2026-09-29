@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="740" height="300" viewBox="0 0 740 300" font-family="Georgia, 'Times New Roman', serif">
+<rect x="0" y="0" width="740" height="300" rx="12" fill="#fffaf0" stroke="#b8860b" stroke-width="2"/>
+<text x="370.0" y="32" text-anchor="middle" font-size="20" font-weight="bold" fill="#7f1d1d">Saptamsa (D7) ruler for Cancer: seven slices of 4°17′</text>
+<rect x="50.0" y="90" width="91.42857142857143" height="64" fill="#fde68a" stroke="#3b2314" stroke-width="1.5"/>
+<text x="95.71428571428572" y="116" text-anchor="middle" font-size="13" fill="#7f1d1d" font-weight="bold">1</text>
+<text x="95.71428571428572" y="136" text-anchor="middle" font-size="12" fill="#3b2314">Capricorn</text>
+<rect x="141.42857142857144" y="90" width="91.42857142857143" height="64" fill="#bbf7d0" stroke="#3b2314" stroke-width="1.5"/>
+<text x="187.14285714285717" y="116" text-anchor="middle" font-size="13" fill="#7f1d1d" font-weight="bold">2</text>
+<text x="187.14285714285717" y="136" text-anchor="middle" font-size="12" fill="#3b2314">Aquarius</text>
+<rect x="232.85714285714286" y="90" width="91.42857142857143" height="64" fill="#fde68a" stroke="#3b2314" stroke-width="1.5"/>
+<text x="278.57142857142856" y="116" text-anchor="middle" font-size="13" fill="#7f1d1d" font-weight="bold">3</text>
+<text x="278.57142857142856" y="136" text-anchor="middle" font-size="12" fill="#3b2314">Pisces</text>
+<rect x="324.2857142857143" y="90" width="91.42857142857143" height="64" fill="#bbf7d0" stroke="#3b2314" stroke-width="1.5"/>
+<text x="370.0" y="116" text-anchor="middle" font-size="13" fill="#7f1d1d" font-weight="bold">4</text>
+<text x="370.0" y="136" text-anchor="middle" font-size="12" fill="#3b2314">Aries</text>
+<rect x="415.7142857142857" y="90" width="91.42857142857143" height="64" fill="#fde68a" stroke="#3b2314" stroke-width="1.5"/>
+<text x="461.42857142857144" y="116" text-anchor="middle" font-size="13" fill="#7f1d1d" font-weight="bold">5</text>
+<text x="461.42857142857144" y="136" text-anchor="middle" font-size="12" fill="#3b2314">Taurus</text>
+<rect x="507.14285714285717" y="90" width="91.42857142857143" height="64" fill="#bbf7d0" stroke="#3b2314" stroke-width="1.5"/>
+<text x="552.8571428571429" y="116" text-anchor="middle" font-size="13" fill="#7f1d1d" font-weight="bold">6</text>
+<text x="552.8571428571429" y="136" text-anchor="middle" font-size="12" fill="#3b2314">Gemini</text>
+<rect x="598.5714285714286" y="90" width="91.42857142857143" height="64" fill="#fde68a" stroke="#3b2314" stroke-width="1.5"/>
+<text x="644.2857142857142" y="116" text-anchor="middle" font-size="13" fill="#7f1d1d" font-weight="bold">7</text>
+<text x="644.2857142857142" y="136" text-anchor="middle" font-size="12" fill="#3b2314">Cancer</text>
+<line x1="50.0" y1="154" x2="50.0" y2="164" stroke="#3b2314"/>
+<text x="50.0" y="180" text-anchor="middle" font-size="11" fill="#3b2314">0°00′</text>
+<line x1="141.42857142857144" y1="154" x2="141.42857142857144" y2="164" stroke="#3b2314"/>
+<text x="141.42857142857144" y="180" text-anchor="middle" font-size="11" fill="#3b2314">4°17′</text>
+<line x1="232.85714285714286" y1="154" x2="232.85714285714286" y2="164" stroke="#3b2314"/>
+<text x="232.85714285714286" y="180" text-anchor="middle" font-size="11" fill="#3b2314">8°34′</text>
+<line x1="324.2857142857143" y1="154" x2="324.2857142857143" y2="164" stroke="#3b2314"/>
+<text x="324.2857142857143" y="180" text-anchor="middle" font-size="11" fill="#3b2314">12°51′</text>
+<line x1="415.7142857142857" y1="154" x2="415.7142857142857" y2="164" stroke="#3b2314"/>
+<text x="415.7142857142857" y="180" text-anchor="middle" font-size="11" fill="#3b2314">17°09′</text>
+<line x1="507.14285714285717" y1="154" x2="507.14285714285717" y2="164" stroke="#3b2314"/>
+<text x="507.14285714285717" y="180" text-anchor="middle" font-size="11" fill="#3b2314">21°26′</text>
+<line x1="598.5714285714286" y1="154" x2="598.5714285714286" y2="164" stroke="#3b2314"/>
+<text x="598.5714285714286" y="180" text-anchor="middle" font-size="11" fill="#3b2314">25°43′</text>
+<line x1="690.0" y1="154" x2="690.0" y2="164" stroke="#3b2314"/>
+<text x="690.0" y="180" text-anchor="middle" font-size="11" fill="#3b2314">30°00′</text>
+<line x1="156.66666666666669" y1="76" x2="156.66666666666669" y2="154" stroke="#7f1d1d" stroke-width="2.5"/>
+<text x="156.66666666666669" y="70" text-anchor="middle" font-size="12" fill="#7f1d1d" font-weight="bold">Chart C Sun 5° Cancer</text>
+<text x="370.0" y="205" text-anchor="middle" font-size="13" fill="#3b2314">Cancer is an even sign, so counting starts from its 7th sign, Capricorn. 5° ÷ 4°17′ = 1.17 → the 2nd slice → Aquarius.</text>
+<text x="370.0" y="228" text-anchor="middle" font-size="12" fill="#3b2314" font-style="italic">For an odd sign (Aries, Gemini, Leo…) counting starts from the sign itself.</text>
+<text x="370.0" y="262" text-anchor="middle" font-size="13" fill="#7f1d1d" font-weight="bold">Rule of thumb: slice number = whole part of (degree ÷ 4.2857) + 1.</text>
+</svg>
