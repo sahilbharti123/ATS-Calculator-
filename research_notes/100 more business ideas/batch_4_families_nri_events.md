@@ -221,7 +221,7 @@
 
 **Who pays and how much:** Urban couples, NRI couples marrying in India, and parents-to-be. About ₹4,999 setup fee, plus about 5–10% commission from partner shops.
 **Proof it works abroad:** Babylist, US: the baby gift-list company made over $750 million in revenue in 2025, up 45%, and has been profitable eight years in a row. ([source](https://www.builtinnyc.com/company/babylist/faq/stability-growth))
-**Who does this in India now:** Two found: Kiki (a gift list for weddings, baby showers and housewarmings, started in 2025) and Wishtry.
+**Who does this in India now:** 3: Wedding Wishlist (Chennai) ([Inc42](https://inc42.com/?p=162300)), ForMyShaadi and Kiki ([YourStory](https://yourstory.com/companies/kiki-wedding--baby-gift-registry)). At the limit; you would need a sharper angle, such as NRI guests.
 **To start:** About ₹70,000 (simple website, shop tie-ups, ads). About 4–6 weeks. Main risk: Indian guests are used to giving cash (shagun), so include a "chip in cash" option.
 
 ### Classes that prepare children to become a big brother or sister
@@ -277,7 +277,7 @@
 
 **Who pays and how much:** Working parents in large gated societies. About ₹6,000–10,000 a month for 3 fixed rides a week.
 **Proof it works abroad:** HopSkipDrive, US: its checked "CareDrivers" have completed more than 5 million rides for more than 14,000 schools. ([source](https://www.hopskipdrive.com/))
-**Who does this in India now:** Not checked yet: this research session's web-search limit ran out before the India check. Search Google, Instagram and JustDial for "kids cab" and "child transport" in your city before choosing this.
+**Who does this in India now:** No Indian app found. Informal school vans and private drivers are the substitute. The US model is HopSkipDrive ([TechCrunch](https://techcrunch.com/2016/01/26/hopskipdrive-the-ridesharing-startup-for-kids-grabs-10-2m-in-series-a-funding)).
 **To start:** About ₹1,00,000 (verification, training, insurance, ads). About 4–6 weeks. Main risk: any incident with a child is very serious, so strict checks, attendants and live tracking are a must.
 
 ### Fair sharing of parents' jewellery and keepsakes among siblings
@@ -291,7 +291,7 @@
 
 **Who pays and how much:** Siblings, especially NRIs. About ₹15,000–40,000 depending on the size of the home.
 **Proof it works abroad:** FairSplit, US: an online service that lists a home's belongings with photos and lets family members divide them by taking turns or bidding; it quotes an estate expert saying most families expect no conflict and most of them end up in one. ([source](https://www.fairsplit.com/))
-**Who does this in India now:** Not checked yet: this research session's web-search limit ran out before the India check. Search Google and Instagram before choosing this.
+**Who does this in India now:** No friendly item-sharing service found. Lawyers and family mediators handle disputes after they start ([The Statesman](https://www.thestatesman.com/supplements/law/mediation-to-resolve-inheritance-1503327356.html)).
 **To start:** About ₹50,000 (valuer tie-up, templates, ads). About 4–6 weeks. Main risk: property and inheritance disputes, so handle only movable items and never give legal advice.
 
 ### Letters from Santa posted to children
@@ -305,5 +305,5 @@
 
 **Who pays and how much:** Parents of children aged 3–9 in the metros, Goa, Kerala and the North-East. About ₹499–1,499 per pack.
 **Proof it works abroad:** Package From Santa, US: a family-owned company running for 20 years that sells Santa letter packs from $9.95 to $89.95 and says it has served millions of families. ([source](https://www.packagefromsanta.com/))
-**Who does this in India now:** Not checked yet: this research session's web-search limit ran out before the India check. Search Google and Instagram for "letter from Santa India" before choosing this.
+**Who does this in India now:** No Indian service found; overseas sellers on Etsy are the substitute.
 **To start:** About ₹40,000 (design, paper, first 300 packs, ads). About 2–3 weeks, just in time for Christmas 2026. Main risk: it sells only in December, so plan a second product, such as birthday letters "from the Tooth Fairy".

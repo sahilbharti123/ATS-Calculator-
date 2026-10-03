@@ -78,7 +78,7 @@
 
 **Proof it works abroad:** National Garden Scheme, UK: opens over 3,300 private gardens to paying visitors and has given over £77.8 million to nursing charities since 1927 ([NGS](https://ngs.org.uk/about-us/))
 
-**Who does this in India now:** Not checked. The web-search limit ran out before I could search. Check this before choosing the idea.
+**Who does this in India now:** No one found. The UK's National Garden Scheme opens about 3,700 private gardens a year ([Country & Town House](https://www.countryandtownhouse.com/culture/the-national-open-garden-scheme-what-is-it)).
 
 **To start:** About ₹30,000–₹50,000. About 4–6 weeks to the first paying visitors (winter is garden season). Main risk: owners worry about privacy and damage.
 
@@ -198,7 +198,7 @@
 
 **Proof it works abroad:** Music & Arts, USA: counts 100% of rental payments toward buying the instrument and serves 300,000+ parents through about 250 locations ([Music & Arts](https://www.musicarts.com/rentals))
 
-**Who does this in India now:** Not checked. The web-search limit ran out before I could search. Check this before choosing the idea.
+**Who does this in India now:** 2: Rentock (Mumbai) rents instruments online ([Gust](https://gust.com/companies/rentock)), and local shops such as OMR Musical (Chennai) rent and sell. No rent-to-own plan found.
 
 **To start:** About ₹1,00,000, or much less if the music shop owns the stock and you split the money. About 3–4 weeks to the first paying customer. Main risk: damaged instruments; people quitting after two months.
 
@@ -218,7 +218,7 @@
 
 **Proof it works abroad:** Portable North Pole (home country not checked): has made personalised Santa videos and calls since 2008, with over 354 million video views ([Portable North Pole](https://www.portablenorthpole.com/))
 
-**Who does this in India now:** Not checked. The web-search limit ran out before I could search. Check this before choosing the idea.
+**Who does this in India now:** No Indian live-Santa service found. Global apps like Portable North Pole are the substitute ([PNP](https://www.portablenorthpole.com/santa-village/blog/how-to-call-Santa-Claus)).
 
 **To start:** About ₹25,000 (costume, simple set, actor fees, ads). About 2 weeks to the first paying customer (December). Main risk: the season is only about 4–5 weeks; the actor must be good.
 
@@ -238,7 +238,7 @@
 
 **Proof it works abroad:** The Bike Club, UK: had a fleet of over 20,000 kids' bikes in January 2021, from £5 a month ([BikeBiz](https://www.bikebiz.com/the-bike-club-on-offering-an-affordable-and-sustainable-way-to-get-families-cycling/))
 
-**Who does this in India now:** Gro Club, Bengaluru only. It had over 4,500 subscribers and about ₹23 lakh monthly revenue in June 2023 ([Entrackr](https://entrackr.com/2023/06/groclub-raises-pre-seed-round-led-by-ramaiah-evolute)).
+**Who does this in India now:** 1: Gro Club in Bengaluru rents bicycles to kids and adults with doorstep delivery and repairs ([Dealroom](https://app.dealroom.co/companies/gro_club)).
 
 **To start:** About ₹1,50,000 for about 25 cycles plus ads. About 3–4 weeks to the first paying customer. Main risk: money is tied up in cycles and comes back slowly; damage and theft.
 
@@ -258,7 +258,7 @@
 
 **Proof it works abroad:** Pedalheads, Canada and USA: has run bike camps and lessons since 1986 at 400+ locations, with over 700,000 children taught life skills ([Pedalheads](https://www.pedalheads.com/))
 
-**Who does this in India now:** Not checked. The web-search limit ran out before I could search. Check this before choosing the idea.
+**Who does this in India now:** No one found in a quick search.
 
 **To start:** About ₹50,000 (10 balance bikes, helmets, coach fees, ads). About 2–3 weeks to the first paying customer. Main risk: child injuries; getting free ground space.
 
@@ -278,7 +278,7 @@
 
 **Proof it works abroad:** Play It Again Sports, USA: a chain of locally owned shops that has bought, sold and traded used sports gear for over 40 years ([Play It Again Sports](https://www.playitagainsports.com/))
 
-**Who does this in India now:** Not checked. The web-search limit ran out before I could search. Check this before choosing the idea.
+**Who does this in India now:** 1–2: Sports Galaxy (online trade-in store since 2019) ([Sports Galaxy](https://sportsgalaxy.in/?p=46335)), and general listings on OLX.
 
 **To start:** About ₹60,000–₹1,00,000 (first stock and stall costs). About 2–3 weeks to the first sale. Main risk: stock that doesn't sell; hygiene worries about pads and helmets.
 
@@ -398,7 +398,7 @@
 
 **Proof it works abroad:** Velofix, Canada and USA: mobile bike shops with 130+ certified technicians and over 220,000 services done ([Velofix](https://www.velofix.com/))
 
-**Who does this in India now:** Not checked. The web-search limit ran out before I could search. Check this before choosing the idea.
+**Who does this in India now:** 1: Fix My Cycle (Chennai) books doorstep bicycle repairs in about 20 cities ([YourStory](https://yourstory.com/2020/01/chennai-startup-fix-my-cycle-doorstep-service)).
 
 **To start:** About ₹50,000 (tools, parts, ads; the mechanic uses his own vehicle at first). About 2–3 weeks to the first paying customer. Main risk: low money per job; finding a reliable mechanic.
 

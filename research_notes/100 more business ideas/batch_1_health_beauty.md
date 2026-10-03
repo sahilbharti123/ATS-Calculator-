@@ -176,7 +176,7 @@
 
 **Proof it works abroad:** Thompson Tee, USA: started with $20,000 of the founders' money and had sold 2 million sweat-proof undershirts by 2022 ([source](https://www.thompsontee.com/pages/about-us))
 
-**Who does this in India now:** Not checked: the web-search limit ran out before this check. No Indian brand comes to mind, but search Amazon and Myntra first.
+**Who does this in India now:** No Indian brand found in a quick search. US brands such as Ejis are only available through import sites like Ubuy ([Ubuy](https://www.ubuy.co.in/product/2DG7F3P8-ejis-mens-sweat-proof-undershirt-v-neck-anti-odor-silver-micro-modal-sweat-pads)).
 
 **To start:** About ₹1.5–2 lakh (samples, fabric tests, first 600 pieces, ads). About 8–10 weeks. Main risk: getting the sweat panel right, because a bad batch means many returns.
 
@@ -216,7 +216,7 @@
 
 **Proof it works abroad:** Kuchofuku (the name means "air-conditioned clothes"), Japan: has made fan-fitted work clothes for about 35 years and sells suits, vests and half-sleeve versions through Amazon and Rakuten ([source](https://www.9229.co.jp))
 
-**Who does this in India now:** Not checked: the web-search limit ran out before this check. Some importers may already list fan vests online (not checked).
+**Who does this in India now:** No consumer brand found. Generic fan jackets (about ₹2,300) and industrial cooling vests (Inuteq, Surakshit) are sold on IndiaMART ([IndiaMART](https://m.indiamart.com/impcat/cooling-vests.html)).
 
 **To start:** About ₹2 lakh (samples, about 30 jackets for trials, battery safety checks). About 8–12 weeks to the first company order. Main risk: lithium batteries may need Indian safety approval (BIS) before import, and sales are seasonal, so sell from January for the summer.
 
@@ -236,7 +236,7 @@
 
 **Proof it works abroad:** Soul Cap, UK: two friends started it to make an extra-large cap for voluminous hair; it now sells swimwear and goggles too, and has pledged £100,000 to grassroots swimming ([source](https://soulcap.com))
 
-**Who does this in India now:** Not checked: the web-search limit ran out before this check. No Indian brand comes to mind.
+**Who does this in India now:** Long-hair swim caps are already sold by Speedo, Airavat and Viva ([Kibi Sports](https://shop.kibisports.com/collections/vector-x/products/viva-swimming-silicone-stretchable-comfortable-swim-cap-for-long-hair-cover-tear-proof-design-head-cap)), but no one sells a cap-plus-hair-care kit made for long Indian hair.
 
 **To start:** About ₹1–1.5 lakh. About 8–10 weeks. Main risk: swimming peaks in April–June, so use the winter to sign up academies.
 
@@ -276,7 +276,7 @@
 
 **Proof it works abroad:** War Paint for Men, UK: sells "award-winning makeup for men" in eight shades, from fair to very deep ([source](https://warpaintformen.com))
 
-**Who does this in India now:** Not checked: the web-search limit ran out before this check. No men-only makeup brand comes to mind, but check Nykaa Man first.
+**Who does this in India now:** 1: Yaan Man, which calls itself India's first men's makeup brand and appeared on Shark Tank India ([NE Now](https://nenow.in/web-stories/who-is-the-founder-of-indias-first-mens-makeup-brand)).
 
 **To start:** About ₹2–2.5 lakh. About 8–10 weeks. Main risk: men feel shy buying "makeup", so the brand must talk about quick fixes.
 
@@ -296,7 +296,7 @@
 
 **Proof it works abroad:** BakBlade, USA: sells do-it-yourself back shavers for $59.95–79.95, plus refill blades (sales not checked) ([source](https://bakblade.com))
 
-**Who does this in India now:** Not checked: the web-search limit ran out before this check. Unbranded back shavers may be sold online, but no Indian brand comes to mind.
+**Who does this in India now:** No Indian brand found. Only generic listings and imported brands such as BakBlade and Mangroomer ([IndiaMART](https://m.indiamart.com/impcat/mens-razors.html)).
 
 **To start:** About ₹1–1.5 lakh. About 8–10 weeks. Main risk: few repeat buyers, so refills must be good value.
 
@@ -356,7 +356,7 @@
 
 **Proof it works abroad:** Frida, USA: best known for baby products, it now sells a full "delivery recovery" range for new mothers (sales not checked) ([source](https://frida.com/pages/about-us))
 
-**Who does this in India now:** Not checked: the web-search limit ran out before this check. Mother-and-baby stores sell many single items, and some may sell hospital-bag kits (not checked).
+**Who does this in India now:** 1: Juno Mom sells a postpartum kit on Smytten ([Smytten](https://smytten.com/shop/product/gift-sets/natural-birth-postpartum-kit-hospital-bag-essential-for-new-moms/JMM0006AB1)).
 
 **To start:** About ₹1–1.5 lakh. About 4–6 weeks. Main risk: hospitals may already hand out some items, so the box must feel like a thoughtful gift, not a pile of pads.
 
@@ -376,7 +376,7 @@
 
 **Proof it works abroad:** Association of Nature and Forest Therapy (ANFT), USA: has trained forest-bathing guides for over a decade and runs trainings in Japan, Hong Kong, Thailand and Costa Rica ([source](https://www.anft.earth))
 
-**Who does this in India now:** Not checked: the web-search limit ran out before this check. A few individual guides may offer walks (not checked).
+**Who does this in India now:** 2–3: luxury resorts (Oberoi Sukhvilas, Pugdundee Safaris) offer it at their properties, and Bengaluru has seen one-off walks in Cubbon Park ([SheThePeople](https://www.shethepeople.tv/news/bangalore-forest-bathing-price-cubbon-park-4491970)). No regular city walks found.
 
 **To start:** About ₹50,000 (guide training or fees, park permissions, ads). About 3–4 weeks. Main risk: it is new and slow, so Reels must show why it feels good; never call it "therapy".
 
@@ -396,7 +396,7 @@
 
 **Proof it works abroad:** Walking Football Association, England: the game was created in 2011 for men over 50 and women over 40, and the WFA says thousands now play regularly, including people in their 70s and 80s ([source](https://thewfa.co.uk))
 
-**Who does this in India now:** Not checked: the web-search limit ran out before this check. No walking-football group comes to mind.
+**Who does this in India now:** No walking-football group found in a quick search.
 
 **To start:** About ₹40,000 (first month's turf rent, balls, bibs, ads). About 3–4 weeks. Main risk: finding the first 20 players; start through morning walking groups and housing-society committees.
 
@@ -416,7 +416,7 @@
 
 **Proof it works abroad:** Curves, USA and Japan: runs 30-minute circuit workouts in 39 countries; in 2018 its Japanese operator, Koshidaka (Curves Japan), bought the international business ([source](https://en.wikipedia.org/wiki/Curves_International))
 
-**Who does this in India now:** Not checked: the web-search limit ran out before this check. Women-only gyms exist, but none comes to mind that uses this 30-minute format.
+**Who does this in India now:** No dedicated Indian programme found in a quick search; general gyms and online coaches exist.
 
 **To start:** About ₹1–1.2 lakh (equipment for 10 stations, hall rent, trainer, ads). About 4–5 weeks. Main risk: women must feel stronger within the first month or they stop coming.
 
@@ -436,6 +436,6 @@
 
 **Proof it works abroad:** Japan has home-visit bathing services where a team brings a portable bathtub to bedridden people at home (not checked).
 
-**Who does this in India now:** Not checked: the web-search limit ran out before this check. Salon-at-home apps serve everyone, but none comes to mind that specialises in frail elderly people.
+**Who does this in India now:** No specialist found. Urban Company does general home haircuts ([Urban Company](https://www.urbancompany.com/delhi-ncr-mens-grooming-sector-63-gurgaon)), but not trained care for bedridden people.
 
 **To start:** About ₹50,000. About 3–4 weeks. Main risk: injuring a frail client, so train carefully and turn away anyone who needs medical care (for example, diabetic foot problems).

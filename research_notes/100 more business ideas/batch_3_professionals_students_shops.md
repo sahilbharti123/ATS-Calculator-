@@ -116,7 +116,7 @@
 
 **Proof it works abroad:** Chief, USA: a paid network of more than 10,000 senior women leaders who meet in small "Core Groups". ([source](https://chief.com/))
 
-**Who does this in India now:** Not checked: the web-search limit for this session ran out before this check. Search before using this idea.
+**Who does this in India now:** No paid peer group found. Only formal courses exist, such as IIM Indore's programme for first-time managers ([IIM Indore](https://iimidr.ac.in/mdp-calendar/leadership-development-program-for-first-time-managers/)).
 
 **To start:** About ₹30,000 (guide fees for the first groups, venue, LinkedIn and Reels ads). About 4 weeks. Main risk: members drop out after 2–3 months, so sell 6-month seats.
 
@@ -136,7 +136,7 @@
 
 **Proof it works abroad:** Swapfiets, Netherlands: its monthly fee includes the bicycle, maintenance and repairs, and it had more than 220,000 bicycles in 64 cities in 2021. ([source](https://en.wikipedia.org/wiki/Swapfiets))
 
-**Who does this in India now:** Not checked: the web-search limit for this session ran out before this check. Search before using this idea.
+**Who does this in India now:** 1: Gro Club in Bengaluru rents bicycles to kids and adults with doorstep delivery and repairs ([Dealroom](https://app.dealroom.co/companies/gro_club)).
 
 **To start:** About ₹1,50,000 if you buy 20 cycles yourself, or about ₹40,000 if a partner shop owns them. About 4 weeks. Main risk: theft and damage, so take deposits and hand out strong locks.
 
@@ -356,7 +356,7 @@
 
 **Proof it works abroad:** Fish Window Cleaning, USA: has more than 270 locally owned locations in 44 states and has served over 200,000 business and home customers since 1978. ([source](https://www.fishwindowcleaning.com/))
 
-**Who does this in India now:** Not checked: the web-search limit for this session ran out before this check. Search before using this idea.
+**Who does this in India now:** No dedicated shop-window service found; general cleaning companies do one-off jobs.
 
 **To start:** About ₹40,000 (tools for one crew, uniforms, a guaranteed first month of pay for the crew). About 2 weeks. Main risk: low price per shop, so you need many shops close together.
 
@@ -376,7 +376,7 @@
 
 **Proof it works abroad:** Sola Salon Studios, USA: rents ready-to-use salon suites to independent beauty workers and says 21,000+ of them use it. ([source](https://www.solasalonstudios.com/))
 
-**Who does this in India now:** Not checked: the web-search limit for this session ran out before this check. Search before using this idea.
+**Who does this in India now:** No Indian chair-rental service found in a quick search.
 
 **To start:** About ₹25,000 (salon tie-ups, simple rules and agreement, Reels). About 2–3 weeks. Main risk: salons fear freelancers will take their customers, so agree clear rules first.
 
@@ -396,7 +396,7 @@
 
 **Proof it works abroad:** Handwrytten, USA: sends handwritten cards for businesses using robots that hold real pens; one customer says it sends over 15,000 cards a month. ([source](https://www.handwrytten.com/))
 
-**Who does this in India now:** Not checked: the web-search limit for this session ran out before this check. Search before using this idea.
+**Who does this in India now:** No Indian service found. US examples are Simply Noted and Handwrytten ([Simply Noted](https://simplynoted.com/collections/thank-you)).
 
 **To start:** About ₹25,000 (sample cards, printing, the first 10 writers). About 2 weeks; Christmas and New Year cards are the first chance. Main risk: every card must be checked for spelling and neat writing.
 
