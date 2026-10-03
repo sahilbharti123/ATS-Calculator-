@@ -1,0 +1,42 @@
+# Graha Gossip, reel 1: "Kitne saal the?" (a Sholay hillside scene, re-cast with the planets)
+out: graha-gossip-reel1-kitne-saal-the.mp4
+fps: 30
+xfade: 0.5
+shots:
+  - card: {sub_top: "GRAHA GOSSIP presents", title: "Kitne Saal The?", sub: "A famous hillside scene. Re-cast with your planets.", small: "Episode 1 · Saturn's season"}
+    dur: 2.8
+  - image: scene1.png
+    dur: 3.6
+    zoom: in
+    focus: [0.5, 0.35]
+    label: "RAMGARH · DUSK · SATURN'S SEASON BEGINS"
+    bubbles:
+      - {text: "Kitne saal the?", at: [0.5, 0.17], tail: [0.5, 0.3], size: 68}
+    caption: "Saturn, the Judge. He asks only one question, and he already knows the answer."
+  - image: scene2.png
+    dur: 4.6
+    zoom: in
+    focus: [0.7, 0.5]
+    bubbles:
+      - {text: "Sardar... unnees.", at: [0.72, 0.16], tail: [0.72, 0.3], size: 58}
+      - {text: "Unnees saal. Aur ek bhi EMI time pe nahi?", at: [0.34, 0.27], tail: [0.3, 0.4], size: 50}
+    caption: "Rahu runs on shortcuts. Saturn runs on receipts."
+  - image: scene3.png
+    dur: 3.6
+    zoom: in
+    focus: [0.5, 0.45]
+    bubbles:
+      - {text: "Bahut na-insaafi hai. With yourself.", at: [0.5, 0.17], tail: [0.5, 0.33], size: 58}
+    caption: "He is not angry. He is patient. Nineteen years of patient."
+  - image: scene4.png
+    dur: 4.2
+    zoom: out
+    focus: [0.5, 0.45]
+    bubbles:
+      - {text: "Less.", at: [0.75, 0.16], tail: [0.75, 0.3], size: 60}
+      - {text: "It is a Tuesday.", at: [0.3, 0.26], tail: [0.28, 0.38], size: 54}
+    caption: "Ketu wants nothing. You want it to be over. Saturn wants the work."
+  - card: {sub_top: "THE ACTUAL MESSAGE", title: "Saturn is not here to punish you.", title_size: 112, lines: ["His season is 19 years long. It is a slow exam with one question: what do you actually finish?", "Rahu will offer a shortcut. Ketu will offer to quit. Saturn only counts what you did today.", "Do the boring thing. Daily. He notices. Later, but he notices."]}
+    dur: 6.0
+  - card: {title: "GRAHA GOSSIP", sub: "Your planets. Their drama. Your week.", small: "Follow for Episode 2: Venus and the budget"}
+    dur: 2.8
