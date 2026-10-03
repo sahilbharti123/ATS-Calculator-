@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="460" height="525" viewBox="0 0 460 525" font-family="Georgia, 'Times New Roman', serif">
 <rect x="0" y="0" width="460" height="525" rx="12" fill="#fffaf0" stroke="#b8860b" stroke-width="2"/>
-<text x="230.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#7f1d1d">Saturn's seven and a half years: three signs around your Moon</text>
+<text x="230.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#7f1d1d">Saturn's seven and a half years</text>
 <polygon points="230.0,45 340.0,155.0 230.0,265.0 120.0,155.0" fill="none" stroke="none"/>
 <polygon points="10,45 230.0,45 120.0,155.0" fill="none" stroke="none"/>
 <polygon points="10,45 120.0,155.0 10,265.0" fill="#fde68a" stroke="none"/>
@@ -31,5 +31,5 @@
 <text x="260.0" y="270.0" text-anchor="middle" font-size="12" fill="#b8860b" font-weight="bold">10</text>
 <text x="356.0" y="160.0" text-anchor="middle" font-size="12" fill="#b8860b" font-weight="bold">11</text>
 <text x="340.0" y="141.0" text-anchor="middle" font-size="12" fill="#b8860b" font-weight="bold">12</text>
-<text x="230.0" y="511" text-anchor="middle" font-size="13" fill="#3b2314" font-style="italic">Saturn walks through the sign before your Moon, the Moon's own sign, and the sign after it. About 2.5 years each.</text>
+<text x="230.0" y="511" text-anchor="middle" font-size="13" fill="#3b2314" font-style="italic">Three signs around your Moon, about 2.5 years each.</text>
 </svg>

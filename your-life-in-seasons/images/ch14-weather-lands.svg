@@ -1,20 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="740" height="300" viewBox="0 0 740 300" font-family="Georgia, serif">
-<rect x="1" y="1" width="738" height="298" rx="12" fill="#fffaf0" stroke="#b8956a" stroke-width="2"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="740" height="325" viewBox="0 0 740 325" font-family="Georgia, serif">
+<rect x="1" y="1" width="738" height="323" rx="12" fill="#fffaf0" stroke="#b8956a" stroke-width="2"/>
 <text x="370.0" y="32" text-anchor="middle" font-size="19" font-weight="bold" fill="#1e2a5a">Where the same weather lands for our three lives</text>
 <rect x="150" y="60" width="108" height="40" rx="4" fill="#bfdbfe" stroke="#2b3350" stroke-width="1.1"/>
-<text x="204.0" y="77" text-anchor="middle" font-size="11" fill="#1e2a5a" font-weight="bold">Saturn in Pisces</text>
+<text x="204.0" y="77" text-anchor="middle" font-size="10.5" fill="#1e2a5a" font-weight="bold">Saturn in Pisces</text>
 <text x="204.0" y="92" text-anchor="middle" font-size="9.5" fill="#2b3350" font-style="italic">to mid-2027</text>
 <rect x="262" y="60" width="108" height="40" rx="4" fill="#bfdbfe" stroke="#2b3350" stroke-width="1.1"/>
-<text x="316.0" y="77" text-anchor="middle" font-size="11" fill="#1e2a5a" font-weight="bold">Saturn in Aries</text>
+<text x="316.0" y="77" text-anchor="middle" font-size="10.5" fill="#1e2a5a" font-weight="bold">Saturn in Aries</text>
 <text x="316.0" y="92" text-anchor="middle" font-size="9.5" fill="#2b3350" font-style="italic">mid-2027 to 2030</text>
 <rect x="374" y="60" width="108" height="40" rx="4" fill="#fde68a" stroke="#2b3350" stroke-width="1.1"/>
-<text x="428.0" y="77" text-anchor="middle" font-size="11" fill="#1e2a5a" font-weight="bold">Jupiter in Cancer</text>
+<text x="428.0" y="77" text-anchor="middle" font-size="10.5" fill="#1e2a5a" font-weight="bold">Jupiter in Cancer</text>
 <text x="428.0" y="92" text-anchor="middle" font-size="9.5" fill="#2b3350" font-style="italic">mid-2026 to mid-2027</text>
 <rect x="486" y="60" width="108" height="40" rx="4" fill="#fde68a" stroke="#2b3350" stroke-width="1.1"/>
-<text x="540.0" y="77" text-anchor="middle" font-size="11" fill="#1e2a5a" font-weight="bold">Jupiter in Leo</text>
+<text x="540.0" y="77" text-anchor="middle" font-size="10.5" fill="#1e2a5a" font-weight="bold">Jupiter in Leo</text>
 <text x="540.0" y="92" text-anchor="middle" font-size="9.5" fill="#2b3350" font-style="italic">mid-2027 to mid-2028</text>
 <rect x="598" y="60" width="108" height="40" rx="4" fill="#c7d2fe" stroke="#2b3350" stroke-width="1.1"/>
-<text x="652.0" y="77" text-anchor="middle" font-size="11" fill="#1e2a5a" font-weight="bold">Rahu in Capricorn</text>
+<text x="652.0" y="77" text-anchor="middle" font-size="10.5" fill="#1e2a5a" font-weight="bold">Rahu in Capricorn</text>
 <text x="652.0" y="92" text-anchor="middle" font-size="9.5" fill="#2b3350" font-style="italic">Dec 2026 to mid-2028</text>
 <text x="30" y="132" text-anchor="start" font-size="13" fill="#1e2a5a" font-weight="bold">Meera</text>
 <text x="30" y="148" text-anchor="start" font-size="9.5" fill="#2b3350" font-style="italic">Scorpio rising</text>
@@ -73,5 +73,5 @@
 <rect x="598" y="230" width="108" height="56" rx="4" fill="#ffffff" stroke="#b8956a" stroke-width="1.1"/>
 <text x="652.0" y="248" text-anchor="middle" font-size="9.8" fill="#2b3350">room 10, 2nd from</text>
 <text x="652.0" y="260" text-anchor="middle" font-size="9.8" fill="#2b3350">Moon</text>
-<text x="370.0" y="286" text-anchor="middle" font-size="11" fill="#2b3350" font-style="italic">Same sky, three different rooms. Dates approximate.</text>
+<text x="370.0" y="311" text-anchor="middle" font-size="11" fill="#2b3350" font-style="italic">Same sky, three different rooms. Dates approximate.</text>
 </svg>

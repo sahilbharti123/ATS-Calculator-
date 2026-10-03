@@ -32,6 +32,7 @@ h2 { font-size: 1.45rem; color: var(--maroon); margin-top: 2rem; }
 h3 { font-size: 1.15rem; color: #2b3350; margin-top: 1.4rem; }
 p { margin: .7rem 0; text-align: left; }
 img, svg { max-width: 100%; height: auto; display: block; margin: 1.2rem auto .3rem; }
+img.comic { border-radius: 8px; }
 p.caption { display:block; text-align:center; color: var(--muted); font-size: .92rem; margin-top: .1rem; }
 table { border-collapse: collapse; width: 100%; margin: 1rem 0; font-size: .9rem; }
 th, td { border: 1px solid #d9c9a8; padding: .4rem .55rem; vertical-align: top; }
@@ -114,6 +115,10 @@ def inline_svgs(html_text):
         path = os.path.normpath(os.path.join(BOOK, src))
         if not os.path.exists(path):
             path = os.path.join(IMAGES, os.path.basename(src))
+        if os.path.exists(path) and path.endswith(".png"):
+            import base64
+            b64 = base64.b64encode(open(path, "rb").read()).decode()
+            return f'<figure role="img" aria-label="{html.escape(alt)}"><img src="data:image/png;base64,{b64}" alt="{html.escape(alt)}" class="comic"></figure>'
         if os.path.exists(path) and path.endswith(".svg"):
             svg = open(path, encoding="utf-8").read()
             svg = re.sub(r"<\?xml[^>]*\?>", "", svg).strip()

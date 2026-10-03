@@ -72,6 +72,10 @@ def md2xhtml(md_text, images_used):
         if os.path.exists(os.path.join(PNG, name)):
             images_used.add(name)
             return f'<img src="images/{name}" alt="{html.escape(alt)}"/>'
+        direct = os.path.join(ROOT, "images", name)
+        if os.path.exists(direct):
+            images_used.add("direct:" + name)
+            return f'<img src="images/{name}" alt="{html.escape(alt)}"/>'
         return ""
     out = re.sub(r'<img\b[^>]*?>', img, out)
     # box classes
@@ -155,7 +159,8 @@ def main():
     for c in chapters:
         manifest.append(f'<item id="{c["id"]}" href="{c["file"]}" media-type="application/xhtml+xml"/>'); spine.append(f'<itemref idref="{c["id"]}"/>')
     for n in sorted(images_used):
-        manifest.append(f'<item id="img-{slug(n)}" href="images/{n}" media-type="image/png"/>')
+        fn = n[7:] if n.startswith("direct:") else n
+        manifest.append(f'<item id="img-{slug(fn)}" href="images/{fn}" media-type="image/png"/>')
     opf = f'''<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="bookid" xml:lang="{LANG}">
 <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
@@ -185,7 +190,9 @@ def main():
         for k, v in front.items(): z.writestr("OEBPS/" + k, v, zipfile.ZIP_DEFLATED)
         for c in chapters: z.writestr("OEBPS/" + c["file"], page(c["title"], c["body"]), zipfile.ZIP_DEFLATED)
         z.write(COVER, "OEBPS/images/cover.jpg")
-        for n in sorted(images_used): z.write(os.path.join(PNG, n), "OEBPS/images/" + n)
+        for n in sorted(images_used):
+            if n.startswith("direct:"): z.write(os.path.join(ROOT, "images", n[7:]), "OEBPS/images/" + n[7:])
+            else: z.write(os.path.join(PNG, n), "OEBPS/images/" + n)
     # well-formedness check of every xhtml
     bad = 0
     with zipfile.ZipFile(out) as z:

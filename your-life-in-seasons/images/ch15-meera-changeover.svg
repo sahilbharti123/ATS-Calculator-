@@ -1,54 +1,54 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="740" height="330" viewBox="0 0 740 330" font-family="Georgia, serif">
 <rect x="1" y="1" width="738" height="328" rx="12" fill="#fffaf0" stroke="#b8956a" stroke-width="2"/>
-<text x="370.0" y="32" text-anchor="middle" font-size="19" font-weight="bold" fill="#1e2a5a">Meera's changeover: Venus hands the house to the Sun, around June 2027</text>
-<line x1="60.0" y1="52" x2="60.0" y2="240" stroke="#b8956a" stroke-width="0.8" stroke-dasharray="3,3"/>
-<text x="64.0" y="64" text-anchor="start" font-size="10" fill="#1e2a5a" font-weight="bold">Jan 2026</text>
-<line x1="245.7142857142857" y1="52" x2="245.7142857142857" y2="240" stroke="#b8956a" stroke-width="0.8" stroke-dasharray="3,3"/>
-<text x="249.7142857142857" y="64" text-anchor="start" font-size="10" fill="#1e2a5a" font-weight="bold">Jan 2027</text>
-<line x1="431.4285714285714" y1="52" x2="431.4285714285714" y2="240" stroke="#b8956a" stroke-width="0.8" stroke-dasharray="3,3"/>
-<text x="435.4285714285714" y="64" text-anchor="start" font-size="10" fill="#1e2a5a" font-weight="bold">Jan 2028</text>
-<line x1="617.1428571428571" y1="52" x2="617.1428571428571" y2="240" stroke="#b8956a" stroke-width="0.8" stroke-dasharray="3,3"/>
-<text x="621.1428571428571" y="64" text-anchor="start" font-size="10" fill="#1e2a5a" font-weight="bold">Jan 2029</text>
-<text x="60" y="72" text-anchor="start" font-size="10.5" fill="#1e2a5a" font-weight="bold">Season</text>
-<rect x="60.0" y="76" width="263.09523809525217" height="32" rx="4" fill="#fbcfe8" stroke="#2b3350" stroke-width="1.1"/>
-<text x="191.54761904762609" y="97" text-anchor="middle" font-size="11.5" fill="#2b3350">Venus season (since June 2007)</text>
-<rect x="323.09523809525217" y="76" width="386.90476190474783" height="32" rx="4" fill="#fed7aa" stroke="#2b3350" stroke-width="1.1"/>
-<text x="516.5476190476261" y="97" text-anchor="middle" font-size="11.5" fill="#2b3350">Sun season (to June 2033)</text>
-<text x="60" y="122" text-anchor="start" font-size="10.5" fill="#1e2a5a" font-weight="bold">Sub-season</text>
-<rect x="60.0" y="126" width="30.952380952395032" height="32" rx="4" fill="#bbf7d0" stroke="#2b3350" stroke-width="1.1"/>
-<text x="75.47619047619752" y="147" text-anchor="middle" font-size="9" fill="#2b3350">Ve/Me</text>
-<rect x="90.95238095239503" y="126" width="232.14285714285714" height="32" rx="4" fill="#e9d5ff" stroke="#2b3350" stroke-width="1.1"/>
-<text x="207.02380952382362" y="147" text-anchor="middle" font-size="10.5" fill="#2b3350">Venus/Ketu</text>
-<rect x="323.09523809525217" y="126" width="46.428571428571445" height="32" rx="4" fill="#fed7aa" stroke="#2b3350" stroke-width="1.1"/>
-<text x="346.3095238095379" y="147" text-anchor="middle" font-size="9" fill="#2b3350">Su/Su</text>
-<rect x="369.5238095238236" y="126" width="92.85714285714283" height="32" rx="4" fill="#e5e7eb" stroke="#2b3350" stroke-width="1.1"/>
-<text x="415.95238095239506" y="147" text-anchor="middle" font-size="10.5" fill="#2b3350">Sun/Moon</text>
-<rect x="462.38095238096645" y="126" width="61.90476190474777" height="32" rx="4" fill="#fecaca" stroke="#2b3350" stroke-width="1.1"/>
-<text x="493.3333333333403" y="147" text-anchor="middle" font-size="10.5" fill="#2b3350">Su/Ma</text>
-<rect x="524.2857142857142" y="126" width="185.71428571428578" height="32" rx="4" fill="#c7d2fe" stroke="#2b3350" stroke-width="1.1"/>
-<text x="617.1428571428571" y="147" text-anchor="middle" font-size="10.5" fill="#2b3350">Sun/Rahu</text>
-<rect x="137.38095238096645" y="70" width="371.42857142857144" height="94" fill="none" stroke="#1e2a5a" stroke-width="2" stroke-dasharray="6,3"/>
-<text x="323.09523809525217" y="178" text-anchor="middle" font-size="11" fill="#1e2a5a" font-weight="bold">the bridge: mid-2026 to mid-2028</text>
-<line x1="199.28571428571428" y1="52" x2="199.28571428571428" y2="166" stroke="#b91c1c" stroke-width="1.5"/>
-<text x="199.28571428571428" y="48" text-anchor="middle" font-size="10" fill="#b91c1c" font-weight="bold">now</text>
-<text x="60" y="192" text-anchor="start" font-size="10.5" fill="#1e2a5a" font-weight="bold">Jupiter overhead</text>
-<rect x="60.0" y="196" width="77.38095238096645" height="22" rx="4" fill="#fde68a" stroke="#2b3350" stroke-width="1.1"/>
-<text x="98.69047619048322" y="211" text-anchor="middle" font-size="9.5" fill="#2b3350">Gemini (room 8)</text>
-<rect x="137.38095238096645" y="196" width="185.71428571428572" height="22" rx="4" fill="#fde68a" stroke="#2b3350" stroke-width="1.1"/>
-<text x="230.2380952381093" y="211" text-anchor="middle" font-size="9.5" fill="#2b3350">Cancer (room 9, on her Moon)</text>
-<rect x="323.09523809525217" y="196" width="185.71428571428572" height="22" rx="4" fill="#fde68a" stroke="#2b3350" stroke-width="1.1"/>
-<text x="415.95238095239506" y="211" text-anchor="middle" font-size="9.5" fill="#2b3350">Leo (room 10)</text>
-<rect x="508.8095238095379" y="196" width="201.1904761904621" height="22" rx="4" fill="#fde68a" stroke="#2b3350" stroke-width="1.1"/>
-<text x="609.404761904769" y="211" text-anchor="middle" font-size="9.5" fill="#2b3350">Virgo (room 11)</text>
-<text x="60" y="220" text-anchor="start" font-size="10.5" fill="#1e2a5a" font-weight="bold">Saturn overhead</text>
-<rect x="60.0" y="224" width="263.09523809525217" height="22" rx="4" fill="#bfdbfe" stroke="#2b3350" stroke-width="1.1"/>
-<text x="191.54761904762609" y="239" text-anchor="middle" font-size="9.5" fill="#2b3350">Pisces (room 5)</text>
-<rect x="323.09523809525217" y="224" width="77.38095238092427" height="22" rx="4" fill="#bfdbfe" stroke="#2b3350" stroke-width="1.1"/>
-<text x="361.78571428571433" y="239" text-anchor="middle" font-size="9.5" fill="#2b3350">Aries (6)</text>
-<rect x="400.47619047617644" y="224" width="61.90476190479001" height="22" rx="4" fill="#bfdbfe" stroke="#2b3350" stroke-width="1.1"/>
-<text x="431.42857142857144" y="239" text-anchor="middle" font-size="9.5" fill="#2b3350">Pi</text>
-<rect x="462.38095238096645" y="224" width="247.61904761903355" height="22" rx="4" fill="#bfdbfe" stroke="#2b3350" stroke-width="1.1"/>
-<text x="586.1904761904832" y="239" text-anchor="middle" font-size="9.5" fill="#2b3350">Aries (room 6)</text>
+<text x="370.0" y="32" text-anchor="middle" font-size="19" font-weight="bold" fill="#1e2a5a">Meera's changeover: Venus to the Sun, around June 2027</text>
+<line x1="135.0" y1="52" x2="135.0" y2="240" stroke="#b8956a" stroke-width="0.8" stroke-dasharray="3,3"/>
+<text x="139.0" y="64" text-anchor="start" font-size="10" fill="#1e2a5a" font-weight="bold">Jan 2026</text>
+<line x1="300.71428571428567" y1="52" x2="300.71428571428567" y2="240" stroke="#b8956a" stroke-width="0.8" stroke-dasharray="3,3"/>
+<text x="304.71428571428567" y="64" text-anchor="start" font-size="10" fill="#1e2a5a" font-weight="bold">Jan 2027</text>
+<line x1="466.4285714285714" y1="52" x2="466.4285714285714" y2="240" stroke="#b8956a" stroke-width="0.8" stroke-dasharray="3,3"/>
+<text x="470.4285714285714" y="64" text-anchor="start" font-size="10" fill="#1e2a5a" font-weight="bold">Jan 2028</text>
+<line x1="632.1428571428571" y1="52" x2="632.1428571428571" y2="240" stroke="#b8956a" stroke-width="0.8" stroke-dasharray="3,3"/>
+<text x="636.1428571428571" y="64" text-anchor="start" font-size="10" fill="#1e2a5a" font-weight="bold">Jan 2029</text>
+<text x="125" y="97" text-anchor="end" font-size="10.5" fill="#1e2a5a" font-weight="bold">Season</text>
+<rect x="135.0" y="76" width="234.76190476191732" height="32" rx="4" fill="#fbcfe8" stroke="#2b3350" stroke-width="1.1"/>
+<text x="252.38095238095866" y="97" text-anchor="middle" font-size="11.5" fill="#2b3350">Venus season (since June 2007)</text>
+<rect x="369.7619047619173" y="76" width="345.2380952380827" height="32" rx="4" fill="#fed7aa" stroke="#2b3350" stroke-width="1.1"/>
+<text x="542.3809523809587" y="97" text-anchor="middle" font-size="11.5" fill="#2b3350">Sun season (to June 2033)</text>
+<text x="125" y="147" text-anchor="end" font-size="10.5" fill="#1e2a5a" font-weight="bold">Sub-season</text>
+<rect x="135.0" y="126" width="27.619047619060183" height="32" rx="4" fill="#bbf7d0" stroke="#2b3350" stroke-width="1.1"/>
+<text x="148.8095238095301" y="147" text-anchor="middle" font-size="9" fill="#2b3350">Ve/Me</text>
+<rect x="162.61904761906018" y="126" width="207.14285714285714" height="32" rx="4" fill="#e9d5ff" stroke="#2b3350" stroke-width="1.1"/>
+<text x="266.19047619048877" y="147" text-anchor="middle" font-size="10.5" fill="#2b3350">Venus/Ketu</text>
+<rect x="369.7619047619173" y="126" width="41.428571428571445" height="32" rx="4" fill="#fed7aa" stroke="#2b3350" stroke-width="1.1"/>
+<text x="390.47619047620304" y="147" text-anchor="middle" font-size="9" fill="#2b3350">Su/Su</text>
+<rect x="411.19047619048877" y="126" width="82.85714285714283" height="32" rx="4" fill="#e5e7eb" stroke="#2b3350" stroke-width="1.1"/>
+<text x="452.6190476190602" y="147" text-anchor="middle" font-size="10.5" fill="#2b3350">Sun/Moon</text>
+<rect x="494.0476190476316" y="126" width="55.23809523808262" height="32" rx="4" fill="#fecaca" stroke="#2b3350" stroke-width="1.1"/>
+<text x="521.6666666666729" y="147" text-anchor="middle" font-size="9" fill="#2b3350">Su/Ma</text>
+<rect x="549.2857142857142" y="126" width="165.71428571428578" height="32" rx="4" fill="#c7d2fe" stroke="#2b3350" stroke-width="1.1"/>
+<text x="632.1428571428571" y="147" text-anchor="middle" font-size="10.5" fill="#2b3350">Sun/Rahu</text>
+<rect x="204.0476190476316" y="70" width="331.4285714285715" height="94" fill="none" stroke="#1e2a5a" stroke-width="2" stroke-dasharray="6,3"/>
+<text x="369.7619047619173" y="178" text-anchor="middle" font-size="11" fill="#1e2a5a" font-weight="bold">the bridge: mid-2026 to mid-2028</text>
+<line x1="259.2857142857143" y1="52" x2="259.2857142857143" y2="166" stroke="#b91c1c" stroke-width="1.5"/>
+<text x="259.2857142857143" y="48" text-anchor="middle" font-size="10" fill="#b91c1c" font-weight="bold">now</text>
+<text x="125" y="211" text-anchor="end" font-size="10.5" fill="#1e2a5a" font-weight="bold">Jupiter overhead</text>
+<rect x="135.0" y="196" width="69.0476190476316" height="22" rx="4" fill="#fde68a" stroke="#2b3350" stroke-width="1.1"/>
+<text x="169.5238095238158" y="211" text-anchor="middle" font-size="9.5" fill="#2b3350">Gem. (8)</text>
+<rect x="204.0476190476316" y="196" width="165.71428571428572" height="22" rx="4" fill="#fde68a" stroke="#2b3350" stroke-width="1.1"/>
+<text x="286.90476190477443" y="211" text-anchor="middle" font-size="9.5" fill="#2b3350">Cancer (room 9, on her Moon)</text>
+<rect x="369.7619047619173" y="196" width="165.71428571428578" height="22" rx="4" fill="#fde68a" stroke="#2b3350" stroke-width="1.1"/>
+<text x="452.6190476190602" y="211" text-anchor="middle" font-size="9.5" fill="#2b3350">Leo (room 10)</text>
+<rect x="535.4761904762031" y="196" width="179.5238095237969" height="22" rx="4" fill="#fde68a" stroke="#2b3350" stroke-width="1.1"/>
+<text x="625.2380952381016" y="211" text-anchor="middle" font-size="9.5" fill="#2b3350">Virgo (room 11)</text>
+<text x="125" y="239" text-anchor="end" font-size="10.5" fill="#1e2a5a" font-weight="bold">Saturn overhead</text>
+<rect x="135.0" y="224" width="234.76190476191732" height="22" rx="4" fill="#bfdbfe" stroke="#2b3350" stroke-width="1.1"/>
+<text x="252.38095238095866" y="239" text-anchor="middle" font-size="9.5" fill="#2b3350">Pisces (room 5)</text>
+<rect x="369.7619047619173" y="224" width="69.04761904759397" height="22" rx="4" fill="#bfdbfe" stroke="#2b3350" stroke-width="1.1"/>
+<text x="404.28571428571433" y="239" text-anchor="middle" font-size="9.5" fill="#2b3350">Aries (6)</text>
+<rect x="438.8095238095113" y="224" width="55.23809523812031" height="22" rx="4" fill="#bfdbfe" stroke="#2b3350" stroke-width="1.1"/>
+<text x="466.42857142857144" y="239" text-anchor="middle" font-size="9.5" fill="#2b3350">Pi</text>
+<rect x="494.0476190476316" y="224" width="220.9523809523684" height="22" rx="4" fill="#bfdbfe" stroke="#2b3350" stroke-width="1.1"/>
+<text x="604.5238095238158" y="239" text-anchor="middle" font-size="9.5" fill="#2b3350">Aries (room 6)</text>
 <text x="370.0" y="280" text-anchor="middle" font-size="11" fill="#2b3350" font-style="italic">Dates are rounded to the month and the transits to the season; both will differ a little in your app.</text>
 <text x="370.0" y="300" text-anchor="middle" font-size="11" fill="#2b3350" font-style="italic">Venus/Ketu is the farewell sub-season; Sun/Sun is the new lord speaking twice.</text>
 </svg>

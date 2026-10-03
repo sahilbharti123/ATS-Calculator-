@@ -210,10 +210,10 @@ STRIPS = {
          "chars": [{"name": "You", "expr": "calm", "pose": "think", "r": 36, "label": False}, {"name": "Venus", "expr": "calm", "pose": "wave", "r": 34}],
          "bubbles": [{"who": "You", "text": "Twenty years of this. Marriage, a home, a practice. Now I keep wanting my own name on the door."}]},
         {"caption": "Arjun, 31. Rahu season, Venus sub-season.",
-         "chars": [{"name": "You", "expr": "surprised", "pose": "stand", "r": 36, "label": False}, {"name": "Rahu", "expr": "sly", "pose": "point", "r": 34}],
+         "chars": [{"name": "Rahu", "expr": "sly", "pose": "point", "r": 40}],
          "bubbles": [{"who": "Rahu", "text": "Research abroad. Or marriage. Or both. Why choose? Choosing is for other seasons."}]},
         {"caption": "Devika, 47. Rahu season, Saturn sub-season beginning.",
-         "chars": [{"name": "You", "expr": "calm", "pose": "stand", "r": 36, "label": False}, {"name": "Saturn", "expr": "calm", "pose": "stand", "r": 34}],
+         "chars": [{"name": "Saturn", "expr": "calm", "pose": "stand", "r": 40}],
          "bubbles": [{"who": "Saturn", "text": "The property matter, the health matter, the daughter's exams. One file at a time. I have brought a chair."}]},
     ]},
 

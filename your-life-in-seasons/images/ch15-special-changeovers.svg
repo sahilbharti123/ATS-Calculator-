@@ -7,30 +7,35 @@
 <line x1="156" y1="82.0" x2="190" y2="82.0" stroke="#1e2a5a" stroke-width="2" marker-end="url(#arr2)"/>
 <rect x="198" y="60" width="110" height="44" rx="4" fill="#fed7aa" stroke="#2b3350" stroke-width="1.1"/>
 <text x="253.0" y="87" text-anchor="middle" font-size="13" fill="#1e2a5a" font-weight="bold">Sun</text>
-<text x="328" y="87" text-anchor="start" font-size="11.5" fill="#2b3350">comfort to identity: the Minister of Pleasure hands the house to the King</text>
+<text x="328" y="79" text-anchor="start" font-size="11.5" fill="#1e2a5a" font-weight="bold">comfort to identity</text>
+<text x="328" y="96" text-anchor="start" font-size="11" fill="#2b3350">the Minister of Pleasure hands the house to the King</text>
 <rect x="40" y="116" width="110" height="44" rx="4" fill="#c7d2fe" stroke="#2b3350" stroke-width="1.1"/>
 <text x="95.0" y="143" text-anchor="middle" font-size="13" fill="#1e2a5a" font-weight="bold">Rahu</text>
 <line x1="156" y1="138.0" x2="190" y2="138.0" stroke="#1e2a5a" stroke-width="2" marker-end="url(#arr2)"/>
 <rect x="198" y="116" width="110" height="44" rx="4" fill="#fde68a" stroke="#2b3350" stroke-width="1.1"/>
 <text x="253.0" y="143" text-anchor="middle" font-size="13" fill="#1e2a5a" font-weight="bold">Jupiter</text>
-<text x="328" y="143" text-anchor="start" font-size="11.5" fill="#2b3350">hunger to meaning: the Stranger hands the house to the Priest</text>
+<text x="328" y="135" text-anchor="start" font-size="11.5" fill="#1e2a5a" font-weight="bold">hunger to meaning</text>
+<text x="328" y="152" text-anchor="start" font-size="11" fill="#2b3350">the Stranger hands the house to the Priest</text>
 <rect x="40" y="172" width="110" height="44" rx="4" fill="#fecaca" stroke="#2b3350" stroke-width="1.1"/>
 <text x="95.0" y="199" text-anchor="middle" font-size="13" fill="#1e2a5a" font-weight="bold">Mars</text>
 <line x1="156" y1="194.0" x2="190" y2="194.0" stroke="#1e2a5a" stroke-width="2" marker-end="url(#arr2)"/>
 <rect x="198" y="172" width="110" height="44" rx="4" fill="#c7d2fe" stroke="#2b3350" stroke-width="1.1"/>
 <text x="253.0" y="199" text-anchor="middle" font-size="13" fill="#1e2a5a" font-weight="bold">Rahu</text>
-<text x="328" y="199" text-anchor="start" font-size="11.5" fill="#2b3350">clear fights to blurred wants: the Commander hands the house to the Stranger</text>
+<text x="328" y="191" text-anchor="start" font-size="11.5" fill="#1e2a5a" font-weight="bold">clear fights to blurred wants</text>
+<text x="328" y="208" text-anchor="start" font-size="11" fill="#2b3350">the Commander hands the house to the Stranger</text>
 <rect x="40" y="228" width="110" height="44" rx="4" fill="#bfdbfe" stroke="#2b3350" stroke-width="1.1"/>
 <text x="95.0" y="255" text-anchor="middle" font-size="13" fill="#1e2a5a" font-weight="bold">Saturn</text>
 <line x1="156" y1="250.0" x2="190" y2="250.0" stroke="#1e2a5a" stroke-width="2" marker-end="url(#arr2)"/>
 <rect x="198" y="228" width="110" height="44" rx="4" fill="#bbf7d0" stroke="#2b3350" stroke-width="1.1"/>
 <text x="253.0" y="255" text-anchor="middle" font-size="13" fill="#1e2a5a" font-weight="bold">Mercury</text>
-<text x="328" y="255" text-anchor="start" font-size="11.5" fill="#2b3350">the long audit to the clever years: the Judge hands the house to the Prince</text>
+<text x="328" y="247" text-anchor="start" font-size="11.5" fill="#1e2a5a" font-weight="bold">the long audit to the clever years</text>
+<text x="328" y="264" text-anchor="start" font-size="11" fill="#2b3350">the Judge hands the house to the Prince</text>
 <rect x="40" y="284" width="110" height="44" rx="4" fill="#e9d5ff" stroke="#2b3350" stroke-width="1.1"/>
 <text x="95.0" y="311" text-anchor="middle" font-size="13" fill="#1e2a5a" font-weight="bold">Ketu</text>
 <line x1="156" y1="306.0" x2="190" y2="306.0" stroke="#1e2a5a" stroke-width="2" marker-end="url(#arr2)"/>
 <rect x="198" y="284" width="110" height="44" rx="4" fill="#fbcfe8" stroke="#2b3350" stroke-width="1.1"/>
 <text x="253.0" y="311" text-anchor="middle" font-size="13" fill="#1e2a5a" font-weight="bold">Venus</text>
-<text x="328" y="311" text-anchor="start" font-size="11.5" fill="#2b3350">emptiness to abundance: the headless Sadhu hands the house to the Minister</text>
+<text x="328" y="303" text-anchor="start" font-size="11.5" fill="#1e2a5a" font-weight="bold">emptiness to abundance</text>
+<text x="328" y="320" text-anchor="start" font-size="11" fill="#2b3350">the headless Sadhu hands the house to the Minister</text>
 <text x="370.0" y="344" text-anchor="middle" font-size="11" fill="#2b3350" font-style="italic">Every changeover is a bridge; these five join banks of very different heights.</text>
 </svg>

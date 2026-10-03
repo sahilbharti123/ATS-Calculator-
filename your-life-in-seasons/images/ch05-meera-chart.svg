@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="525" viewBox="0 0 460 525" font-family="Georgia, 'Times New Roman', serif">
+<rect x="0" y="0" width="460" height="525" rx="12" fill="#fffaf0" stroke="#b8860b" stroke-width="2"/>
+<text x="230.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#7f1d1d">Meera, Scorpio rising</text>
+<polygon points="230.0,45 340.0,155.0 230.0,265.0 120.0,155.0" fill="none" stroke="none"/>
+<polygon points="10,45 230.0,45 120.0,155.0" fill="none" stroke="none"/>
+<polygon points="10,45 120.0,155.0 10,265.0" fill="none" stroke="none"/>
+<polygon points="10,265.0 120.0,155.0 230.0,265.0 120.0,375.0" fill="none" stroke="none"/>
+<polygon points="10,485 10,265.0 120.0,375.0" fill="none" stroke="none"/>
+<polygon points="10,485 120.0,375.0 230.0,485" fill="none" stroke="none"/>
+<polygon points="230.0,485 120.0,375.0 230.0,265.0 340.0,375.0" fill="none" stroke="none"/>
+<polygon points="450,485 230.0,485 340.0,375.0" fill="none" stroke="none"/>
+<polygon points="450,485 340.0,375.0 450,265.0" fill="none" stroke="none"/>
+<polygon points="450,265.0 340.0,375.0 230.0,265.0 340.0,155.0" fill="none" stroke="none"/>
+<polygon points="450,45 450,265.0 340.0,155.0" fill="none" stroke="none"/>
+<polygon points="450,45 340.0,155.0 230.0,45" fill="none" stroke="none"/>
+<rect x="10" y="45" width="440" height="440" fill="none" stroke="#3b2314" stroke-width="2.5"/>
+<line x1="10" y1="45" x2="450" y2="485" stroke="#3b2314" stroke-width="2"/>
+<line x1="450" y1="45" x2="10" y2="485" stroke="#3b2314" stroke-width="2"/>
+<polygon points="230.0,45 450,265.0 230.0,485 10,265.0" fill="none" stroke="#3b2314" stroke-width="2"/>
+<text x="230.0" y="235.0" text-anchor="middle" font-size="12" fill="#b8860b" font-weight="bold">8</text>
+<text x="230.0" y="143.25" text-anchor="middle" font-size="15" font-weight="bold" fill="#000000">As</text>
+<text x="230.0" y="160.25" text-anchor="middle" font-size="15" font-weight="bold" fill="#c2410c">Su</text>
+<text x="230.0" y="177.25" text-anchor="middle" font-size="15" font-weight="bold" fill="#15803d">Me</text>
+<text x="120.0" y="141.0" text-anchor="middle" font-size="12" fill="#b8860b" font-weight="bold">9</text>
+<text x="120.0" y="98.43888888888888" text-anchor="middle" font-size="13" font-weight="bold" fill="#1e3a8a">Sa</text>
+<text x="104.0" y="160.0" text-anchor="middle" font-size="12" fill="#b8860b" font-weight="bold">10</text>
+<text x="200.0" y="270.0" text-anchor="middle" font-size="12" fill="#b8860b" font-weight="bold">11</text>
+<text x="120.0" y="270.25" text-anchor="middle" font-size="15" font-weight="bold" fill="#4c1d95">Ra</text>
+<text x="104.0" y="380.0" text-anchor="middle" font-size="12" fill="#b8860b" font-weight="bold">12</text>
+<text x="58.888888888888886" y="379.55" text-anchor="middle" font-size="13" font-weight="bold" fill="#b91c1c">Maᴿ</text>
+<text x="120.0" y="395.0" text-anchor="middle" font-size="12" fill="#b8860b" font-weight="bold">1</text>
+<text x="230.0" y="305.0" text-anchor="middle" font-size="12" fill="#b8860b" font-weight="bold">2</text>
+<text x="230.0" y="380.25" text-anchor="middle" font-size="15" font-weight="bold" fill="#b45309">Juᴿ</text>
+<text x="340.0" y="395.0" text-anchor="middle" font-size="12" fill="#b8860b" font-weight="bold">3</text>
+<text x="356.0" y="380.0" text-anchor="middle" font-size="12" fill="#b8860b" font-weight="bold">4</text>
+<text x="401.1111111111111" y="379.55" text-anchor="middle" font-size="13" font-weight="bold" fill="#4b5563">Mo</text>
+<text x="260.0" y="270.0" text-anchor="middle" font-size="12" fill="#b8860b" font-weight="bold">5</text>
+<text x="340.0" y="270.25" text-anchor="middle" font-size="15" font-weight="bold" fill="#6b21a8">Ke</text>
+<text x="356.0" y="160.0" text-anchor="middle" font-size="12" fill="#b8860b" font-weight="bold">6</text>
+<text x="340.0" y="141.0" text-anchor="middle" font-size="12" fill="#b8860b" font-weight="bold">7</text>
+<text x="340.0" y="98.43888888888888" text-anchor="middle" font-size="13" font-weight="bold" fill="#be185d">Ve</text>
+<text x="230.0" y="511" text-anchor="middle" font-size="13" fill="#3b2314" font-style="italic">Venus at home in Libra in room 12; Jupiter in room 7, Mars in room 5</text>
+</svg>
