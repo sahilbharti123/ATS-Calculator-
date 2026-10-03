@@ -1,12 +1,16 @@
 # Chapter 2: The Sky's Timetable: How the Seasons Work
 
-Think of a railway line with nine stations. The train always stops at them in the same order. It never skips one and never turns back. What differs from passenger to passenger is only which station you boarded at, and how far along the platform you stood when the train pulled in.
+Think of a railway line with nine stations. The train always stops at them in the same order, never skipping one, never turning back. What differs from passenger to passenger is only which station you boarded at, and how far along the platform you stood when the train pulled in.
 
-That is the whole of the season system's mechanics: nine stations, one fixed order, and a starting point chosen by the Moon. This chapter gives you all three, then shows you how to read your own timetable off a free app in five steps. All dates here are approximate, as everywhere in this book.
+![Comic strip: How your first season is chosen: the Moon's street on the night you were born decides who goes first.](../images/ch02-comic.png)
+*How your first season is chosen: the Moon's street on the night you were born decides who goes first.*
+
+
+That is the whole of the season system's mechanics: nine stations, one fixed order, and a starting point chosen by the Moon. This chapter gives you all three, then shows you how to read your own timetable off a free app in five steps. All dates here are approximate.
 
 ## Nine planets, nine seasons
 
-Each of the nine planets gets a fixed number of years. Here they are, in the order the timetable always runs.
+Each planet gets a fixed number of years. Here they are, in the order the timetable always runs.
 
 | Order | Season lord | The courtier | Years | Share of the 120 |
 |---|---|---|---|---|
@@ -36,7 +40,7 @@ Ketu, Venus, Sun, Moon, Mars, Rahu, Jupiter, Saturn, Mercury, and then Ketu agai
 ![A wheel divided into nine coloured slices proportional to the season lengths](../images/ch02-wheel-of-120.svg)
 *Figure 2.2: The wheel of 120 years. Each slice is a season; the numbers outside are the running total of years.*
 
-> **💡 Did you know?** Why 120? The texts call it the full span of a human life in our age. Treat the figure as a convention, like a 100-point exam: the marks are real, the total is a choice.
+> **💡 Did you know?** Why 120? The texts call it the full span of a human life in our age. Treat it as a convention, like a 100-point exam: the marks are real, the total is a choice.
 
 ## Where you board: the Moon's star
 
@@ -49,15 +53,13 @@ So Ashwini, the first star, opens a Ketu season; Bharani opens Venus; Krittika o
 
 > **🔍 Why?** Two layers again. The astronomy: the Moon takes about 27.3 days to go once round the sky against the stars, so the ancients marked one "resting place" for each night of its journey, and 27 of them fit. The system's own logic: 27 is three times nine, so the nine lords fit the stars exactly, three rounds each, with nothing left over; that neatness is almost certainly why nine lords and 27 stars were married in the first place. Everyday parallel: a nine-day duty rota in a joint family kitchen. Run it three times and the month is covered; whoever's day it is when a guest arrives, that person cooks.
 
-Every chart app prints your Moon's star next to the Moon's degree. Meera's says Ashlesha, Arjun's Krittika, Devika's Purva Ashadha.
+Every chart app prints your Moon's star beside its degree: Meera's is Ashlesha, Arjun's Krittika, Devika's Purva Ashadha.
 
 ## The balance at birth: how much of the first season was left
 
-Here is the subtlety that trips up almost everyone, and the reason your first season is almost never a full one.
+Here is the subtlety that trips up almost everyone, and the reason your first season is almost never a full one. The Moon does not usually sit at the very start of its star at birth; it is somewhere inside. And the rule is proportional: **however much of the star the Moon has still to cross, that same fraction of the first season is still to run.** A quarter of the way in, three quarters of the lord's years remain. At the very end, you get a few days of the first season and then the next begins.
 
-The Moon does not usually sit at the very start of its star at birth; it is somewhere inside. And the rule is proportional: **however much of the star the Moon has still to cross, that same fraction of the first season is still to run.** A quarter of the way in, three quarters of the lord's years remain. At the very end, you get a few days of the first season and then the next begins.
-
-Let me walk through Meera's, because every app does this sum silently and you should see it once with the lid off.
+Let me walk through Meera's; every app does this sum silently, and you should see it once with the lid off.
 
 - Her Moon is at **21°00′ Cancer**, in **Ashlesha**, which runs from 16°40′ to 30°00′ Cancer and belongs to Mercury.
 - Already crossed: 21°00′ minus 16°40′ = **4°20′**. Still to cross: 30°00′ minus 21°00′ = **9°00′**.
@@ -88,7 +90,7 @@ You do not need to do that arithmetic. You need to know it was done.
 
 Appendix C has more detail for each tool.
 
-> **🪔 If you read for others:** ask for the birth time twice, once at the start and once in passing later. People round. "Six o'clock" often turns out to be "before the milk came, maybe quarter to seven". When you can, ask for a photograph of the hospital record.
+> **🪔 If you read for others:** ask for the birth time twice, once at the start and once in passing. People round. "Six o'clock" often turns out to be "before the milk came, maybe quarter to seven". Ask for a photograph of the hospital record when you can.
 
 ## Which season am I in? A quick table by age
 
@@ -96,17 +98,17 @@ If you have no app to hand, this table gives a rough answer. Find the row for yo
 
 | First season | Ages at which each season runs (full first season assumed) |
 |---|---|
-| **Ketu** | Ketu 0 to 7 · Venus 7 to 27 · Sun 27 to 33 · Moon 33 to 43 · Mars 43 to 50 · Rahu 50 to 68 · Jupiter 68 to 84 · Saturn 84 to 103 · Mercury 103 to 120 |
-| **Venus** | Venus 0 to 20 · Sun 20 to 26 · Moon 26 to 36 · Mars 36 to 43 · Rahu 43 to 61 · Jupiter 61 to 77 · Saturn 77 to 96 · Mercury 96 to 113 · Ketu 113 to 120 |
-| **Sun** | Sun 0 to 6 · Moon 6 to 16 · Mars 16 to 23 · Rahu 23 to 41 · Jupiter 41 to 57 · Saturn 57 to 76 · Mercury 76 to 93 · Ketu 93 to 100 · Venus 100 to 120 |
-| **Moon** | Moon 0 to 10 · Mars 10 to 17 · Rahu 17 to 35 · Jupiter 35 to 51 · Saturn 51 to 70 · Mercury 70 to 87 · Ketu 87 to 94 · Venus 94 to 114 · Sun 114 to 120 |
-| **Mars** | Mars 0 to 7 · Rahu 7 to 25 · Jupiter 25 to 41 · Saturn 41 to 60 · Mercury 60 to 77 · Ketu 77 to 84 · Venus 84 to 104 · Sun 104 to 110 · Moon 110 to 120 |
-| **Rahu** | Rahu 0 to 18 · Jupiter 18 to 34 · Saturn 34 to 53 · Mercury 53 to 70 · Ketu 70 to 77 · Venus 77 to 97 · Sun 97 to 103 · Moon 103 to 113 · Mars 113 to 120 |
-| **Jupiter** | Jupiter 0 to 16 · Saturn 16 to 35 · Mercury 35 to 52 · Ketu 52 to 59 · Venus 59 to 79 · Sun 79 to 85 · Moon 85 to 95 · Mars 95 to 102 · Rahu 102 to 120 |
-| **Saturn** | Saturn 0 to 19 · Mercury 19 to 36 · Ketu 36 to 43 · Venus 43 to 63 · Sun 63 to 69 · Moon 69 to 79 · Mars 79 to 86 · Rahu 86 to 104 · Jupiter 104 to 120 |
-| **Mercury** | Mercury 0 to 17 · Ketu 17 to 24 · Venus 24 to 44 · Sun 44 to 50 · Moon 50 to 60 · Mars 60 to 67 · Rahu 67 to 85 · Jupiter 85 to 101 · Saturn 101 to 120 |
+| **Ketu** | Ketu 0 to 7, Venus 7 to 27, Sun 27 to 33, Moon 33 to 43, Mars 43 to 50, Rahu 50 to 68, Jupiter 68 to 84, Saturn 84 to 103, Mercury 103 to 120 |
+| **Venus** | Venus 0 to 20, Sun 20 to 26, Moon 26 to 36, Mars 36 to 43, Rahu 43 to 61, Jupiter 61 to 77, Saturn 77 to 96, Mercury 96 to 113, Ketu 113 to 120 |
+| **Sun** | Sun 0 to 6, Moon 6 to 16, Mars 16 to 23, Rahu 23 to 41, Jupiter 41 to 57, Saturn 57 to 76, Mercury 76 to 93, Ketu 93 to 100, Venus 100 to 120 |
+| **Moon** | Moon 0 to 10, Mars 10 to 17, Rahu 17 to 35, Jupiter 35 to 51, Saturn 51 to 70, Mercury 70 to 87, Ketu 87 to 94, Venus 94 to 114, Sun 114 to 120 |
+| **Mars** | Mars 0 to 7, Rahu 7 to 25, Jupiter 25 to 41, Saturn 41 to 60, Mercury 60 to 77, Ketu 77 to 84, Venus 84 to 104, Sun 104 to 110, Moon 110 to 120 |
+| **Rahu** | Rahu 0 to 18, Jupiter 18 to 34, Saturn 34 to 53, Mercury 53 to 70, Ketu 70 to 77, Venus 77 to 97, Sun 97 to 103, Moon 103 to 113, Mars 113 to 120 |
+| **Jupiter** | Jupiter 0 to 16, Saturn 16 to 35, Mercury 35 to 52, Ketu 52 to 59, Venus 59 to 79, Sun 79 to 85, Moon 85 to 95, Mars 95 to 102, Rahu 102 to 120 |
+| **Saturn** | Saturn 0 to 19, Mercury 19 to 36, Ketu 36 to 43, Venus 43 to 63, Sun 63 to 69, Moon 69 to 79, Mars 79 to 86, Rahu 86 to 104, Jupiter 104 to 120 |
+| **Mercury** | Mercury 0 to 17, Ketu 17 to 24, Venus 24 to 44, Sun 44 to 50, Moon 50 to 60, Mars 60 to 67, Rahu 67 to 85, Jupiter 85 to 101, Saturn 101 to 120 |
 
-Look at how different two lives can be. A person who starts in Venus spends childhood and youth in one soft season and meets the first changeover at 20. A person who starts in Ketu or Mars has three changeovers before 35. Neither is better, but the first will feel a season ending as a rare, large event and the second as a familiar rhythm.
+Look at how different two lives can be. A person who starts in Venus spends childhood and youth in one soft season and meets the first changeover at 20. A person who starts in Ketu or Mars has three changeovers before 35. Neither is better, but the first feels a season ending as a rare, large event and the second as a familiar rhythm.
 
 > **🧭 Anushka's rule of thumb:** a season lasts about as long as it takes to become a different person. Six years changes your job; twenty years changes your face.
 
@@ -116,7 +118,7 @@ Look at how different two lives can be. A person who starts in Venus spends chil
 - The order never changes. Order and lengths are tradition, stated by Parashara without a reason; the arithmetic built on them is exact.
 - The Moon's path is cut into 27 stars of 13°20′, labelled by the nine lords three times over; the lord of your Moon's star is your first season lord.
 - The first season is cut short in proportion: the fraction of the star still to cross is the fraction of the first lord's years you receive (Meera: 9° of 13°20′, so 67.5% of 17 years, 11.475 years).
-- An hour's error in birth time moves every changeover by three to ten months, depending on the first lord.
+- An hour's error in birth time moves every changeover by three to ten months.
 - Free tools (Jagannatha Hora, AstroSage, Drik Panchang) show the whole table; check sidereal, Lahiri and the 120-year system, then read the row containing today.
 - All dates are approximate.
 

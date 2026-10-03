@@ -2,6 +2,10 @@
 
 Everything so far has been reading. This chapter is writing. You will need a free app or program (Appendix C shows how to get the table out of it), a sheet of paper turned sideways, a pencil, a few coloured pencils, and an hour on a quiet afternoon. By the end you will have something I wish someone had handed me at twenty-five: your own life drawn as seasons, with the one you are standing in marked, and a letter to it in your own hand.
 
+![Comic strip: Your season map: it was never random.](../images/ch18-comic.png)
+*Your season map: it was never random.*
+
+
 I will use Meera, Arjun and Devika where an example helps, but this chapter is about you. Dates here, as everywhere in this book, are approximate; your app will give days, and you should read them as months.
 
 ## Ten steps from a printout to a season map

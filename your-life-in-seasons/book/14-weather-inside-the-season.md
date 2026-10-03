@@ -2,6 +2,10 @@
 
 A season is a climate. Jaipur in a Venus season is still Jaipur: hot, dry, beautiful. But inside the climate there is weather. Some weeks it rains in the desert; some years the monsoon does not come. Know only the climate and you will be surprised every afternoon; know only the weather and you will never understand why the same rain is a blessing in one city and a flood in another.
 
+![Comic strip: Weather inside the season: a transit is a visitor passing the window, not a new manager.](../images/ch14-comic.png)
+*Weather inside the season: a transit is a visitor passing the window, not a new manager.*
+
+
 The dasha system is the climate. The planets moving overhead right now are the weather (gochar, which Book 1 and most apps call transit). This chapter teaches you to read the two together, which is the only way either makes sense. Every date here is approximate; your app has the exact ones.
 
 ## Only the slow planets are weather that matters for seasons

@@ -2,6 +2,10 @@
 
 Your app will give you a date. Venus ends on the ninth of June; the Sun begins on the tenth. It looks like a border post: one country on each side and a line painted on the road.
 
+![Comic strip: The changeover: the awkward year when one courtier packs and the next arrives early.](../images/ch15-comic.png)
+*The changeover: the awkward year when one courtier packs and the next arrives early.*
+
+
 Life does not work on painted lines, and neither, in my experience, does the dasha system. The turning point between seasons (dasha sandhi, the junction of the seasons) is not a line but a bridge. You step onto it about a year before the date and step off about a year after. For those two years you have one foot on each bank, which is why the changeover is both the most confusing stretch of a life and the one most worth preparing for. All dates in this chapter are approximate, and the ones in the future are hedged twice.
 
 ## The bridge: the last year and the first year
