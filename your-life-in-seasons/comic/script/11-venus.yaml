@@ -10,29 +10,29 @@
     - scene: "Hallway of the bare 2BHK, morning. Ketu walks out barefoot with nothing but his bowl. Venus sweeps in past him in a pink and gold saree, jasmine in her hair, phone and chai thermos in hand, followed by boxes marked with pictures of lamps, cushions and curtains. You holds the keys and the jasmine pot; the dog hides behind her legs. Blank wall above the boxes for bubbles."
       chars: [You, Venus, Ketu]
       bubbles:
-        - {who: Venus, text: "Twenty years, darling. First, curtains. Second, everything else. Treat yourself."}
+        - {who: Venus, text: "I have twenty years, darling. First, curtains. Then everything else. Treat yourself."}
         - {who: You, text: "He left me one mattress and a jasmine plant."}
         - {who: Venus, text: "Perfect. We will need the floor space."}
         - {who: Ketu, text: "Bye."}
-  caption: "Venus runs twenty years, the longest season. The house fills. Your job is to keep your shape inside the abundance."
+  caption: "Venus runs twenty years, the longest season, and the house fills. Your job is to keep your shape inside all that comfort."
 
 - id: p028
   part: 2
   chapter: venus
   layout: four
-  title: "How Venus Feels"
+  title: "How the Venus Season Feels"
   panels:
     - scene: "A bedroom mirror. You stands in front of it in a mustard kurta, jeans a little tight at the waist, but her skin glowing and her hair thick and shiny. Venus stands behind her holding a box of sweets in one hand and a face mask sheet in the other, delighted with the result. Blank mirror top left for bubbles."
       chars: [You, Venus]
       bubbles:
         - {who: You, text: "My skin has never been better. My jeans disagree."}
         - {who: Venus, text: "Buy new jeans. Then a sweet. Then a nap. Treat yourself."}
-        - {who: You, text: "Also my lower back hurts from all this resting."}
+        - {who: You, text: "Also, my lower back hurts from all this resting."}
     - scene: "The flat's living room, now full: matching curtains, a new sofa with too many cushions, a car key on a hook, several pairs of guests' sandals by the door, a second lamp still in its delivery box. You holds up the box with a puzzled look. Venus arranges cushions on the sofa, humming. Space above the curtains for bubbles."
       chars: [You, Venus]
       bubbles:
         - {who: You, text: "I do not remember buying a second lamp."}
-        - {who: Venus, text: "You did not. I did. On your card. The curtains needed company."}
+        - {who: Venus, text: "You did not. I did, on your card. The curtains needed company."}
     - scene: "A wedding venue at dusk, marigold garlands on an empty stage, fairy lights, folding chairs in rows. You sits on a chair sipping chai. Venus sits beside her holding up You's phone, its screen glowing with a dating app drawn as blank cards. The small brown dog sleeps under the chair. Sky above the stage left empty for bubbles."
       chars: [You, Venus]
       bubbles:
@@ -42,39 +42,39 @@
     - scene: "An office with a broken air conditioner and a standing fan. You sits at her desk, which holds a bouquet, a slice of cake and a sealed envelope; she looks at the bouquet with suspicion. Venus sits on the edge of the desk filing her nails, legs crossed, perfectly at home. The grey cubicle wall above them is blank for bubbles."
       chars: [You, Venus]
       bubbles:
-        - {who: You, text: "I got promoted. For being liked. The work was fine, the lunches were better."}
-        - {who: Venus, text: "Liked is a skill. Also, the design team wants you."}
-  caption: "Softer body, fuller flat, love in season, promotions through charm. Pleasant. The bill is presented around year fourteen."
+        - {who: You, text: "I got promoted for being liked. The work was fine. The lunches were better."}
+        - {who: Venus, text: "Being liked is a skill. Also, the design team wants you."}
+  caption: "A softer body, a fuller flat, love in season, promotion through charm, all pleasant. The bill arrives around year fourteen."
 
 - id: p029
   part: 2
   chapter: venus
   layout: two
-  title: "Money and Mind"
+  title: "Money and Mind in Venus's Season"
   panels:
     - scene: "A bank queue. You holds a printed statement whose line rises like a wave and falls like a wave, drawn as a curve with no numbers. Venus stands behind her holding four glossy shopping bags and a cup of chai, pleased with herself. A poster frame on the wall is blank, leaving space for bubbles."
       chars: [You, Venus]
       bubbles:
         - {who: You, text: "I earn more than I ever have."}
-        - {who: Venus, text: "And you spend more than you ever have. Balance. I own the scales."}
+        - {who: Venus, text: "And you spend more than you ever have. That is balance. I own the scales."}
         - {who: You, text: "The scales are a shopping bag."}
     - scene: "The flat's living room at night. You sits on the sofa holding her phone away from her ear, having just ended a call, shoulders dropping with relief. Venus sits beside her offering a cushion. In the corner an easel holds a half-finished painting of a jasmine flower. Blank wall above the sofa for bubbles."
       chars: [You, Venus]
       bubbles:
         - {who: You, text: "I agreed with him just to end the call. I was right. I did not care."}
-        - {who: Venus, text: "Harmony, darling. Also finish the painting, it is lovely."}
-  caption: "Money grows and goes. The mind picks peace over winning. Keep a monthly account from year one; Saturn will ask for it."
+        - {who: Venus, text: "That is harmony, darling. Also, finish the painting. It is lovely."}
+  caption: "Money grows and goes, and the mind picks peace over winning. Keep a monthly account from year one, because Saturn will ask for it."
 
 - id: p030
   part: 2
   chapter: venus
   layout: grid6
-  title: "The Other Deputies"
+  title: "The Other Deputies in Venus's Season"
   panels:
     - scene: "The full, cushioned living room. The Sun, golden and crowned, stands with hands on hips in front of a brunch table laid for six, frowning at the plates. You sits at the table with a fork raised. Venus stands in the kitchen doorway with chai, unbothered. Blank wall above the table for a bubble."
       chars: [You, Sun, Venus]
       bubbles:
-        - {who: Sun, text: "Less brunch. More ambition. Also, applaud."}
+        - {who: Sun, text: "Less brunch, more ambition. Also, applaud me."}
     - scene: "The flat's doorway at night. The Moon stands outside in a silver-white saree holding a stacked tiffin, shawl over one arm, eyes wet, a packed suitcase beside her as if she might stay. You in pyjamas holds the door open. Venus peers from behind her, curious. Space above the Moon for a bubble."
       chars: [You, Moon, Venus]
       bubbles:
@@ -86,15 +86,15 @@
     - scene: "The living room, which now holds a small wooden cradle and a shelf of thick books drawn as plain spines. Jupiter, big and gold-robed, sits on the sofa, which sags under him, holding a laddoo and a book. You stands with a folded baby blanket. Venus lights a lamp. Wall above Jupiter for a bubble."
       chars: [You, Jupiter, Venus]
       bubbles:
-        - {who: Jupiter, text: "Growth! Of family, faith and waistline."}
+        - {who: Jupiter, text: "Growth, in family, faith and waistline."}
     - scene: "The flat's desk with a laptop and two tablets glowing with blank course screens. Mercury, green and quick, types on one and talks into a phone tucked at his shoulder. You takes notes, a pile of certificates drawn as blank cards beside her. Venus naps on the sofa behind them. Space above the laptop for a bubble."
       chars: [You, Mercury, Venus]
       bubbles:
-        - {who: Mercury, text: "Three new skills, two side gigs, one nap."}
+        - {who: Mercury, text: "I bring three new skills, two side gigs and one nap."}
     - scene: "Night in the full living room. Ketu, glowing, quietly lifts a curtain rod off its brackets, curtains and all. The windows behind him are open to the night sky. You watches from the sofa, blanket around her shoulders, saying nothing. Venus sleeps in the armchair. The open window leaves sky for a bubble."
       chars: [You, Ketu, Venus]
       bubbles:
-        - {who: Ketu, text: "Curtains."}
+        - {who: Ketu, text: "The curtains can go."}
   caption: "Six more deputies in Venus's full house. Rahu and Saturn, the wedding and the bill, get the next two pages."
 
 - id: p031
@@ -108,7 +108,7 @@
       bubbles:
         - {who: Rahu, text: "Double the guests. A band from abroad. Drone footage. And a matrimonial app."}
         - {who: Venus, text: "I like him."}
-        - {who: You, text: "Of course you do. Three years of this."}
+        - {who: You, text: "Of course you do. He is your deputy for three years."}
     - scene: "You sits on the sofa holding her phone, its screen glowing with a matrimonial app drawn as blank profile cards. Rahu leans over one shoulder, Venus over the other with chai. The drone hovers above with its camera light on. The small brown dog growls at the drone. Space above the sofa for bubbles."
       chars: [You, Venus, Rahu]
       bubbles:
@@ -118,10 +118,10 @@
     - scene: "A wedding venue at night, a stage heaped with marigolds, a brass band's instruments stacked to one side with no players in sight. You stands near the stage in a bright dupatta over her kurta, calm. Venus beams beside her. Rahu floats above the rows of empty chairs, drone circling. Night sky above for bubbles."
       chars: [You, Venus, Rahu]
       bubbles:
-        - {who: Venus, text: "The talk of the whole kingdom, darling."}
+        - {who: Venus, text: "Your wedding is the talk of the whole kingdom, darling."}
         - {who: You, text: "I checked the road, not just the destination. Twice."}
         - {who: Rahu, text: "The road has full drone coverage."}
-  caption: "Venus and Rahu are friends. He magnifies her: love by unusual routes, often the wedding itself. Check the road, not the destination."
+  caption: "Venus and Rahu are friends, so he makes her bigger: love by unusual routes, often the wedding itself. Check the road, not the destination."
 
 - id: p032
   part: 2
@@ -134,46 +134,46 @@
       bubbles:
         - {who: Saturn, text: "Thirteen years of feasts. I have brought a ledger."}
         - {who: Venus, text: "We are natural friends, Judge. Have a sweet."}
-        - {who: Saturn, text: "Who paid for the sweet."}
+        - {who: Saturn, text: "Who paid for the sweet?"}
     - scene: "The balcony, crowded with potted plants: jasmine, roses, a money plant, a lemon tree in a drum. Saturn moves slowly from pot to pot, pointing at each with his pen. You follows him with a watering can and a worried face. Venus sulks in the doorway with chai. Open sky above the plants for bubbles."
       chars: [You, Venus, Saturn]
       bubbles:
-        - {who: Saturn, text: "Who waters this. And with what."}
+        - {who: Saturn, text: "Who waters all this? And with what?"}
         - {who: You, text: "My credit card, mostly."}
         - {who: Venus, text: "Do not answer him, darling. He writes it down."}
     - scene: "The same balcony three years later. Only three pots remain, each one thriving. You sits on a stool with a notebook of accounts drawn as ruled lines. Saturn stands by the railing, crow on the rail, nodding once. Venus kneels admiring the three plants, genuinely pleased. Sky above for bubbles."
       chars: [You, Venus, Saturn]
       bubbles:
-        - {who: Saturn, text: "Smaller. Paid for. Yours."}
+        - {who: Saturn, text: "A smaller garden, paid for, and truly yours."}
         - {who: Venus, text: "Fewer plants, but darling, look at the quality."}
         - {who: You, text: "I kept a monthly account. I hate how much it helped."}
-  caption: "Saturn and Venus are natural friends. He does not end the bloom; he asks what you can actually afford to keep."
+  caption: "Saturn and Venus are natural friends, so he does not end the bloom. He asks what you can actually afford to keep."
 
 - id: p033
   part: 2
   chapter: venus
   layout: two
-  title: "The Wrong Room"
+  title: "When the Deputy Gets the Wrong Room"
   panels:
     - scene: "The flat drawn as a cutaway floor plan of twelve rooms in a ring. Venus sits in her room with a speaker, fairy lights and cushions. Mars has been given the sixth room round, past the kitchen; he is drawn mid-march in brass boots straight through Venus's room, cape flying, a boot print on a cushion. You stands in the centre of the ring. Centre space clear for bubbles."
       chars: [You, Venus, Mars]
       bubbles:
-        - {who: Mars, text: "Five am. Through the music room. Every day. Not my fault."}
+        - {who: Mars, text: "Drill at five. My route runs through her music room. Every day. Not my fault."}
         - {who: Venus, text: "It is not that he is bad. It is where he lives."}
-        - {who: You, text: "You put him past the kitchen. Sixth from you."}
+        - {who: You, text: "He lives six rooms round from you. That is what makes it the wrong room."}
     - scene: "The same floor plan. Rahu, smoke and sunglasses, lodges in the fifth room round, which shares a window with Venus's garden; the two lean out of neighbouring windows chatting, Venus with chai, Rahu's drone hovering between them. Mars is tiny at the far end, polishing his boots. You stands in the centre again. Centre space clear for bubbles."
       chars: [You, Venus, Rahu, Mars]
       bubbles:
-        - {who: Venus, text: "Same garden, darling. We get on so well there may be a wedding."}
+        - {who: Venus, text: "Five rooms from me, darling, and we share a garden. We get on so well there may be a wedding."}
         - {who: Rahu, text: "I brought a drone for the wedding."}
-        - {who: You, text: "Same planets as before. Different rooms. I see."}
-  caption: "Count the deputy's room from Venus. The 6th, 8th and 12th pull against her; the 1st, 5th and 9th pull with her."
+        - {who: You, text: "Same planets as before, different rooms. Now I see."}
+  caption: "Count the deputy's room from Venus. The 6th, 8th and 12th pull against her, while the 1st, 5th and 9th pull with her."
 
 - id: p034
   part: 2
   chapter: venus
   layout: fact
-  title: "Where Venus Sits"
+  title: "Where Venus Sits in Your Chart"
   panels:
     - scene: "Half-page panel. You holds up a tablet showing a chart drawn as a 2BHK floor plan with twelve rooms, no lettering. Venus stands beside her holding a key ring with exactly two keys, each tagged with a blank label, pointing at two rooms on the plan with a manicured finger. You looks unconvinced. Left side of the panel left empty for bubbles; fact box below."
       chars: [You, Venus]
@@ -182,17 +182,17 @@
         - {who: You, text: "And if they are the wrong two?"}
         - {who: Venus, text: "Then I still bring the wedding, darling. You pay for it."}
   fact:
-    - "Venus is on your side: Gemini and Libra rising; your best planet for Virgo, Capricorn and Aquarius rising."
-    - "Venus tests you: Aries, Cancer, Leo, Scorpio, Sagittarius and Pisces rising."
-    - "Mixed: Taurus rising."
-    - "The verdict comes from the two rooms Venus owns for your rising sign. Lord of 1, 5 or 9: on your side. Lord of 3, 6 or 11: tests you."
+    - "Venus is on your side for Gemini and Libra rising. She is your best planet for Virgo, Capricorn and Aquarius rising."
+    - "Venus tests you for Aries, Cancer, Leo, Scorpio, Sagittarius and Pisces rising."
+    - "Mixed for Taurus rising."
+    - "The verdict comes from the two rooms Venus owns for your rising sign. If she owns room 1, 5 or 9, she is on your side. If she owns room 3, 6 or 11, she tests you."
   caption: "A Venus who tests you does not take love away. She brings the same wedding and attaches the bill."
 
 - id: p035
   part: 2
   chapter: venus
   layout: three
-  title: "Homework"
+  title: "Homework for the Venus Season"
   panels:
     - scene: "A gym at five in the morning, tube lights, mirrors. You runs on a treadmill in a sweaty kurta, determined. Venus lies on a yoga mat on her side, propped on one elbow, sipping chai, a shopping bag under her head as a pillow, refusing to move. Mirror wall above them blank for bubbles."
       chars: [You, Venus]
@@ -202,15 +202,15 @@
     - scene: "The flat's kitchen table on the first of the month. You writes in a ruled account notebook with a pen, a calculator and a stack of receipts drawn as blank slips beside her. Venus leans in from the side, trying to slide a glossy shopping bag over the notebook. Blank cupboard doors behind them for bubbles."
       chars: [You, Venus]
       bubbles:
-        - {who: You, text: "Monthly account. From year one. Saturn arrives around year fourteen."}
+        - {who: You, text: "A monthly account, from year one. Saturn arrives as deputy around year fourteen."}
         - {who: Venus, text: "Treat yourself."}
         - {who: You, text: "This is treating myself. Future me, specifically."}
     - scene: "Friday evening in the flat. You has laid the dining table for guests: one good lamp lit, jasmine in a glass, plates set, food under covers. She stands back with her hands on her hips. Venus, delighted, lights a candle. The small brown dog waits under the table hopefully. Wall above the table clear for bubbles."
       chars: [You, Venus]
       bubbles:
-        - {who: Venus, text: "Friday hospitality. Finally, homework I approve of."}
+        - {who: Venus, text: "Guests every Friday. Finally, homework I approve of."}
         - {who: You, text: "Yes to love and beauty. No to the comfortable wrong thing. One hard habit on the side."}
-  caption: "Say yes to love and beauty. Keep one habit that has nothing to do with either. Softness is the only danger."
+  caption: "Say yes to love and beauty, but keep one habit that has nothing to do with either. Softness is the only danger."
 
 - id: p036
   part: 2
@@ -222,7 +222,7 @@
       chars: [You, Venus, Ketu, Sun]
       bubbles:
         - {who: Venus, text: "Twenty years, darling. Was it not lovely?"}
-        - {who: You, text: "It was lovely. I cannot name why I am restless."}
-        - {who: Ketu, text: "Windows."}
+        - {who: You, text: "It was lovely. I cannot say why I feel restless."}
+        - {who: Ketu, text: "You needed the windows open."}
         - {who: Sun, text: "Has everyone noticed that I have arrived?"}
-  caption: "Venus's last year belongs to Ketu. Something comfortable is set down. The Sun will ask who you are without it."
+  caption: "Ketu is the deputy in Venus's last year, so something comfortable gets set down. The Sun will ask who you are without it."

@@ -10,26 +10,26 @@
     - scene: "Hallway of a small 2BHK flat, evening. Mercury, green, hurries out of the door with three ringing phones and a box of notebooks. Ketu stands barefoot on the doormat in saffron robes, a soft glow where his head should be, holding an empty begging bowl. You, in a mustard kurta and jeans, holds the keys; her small brown dog sniffs Ketu's feet. Empty wall above the door for bubbles."
       chars: [You, Mercury, Ketu]
       bubbles:
-        - {who: Mercury, text: "Seventeen years, four finished projects, six open tabs. All yours. Bye."}
+        - {who: Mercury, text: "My seventeen years are done. Four finished projects, six open tabs. All yours now. Bye."}
         - {who: You, text: "What is your plan for the next seven years?"}
-        - {who: Ketu, text: "Less."}
-  caption: "Ketu runs seven years. He does not build anything. Judge him by what you put down, not what you pick up."
+        - {who: Ketu, text: "Less of everything."}
+  caption: "Ketu runs seven years and builds nothing. Judge him by what you put down, not by what you pick up."
 
 - id: p018
   part: 2
   chapter: ketu
   layout: four
-  title: "How Ketu Feels"
+  title: "How the Ketu Season Feels"
   panels:
     - scene: "Afternoon in the flat's living room. You lies flat on a sofa, one arm over her eyes, a glass of water untouched on the floor. Through the window a wedding procession passes with drums and lights, and she has a cushion pressed over one ear. Ketu sits cross-legged on the bare floor, perfectly still, glow steady. Plain wall above the sofa left empty for bubbles."
       chars: [You, Ketu]
       bubbles:
-        - {who: You, text: "I am tired. I did nothing today. Also that band is too loud."}
+        - {who: You, text: "I am tired. I did nothing today. Also, that band is too loud."}
         - {who: Ketu, text: "Yes."}
     - scene: "A bedroom half emptied: a bare mattress against the wall, a hockey stick left in a corner, pickle jars and a folded cot where a desk used to be. You stands in the doorway staring at her phone, which shows a long scroll of unread chat notifications drawn as blank bubbles. Behind her, Ketu quietly carries a bookshelf out of frame. Space above the mattress for bubbles."
       chars: [You, Ketu]
       bubbles:
-        - {who: You, text: "My brother left for college. The family group has two hundred unread messages. Where is the bookshelf."}
+        - {who: You, text: "My brother left for college. The family group has two hundred unread messages. Where is the bookshelf?"}
         - {who: Ketu, text: "Gone."}
     - scene: "Dusk on a quiet temple step, used only as a place to sit. You sits with the small brown dog leaning against her, her phone face down beside her. Ketu sits two steps up, bare feet together, looking at nothing. A few pigeons. The sky is wide and empty above them for bubbles."
       chars: [You, Ketu]
@@ -42,13 +42,13 @@
       bubbles:
         - {who: You, text: "They offered me team lead. I asked for the archive room. Nobody looks at me now."}
         - {who: Ketu, text: "Better."}
-  caption: "Tired without cause, a house that empties, love without hunger, a desk nobody looks at. Nothing is wrong. It is clearing."
+  caption: "Tired for no reason, a house that empties, love without hunger, a desk nobody looks at. Nothing is wrong: Ketu is clearing space."
 
 - id: p019
   part: 2
   chapter: ketu
   layout: two
-  title: "Money and Mind"
+  title: "Money and Mind in Ketu's Season"
   panels:
     - scene: "A bank queue on a weekday morning, rope barriers and a token display with no digits. You stands holding a printed statement whose line is drawn perfectly flat. Ketu stands behind her in the queue, begging bowl holding a single coin. Through the glass door a shopping mall glitters across the road; neither of them looks at it. The pale wall above the counter is left blank for bubbles."
       chars: [You, Ketu]
@@ -60,20 +60,20 @@
       chars: [You, Ketu]
       bubbles:
         - {who: You, text: "I feel like I am watching my own life from the balcony."}
-        - {who: Ketu, text: "Quieter."}
+        - {who: Ketu, text: "It is quieter from here."}
         - {who: You, text: "I can read for four hours. I cannot do five minutes of small talk."}
-  caption: "Money goes flat because wants go flat. The mind steps back a little. Deep work gets easy; small talk gets impossible."
+  caption: "Money goes flat because wants go flat, and the mind steps back a little. Deep work gets easy while small talk gets impossible."
 
 - id: p020
   part: 2
   chapter: ketu
   layout: grid6
-  title: "The Other Deputies"
+  title: "The Other Deputies in Ketu's Season"
   panels:
     - scene: "A bare living room, the chairs gone. The Sun, golden crown blazing, stands in the centre in a grand pose, arms spread, as if on a stage. You sits on the floor in the corner reading, not looking up. Ketu stands by the open window, glow steady. Empty wall behind the Sun for one bubble."
       chars: [You, Sun, Ketu]
       bubbles:
-        - {who: Sun, text: "Four months! Did anyone see what I did?"}
+        - {who: Sun, text: "I am deputy for four months! Did anyone see what I did?"}
     - scene: "Eleven at night, the flat's doorway. The Moon stands outside in a silver-white saree with a shawl over one arm and a stacked steel tiffin in both hands, crescent glinting in her hair. You opens the door in pyjamas, surprised. Ketu is a glow in the dark hall behind her. Space above the Moon for a bubble."
       chars: [You, Moon, Ketu]
       bubbles:
@@ -81,20 +81,20 @@
     - scene: "Five in the morning, a gym with harsh tube lights. Mars, red skin and brass armour, blows his whistle at You, who is already on the treadmill, awake and oddly ready. Ketu sits on a bench by the dumbbells, serene, bowl in his lap. Mirror wall behind them left blank for a bubble."
       chars: [You, Mars, Ketu]
       bubbles:
-        - {who: Mars, text: "A recruit who wants nothing. Perfect soldier."}
+        - {who: Mars, text: "A recruit who wants nothing. The perfect soldier."}
     - scene: "A college library corridor, tall shelves. Jupiter, big and gold-robed, bends to hand You a heavy book with one hand and a laddoo with the other. You, arms already full of books, looks up at him. Ketu is visible far down the corridor, a small glow. Ceiling space above Jupiter for a bubble."
       chars: [You, Jupiter, Ketu]
       bubbles:
-        - {who: Jupiter, text: "Read this. Also eat this. Growth."}
+        - {who: Jupiter, text: "Read this book. Also eat this laddoo. Both are growth."}
     - scene: "The bare flat. Saturn, dark blue skin, grey beard, black robe, stands with a ledger open and pen raised, looking at an empty shelf. His crow perches on the shelf. You sits at a table with one cup and one plate. Ketu stands by the window. Blank wall above the shelf for a bubble."
       chars: [You, Saturn, Ketu]
       bubbles:
-        - {who: Saturn, text: "Very little to audit. I will take my time."}
+        - {who: Saturn, text: "Very little to audit here. I will take my time anyway."}
     - scene: "The flat's kitchen table, bright morning. Mercury, green and quick, has spread three phones and a notebook across the table, each phone glowing with a different blank screen. You holds a cup of chai, overwhelmed. Ketu leans in the doorway, bowl in hand, unbothered. Space above the table for a bubble."
       chars: [You, Mercury, Ketu]
       bubbles:
-        - {who: Mercury, text: "Options! Venus is coming. Have you considered everything?"}
-  caption: "Six deputies pass through Ketu's bare flat. Venus and Rahu get their own pages next. The Sun got no applause."
+        - {who: Mercury, text: "Options! Venus is next. Have you considered every one of them?"}
+  caption: "Six deputies pass through Ketu's bare flat, and Venus and Rahu get their own pages next. The Sun got no applause."
 
 - id: p021
   part: 2
@@ -105,9 +105,9 @@
     - scene: "The bare flat's doorway. Venus sweeps in wearing a pink and gold saree with jasmine in her hair, carrying a string of fairy lights, a small speaker, a jasmine pot and a chai thermos. Ketu stands aside, glow steady. You looks at the empty spot on the floor where a sofa used to be. Blank ceiling space for bubbles."
       chars: [You, Venus, Ketu]
       bubbles:
-        - {who: Venus, text: "Fourteen months, darling. We can do a lot in fourteen months. Treat yourself."}
+        - {who: Venus, text: "I am your deputy for fourteen months, darling. We can do a lot in fourteen months. Treat yourself."}
         - {who: You, text: "He removed the sofa."}
-        - {who: Ketu, text: "Floor."}
+        - {who: Ketu, text: "The floor is enough."}
     - scene: "Evening in the bare living room. One warm lamp now hangs in the corner; a jasmine plant sits in a pot on the balcony sill; Venus reclines on a single cushion sipping chai, the little speaker beside her. You sits on the floor with a small, surprised smile. Ketu sits cross-legged, unmoved but allowing it. Wall above the lamp left empty for bubbles."
       chars: [You, Venus, Ketu]
       bubbles:
@@ -118,10 +118,10 @@
     - scene: "Fourteen months later, the same doorway. Venus leaves with her suitcase, the speaker and the fairy lights, blowing a kiss. The jasmine pot stays on the balcony; You waters it with a steel glass. Ketu stands in the hall, bowl in hand. Light pours through the open door, leaving space above for bubbles."
       chars: [You, Venus, Ketu]
       bubbles:
-        - {who: Venus, text: "I take the band. You keep the jasmine, darling."}
+        - {who: Venus, text: "I am taking the music and the lights. You keep the jasmine, darling."}
         - {who: You, text: "That is the first thing in a year I wanted to keep."}
-        - {who: Ketu, text: "Keep."}
-  caption: "Venus and Ketu are friends. She brings one small real comfort. Keep the jasmine. Do not try to keep the band."
+        - {who: Ketu, text: "Keep it."}
+  caption: "Venus and Ketu are friends, so she brings one small, real comfort. Keep the jasmine, but do not try to keep the party."
 
 - id: p022
   part: 2
@@ -134,76 +134,76 @@
       bubbles:
         - {who: Rahu, text: "Dubai! Drones! A course in something new! Have you seen this telescope?"}
         - {who: Ketu, text: "No."}
-        - {who: You, text: "It is one in the morning. Why are you both in my corridor."}
+        - {who: You, text: "It is one in the morning. Why are you both in my corridor?"}
     - scene: "Later the same night. You has fallen asleep sitting against the corridor wall, toothbrush still in hand. Rahu is still talking, gesturing at a glossy brochure drawn as a blank bright cover; the drone dangles a shopping bag over her head. Ketu has not moved. The ceiling is empty for bubbles."
       chars: [You, Rahu, Ketu]
       bubbles:
         - {who: Rahu, text: "Just one gadget. You deserve the new one. Everybody abroad has it."}
-        - {who: You, text: "An hour ago I did not want anything. Where did this hunger come from."}
-        - {who: Rahu, text: "Borrowed. From me. No interest. Some interest."}
+        - {who: You, text: "An hour ago I did not want anything. Where did this hunger come from?"}
+        - {who: Rahu, text: "You borrowed it from me. No interest charged. Well, some interest."}
     - scene: "Morning at the flat door. A long cardboard box with a telescope half out of it leans against the wall. You stares at it in disbelief, hair a mess, chai in hand. Ketu, bowl under one arm, is quietly carrying the box back out through the open door. Bright light from the doorway leaves space above for bubbles."
       chars: [You, Ketu]
       bubbles:
-        - {who: You, text: "Why do I own a telescope."}
-        - {who: Ketu, text: "Returned."}
-  caption: "Rahu always stands exactly opposite Ketu. Never the wrong room, always the loud one. Sleep on every purchase for a month."
+        - {who: You, text: "Why do I own a telescope?"}
+        - {who: Ketu, text: "You do not. I am returning it."}
+  caption: "Rahu always sits exactly opposite Ketu, so his turn is never hidden, always loud. Sleep on every purchase for a month."
 
 - id: p023
   part: 2
   chapter: ketu
   layout: two
-  title: "The Wrong Room"
+  title: "When the Deputy Gets the Storeroom"
   panels:
     - scene: "The flat drawn as a cutaway floor plan with twelve rooms in a ring. Ketu sits in one room, glowing. The Moon, tiffin and shawl in hand, stands in the doorway of a cramped storeroom at the far side of the ring, past the kitchen, full of pickle jars. You stands in the middle of the ring, pointing at the storeroom. The plan's centre is left clear for bubbles."
       chars: [You, Moon, Ketu]
       bubbles:
         - {who: Moon, text: "I am the Queen Mother. This is a storeroom."}
-        - {who: Ketu, text: "Twelfth."}
+        - {who: Ketu, text: "Twelve doors from my room. That is the storeroom."}
         - {who: You, text: "He counted from his own room, not from the front door. It is his season."}
     - scene: "The flat's dining table at eleven at night. You eats cold dal from a steel tiffin, unimpressed but eating. The Moon leans from the storeroom door at the far end of a long corridor, holding out a second tiffin, which has travelled past the kitchen and a stack of boxes. Ketu sits at the table's other end, still. Space above the table for bubbles."
       chars: [You, Moon, Ketu]
       bubbles:
-        - {who: Moon, text: "I sent it at eight. With love. Did it reach?"}
+        - {who: Moon, text: "I sent this tiffin at eight, with love. Did it reach you?"}
         - {who: You, text: "It is eleven. It is cold. It is still food. Thank you."}
-        - {who: Ketu, text: "Late."}
-  caption: "Count rooms from Ketu, not from the front door. A deputy in the 6th, 8th or 12th helps late and sideways."
+        - {who: Ketu, text: "Late, but it came."}
+  caption: "Count rooms from Ketu, not from the front door. A deputy in the 6th, 8th or 12th room still helps, late and sideways."
 
 - id: p024
   part: 2
   chapter: ketu
   layout: fact
-  title: "Where Ketu Sits"
+  title: "Where Ketu Sits in Your Chart"
   panels:
     - scene: "Half-page panel. You holds up a tablet showing a chart drawn as a 2BHK floor plan with twelve rooms, no lettering. Ketu stands in one room, which is painted gold; his saffron robes have taken a gold tint, and a golden crown hangs on a peg behind him. You looks from the crown to Ketu, sceptical. Empty space on the left for bubbles, fact box below."
       chars: [You, Ketu]
       bubbles:
         - {who: You, text: "You own nothing. Not even a sign. How do I know whose side you are on?"}
-        - {who: Ketu, text: "Landlord."}
+        - {who: Ketu, text: "Ask my landlord."}
         - {who: You, text: "So you behave like whoever owns the room you sleep in. Of course you do."}
   fact:
     - "Ketu owns no sign. He borrows the colour of the sign he sits in, and of any planet beside him."
-    - "Aries, Leo and Sagittarius rising: Ketu is on your side in Leo, Aries, Scorpio, Sagittarius and Pisces; tests you in Taurus, Libra, Capricorn and Aquarius."
-    - "Gemini and Libra rising: on your side in Taurus, Libra, Gemini, Virgo, Capricorn and Aquarius; tests you in Aries, Scorpio, Leo, Sagittarius and Pisces."
-    - "Example: Scorpio rising, Ketu in Leo. Leo is the Sun's, and the Sun is on Scorpio's side, so Ketu is too."
-  caption: "Ketu owns no sign. He behaves like whoever owns the room he is sleeping in. Even a friendly Ketu clears."
+    - "Aries, Leo and Sagittarius rising: Ketu is on your side in Leo, Aries, Scorpio, Sagittarius and Pisces. He tests you in Taurus, Libra, Capricorn and Aquarius."
+    - "Gemini and Libra rising: Ketu is on your side in Taurus, Libra, Gemini, Virgo, Capricorn and Aquarius. He tests you in Aries, Scorpio, Leo, Sagittarius and Pisces."
+    - "Example: Scorpio rising, Ketu in Leo. Leo belongs to the Sun, and the Sun is on Scorpio's side, so Ketu is too."
+  caption: "Ketu owns no sign, so he behaves like whoever owns the room he sleeps in. Even a friendly Ketu clears things out."
 
 - id: p025
   part: 2
   chapter: ketu
   layout: three
-  title: "Homework"
+  title: "Homework for the Ketu Season"
   panels:
     - scene: "Dawn by a city lake, mist on the water, a jogging track. You walks at an even pace with the small brown dog on a lead; Ketu walks barefoot beside her, bowl under his arm, same pace. A stone marker with no writing suggests the same route every day. Sky above open for bubbles."
       chars: [You, Ketu]
       bubbles:
         - {who: You, text: "Same walk, same time, every day. That is the whole practice?"}
         - {who: Ketu, text: "Yes."}
-        - {who: You, text: "Ten minutes of sitting quietly also counts, I am told. By you. In one word."}
+        - {who: You, text: "Ten minutes of sitting quietly also counts, you told me. In one word."}
     - scene: "A pavement outside the flat at evening. Three street dogs drink from Ketu's begging bowl, set on the ground; You crouches and pours water into it from a bottle. Ketu stands with empty hands, serene. The small brown dog watches the strays with suspicion. The blank shutter of a closed shop behind them leaves room for bubbles."
       chars: [You, Ketu]
       bubbles:
         - {who: You, text: "You gave them your only bowl."}
-        - {who: Ketu, text: "Theirs."}
+        - {who: Ketu, text: "It is theirs now."}
         - {who: You, text: "Feed someone quietly. Expect nothing back. Fine. The hands learn it before the head does."}
     - scene: "Night at the flat's desk. You pushes a glossy brochure for a shiny new venture, drawn as a blank bright cover, to the far edge of the desk and opens a thick book from a tall stack on one subject. One lamp, one notebook. Ketu is visible outside the window, floating cross-legged. The dark wall above the desk is empty for bubbles."
       chars: [You, Ketu]
@@ -221,8 +221,8 @@
     - scene: "The flat, bright and almost bare: one mattress, the jasmine pot, a desk. Mercury sits at the desk with three phones fanned out and a notebook of plans. You stands between the desk and the open door. In the hallway outside, Venus waits with four suitcases, a jasmine garland and a chai thermos. Ketu stands by the door with his bowl, ready to leave. Hallway ceiling clear for bubbles."
       chars: [You, Mercury, Venus, Ketu]
       bubbles:
-        - {who: Mercury, text: "Options! Twelve of them. Pick one before she gets here."}
+        - {who: Mercury, text: "Options! I have twelve of them. Pick one before Venus gets here."}
         - {who: Venus, text: "No rush, darling. I have twenty years. Treat yourself."}
-        - {who: You, text: "Seven years. The flat has a mattress, a jasmine plant and me. I can hear myself think."}
-        - {who: Ketu, text: "Enough."}
-  caption: "Ketu's last year is Mercury's: plans come back. Do not grab the first bright thing. Venus is bringing the rest."
+        - {who: You, text: "Seven years are done. The flat has a mattress, a jasmine plant and me. I can hear myself think."}
+        - {who: Ketu, text: "That is enough. I am leaving."}
+  caption: "Mercury is the deputy in Ketu's last year, so plans come back. Do not grab the first bright thing, since Venus brings the rest."
