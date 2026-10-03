@@ -5,7 +5,8 @@ plus typography in the style of the Book 1 cover. Output: cover/cover-front.jpg 
 Replace cover/cover-art.png with the full-resolution Canva export (page 11 of the character-sheet design)
 and re-run; the art is resampled to fit, so any resolution works.
 """
-import os, base64, subprocess, io
+import os, base64, subprocess, io, sys
+COMIC = "--comic" in sys.argv   # comic-book edition: different subtitle, tagline and output names
 from PIL import Image, ImageFilter
 ROOT=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 COV=os.path.join(ROOT,"cover")
@@ -60,17 +61,17 @@ h1 small{{display:block;font-size:112px;font-weight:600;letter-spacing:0}}
 <div class="leaf tl"></div><div class="leaf tr"></div><div class="leaf bl"></div><div class="leaf br"></div>
 <div class="series">Astrology, Gently &nbsp;·&nbsp; Book Two</div>
 <h1>Your Life<small>in Seasons</small></h1>
-<div class="sub">A kind guide to the dasha system<br>and what each season of your life is asking of you</div>
+<div class="sub">{"A comic book about the dasha system:<br>the nine planets who take turns running your life" if COMIC else "A kind guide to the dasha system<br>and what each season of your life is asking of you"}</div>
 <div class="art"><img src="data:image/png;base64,{art_b64}"></div>
-<div class="tag">Plain words. A reason for every rule.<br>And no fear.</div>
+<div class="tag">{"Nine planets. One management team.<br>Nobody asked you first." if COMIC else "Plain words. A reason for every rule.<br>And no fear."}</div>
 <div class="author">Anushka Bharti</div>
 </body></html>'''
 page=os.path.join(COV,"cover-front.html"); open(page,"w",encoding="utf-8").write(html)
 CHROME="/opt/pw-browsers/chromium-1194/chrome-linux/chrome"
-png=os.path.join(COV,"cover-front.png")
+png=os.path.join(COV,"cover-comic-front.png" if COMIC else "cover-front.png")
 subprocess.run([CHROME,"--headless","--no-sandbox","--disable-gpu","--hide-scrollbars","--allow-file-access-from-files",
     f"--window-size={W},{H+CHROME_BAR}",f"--screenshot={png}",f"file://{page}"],capture_output=True,timeout=120)
 raw=Image.open(png); print("screenshot",raw.size); out=raw.convert("RGB").crop((0,0,W,H)); out.save(png)
-out.save(os.path.join(COV,"cover-front.jpg"),"JPEG",quality=92)
+out.save(os.path.join(COV,"cover-comic-front.jpg" if COMIC else "cover-front.jpg"),"JPEG",quality=92)
 os.remove(page)
-print("cover/cover-front.jpg", out.size, "art source:", os.path.basename(art_path), im.size)
+print("cover/cover-comic-front.jpg" if COMIC else "cover/cover-front.jpg", out.size, "art source:", os.path.basename(art_path), im.size)
