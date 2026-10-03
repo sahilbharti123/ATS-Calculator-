@@ -2,13 +2,12 @@
 
 After the Judge, the Prince. The Mercury season comes straight after Saturn's nineteen years in the fixed order, and people who live through that changeover describe it the same way: the window opens. Suddenly there are ideas, conversations, a course, a trip, three plans at once. The clever young Prince has the keys, and the palace fills with messengers.
 
-![Comic strip: The Mercury season in three panels.](../images/ch12-comic.png)
-*The Mercury season in three panels.*
-
-
 For many readers, though, it is the first season of childhood, because the Moon's star at birth so often lands them there; Meera is one of those. Either way, the season asks the same thing of a child or a seventy-year-old: learn, speak, trade, move, and do not scatter yourself so thin that nothing finishes.
 
 One warning first, and it is the key to the chapter: Mercury has no fixed nature; the Prince takes the colour of his company, so this season is read from who Mercury sits with in your chart. As throughout this part, dates for our case-study lives are approximate, to within a month or two.
+
+![Comic strip: The Mercury season in three panels.](../images/ch12-comic.png)
+*The Mercury season in three panels.*
 
 ## The Prince runs the household
 

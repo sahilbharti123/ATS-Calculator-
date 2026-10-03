@@ -22,6 +22,9 @@ Three promises.
 
 The planets appear here as the same cast of characters as in the first book: a King and a Queen Mother, a Commander, a clever young Prince, a Priest, a Minister of Pleasure, an old Judge, and two strangers at the gate. A season, in this telling, is simply the years when one of them is running your household. You will meet them in stories and in small comic strips, because a planet you can picture is a planet you can live with.
 
+![Comic strip: the cast. The nine planets as they appear in the strips, with You in the middle.](../images/comic-cast.png)
+*The cast: the nine planets as they appear in the comic strips, with you in the middle.*
+
 Three constructed lives run through the book: Meera, Arjun and Devika. Their charts are made up for teaching, their events are composites, and their season maps are worked out in full so that you can see the method before you turn it on yourself. By the last chapter you will have drawn your own.
 
 My hope is modest and specific. I hope that the next time a hard year arrives, for you or for someone you love, you will be able to open your season map, find where you are, understand what the time is asking, and know roughly how long it will last. That knowledge does not make the year easy. It makes it bearable, and it makes it useful. For me, that has been the whole gift of this subject.

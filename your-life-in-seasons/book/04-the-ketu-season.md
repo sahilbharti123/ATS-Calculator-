@@ -2,13 +2,12 @@
 
 There is a moment in every Indian wedding that nobody photographs. The band has packed up, the last relatives have been seen off, the hall is full of folding chairs and marigold petals, and someone has to stay behind to count the steel plates. That moment is what a Ketu season feels like from the inside, and it is why so many people tell me, halfway through one, that "nothing is happening in my life".
 
-![Comic strip: The Ketu season in three panels.](../images/ch04-comic.png)
-*The Ketu season in three panels.*
-
-
 Something is happening. It is just not the kind of thing that photographs well.
 
 Ketu's season lasts seven years. In the royal court, Ketu is the headless Sadhu, the renouncer at the gate who wants nothing. When he runs the household, the household learns to want less. Possessions, titles, friendships and plans that were never truly yours fall away, often without drama. What is left is lighter, and more honestly you. All dates in this chapter are approximate; a free app may show a month or two of difference.
+
+![Comic strip: The Ketu season in three panels.](../images/ch04-comic.png)
+*The Ketu season in three panels.*
 
 ## The headless Sadhu runs the household
 

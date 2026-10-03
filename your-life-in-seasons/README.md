@@ -16,12 +16,14 @@ A 200-page book on the Vimshottari dasha system written entirely in plain Englis
 
 ```bash
 cd your-life-in-seasons
-python3 tools/comic.py --all        # comic strips from tools/comic_scripts.py
+python3 tools/comic_compose.py split && python3 tools/comic_compose.py strips   # comic strips from cover/characters/*.png
+python3 tools/insert_comics.py      # place each strip at the end of its chapter opening
 python3 tools/storybank.py          # Appendix D from the Story boxes
 python3 tools/lint.py               # structure, plain-words rule, no em dashes
 python3 tools/build.py              # dist/Your-Life-in-Seasons.html and .pdf (A4)
 python3 tools/build.py --print      # dist/Your-Life-in-Seasons-print-6x9.pdf
 python3 tools/svg2png.py && python3 tools/build_epub.py   # dist/Your-Life-in-Seasons.epub
+python3 tools/make_cover.py                               # cover/cover-front.jpg from cover/cover-art.png
 python3 tools/print_wrap_cover.py <pages>                 # cover/cover-paperback-wrap.pdf
 ```
 

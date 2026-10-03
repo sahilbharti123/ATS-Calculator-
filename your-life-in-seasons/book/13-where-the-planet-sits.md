@@ -2,13 +2,12 @@
 
 Two women are both in a Venus season. One spends twenty years in a house full of music, hosting weddings, buying saris she does not need. The other spends the same twenty years paying for other people's comfort, quietly, from a room at the back. Same courtier. Same years. Completely different seasons.
 
-![Comic strip: Same planet, different room: the three questions before you judge a season.](../images/ch13-comic.png)
-*Same planet, different room: the three questions before you judge a season.*
-
-
 Part II gave you nine portraits. This chapter turns a portrait into a photograph of a particular person: where that planet sits in your own chart. Every date here is approximate.
 
 I ask three questions of any season lord, the questions you would ask about a new manager at your office: what is this person in charge of, how strong is their position, and who do they sit with at lunch?
+
+![Comic strip: Same planet, different room: the three questions before you judge a season.](../images/ch13-comic.png)
+*Same planet, different room: the three questions before you judge a season.*
 
 ## Question one: which rooms does it own, and which room does it sit in?
 

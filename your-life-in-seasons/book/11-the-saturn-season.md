@@ -2,13 +2,12 @@
 
 Nobody comes to me excited about their Saturn season. They come with the phrase "Saturn is coming" said the way you would say a monsoon is coming to a house with a leaking roof.
 
-![Comic strip: The Saturn season in three panels.](../images/ch11-comic.png)
-*The Saturn season in three panels.*
-
-
 The Saturn season is nineteen years when the old Judge of Labour runs the household. It is slow, serious, and it does not let you skip steps. It is also, in my experience, the season that builds the most: a house paid for, a skill actually learned, a body finally looked after, a short list of friends who are real. It is the season people fear and the one they thank, usually about ten years later.
 
 None of our three case-study lives is in a Saturn season yet, so this chapter leans on a composite, a man I read for in Saturn/Saturn at 52, with Meera's far-future season as a note. Dates are approximate, to within a month or two.
+
+![Comic strip: The Saturn season in three panels.](../images/ch11-comic.png)
+*The Saturn season in three panels.*
 
 ## The Judge runs the household
 

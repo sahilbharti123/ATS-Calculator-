@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""insert_comics.py: puts each chapter's comic strip (images/chNN-comic.png) after the chapter's first paragraph. Idempotent."""
+"""insert_comics.py: puts each chapter's comic strip (images/chNN-comic.png) before the chapter's first section heading. Idempotent."""
 import re, glob, os, sys
 ONLY=set(sys.argv[1:])  # optional chapter numbers, e.g. 04 05
 CAPTIONS = {
@@ -22,12 +22,10 @@ for f in sorted(glob.glob("book/[0-1][0-9]-*.md")):
     if ONLY and num not in ONLY: continue
     s=open(f,encoding="utf-8").read()
     if f"ch{num}-comic.png" in s: continue
-    lines=s.split("\n")
-    # find first non-empty paragraph after the H1, insert after the paragraph ends
-    i=1
-    while i<len(lines) and lines[i].strip()=="": i+=1
-    while i<len(lines) and lines[i].strip()!="": i+=1
+    # place the strip at the end of the chapter's opening, just before the first section heading
+    i=s.index("\n## ")
     block=f"\n![Comic strip: {CAPTIONS[num]}](../images/ch{num}-comic.png)\n*{CAPTIONS[num]}*\n"
-    lines.insert(i, block)
-    open(f,"w",encoding="utf-8").write("\n".join(lines)); n+=1
+    s=s[:i]+"\n"+block.rstrip("\n")+"\n"+s[i:]
+    s=re.sub(r"\n{3,}","\n\n",s)
+    open(f,"w",encoding="utf-8").write(s); n+=1
 print("inserted strips into", n, "chapters")

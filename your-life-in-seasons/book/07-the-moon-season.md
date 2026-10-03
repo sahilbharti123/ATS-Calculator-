@@ -4,6 +4,9 @@ A woman I read for once described her Moon season in one sentence. "For ten year
 
 That is the Moon season. Ten years when the Queen Mother holds the keys, and the household of the mind becomes the main stage.
 
+![Comic strip: The Moon season in three panels.](../images/ch07-comic.png)
+*The Moon season in three panels.*
+
 ## The Queen Mother takes the keys
 
 In the court of Book 1 the Moon is the Queen Mother. She does not sit on the throne; she runs the palace. She is the mood of the whole building, and she changes a little every day, because the Moon in the sky changes a little every night.

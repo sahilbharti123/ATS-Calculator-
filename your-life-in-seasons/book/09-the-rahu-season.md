@@ -4,6 +4,9 @@ There is an old story about the churning of the ocean. Gods and demons pulled a 
 
 The Rahu season is the most misunderstood of the nine, and the story holds the key: eighteen years of hunger. Not evil. Hunger. What you do with it is the whole season.
 
+![Comic strip: The Rahu season in three panels.](../images/ch09-comic.png)
+*The Rahu season in three panels.*
+
 ## The Stranger takes the keys
 
 In the court, Rahu is the smoke-headed Stranger at the gate. He has no kingdom of his own and wants everything he sees. He speaks every language a little, knows the newest machines, the foreign markets, the shortcut, and is magnificent at promising.

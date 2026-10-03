@@ -2,11 +2,10 @@
 
 The monsoon is one season, but nobody lives through it as one thing. There is the week the first clouds come and everyone is happy. There is the fortnight when the drains fail. There is the long grey middle, the hot break in August, the last heavy burst, the clear light at the end. One season, many weathers.
 
+A planetary season is the same. A twenty-year Venus season is not twenty identical years. It has nine stretches inside it, each with a second courtier beside the first, and the pair together is what you actually live. This chapter shows how those stretches are cut, in what order they run, how to read them off an app, and the two questions that tell you whether a stretch will feel like a help or a test. Then we open Meera's Venus season and watch her marriage arrive on time. Dates, as always, are approximate.
+
 ![Comic strip: Seasons inside seasons: the season lord runs the house, the sub-season lord runs the kitchen.](../images/ch03-comic.png)
 *Seasons inside seasons: the season lord runs the house, the sub-season lord runs the kitchen.*
-
-
-A planetary season is the same. A twenty-year Venus season is not twenty identical years. It has nine stretches inside it, each with a second courtier beside the first, and the pair together is what you actually live. This chapter shows how those stretches are cut, in what order they run, how to read them off an app, and the two questions that tell you whether a stretch will feel like a help or a test. Then we open Meera's Venus season and watch her marriage arrive on time. Dates, as always, are approximate.
 
 ## The proportional rule
 

@@ -4,6 +4,9 @@ My father's younger brother once told me he could divide his life into the years
 
 The Mars season is seven years: the shortest of the long seasons and the hottest of all. It does not ask you to tend, or to learn, or to let go. It asks you to **act**.
 
+![Comic strip: The Mars season in three panels.](../images/ch08-comic.png)
+*The Mars season in three panels.*
+
 ## The Commander takes the keys
 
 In the court, Mars is the Commander of the army. He guards the gates, trains the soldiers, defends the kingdom's land and starts most of the fights. He is loyal to the King, impatient with the clever Prince, and has no idea what the Minister of Pleasure is for.

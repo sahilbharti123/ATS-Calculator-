@@ -2,13 +2,12 @@
 
 We have walked the nine seasons one at a time. Now let us do what an astrologer does when a person sits down across the table: read a whole life, from the first season to the one running today, as one story.
 
-![Comic strip: Three lives in October 2026.](../images/ch16-comic.png)
-*Three lives in October 2026.*
-
-
 I will do it three times, for Meera, Arjun and Devika, the constructed charts that have travelled with us since Chapter 2, using only the events we already know about them. Each story ends with the two questions that matter most in a reading: what does the current season ask of this person now, and what will the next one ask?
 
 One note for the whole chapter: every date here is approximate. Your app may say June 2027 where your cousin's says May 2027, and both are right to the precision this method has. Read "around", not "on".
+
+![Comic strip: Three lives in October 2026.](../images/ch16-comic.png)
+*Three lives in October 2026.*
 
 ## Meera: the long bloom, and a door opening
 

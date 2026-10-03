@@ -2,11 +2,10 @@
 
 Think of a railway line with nine stations. The train always stops at them in the same order, never skipping one, never turning back. What differs from passenger to passenger is only which station you boarded at, and how far along the platform you stood when the train pulled in.
 
+That is the whole of the season system's mechanics: nine stations, one fixed order, and a starting point chosen by the Moon. This chapter gives you all three, then shows you how to read your own timetable off a free app in five steps. All dates here are approximate.
+
 ![Comic strip: How your first season is chosen: the Moon's street on the night you were born decides who goes first.](../images/ch02-comic.png)
 *How your first season is chosen: the Moon's street on the night you were born decides who goes first.*
-
-
-That is the whole of the season system's mechanics: nine stations, one fixed order, and a starting point chosen by the Moon. This chapter gives you all three, then shows you how to read your own timetable off a free app in five steps. All dates here are approximate.
 
 ## Nine planets, nine seasons
 

@@ -53,10 +53,10 @@ svg=f'''<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1
 <image x="{px(B+W+spine)}" y="{px(B)}" width="{px(W)}" height="{px(H)}" preserveAspectRatio="none" xlink:href="data:image/jpeg;base64,{front_b64}"/>
 </svg>'''
 out_svg=os.path.join(ROOT,"cover","cover-paperback-wrap.svg"); open(out_svg,"w",encoding="utf-8").write(svg)
-html=os.path.join(ROOT,"cover","_wrap.html"); open(html,"w").write(f'<html><body style="margin:0"><img src="file://{out_svg}" width="{px(total_w)}" height="{px(total_h)}"></body></html>')
+html=os.path.join(ROOT,"cover","_wrap.html"); open(html,"w").write(f'<html><body style="margin:0"><img style="display:block" src="file://{out_svg}" width="{px(total_w)}" height="{px(total_h)}"></body></html>')
 CHROME="/opt/pw-browsers/chromium-1194/chrome-linux/chrome"
 png=os.path.join(ROOT,"cover","cover-paperback-wrap.png")
-subprocess.run([CHROME,"--headless","--no-sandbox","--disable-gpu","--hide-scrollbars",f"--window-size={px(total_w)},{px(total_h)}",f"--screenshot={png}",f"file://{html}"],capture_output=True,timeout=120)
+subprocess.run([CHROME,"--headless","--no-sandbox","--disable-gpu","--hide-scrollbars",f"--window-size={px(total_w)},{px(total_h)+88}",f"--screenshot={png}",f"file://{html}"],capture_output=True,timeout=120)
 from PIL import Image
 im=Image.open(png).convert("RGB").crop((0,0,px(total_w),px(total_h))); im.save(png); im.save(os.path.join(ROOT,"cover","cover-paperback-wrap.pdf"),"PDF",resolution=DPI)
 os.remove(html)

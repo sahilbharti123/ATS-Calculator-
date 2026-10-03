@@ -2,11 +2,10 @@
 
 If you asked a hundred people which season they would choose, most would choose this one. Jupiter is the planet the old books call the great benefic, the Royal Priest of our court, the one who blesses weddings, teaches the children and keeps the King honest. Sixteen years with the Priest running the household sounds like sixteen years of grace.
 
+Often it is: a late child, a first house, a teacher who changes a life. But I have also sat across from people halfway through a Jupiter season who were confused and a little ashamed: "Everyone told me these would be my best years. Why do I feel heavier, slower and poorer?" This chapter is for both. Jupiter's season is the season of growth, and growth is not the same as ease. As in every chapter of this part, the dates for our case-study lives are approximate, to within a month or two.
+
 ![Comic strip: The Jupiter season in three panels.](../images/ch10-comic.png)
 *The Jupiter season in three panels.*
-
-
-Often it is: a late child, a first house, a teacher who changes a life. But I have also sat across from people halfway through a Jupiter season who were confused and a little ashamed: "Everyone told me these would be my best years. Why do I feel heavier, slower and poorer?" This chapter is for both. Jupiter's season is the season of growth, and growth is not the same as ease. As in every chapter of this part, the dates for our case-study lives are approximate, to within a month or two.
 
 ## The Priest runs the household
 

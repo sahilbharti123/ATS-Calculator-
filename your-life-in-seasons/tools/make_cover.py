@@ -10,6 +10,7 @@ from PIL import Image, ImageFilter
 ROOT=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 COV=os.path.join(ROOT,"cover")
 W,H=1600,2560
+CHROME_BAR=88   # headless Chromium counts a toolbar in --window-size; the screenshot viewport is this much shorter
 ART_W,ART_H=1040,1560     # 2:3 panel
 ART_X,ART_Y=(W-ART_W)//2,690
 
@@ -68,7 +69,7 @@ page=os.path.join(COV,"cover-front.html"); open(page,"w",encoding="utf-8").write
 CHROME="/opt/pw-browsers/chromium-1194/chrome-linux/chrome"
 png=os.path.join(COV,"cover-front.png")
 subprocess.run([CHROME,"--headless","--no-sandbox","--disable-gpu","--hide-scrollbars","--allow-file-access-from-files",
-    f"--window-size={W},{H}",f"--screenshot={png}",f"file://{page}"],capture_output=True,timeout=120)
+    f"--window-size={W},{H+CHROME_BAR}",f"--screenshot={png}",f"file://{page}"],capture_output=True,timeout=120)
 raw=Image.open(png); print("screenshot",raw.size); out=raw.convert("RGB").crop((0,0,W,H)); out.save(png)
 out.save(os.path.join(COV,"cover-front.jpg"),"JPEG",quality=92)
 os.remove(page)

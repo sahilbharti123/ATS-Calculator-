@@ -2,10 +2,6 @@
 
 Let me tell you about a woman I will call Nandini. She is a composite, stitched from several people I have read for and a little of myself.
 
-![Comic strip: Same person, three seasons. The planets as the court that runs your household, one season at a time.](../images/ch01-comic.png)
-*Same person, three seasons. The planets as the court that runs your household, one season at a time.*
-
-
 **At 24**, Nandini is in love. Not only with the boy from her office, though there is one; she is in love with everything. She buys a kurta in a colour her mother would never choose. She spends her first salary on a haircut and a dinner she cannot afford. She sings in the kitchen. She is soft, generous, a little lazy about her career and not worried about it. Asked what she wants from life, she says: to be happy, and to be loved.
 
 **At 31**, you would not recognise her. She has a title at work and a corner of the office with her name on it. She argues with her father at dinner, and she wins. She has stopped singing. She wakes at five to exercise. People call her "strong", and some do not mean it kindly. She wants to be seen, respected, right. The soft girl of 24 looks, to her, like a stranger who wasted seven years.
@@ -13,6 +9,9 @@ Let me tell you about a woman I will call Nandini. She is a composite, stitched 
 **At 40**, she is softer again, in a different way. She has moved house twice in three years. Her mother has come to live with her. She feeds everyone who walks through the door and worries about them after they leave. Her moods rise and fall with the news, the weather, her daughter's face after school. The title matters less. She cries easily and laughs easily. She is, in a word her family uses with love and exasperation, "emotional".
 
 Three women. One life. If you met them separately you would say they had different natures, different values, different gods. And yet the same birth chart sat under all three. This book is about why.
+
+![Comic strip: Same person, three seasons. The planets as the court that runs your household, one season at a time.](../images/ch01-comic.png)
+*Same person, three seasons. The planets as the court that runs your household, one season at a time.*
 
 ## Life moves in chapters
 

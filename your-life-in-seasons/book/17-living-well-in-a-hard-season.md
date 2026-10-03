@@ -2,11 +2,10 @@
 
 Somebody in your family has said one of these sentences. "His Saturn has started." "She is in Rahu, poor thing." "It is Ketu, nothing will move for seven years." They are said in the tone people use for a diagnosis, and they take a stretch of time that has a task in it and turn it into a sentence to be served.
 
+This chapter is the antidote: the three seasons people fear, the sub-seasons inside them that genuinely bite, and how to live through them well. By well I do not mean comfortably. I mean awake, useful and unafraid. Every date here, as always, is approximate.
+
 ![Comic strip: Living well in a hard season.](../images/ch17-comic.png)
 *Living well in a hard season.*
-
-
-This chapter is the antidote: the three seasons people fear, the sub-seasons inside them that genuinely bite, and how to live through them well. By well I do not mean comfortably. I mean awake, useful and unafraid. Every date here, as always, is approximate.
 
 ## The three feared seasons
 

@@ -2,13 +2,12 @@
 
 Twenty years. Say it slowly. A child who enters a Venus season in Class 1 leaves it with a job. A woman who enters it at thirty leaves it at fifty. Nobody is the same person at both ends of twenty years, and that is the first thing to understand: this season is not an event, it is a climate. You will remember your twenties, your marriage, your first house, and only later notice that one courtier was running the household the whole time.
 
-![Comic strip: The Venus season in three panels.](../images/ch05-comic.png)
-*The Venus season in three panels.*
-
-
 In the royal court Venus is the Minister of Pleasure, who arranges the music, the weddings, the comfort and the beauty of the palace. When she runs the household, life softens and fills: love, marriage, money through taste, good food, friendships, art. The season asks something that sounds easy and is not: to enjoy without drowning, to receive without going soft.
 
 This chapter follows the long bloom through its arc and its sharp corners, and then through Meera's own Venus season, around June 2007 to around June 2027, which is in its closing year as I write. All dates here are approximate; a free app may differ by a month or two.
+
+![Comic strip: The Venus season in three panels.](../images/ch05-comic.png)
+*The Venus season in three panels.*
 
 ## The Minister of Pleasure runs the household
 

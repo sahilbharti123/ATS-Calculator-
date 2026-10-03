@@ -2,13 +2,12 @@
 
 After twenty years of Venus, the Sun's six years feel like someone has switched on the tube light in a room lit by candles. Everything is suddenly visible, including you. The music stops, the guests go home, and a question the long bloom let you avoid stands in the middle of the floor: who are you when nobody is clapping?
 
-![Comic strip: The Sun season in three panels.](../images/ch06-comic.png)
-*The Sun season in three panels.*
-
-
 In the royal court the Sun is the King. He does not arrange feasts or keep accounts; he is the centre, and when he runs the household everything is measured against him. His season is about identity, the father, authority, visibility, the heart and spine, and the hard, clean business of standing on your own name. It is the shortest season, six years, but almost nobody comes out of it the same person.
 
 This chapter follows the King's six years, then Devika's Sun season (around July 1998 to July 2004), in which she married, and finally the one Meera enters around June 2027. All dates here are approximate; a free app may differ by a month or two.
+
+![Comic strip: The Sun season in three panels.](../images/ch06-comic.png)
+*The Sun season in three panels.*
 
 ## The King runs the household
 
