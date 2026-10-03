@@ -1,0 +1,33 @@
+{
+  "design_id": "DAHW86ydmvk",
+  "aspect": "PORTRAIT_9_16",
+  "export": {"width": 2160, "height": 3840},
+  "scene1": {
+    "media_id": "MAHW8-ZNxYQ",
+    "page": 2,
+    "chars": ["Rahu", "Ketu", "Saturn"],
+    "positions": {"Rahu": [0.22, 0.60], "Ketu": [0.50, 0.65], "Saturn": [0.63, 0.26]},
+    "note": "Second try; first try (MAHW8x_lKCA) put Saturn's head inside the top 30 percent band. Saturn stands slightly right of centre, crown top at about y=0.20."
+  },
+  "scene2": {
+    "media_id": "MAHW86WzbDE",
+    "page": 3,
+    "chars": ["Saturn", "Rahu"],
+    "positions": {"Saturn": [0.40, 0.37], "Rahu": [0.72, 0.42]},
+    "note": "Crow sits on Saturn's shoulder at about (0.20, 0.30). Rahu's sunglasses are not clearly visible; he holds the bag as a shield as asked."
+  },
+  "scene3": {
+    "media_id": "MAHW84_Sods",
+    "page": 4,
+    "chars": ["Saturn"],
+    "positions": {"Saturn": [0.52, 0.50]},
+    "note": "Crown top reaches about y=0.25. Crow at right edge about (0.88, 0.58); campfire glow lower left."
+  },
+  "scene4": {
+    "media_id": "MAHW8y-zhX4",
+    "page": 5,
+    "chars": ["You", "Ketu"],
+    "positions": {"You": [0.17, 0.35], "Ketu": [0.72, 0.50]},
+    "note": "Dog at about (0.37, 0.75). You looks up to the side with a slight smile rather than fully deadpan."
+  }
+}
