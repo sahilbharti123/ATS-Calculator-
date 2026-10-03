@@ -61,7 +61,10 @@ sold. The "practice" in a hard season is always ordinary: sleep, walk, call your
    all of us; never on the reader for being poor, single, ill or unmarried.
 3. **No fear.** Never predict death, divorce, bankruptcy, accidents or illness. A hard season is a season
    with a homework, drawn as a homework (Saturn handing over a ledger), not as doom.
-4. No em dashes anywhere, in bubbles or captions. Short sentences. A bubble holds at most 18 words.
+4. No em dashes anywhere, in bubbles or captions. Short sentences. A bubble holds at most 20 words.
+   **Every bubble is a complete, natural sentence** a first-time reader understands from the panel alone. No
+   telegraphic fragments ("Twelfth.", "Was.") whose meaning depends on knowing the joke already. Each panel
+   reads as one coherent exchange, setup before punchline. You may say "Why." at most once per chapter.
 5. Plain words only, Sanskrit once in a footnote box: mahadasha = season (manager), antardasha =
    sub-season (deputy), pratyantardasha = sub-sub-season (intern), nakshatra = the Moon's star,
    lagna = rising sign, bhava = room, Sade Sati = Saturn's seven and a half years, gochar = weather.
@@ -81,7 +84,7 @@ Pages are built from a small set of layouts so the compositor can draw them:
 - `grid6`: 3 x 2 grid of small panels, for the fast "the other deputies" pages.
 - `fact`: a half-page panel + a boxed plain-words fact (the one place numbers and the Sanskrit word go).
 
-Every page ends with a **bottom caption**: the lesson in one deadpan sentence (max 22 words).
+Every page ends with a **bottom caption**: the lesson in one or two plain, complete sentences (max 24 words).
 
 ## Script format (`comic/script/*.yaml`)
 
