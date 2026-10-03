@@ -2,13 +2,13 @@
 
 If you asked a hundred people which season they would choose, most would choose this one. Jupiter is the planet the old books call the great benefic, the Royal Priest of our court, the one who blesses weddings, teaches the children and keeps the King honest. Sixteen years with the Priest running the household sounds like sixteen years of grace.
 
-Often it is. I have watched this season bring a late child, a first house, a teacher who changed a life, a faith that finally felt like the person's own. I have also sat across from people halfway through a Jupiter season who were confused and a little ashamed: "Everyone told me these would be my best years. Why do I feel heavier, slower and poorer?" This chapter is for both. Jupiter's season is the season of growth, and growth is not the same as ease. Some things grow that you wanted, and some that you did not. As in every chapter of this part, the dates for our case-study lives are approximate, to within a month or two.
+Often it is: a late child, a first house, a teacher who changes a life, a faith that finally feels like your own. But I have also sat across from people halfway through a Jupiter season who were confused and a little ashamed: "Everyone told me these would be my best years. Why do I feel heavier, slower and poorer?" This chapter is for both. Jupiter's season is the season of growth, and growth is not the same as ease. As in every chapter of this part, the dates for our case-study lives are approximate, to within a month or two.
 
 ## The Priest runs the household
 
-> **📖 Story: The Priest takes the keys.** When the Royal Priest's turn came to run the palace, the courtiers relaxed. The first thing he did was open the storerooms and feed everyone. He hired tutors for the children, invited scholars from distant kingdoms, and blessed every marriage proposal at the gate. By the third year the treasury was lower, the kitchen busier, and every courtier had put on weight, including the Priest. "You are generous to a fault," said the Judge. "Yes," said the Priest, "and in my years the fault and the generosity come together. Learn to tell them apart." **Rule:** Jupiter's season expands whatever it touches: wisdom, children, faith, money, and also waistlines, debts and promises made too freely.
+> **📖 Story: The Priest takes the keys.** When the Royal Priest's turn came to run the palace, the first thing he did was open the storerooms and feed everyone. He hired tutors for the children, invited scholars from distant kingdoms, and blessed every marriage proposal at the gate. By the third year the treasury was lower, the kitchen busier, and every courtier had put on weight, including the Priest. "You are generous to a fault," said the Judge. "Yes," said the Priest, "and in my years the fault and the generosity come together. Learn to tell them apart." **Rule:** Jupiter's season expands whatever it touches: wisdom, children, faith, money, and also waistlines, debts and promises made too freely.
 
-The season asks three things. **Grow in the right direction:** Jupiter stands for wisdom, teachers, children, faith, law and wealth, and this is when those doors open; walk through the ones that matter instead of saying yes to all of them. **Give, and learn to receive:** you become the one the family turns to for advice, loans and blessings, which is lovely and can hollow you out; the season also asks you to let others help you. **Believe in something:** not necessarily a religion. The season raises the question "what do I actually believe?" and rewards an honest answer.
+The season asks three things. **Grow in the right direction:** Jupiter stands for wisdom, teachers, children, faith, law and wealth, and this is when those doors open; walk through the ones that matter instead of saying yes to all of them. **Give, and learn to receive:** you become the one the family turns to for advice, loans and blessings, which can hollow you out; the season also asks you to let others help you. **Believe in something:** not necessarily a religion. The season raises the question "what do I actually believe?" and rewards an honest answer.
 
 ## How it feels
 
@@ -16,13 +16,13 @@ The season asks three things. **Grow in the right direction:** Jupiter stands fo
 
 **Mind.** Calmer and broader than the Rahu season that usually precedes it. People read more, think about meaning more, are more easily moved by a teacher. The shadow is complacency.
 
-**Home.** Children arrive, grow up, or leave for study. Elders lean on you. The home fills with guests; someone revives an old family practice.
+**Home.** Children arrive, grow up, or leave for study. Elders lean on you; the home fills with guests.
 
 **Love.** Jupiter is the planet of marriage, and of the husband, in a woman's chart in the traditional reading; in anyone's it favours commitment over flirtation. Where Jupiter tests you, it can bring a partner or in-law who is more preacher than companion.
 
 **Work.** Teaching, law, finance, advising, publishing, counselling: anything paid for judgement rather than speed. A mentor appears, or you become one.
 
-**Money.** More comes in, and more goes out. Jupiter is wealth, but also the open hand. The people who finish richer treated generosity as a budget line.
+**Money.** More comes in, and more goes out. The people who finish richer treated generosity as a budget line.
 
 ## The arc of sixteen years
 
@@ -33,7 +33,7 @@ The season asks three things. **Grow in the right direction:** Jupiter stands fo
 **The last year.** The Rahu sub-season closes the season, the Stranger walking the Priest's halls. The hunger returns just as Saturn's season approaches. Hold steady; Chapter 15 covers that changeover.
 
 ![Jupiter season sub-season proportions](../images/ch10-jupiter-sub-seasons.svg)
-*Figure 10.1: The sixteen-year Jupiter season in its nine sub-seasons, to scale. Venus, Saturn and Rahu take the longest stretches.*
+*Figure 10.1: The sixteen-year Jupiter season in its nine sub-seasons, to scale.*
 
 > **🔍 Why sixteen years, and why weight?** The length is tradition: Parashara's 120-year timetable gives Jupiter 16 years and no reason, and I will not invent one. The weight is the system's own logic: Jupiter is the planet that stands for fat, the liver and abundance, so its season brings abundance to the body as readily as to the bank. Everyday parallel: the relative whose house you always leave heavier, in every sense.
 
@@ -56,7 +56,7 @@ Here is the part most books leave out, and the part that most often explains a d
 | Aquarius | 2 and 11 | 🔴 tests you | money comes; ambition outgrows wisdom |
 | Pisces | 1 and 10 | 🟢 on your side | identity and career grow together; your own planet's season |
 
-> **🔍 Why can the great benefic's season disappoint?** This is the system's own logic, set out by Parashara. Lords of the three lucky rooms (1, 5, 9) help you; lords of rooms 3, 6 and 11 work against you; and a naturally kind planet that owns the pillar rooms (4, 7, 10) loses its kindness there, because the pillars demand action and a priest is not built for action. So for Taurus, Gemini, Virgo, Libra, Capricorn and Aquarius rising, Jupiter owns the wrong rooms, and its season gives Jupiter's themes (teachers, children, faith, expansion) through Jupiter's hardest offices: debt, obligation, the in-laws, the heavy career. The great benefic has not turned cruel; he has been given the wrong job. Everyday parallel: the kindest uncle in the family is made treasurer of the housing society. He is still kind. He is also now the man who chases you for the maintenance money.
+> **🔍 Why can the great benefic's season disappoint?** This is the system's own logic, set out by Parashara. Lords of the three lucky rooms (1, 5, 9) help you; lords of rooms 3, 6 and 11 work against you; and a naturally kind planet that owns the pillar rooms (4, 7, 10) loses its kindness there, because the pillars demand action and a priest is not built for action. So for Taurus, Gemini, Virgo, Libra, Capricorn and Aquarius rising, Jupiter owns the wrong rooms, and its season delivers Jupiter's themes through Jupiter's hardest offices: debt, obligation, the in-laws, the heavy career. The great benefic has not turned cruel; he has been given the wrong job. Everyday parallel: the kindest uncle in the family is made treasurer of the housing society. He is still kind. He is also now the man who chases you for the maintenance money.
 
 If Jupiter tests you, do not dread this season. It still brings learning and growth; it simply sends the bill with them: the child who needs expensive schooling, the promotion that eats your evenings, the guru who wants a donation. Knowing this in advance is most of the protection you need.
 
@@ -77,11 +77,9 @@ If Jupiter tests you, do not dread this season. It still brings learning and gro
 | 11 | gains, elder siblings, a wide circle; ambition dressed as wisdom |
 | 12 | foreign lands, retreats, expenses on good causes |
 
-Chapter 13 takes this further. For now, hold the room and the "on your side or tests you" column together, and you have the skeleton of the season.
-
 ## The sub-seasons that matter most
 
-Every sub-season is a conversation between the season lord and the sub-lord, and two questions decide its tone, as Chapter 3 explained: are they friends, and where does the sub-lord sit counted from the season lord? A sub-lord in the 6th, 8th or 12th room counted from Jupiter is in a "wrong room", and that sub-season works against the season's promises even if the planets are friendly. Four stretches matter most.
+Two questions decide any sub-season's tone, as Chapter 3 explained: are the season lord and sub-lord friends, and where does the sub-lord sit counted from the season lord? A sub-lord in the 6th, 8th or 12th room counted from Jupiter is in a "wrong room", and that sub-season works against the season's promises even if the planets are friendly. Four stretches matter most.
 
 **Jupiter/Jupiter (the first 2 years 2 months).** The Priest alone. If Jupiter is on your side, blessings; if it tests you, the first bills arrive dressed as opportunities. Whatever happens here is the theme of the next fourteen years.
 
@@ -91,7 +89,7 @@ Every sub-season is a conversation between the season lord and the sub-lord, and
 
 **Jupiter/Rahu (the last 2 years 5 months).** The Stranger closing the Priest's season. Ambition returns, often as a foreign offer or a scheme. Because it leads straight into Saturn, treat it as a bridge: finish things, do not start a loan.
 
-> **📖 Story: The Priest and the Judge count the grain.** In the Priest's third year the Judge came to the storeroom with his ledger. "You have promised grain to four villages, and we have grain for two." The Priest was wounded. "I promised in good faith." "Faith is yours," said the Judge, "arithmetic is mine." They sat up all night and found a way: two villages now, two after the harvest, and the Priest himself would write to each and explain. The villages loved him more for the honest letter than for the grain. **Rule:** the Saturn sub-season inside a Jupiter season turns promises into schedules; meet it with honesty and it strengthens the season.
+> **📖 Story: The Priest and the Judge count the grain.** In the Priest's third year the Judge came to the storeroom with his ledger. "You have promised grain to four villages, and we have grain for two." The Priest was wounded. "I promised in good faith." "Faith is yours," said the Judge, "arithmetic is mine." They sat up all night and found a way: two villages now, two after the harvest, and an honest letter from the Priest to each. The villages loved him more for the letter than for the grain. **Rule:** the Saturn sub-season inside a Jupiter season turns promises into schedules; meet it with honesty and it strengthens the season.
 
 ## What to do, and what not to do
 
@@ -99,7 +97,6 @@ This season rewards practices more than purchases, whether Jupiter is on your si
 
 - **Teach something.** A niece's maths, a colleague's spreadsheet. Jupiter's season flows best when knowledge moves through you rather than piling up in you.
 - **Keep a generosity budget.** Decide in advance what you give each month, in money and in time, and give it gladly. Say no to the rest without guilt. This one habit separates those who finish richer from those who finish tired.
-- **Find a teacher and check them.** A good one makes you more capable; a poor one makes you more dependent. Notice which way you are moving after six months.
 - **Thursday as a quiet day.** Jupiter's day in the tradition: a simpler meal, a chapter of something worth reading, yellow lentils or turmeric given to someone who cooks for others. The rhythm matters, not the ritual.
 - **Do not** buy a yellow sapphire because a shop said your Jupiter is weak. If Jupiter tests you, strengthening it is the opposite of what you want; if it is on your side, conduct does more than a stone.
 - **Do not** stand guarantor for anyone's loan in the Rahu sub-season.
@@ -122,7 +119,7 @@ Counting rooms from Jupiter in Scorpio: his Saturn, Sun and Mercury in Aquarius 
 
 **Devika, Aries rising.** Her Jupiter season runs from around July 2039 to July 2055, age 60 to 76. For Aries rising Jupiter owns rooms 9 and 12, and again the 9th wins. Her Jupiter sits at its strongest place, Cancer, in her room 4, the room of home, mother and inner peace, beside her Sun; and her Moon and Jupiter have exchanged homes, which the tradition reads as a binding of mind and wisdom.
 
-This is the chart of someone who could become the grandmother everyone consults. Four sub-lords do sit in wrong rooms from her Jupiter: Venus and Mars in Gemini (12th), Ketu in Aquarius (8th), the Moon in Sagittarius (6th, softened by that exchange). So the Venus years, around May 2047 to January 2050, may bring expenses and a quieter social life rather than the usual sweetness. Against that, a Jupiter this strong in the room of home tends to carry its season. If I were reading for her in 2039 I would say: this is your season to teach, to settle, to give the household its shape. Keep the generosity budget. Enjoy it.
+This is the chart of someone who could become the grandmother everyone consults. Four sub-lords do sit in wrong rooms from her Jupiter: Venus and Mars in Gemini (12th), Ketu in Aquarius (8th), the Moon in Sagittarius (6th, softened by that exchange). So the Venus years, around May 2047 to January 2050, may bring expenses and a quieter social life rather than the usual sweetness. Against that, a Jupiter this strong in the room of home tends to carry its season. If I were reading for her in 2039 I would say: this is your season to teach, to settle, to give the household its shape. Enjoy it.
 
 > **📖 Story: The Priest's two pupils.** The Priest once took two pupils. The first came from the lucky rooms of the palace, and every lesson landed softly. The second was the treasurer's son, and every lesson came with a cost: a fee, a duty, a ledger to balance. Years later both were wise. "Who learned more?" asked the King. "The same," said the Priest. "Who paid more?" "The second. And he will never lend grain he does not have." **Rule:** when Jupiter tests you, the season still teaches; it only charges tuition.
 
@@ -132,7 +129,6 @@ This is the chart of someone who could become the grandmother everyone consults.
 - It asks you to grow in the right direction, to give within a budget, and to decide what you believe.
 - Whether Jupiter is on your side depends on your rising sign; for Taurus, Gemini, Virgo, Libra, Capricorn and Aquarius rising it owns the wrong rooms, and its blessings arrive with a bill.
 - Watch Jupiter/Jupiter (the theme), Jupiter/Saturn (the audit), Jupiter/Mercury (the paperwork) and Jupiter/Rahu (the bridge into Saturn); a sub-lord in the 6th, 8th or 12th room from Jupiter works against the season.
-- Practices beat stones: teach, give on a budget, check your teachers, keep Thursdays simple.
 - Arjun enters this season around December 2031 and Devika around July 2039; both have Jupiter on their side, with a few sub-seasons to walk carefully.
 
 ## Try this
@@ -140,10 +136,9 @@ This is the chart of someone who could become the grandmother everyone consults.
 1. Find your rising sign in the table. Note which rooms Jupiter owns for you and whether it is on your side. If you have lived through any of a Jupiter season, write three things that grew in those years. Were they the things you wanted?
 2. In a free app, find your Jupiter season, past or future, and mark the Jupiter/Saturn and Jupiter/Rahu sub-seasons. If they are past, what slowed in the first and what tempted you in the second?
 3. Count the rooms from your Jupiter to each other planet. Which sit in the 6th, 8th or 12th from it? Note those sub-seasons' dates.
-4. Write your generosity budget for one month, in money and in hours, and keep it.
-5. A factual check: for Cancer rising, which rooms does Jupiter own, and why is it counted as on your side?
+4. A factual check: for Cancer rising, which rooms does Jupiter own, and why is it counted as on your side?
 
 <details><summary>Answers</summary>
 
-5. Sagittarius and Pisces are rooms 6 and 9 for Cancer rising. Parashara's rule treats the lord of a lucky room (1, 5 or 9) as on your side, and the 9th outweighs the 6th; Arjun's chart is an example.
+4. Sagittarius and Pisces are rooms 6 and 9 for Cancer rising. Parashara's rule treats the lord of a lucky room (1, 5 or 9) as on your side, and the 9th outweighs the 6th; Arjun's chart is an example.
 </details>
