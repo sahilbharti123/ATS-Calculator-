@@ -1,0 +1,66 @@
+{
+ "design_id": null,
+ "status": "generation stopped on Canva quota; container design not created (design quota exceeded); no PNGs exported yet",
+ "panels": {
+  "p001-1": {
+   "media_id": "MAHW88XThMw",
+   "page": null
+  },
+  "p002-1": {
+   "media_id": "MAHW8zQjC0M",
+   "page": null
+  },
+  "p002-2": {
+   "media_id": "MAHW8zLyNr0",
+   "page": null
+  },
+  "p002-3": {
+   "media_id": "MAHW86Yn_pc",
+   "page": null
+  },
+  "p002-4": {
+   "media_id": "MAHW896bjpU",
+   "page": null
+  },
+  "p002-5": {
+   "media_id": "MAHW8_DIVEg",
+   "page": null
+  },
+  "p002-6": {
+   "media_id": "MAHW8-YtuJU",
+   "page": null
+  },
+  "p003-1": {
+   "media_id": "MAHW831BJwc",
+   "page": null
+  },
+  "p003-2": {
+   "media_id": "MAHW8_OlWj8",
+   "page": null
+  },
+  "p003-3": {
+   "media_id": "MAHW8xySPZ8",
+   "page": null
+  },
+  "p004-1": {
+   "media_id": "MAHW8w1hZqk",
+   "page": null
+  },
+  "p005-1": {
+   "media_id": "MAHW8wAdyF4",
+   "page": null
+  },
+  "p005-2": {
+   "media_id": "MAHW89RPg8I",
+   "page": null
+  },
+  "p005-3": {
+   "media_id": "MAHW83Qqvsc",
+   "page": null
+  },
+  "p006-1": {
+   "media_id": "MAHW8zDD2EU",
+   "page": null
+  }
+ }
+}

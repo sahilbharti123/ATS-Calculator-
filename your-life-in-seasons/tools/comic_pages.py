@@ -135,6 +135,26 @@ def draw_bubble(draw, text, cx, top, max_w, fnt, tail_to=None, thought=False, pa
         y += lh
     return (x0, y0, x1, y1), y1
 
+def content_top(im, x_frac=None, band=0.25):
+    """Row (fraction of height) where the drawing starts below the calm top band, scanning a column strip
+    around x_frac (or the whole width). Compares each row to the mean colour of the top 3% rows."""
+    small = im.convert("RGB").resize((160, 160))
+    px = small.load()
+    x0, x1 = (0, 160) if x_frac is None else (max(0, int(x_frac * 160) - 16), min(160, int(x_frac * 160) + 16))
+    ref = [0, 0, 0]; cnt = 0
+    for y in range(0, 5):
+        for x in range(x0, x1):
+            r, g, b = px[x, y]; ref[0] += r; ref[1] += g; ref[2] += b; cnt += 1
+    ref = [c / max(1, cnt) for c in ref]
+    for y in range(3, 160):
+        diff = 0; m = 0
+        for x in range(x0, x1):
+            r, g, b = px[x, y]
+            d = abs(r - ref[0]) + abs(g - ref[1]) + abs(b - ref[2])
+            if d > 90: m += 1
+        if m > (x1 - x0) * 0.35: return y / 160
+    return band
+
 def speaker_positions(pid, n, panel):
     """Horizontal position (0..1) of each character. From comic/panels/<pid>-<n>.json if the generator
     recorded it ({"positions": {"Mars": 0.2, ...}}), else evenly spaced in `chars` order."""
@@ -155,43 +175,67 @@ def overlaps(a, b, gap=10):
     return not (a[2] + gap < b[0] or b[2] + gap < a[0] or a[3] + gap < b[1] or b[3] + gap < a[1])
 
 def place_bubbles(page_img, pid, n, panel, box, fsize):
-    """Each bubble sits above its speaker; later bubbles that would collide are pushed down."""
+    """Bubbles in dialogue order, each above its speaker; later bubbles that collide are pushed DOWN (never
+    above an earlier one, so reading order is preserved); then the whole stack is lifted so no bubble covers
+    its speaker's head, as far as the panel's top margin allows."""
     x0, y0, x1, y1 = box
-    pw = x1 - x0
+    pw, ph = x1 - x0, y1 - y0
     bubbles = panel.get("bubbles") or []
     if not bubbles: return
     pos = speaker_positions(pid, n, panel)
     draw = ImageDraw.Draw(page_img)
     fnt = F_BUBBLE(fsize)
     max_w = int(min(pw * 0.46, 620 * fsize / 36))
-    placed = []
     top0 = y0 + int(fsize * 0.6)
+    panel_img = page_img.crop(box)
+    pad_x, pad_y = int(fnt.size * 0.8), int(fnt.size * 0.55)
+    items = []
     for b in bubbles:
         who = b.get("who")
         px = x0 + pw * pos.get(who, 0.5)
-        # measure the bubble first (dry run on a scratch draw) to find its box, then resolve collisions
-        pad_x, pad_y = int(fnt.size * 0.8), int(fnt.size * 0.55)
+        head_y = y0 + int(content_top(panel_img, pos.get(who, 0.5)) * ph)
         lines = wrap(draw, b["text"], fnt, max_w - 2 * pad_x)
         bw = int(max(draw.textlength(l, font=fnt) for l in lines) + 2 * pad_x)
         bh = int(len(lines) * int(fnt.size * 1.12) + 2 * pad_y)
         cx = min(max(px, x0 + bw / 2 + 10), x1 - bw / 2 - 10)
-        top = top0
+        want = head_y - int(fsize * 1.3) - bh - int(fsize * 0.3)
+        top = max(top0, min(want, y0 + int(ph * 0.45)))
+        items.append(dict(b=b, px=px, head_y=head_y, bw=bw, bh=bh, cx=cx, top=top))
+    # push-down pass in dialogue order
+    placed = []
+    gap = int(fsize * 0.6)
+    for it in items:
+        cx, bw, bh, top = it["cx"], it["bw"], it["bh"], it["top"]
+        # reading order: a bubble may share a row with the previous one only if it sits to its right
+        if placed:
+            prev = placed[-1]
+            if int(cx - bw / 2) >= prev[2] - gap:
+                top = max(top, prev[1])
+            else:
+                top = max(top, prev[3] + gap)
         cand = (int(cx - bw / 2), top, int(cx + bw / 2), top + bh)
         guard = 0
-        while any(overlaps(cand, q) for q in placed) and guard < 12:
-            # try sliding sideways first, then down
+        while any(overlaps(cand, q, gap) for q in placed) and guard < 12:
             moved = False
             for dx in (bw * 0.55, -bw * 0.55, bw * 1.1, -bw * 1.1):
                 c2 = min(max(cx + dx, x0 + bw / 2 + 10), x1 - bw / 2 - 10)
                 cand2 = (int(c2 - bw / 2), top, int(c2 + bw / 2), top + bh)
-                if not any(overlaps(cand2, q) for q in placed) and abs(c2 - px) < pw * 0.5:
+                if not any(overlaps(cand2, q, gap) for q in placed) and abs(c2 - it["px"]) < pw * 0.45:
                     cx, cand, moved = c2, cand2, True; break
             if moved: break
-            top = max(q[3] for q in placed if overlaps((cand[0], top, cand[2], top + bh), q)) + int(fsize * 1.6)
+            top = max(q[3] for q in placed if overlaps((cand[0], top, cand[2], top + bh), q, gap)) + gap + int(fsize * 0.9)
             cand = (int(cx - bw / 2), top, int(cx + bw / 2), top + bh)
             guard += 1
-        bx, _ = draw_bubble(draw, b["text"], cx, top, max_w, fnt, tail_to=int(px), thought=bool(b.get("thought")), panel_x=(x0, x1))
-        placed.append(bx)
+        it["cx"], it["top"] = cx, top
+        placed.append(cand)
+    # lift the whole stack if any bubble would cover its speaker's head
+    overshoot = max([it["top"] + it["bh"] + int(fsize * 1.2) - it["head_y"] for it in items] + [0])
+    lift = min(overshoot, min(it["top"] for it in items) - top0)
+    if lift > 0:
+        for it in items: it["top"] -= lift
+    for it in items:
+        draw_bubble(draw, it["b"]["text"], it["cx"], it["top"], max_w, fnt, tail_to=int(it["px"]),
+                    thought=bool(it["b"].get("thought")), panel_x=(x0, x1))
 
 def panel_boxes(layout, area):
     ax0, ay0, ax1, ay1 = area

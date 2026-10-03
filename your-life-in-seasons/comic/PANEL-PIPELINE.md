@@ -9,6 +9,7 @@ Goal: for one script file (`comic/script/<file>.yaml`), produce one PNG per pane
 - `comic/COMIC-BIBLE.md`: the cast table with each character's **Canva media id** (reference sheet) and look.
 - Your script file. Each page has `layout` and `panels`, each panel has `scene` and `chars`.
 - `comic/panels/p061-1.png` + `.json`: a finished example.
+- Your job ends after step 2 (generation + sidecars + manifest). Export is done centrally (step 4).
 
 ## 1. Aspect ratio and page size per layout
 
@@ -49,33 +50,21 @@ image for speech bubbles. No text, no letters, no signs, no logos, no speech bub
 - If a generation fails with a quota or rate-limit message, wait 60 seconds and retry once; if it fails
   again, stop generating, finish steps 3 to 5 for what you have, and say so in your report.
 
-## 3. Put the panels in a container design (one design per script file)
+## 3. Pacing and quota (important)
 
-1. `mcp__Canva__create-design` with brief "A completely blank white page with nothing on it, no text, no
-   shapes, no images; an empty canvas for placing comic panel images." and format "Custom size 1600 x
-   1200 px". Poll `mcp__Canva__get-create-design-async-job` (wait 15 s first) until it returns the design id.
-2. `mcp__Canva__read-design` with `open_transaction: true` and fields `["page_metadata"]`. Note the
-   `transaction_id`. Page 1 is Canva's own page; ignore it.
-3. One `mcp__Canva__edit-design` call (`finalize: keep_open`, `page_index: 1`) whose `operations` list
-   has one `add_page` per panel, in panel order, each with the page size for that panel's layout,
-   `background_color "#FFFFFF"` and `title "<pid>-<n>"`. (Up to about 40 operations per call is fine;
-   split into two calls if you have more.)
-4. `read-design` with the transaction id and fields `["page_metadata"]` (and `design_content` with
-   `page_indices` if page_metadata only lists page 1) to get every new page's id in order.
-5. For each panel, `edit-design` (`finalize: keep_open`, `page_index: <its page number>`) with one
-   `insert_fill` operation: `page_id`, `asset_type "image"`, `asset_id <media id>`, `alt_text "<pid>-<n>"`,
-   `left 0, top 0, width <page w>, height <page h>`.
-6. `edit-design` with `finalize: commit` and no operations.
+Canva's image credits cool down if images are launched too fast: launch at most **one generate-image
+call every 30 seconds** (`sleep 30` between launches). On "quota_cooldown", wait 90 s and retry once; if it
+fails again, stop generating and report what you have. Never call `create-design` (its quota is exhausted
+and it is not needed).
 
-## 4. Export and download
+## 4. Export (done centrally, not by the generation agents)
 
-- `mcp__Canva__export-design` with `format: {"type":"png","lossless":true,"width":2400}` and `pages` =
-  every page number except 1 (or omit `pages` and skip the first url). The result lists one URL per page
-  in page order.
-- Download each with Bash `curl -sS --max-time 120 -o comic/panels/<pid>-<n>.png "<url>"` (quote the
-  URL). Then verify with PIL that each file opens and is 2400 px wide.
-- Also save `comic/panels/manifest-<script name>.json`: `{"design_id": "...", "panels": {"<pid>-<n>":
-  {"media_id": "...", "page": <page number>}}}` so panels can be re-exported later.
+Generation agents stop after step 2 and write `comic/panels/manifest-<script name>.json` with every
+media id (`{"panels": {"<pid>-<n>": {"media_id": "..."}}}`). The coordinator then, in batches, adds pages
+to the existing container design **DAHW851NwBY** (`read-design` with `open_transaction`, one `edit-design`
+call with many `add_page` ops sized per layout, `read-design` for the new page ids, one `edit-design` call
+with many `insert_fill` ops, `commit`), exports those pages as PNG at width 2400 and downloads them to
+`comic/panels/<pid>-<n>.png`. `tools/comic_export_ops.py` prints the operation lists from the sidecars.
 
 ## 5. Check and report
 
