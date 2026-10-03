@@ -6,27 +6,27 @@
   part: 2
   chapter: jupiter
   layout: single
-  title: "The Priest takes the keys"
+  title: "The Priest Takes the Keys"
   panels:
     - scene: "Front door of You's 2BHK flat, morning. Rahu drifts out as purple smoke, sunglasses on, foreign shopping bags in both hands, drone carrying one more. Jupiter, huge in yellow-gold robes, fills the doorway coming in, arms wide, book under one arm, holding out a laddoo. Food delivery bags stacked on the landing. You holds one house key, the small brown dog sniffing bags. Empty space above heads for bubbles."
       chars: [You, Rahu, Jupiter]
       bubbles:
         - {who: Rahu, text: "I leave you my hunger. Return it if it does not fit."}
-        - {who: Jupiter, text: "Child. You look thin. Eat. Also, I have opened the storeroom for everyone."}
+        - {who: Jupiter, text: "Child, you look thin. Eat. Also, I have opened the storeroom to everyone."}
         - {who: You, text: "There is no storeroom. This is a 2BHK."}
         - {who: Jupiter, text: "There is now."}
-  caption: "Jupiter's first year lifts something. It is also where the overspending starts, because everything feels possible."
+  caption: "Jupiter's sixteen years begin with a lift. The first year is also where overspending starts, because everything feels possible."
 
 - id: p078
   part: 2
   chapter: jupiter
   layout: four
-  title: "Sixteen years of more"
+  title: "How the Jupiter Season Feels"
   panels:
     - scene: "Body. You's small bathroom. You stands on a weighing scale looking down, unimpressed. Beside her Jupiter stands on a second scale that has sunk into the floor tiles, beaming, holding a plate piled with laddoos. The small brown dog stares at the plate. Plain tiled wall above them left empty for bubbles."
       chars: [You, Jupiter]
       bubbles:
-        - {who: Jupiter, text: "Growth in every direction. We will be kind to the liver. Kindness, and fewer laddoos."}
+        - {who: Jupiter, text: "Growth in every direction. Be kind to your liver. Kindness, and fewer laddoos."}
         - {who: You, text: "You are holding nine laddoos."}
         - {who: Jupiter, text: "Eight. I was kind to one."}
     - scene: "Home. You's living room overflowing: extra plates everywhere, a mountain of visitors' shoes by the door, suitcases, a child's school bag and textbooks. Jupiter sits in an armchair too small for him ladling dal from a huge pot. The Moon sits on the sofa with shawl and tiffin, handing You a long list. You holds a single towel. Empty ceiling area for bubbles."
@@ -40,13 +40,13 @@
       bubbles:
         - {who: Venus, text: "Swipe. Live a little."}
         - {who: Jupiter, text: "Commit. Live a lot. Here is a four hundred page lecture on commitment."}
-        - {who: You, text: "Is the lecture the partner, or the in-law?"}
+        - {who: You, text: "Is the lecture from you, or from the future in-laws?"}
     - scene: "Work. An office with a broken AC dripping into a bucket. You sits at her desk. Mercury and Mars stand in a short queue at her desk holding files, waiting for her opinion. Jupiter stands behind her chair, one hand on her shoulder, a laddoo in the other, nodding wisely. Open space above the desk for bubbles."
       chars: [You, Mercury, Mars, Jupiter]
       bubbles:
         - {who: Mercury, text: "Quick question. Should I take the offer? Both offers? All three?"}
-        - {who: Mars, text: "Also mine. Quickly."}
-        - {who: You, text: "Since when am I the one with judgement."}
+        - {who: Mars, text: "I have a question too. Quickly."}
+        - {who: You, text: "Since when am I the one with judgement?"}
         - {who: Jupiter, text: "Since Tuesday. Have a laddoo."}
   caption: "Jupiter makes everything bigger: the waistline, the guest list, the wedding, your opinion. Pick which ones you wanted."
 
@@ -54,13 +54,13 @@
   part: 2
   chapter: jupiter
   layout: two
-  title: "More in, more out"
+  title: "Money and Mind"
   panels:
     - scene: "Money. A busy bank hall. You at the counter window with a passbook and a worried face. Behind her Jupiter stands blessing a short queue made of Rahu with his shopping bags, Venus with chai, and Mercury with three phones, each holding out an open palm towards You's sling bag. Blank upper wall of the bank for bubbles."
       chars: [You, Jupiter, Rahu, Venus, Mercury]
       bubbles:
         - {who: Jupiter, text: "Give, child. Giving is a blessing."}
-        - {who: You, text: "It is also a column. I am putting you in a column."}
+        - {who: You, text: "Giving is also a budget line. I am putting you in a column."}
         - {who: Jupiter, text: "A generous column."}
     - scene: "Mind. A quiet temple step in the evening, used only as a place to sit. You sits reading a thick book, calm. Jupiter sits beside her reading his own book, both at ease. Far away in the sky, a drone shrinks to a dot. The small brown dog sleeps on the step. Soft empty sky above for bubbles."
       chars: [You, Jupiter]
@@ -68,23 +68,23 @@
         - {who: You, text: "I read a whole book. Nobody made me."}
         - {who: Jupiter, text: "Good. And what do you believe?"}
         - {who: You, text: "That I should get up at some point."}
-        - {who: Jupiter, text: "Not yet. Not yet is also the shadow of my season."}
+        - {who: Jupiter, text: "Not yet. Though 'not yet' is also the shadow side of my season."}
   caption: "More comes in and more goes out. The ones who finish richer put generosity on a budget line."
 
 - id: p080
   part: 2
   chapter: jupiter
   layout: grid6
-  title: "The Priest's deputies, briefly"
+  title: "Jupiter's Deputies, Six at a Glance"
   panels:
     - scene: "Ketu deputy, eleven months. You's crowded living room at night. You asleep on the sofa under an open book. Ketu, saffron robes, glowing light for a head, barefoot, silently carries a side table out of the door. A pale rectangle on the wall where a picture used to hang. Empty space top left for one bubble."
       chars: [You, Ketu]
       bubbles:
-        - {who: You, text: "Where did the second sofa go."}
+        - {who: You, text: "Where did the second sofa go?"}
     - scene: "Venus deputy, two years eight months, the sweetest. A bright mithai shop counter. Venus in pink and gold and Jupiter in yellow-gold both reach for the same box of sweets, delighted. You holds the shopping bag, resigned, her kurta a little tighter. Clear space above the counter for one bubble."
       chars: [You, Venus, Jupiter]
       bubbles:
-        - {who: Venus, text: "Sweetest two years. Literally. Treat yourself."}
+        - {who: Venus, text: "The sweetest two years of this season. Literally. Treat yourself."}
     - scene: "Sun deputy, nine months. You's small balcony at sunset. The Sun stands chest out under his own blazing light, crown gleaming, arms raised for applause. Jupiter claps politely from a plastic chair. You waters a plant and does not look up. Empty sky above for one bubble."
       chars: [You, Sun, Jupiter]
       bubbles:
@@ -96,7 +96,7 @@
     - scene: "Mars deputy, eleven months. A gym at five in the morning, dim lights. Mars in brass armour blows a whistle. Jupiter walks on a treadmill in his robes holding a laddoo. You stretches on a mat, eyes closed. Blank mirror wall behind for one bubble."
       chars: [You, Mars, Jupiter]
       bubbles:
-        - {who: Mars, text: "Eleven months to undo Venus. Move."}
+        - {who: Mars, text: "I have eleven months to undo Venus's sweets. Move."}
     - scene: "Rahu deputy, the last two years five months. You's living room at night. Rahu's purple smoke slides in at the window, his drone carrying a shiny blank envelope. Jupiter dozes in the armchair, book on his chest. You looks at the envelope with narrowed eyes. Dark empty ceiling for one bubble."
       chars: [You, Rahu, Jupiter]
       bubbles:
@@ -107,7 +107,7 @@
   part: 2
   chapter: jupiter
   layout: three
-  title: "Jupiter season, Saturn deputy: the audit"
+  title: "Jupiter Season, Saturn as Deputy"
   panels:
     - scene: "You's kitchen, evening. Jupiter beams into You's phone, promising, free hand waving generously. You stands at the open pantry holding exactly two jars of dal, looking at him. A calendar with blank squares on the wall. Empty space above the pantry for bubbles."
       chars: [You, Jupiter]
@@ -118,10 +118,10 @@
     - scene: "The same kitchen. Saturn has walked in slowly, dark blue, black robe, crow on his shoulder. He sets his ledger on the dining table and opens it with one finger. Jupiter looks wounded, hand on his heart. You leans against the counter, arms folded. Clear wall space behind them for bubbles."
       chars: [You, Jupiter, Saturn]
       bubbles:
-        - {who: Saturn, text: "Four promised. Two in the jar."}
+        - {who: Saturn, text: "Four families promised. Dal for two in the jar."}
         - {who: Jupiter, text: "I promised in good faith."}
         - {who: Saturn, text: "Faith is yours. Arithmetic is mine."}
-        - {who: You, text: "Also my boss, my father and the school all want this Tuesday."}
+        - {who: You, text: "And you promised my boss, my father and the school the same Tuesday."}
     - scene: "Three in the morning at the dining table under one bulb. Saturn writes slowly in the ledger. Jupiter dictates with a laddoo in hand. You, yawning, seals two plain envelopes. The two dal jars sit between them, one labelled by a ribbon, not words. Dark empty area above for bubbles."
       chars: [You, Jupiter, Saturn]
       bubbles:
@@ -134,7 +134,7 @@
   part: 2
   chapter: jupiter
   layout: three
-  title: "Jupiter season, Mercury deputy: the paperwork"
+  title: "Jupiter Season, Mercury as Deputy"
   panels:
     - scene: "You's living room turned exam hall. Mercury, green, sharp kurta, dumps a tower of blank forms and course brochures on the table, three phones buzzing in his hands and pocket. Jupiter in the armchair opens an enormous book and clears his throat. You sits between them with a pen. Clear space above the table for bubbles."
       chars: [You, Mercury, Jupiter]
@@ -142,7 +142,7 @@
         - {who: Mercury, text: "Exam Monday, tax Tuesday, visa Wednesday. Fast, fast, fast."}
         - {who: Jupiter, text: "Slowly. First, a story about wisdom. It has eleven parts."}
         - {who: Mercury, text: "Clever is faster than wise."}
-        - {who: Jupiter, text: "Clever is not wise."}
+        - {who: Jupiter, text: "And clever is not the same as wise."}
     - scene: "The same table, later. Mercury and Jupiter lean over a single bill from opposite sides, each with a magnifying glass, glaring at each other. You sits between them with a calculator and a pen in her mouth. The dog hides under the table. Empty wall above for bubbles."
       chars: [You, Mercury, Jupiter]
       bubbles:
@@ -152,87 +152,87 @@
     - scene: "Late night. You studies alone under a lamp, textbook open, notes neat. Mercury is asleep face down across his three phones. Jupiter is asleep in the armchair with a book over his face. A large blank unsigned document is pushed to the far end of the table. Dark empty space above for bubbles."
       chars: [You, Mercury, Jupiter]
       bubbles:
-        - {who: You, text: "Good years for studying. Bad years for the big decision. I will study."}
+        - {who: You, text: "These are good years for studying and bad years for big decisions. I will study."}
   caption: "Jupiter and Mercury are not friends. Two busy years of exams and paperwork: study hard, sign nothing grand."
 
 - id: p083
   part: 2
   chapter: jupiter
   layout: two
-  title: "The deputy in the storeroom"
+  title: "The Wrong Room"
   panels:
     - scene: "A narrow corridor in You's flat. Jupiter, as host, leads Venus past the kitchen to a cramped storeroom at the back: a water drum, stacked suitcases, a thin mattress on a shelf. Venus in pink and gold holds her chai and looks appalled. You watches from the kitchen doorway. Clear corridor ceiling space for bubbles."
       chars: [You, Jupiter, Venus]
       bubbles:
-        - {who: Jupiter, text: "Your room, Minister. Twelfth from mine. Past the kitchen, mind the drum."}
+        - {who: Jupiter, text: "Your room, Minister. Twelve doors from mine. Past the kitchen. Mind the drum."}
         - {who: Venus, text: "I bring the sweetest years of your season and you give me the storeroom."}
-        - {who: You, text: "Why."}
+        - {who: You, text: "You gave the sweetest deputy the worst room. Even I can see the problem."}
     - scene: "Months later. Venus marches through the kitchen in heels every morning, knocking a pan off the stove. You's wallet lies open and empty on the counter. The living room beyond is dark and tidy, no guests, phone face down and silent. Jupiter peeks in, apologetic. Empty space above the stove for bubbles."
       chars: [You, Jupiter, Venus]
       bubbles:
-        - {who: Venus, text: "Expenses instead of parties. Not my fault. It is where I live."}
-        - {who: You, text: "Even the sweet ones can be in the wrong room."}
+        - {who: Venus, text: "Bills instead of parties. Not my fault. It is where he put me."}
+        - {who: You, text: "So even the sweet ones can land in the wrong room."}
         - {who: Jupiter, text: "I did not design the flat."}
-  caption: "Count the deputy's room from the manager's. Sixth, eighth or twelfth, and even the sweetest deputy brings friction. Location, not character."
+  caption: "Count the deputy's door from the manager's. In the sixth, eighth or twelfth, even the sweetest deputy brings friction: location, not character."
   footnote: "dusthana = the three hard rooms (6, 8 and 12), here counted from the season's planet instead of from your rising sign"
 
 - id: p084
   part: 2
   chapter: jupiter
   layout: fact
-  title: "Where Jupiter sits for you"
+  title: "Where Jupiter Sits for You"
   panels:
     - scene: "A housing society office. Jupiter sits at the treasurer's desk, kind face, counting coins into a tin with one hand and holding out the other palm for maintenance money. You stands at the counter with her wallet half open, the dog at her feet. The right half of the panel is a plain cream wall, left empty for the fact box and bubbles."
       chars: [You, Jupiter]
       bubbles:
         - {who: Jupiter, text: "I am still kind. I am also now the treasurer."}
-        - {who: You, text: "The kindest uncle in the family. Chasing me for maintenance."}
+        - {who: You, text: "The kindest uncle in the family, chasing me for maintenance money."}
   fact:
     - "Jupiter is on your side: Aries, Cancer, Leo, Scorpio, Sagittarius and Pisces rising."
     - "Jupiter tests you: Taurus, Gemini, Virgo, Libra, Capricorn and Aquarius rising."
     - "Tested means the blessings come with a bill: the expensive school, the promotion that eats evenings, the guru who wants a donation."
-    - "Sixteen years. Thursday is his day."
-  caption: "Jupiter has not turned cruel for these six signs. He was given the wrong job. Knowing it is most of the protection."
+    - "The season lasts sixteen years. Thursday is Jupiter's day."
+  caption: "Jupiter has not turned cruel for those six signs; he was given the wrong job. Knowing that is most of the protection."
   footnote: "Guru = Jupiter, the Priest (also called Brihaspati)"
 
 - id: p085
   part: 2
   chapter: jupiter
   layout: three
-  title: "Jupiter homework"
+  title: "Jupiter's Homework"
   panels:
     - scene: "You at her mother's kitchen table on a video call, laptop open, explaining a spreadsheet with a pencil, patient and clear. Jupiter leans in from behind, nodding, one finger raised to add a story. A pot simmers on the stove. Empty wall above the laptop for bubbles."
       chars: [You, Jupiter]
       bubbles:
-        - {who: You, text: "Teach the spreadsheet. Knowledge should move through me, not pile up in me."}
+        - {who: You, text: "I am teaching my mother the spreadsheet. Knowledge should move through me, not pile up in me."}
         - {who: Jupiter, text: "Beautifully put. Now, a story about a spreadsheet."}
         - {who: You, text: "No."}
     - scene: "You's dining table. You divides a few banknotes into small envelopes with a tiny notebook beside her. Jupiter holds out a laddoo with the face of a man asking for a friend. You hands him exactly one envelope. The dog watches the laddoo. Clear space above for bubbles."
       chars: [You, Jupiter]
       bubbles:
-        - {who: You, text: "This much giving each month. Gladly. The rest is no, without guilt."}
+        - {who: You, text: "This much giving each month, gladly. Anything more is a no, without guilt."}
         - {who: Jupiter, text: "And lending?"}
         - {who: You, text: "Yes to learning. No to lending."}
     - scene: "Thursday evening. You and Jupiter at a small table with one bowl of yellow dal each, an open book, phones face down. A packet of dal waits by the door to be given to someone who cooks for others. The dog sleeps. Warm lamp light. Empty wall for bubbles."
       chars: [You, Jupiter]
       bubbles:
-        - {who: Jupiter, text: "A simpler meal, a chapter worth reading, some dal given away. Thursday."}
+        - {who: Jupiter, text: "Every Thursday: a simpler meal, a chapter worth reading, some dal given away."}
         - {who: You, text: "You ate a chapter's worth of laddoos first."}
-        - {who: Jupiter, text: "Rhythm, not ritual."}
+        - {who: Jupiter, text: "It is a rhythm, not a ritual."}
   caption: "Teach something, budget your giving, keep Thursday plain. Say yes to learning and no to lending."
 
 - id: p086
   part: 2
   chapter: jupiter
   layout: single
-  title: "Jupiter's last year, Saturn in the hallway"
+  title: "Last Year: Saturn in the Hallway"
   panels:
     - scene: "You's flat, front door open to the stairwell. Rahu as deputy drifts through the living room holding a shiny blank envelope and a clipboard, his drone circling. Jupiter packs books and laddoo tins into a box, finishing things. On the stairs, already seated on a suitcase, Saturn waits with his ledger open, crow on the railing. You stands between them holding an unused pen. Clear ceiling space for bubbles."
       chars: [You, Rahu, Jupiter, Saturn]
       bubbles:
-        - {who: Rahu, text: "Foreign offer. Also a scheme. Also a small loan to start the scheme."}
+        - {who: Rahu, text: "A foreign offer. Also a scheme. Also a small loan to start the scheme."}
         - {who: Jupiter, text: "Finish things, child. Start no loan. The Judge is on the stairs."}
         - {who: You, text: "He has been on the stairs for a year."}
         - {who: Saturn, text: "I am in no hurry."}
-  caption: "Jupiter's last stretch belongs to Rahu, the bridge into Saturn. Finish things. Stand guarantor for nobody."
+  caption: "Jupiter's last stretch belongs to Rahu, the bridge into Saturn's season. Finish things, and stand guarantor for nobody."
   footnote: "dasha sandhi = the changeover, the months either side of a handover"

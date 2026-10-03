@@ -10,11 +10,11 @@
     - scene: "Front door of You's 2BHK flat at night. The Sun stands on the doorstep in his crown, mid-bow, holding out a bunch of keys, waiting for applause that is not coming. The Moon in a silver saree, tiffin in hand, walks straight past him and is already opening a kitchen cupboard. You stand in the hallway holding the small brown dog. Empty space above the Sun and Moon for bubbles."
       chars: [You, Sun, Moon]
       bubbles:
-        - {who: Sun, text: "Six years of brilliance. Did everyone see what I did?"}
+        - {who: Sun, text: "My six years are over. Here are the keys. Did everyone see what I did?"}
         - {who: Moon, text: "Who sleeps here? Who cooks for them? When did you last call your mother?"}
         - {who: You, text: "It is eleven at night."}
         - {who: Moon, text: "So you have not eaten."}
-  caption: "The Sun measured his years in applause. The Moon measures hers in who got fed."
+  caption: "The Moon's turn lasts ten years. The Sun measured his years in applause; she measures hers in who got fed."
 
 - id: p048
   part: 2
@@ -26,14 +26,14 @@
       chars: [You, Moon]
       bubbles:
         - {who: Moon, text: "Sleep is the whole job now. Everything else shows up in your stomach first."}
-        - {who: You, text: "Everything?"}
-        - {who: Moon, text: "Everything."}
+        - {who: You, text: "Everything? Even work stress?"}
+        - {who: Moon, text: "Especially work stress. Drink the milk."}
     - scene: "Home. A narrow Indian stairwell. You carry a cardboard box down the stairs, a sling bag across her chest, the small brown dog at her heels. The Moon stands on the landing directing with a ladle, a steel cupboard being lowered on ropes behind her. Empty space in the stairwell above them for bubbles."
       chars: [You, Moon]
       bubbles:
         - {who: Moon, text: "Your cousin's flat is closer to your mother. We are moving."}
         - {who: You, text: "I signed an eleven month lease."}
-        - {who: Moon, text: "Houses change in my season. Leases are a suggestion."}
+        - {who: Moon, text: "Homes change in my season. A lease is a suggestion."}
     - scene: "Love. You on a sofa in a living room with a phone in hand, a dating app glow on her face. The Moon beside her is draping a shawl around You's shoulders with one hand and holding out an enormous steel thali of food with the other. A plain wall behind for bubbles."
       chars: [You, Moon]
       bubbles:
@@ -43,10 +43,10 @@
     - scene: "Work. You alone at a work-from-home desk in a dim room, laptop open, headphones on, looking lonely. The Moon stands in the doorway with a tray stacked with snacks and cups, light spilling in from a crowded, warm kitchen behind her. Empty space in the doorway light for bubbles."
       chars: [You, Moon]
       bubbles:
-        - {who: Moon, text: "Working alone again? Come. Teach the colony kids. Feed someone. Face a public."}
+        - {who: Moon, text: "Working alone again? Come out. Teach the colony kids. Feed someone. Be around people."}
         - {who: You, text: "I am a data analyst."}
-        - {who: Moon, text: "Analyse them over dinner."}
-  caption: "Body, home, love, work: in the Moon's decade all four turn out to be about who holds you."
+        - {who: Moon, text: "Then analyse them over dinner."}
+  caption: "Body, home, love, work: in the Moon's ten years, all four come down to who looks after you."
 
 - id: p049
   part: 2
@@ -57,7 +57,7 @@
     - scene: "A bank counter in a small Indian branch, token numbers glowing, a ceiling fan. You stand at the counter with a passbook. The Moon beside her pushes a steel dabba stuffed with folded notes across the counter, a second dabba under her arm. Empty space above the counter glass for bubbles."
       chars: [You, Moon]
       bubbles:
-        - {who: Moon, text: "Put it aside. In case."}
+        - {who: Moon, text: "Put this money aside. In case."}
         - {who: You, text: "In case of what?"}
         - {who: Moon, text: "In case."}
         - {who: You, text: "That is not a category the bank recognises."}
@@ -65,20 +65,20 @@
       chars: [You, Moon]
       bubbles:
         - {who: Moon, text: "You are remembering 2009 again."}
-        - {who: You, text: "Why."}
+        - {who: You, text: "I did not choose to. Why does it keep coming back?"}
         - {who: Moon, text: "Because the tide is in. It goes out too."}
-  caption: "Money flows to the household and saving gets emotional. The mind is not worse, only more tidal."
+  caption: "Money flows to the household and saving gets emotional. The mind is not worse, only more tidal, in and out."
 
 - id: p050
   part: 2
   chapter: moon
   layout: grid6
-  title: "The Deputies, Six at a Glance"
+  title: "The Moon's Deputies, Six at a Glance"
   panels:
     - scene: "The Moon's kitchen at dawn. Mars in brass armour kicks over a wooden stool, whistle clenched in his teeth, pointing at a wall clock. The Moon stirs a pot without turning round, unbothered. Empty space above the stove for one bubble."
       chars: [Mars, Moon]
       bubbles:
-        - {who: Mars, text: "Seven months. This kitchen now runs at five am."}
+        - {who: Mars, text: "My seven months. This kitchen now runs at five am."}
     - scene: "The same kitchen, now crowded with unfamiliar spice jars and foreign shopping bags. Rahu floats above the floor in smoke and sunglasses while his drone hovers over a steaming pot. The Moon coughs into her shawl. Empty space near the ceiling for one bubble."
       chars: [Rahu, Moon]
       bubbles:
@@ -86,7 +86,7 @@
     - scene: "The dining table. Jupiter in yellow robes sits beside a wooden cradle and a stack of schoolbooks, handing a laddoo to You. The Moon beams from the kitchen door with a tiffin. Warm light. Empty space above the table for one bubble."
       chars: [Jupiter, You, Moon]
       bubbles:
-        - {who: Jupiter, text: "Children, teachers, blessings. Also a second laddoo."}
+        - {who: Jupiter, text: "My months bring children, teachers and blessings. Also a second laddoo."}
     - scene: "The living room. Saturn sits slowly in an armchair with his ledger open, a crow perched on the backrest, pointing one long finger at a pile of unwashed dishes and folded blankets. You stand holding a bucket, exhausted. Empty space above the armchair for one bubble."
       chars: [Saturn, You]
       bubbles:
@@ -94,33 +94,33 @@
     - scene: "The kitchen table covered in envelopes. Mercury in a sharp green kurta writes with one hand while two phones ring in the other, a third phone balanced on his shoulder. The Moon dictates from behind him, ladle raised. Empty space above for one bubble."
       chars: [Mercury, Moon]
       bubbles:
-        - {who: Mercury, text: "Wrote to all forty relatives. Thirty replies pending."}
+        - {who: Mercury, text: "I wrote to all forty relatives. Thirty replies are pending."}
     - scene: "A half-empty kitchen. There is a clean rectangle on the floor where the fridge used to stand. Ketu sits cross-legged in that rectangle, bare feet, begging bowl in lap, glowing light where his head should be. You stare at the empty space. Empty wall above for one bubble."
       chars: [Ketu, You]
       bubbles:
-        - {who: Ketu, text: "Fridge."}
-  caption: "Then Venus for a year and eight months, the longest, furnishes the house; the Sun's six months turn up the heat."
+        - {who: Ketu, text: "The fridge is gone. You never needed it."}
+  caption: "Venus, the longest deputy at a year and eight months, furnishes the house. The Sun's six months warm it."
 
 - id: p051
   part: 2
   chapter: moon
   layout: three
-  title: "Moon Season, Rahu Deputy"
+  title: "Moon Season, Rahu as Deputy"
   panels:
     - scene: "The kitchen door of the flat at night. Rahu floats on the doorstep in smoke, designer sunglasses, foreign shopping bags on both arms, a drone hovering behind him. The Moon stands inside with a tiffin, one hand on the door, hesitating. Empty space above the doorframe for bubbles."
       chars: [Rahu, Moon]
       bubbles:
-        - {who: Rahu, text: "Shelter for a year and a half? I eat anything."}
+        - {who: Rahu, text: "Can I stay a year and a half? I eat anything."}
         - {who: Moon, text: "Nobody leaves my kitchen hungry. Sit."}
     - scene: "The same kitchen at 3 am, now crammed with unfamiliar spice jars and open parcels. The drone delivers a package through the window. You stand in the middle in a crumpled kurta, holding a plate of something purple, eyes wide. Rahu lounges on the counter. Empty space above the counter for bubbles."
       chars: [Rahu, You]
       bubbles:
-        - {who: Rahu, text: "Next the recipe. Then the cook. Then a small move abroad."}
+        - {who: Rahu, text: "First this dish. Next the recipe, then the cook, then a small move abroad."}
         - {who: You, text: "I was asleep. I used to be asleep every night."}
     - scene: "The kitchen, calm again, morning light. A thin trail of purple smoke drifts out of the open window. The Moon and You sit at the table sharing a bowl of an unfamiliar dish, You nodding grudgingly with a spoon in her mouth. Empty space above the table for bubbles."
       chars: [Moon, You]
       bubbles:
-        - {who: Moon, text: "He is gone. Three of his recipes stay."}
+        - {who: Moon, text: "He has gone. Three of his recipes are staying."}
         - {who: You, text: "This one is good. Do not tell him."}
   caption: "Rahu unsettles the household and widens the table. Keep your sleep and you keep the good recipes."
 
@@ -128,26 +128,26 @@
   part: 2
   chapter: moon
   layout: three
-  title: "Moon Season, Saturn Deputy"
+  title: "Moon Season, Saturn as Deputy"
   panels:
     - scene: "The flat's living room, evening. Saturn walks slowly in through the door with a ledger under his arm and a crow on his shoulder. The Moon fusses a shawl onto his shoulders. You sit on the sofa with dark circles under her eyes, a pill organiser and folded blankets beside her. Empty space above Saturn for bubbles."
       chars: [Saturn, Moon, You]
       bubbles:
-        - {who: Saturn, text: "A year and seven months. Routine, duty, sleep. Nothing else."}
+        - {who: Saturn, text: "I am here for a year and seven months. Routine, duty, sleep. Nothing else."}
         - {who: Moon, text: "Have you eaten?"}
-        - {who: Saturn, text: "In 1987."}
+        - {who: Saturn, text: "Yes. In 1987."}
     - scene: "The kitchen at midnight. You scrub a tall pile of dishes at the sink, sleeves rolled. Saturn sits at the table slowly ticking a line in his ledger, the crow asleep on a chair back. A wall clock shows a late hour. Empty space above the sink for bubbles."
       chars: [You, Saturn]
       bubbles:
         - {who: Saturn, text: "You are tired because you are carrying people. Carry fewer."}
-        - {who: You, text: "Which ones do I put down."}
+        - {who: You, text: "Which ones do I put down?"}
         - {who: Saturn, text: "The ones who can walk."}
     - scene: "The bedroom at 10 pm. You asleep on her side, finally. The Moon tucks the shawl around her. Saturn stands by the lamp with one hand on the switch, the crow perched on the lampshade. A wall calendar with one day circled. Empty space above the bed for bubbles."
       chars: [You, Moon, Saturn]
       bubbles:
-        - {who: Saturn, text: "Heavy, not cruel. And it has an end date."}
+        - {who: Saturn, text: "My time here is heavy, not cruel. And it has an end date."}
         - {who: Moon, text: "Shh. She is finally sleeping."}
-  caption: "Saturn audits the household: duty, tiredness, care. Protect sleep, keep routine, take on nobody you cannot carry."
+  caption: "Saturn audits the household: duty, tiredness, care. Protect your sleep, keep a routine, and carry nobody who can walk."
 
 - id: p053
   part: 2
@@ -158,15 +158,15 @@
     - scene: "A long corridor in the flat with numbered-looking doors, no visible numbers. The Moon stands at her own bedroom door with a bunch of keys, counting doors along the corridor with her finger. Jupiter, Venus, Mercury and Rahu wait in a line with luggage. Empty space above the line for bubbles."
       chars: [Moon, Jupiter, Venus, Mercury, Rahu]
       bubbles:
-        - {who: Moon, text: "I count from my own room. The fifth and ninth doors are lovely."}
-        - {who: Rahu, text: "And the sixth?"}
-        - {who: Moon, text: "The storeroom."}
+        - {who: Moon, text: "Deputies, I count doors from my own room. The fifth and ninth are lovely."}
+        - {who: Rahu, text: "And which door is mine?"}
+        - {who: Moon, text: "The sixth. That is the storeroom."}
     - scene: "A tiny storeroom crammed with buckets, brooms, a gas cylinder and sacks of onions. Rahu is wedged in, smoke pressed against the shelves, his drone bumping the ceiling, shopping bags spilling into the corridor. You peer in from the doorway with the small brown dog. Empty space above the door for bubbles."
       chars: [Rahu, You]
       bubbles:
-        - {who: Rahu, text: "It is not that I am bad. It is where I live."}
+        - {who: Rahu, text: "It is not that I am bad. It is where she put me."}
         - {who: You, text: "You are lying on the onions."}
-  caption: "Count the deputy's room from the Moon's. The 6th, 8th or 12th is the storeroom, and that sub-season wobbles."
+  caption: "Count the deputy's door from the Moon's. The sixth, eighth or twelfth is the storeroom, and that deputy's sub-season wobbles."
 
 - id: p054
   part: 2
@@ -177,21 +177,22 @@
     - scene: "A living room wall with twelve empty picture frames hung in a ring. The Moon stands before it pointing a ladle at one frame, three frames glowing softly, four in shadow, five plain. You sit on the sofa with the small brown dog, looking from a phone app to the wall. Empty space to the right for bubbles."
       chars: [Moon, You]
       bubbles:
-        - {who: Moon, text: "Cancer, Scorpio, Pisces rising: I am on your side. Taurus, Virgo, Capricorn, Aquarius: homework."}
-        - {who: You, text: "And the other five?"}
+        - {who: Moon, text: "Cancer, Scorpio or Pisces rising? Then I am on your side."}
+        - {who: Moon, text: "Taurus, Virgo, Capricorn or Aquarius rising? Then I set homework."}
+        - {who: You, text: "And the other five rising signs?"}
         - {who: Moon, text: "Mixed. Like my moods."}
   fact:
     - "On your side: Cancer, Scorpio and Pisces rising."
     - "Tests you: Taurus, Virgo, Capricorn and Aquarius rising."
     - "Mixed: Aries, Gemini, Leo, Libra and Sagittarius rising."
     - "A bright Moon at birth (growing, far from the Sun) steadies the decade. A dark Moon asks you to protect your sleep."
-  caption: "Tests you means a hard room's matters come to the front for ten years. Work, not punishment."
+  caption: "'Tests you' means a hard room's matters come to the front for ten years. That is work, not punishment."
 
 - id: p055
   part: 2
   chapter: moon
   layout: three
-  title: "Homework"
+  title: "The Moon's Homework"
   panels:
     - scene: "The bedroom at 10 pm. You in bed, phone placed face down on the side table, arms crossed. The Moon stands by the switch turning off the light, an alarm clock in her other hand. The small brown dog is already asleep at the foot of the bed. Empty space above the bed for bubbles."
       chars: [You, Moon]
@@ -204,14 +205,14 @@
       bubbles:
         - {who: Moon, text: "Call your mother. Or whoever mothered you. While you can."}
         - {who: You, text: "She calls me. At eleven at night. Asking if I ate."}
-        - {who: Moon, text: "Where do you think I learned it."}
+        - {who: Moon, text: "Where do you think I learned it?"}
     - scene: "A Monday morning on a colony landing. You set a tiffin down quietly on a neighbour's closed door mat, the small brown dog beside her. The Moon peeks up from the stairwell below, hands clasped, proud. Empty space above the door for bubbles."
       chars: [You, Moon]
       bubbles:
-        - {who: Moon, text: "Monday. One quiet kind thing for someone who depends on you."}
+        - {who: Moon, text: "Every Monday, do one quiet kind thing for someone who depends on you."}
         - {who: You, text: "Nobody depends on me."}
         - {who: Moon, text: "The dog. The neighbour. Me, slightly."}
-  caption: "Sleep like it is a job. Tend your mother and your home. Face people at work. Do not isolate."
+  caption: "Sleep like it is a job, tend your mother and your home, and face people at work. Do not isolate."
 
 - id: p056
   part: 2
@@ -222,8 +223,8 @@
     - scene: "The flat, finally furnished and warm: curtains, cushions, plants. Venus lounges on a new sofa with chai, admiring the curtains. The Sun stands by the AC remote glowing, turning up the heat. The Moon packs tiffins into a bag at the door. Through the open door, Mars waits in the stairwell with a gym bag and whistle, mid-squat. Empty space above the room for bubbles."
       chars: [Venus, Sun, Moon, Mars]
       bubbles:
-        - {who: Venus, text: "Finally. Curtains. A decade, and she furnishes it in the last year."}
-        - {who: Sun, text: "I am here six months. Feel that warmth? Mine."}
+        - {who: Venus, text: "Finally, curtains. Ten years of the Moon, and the house only gets furnished now, by me."}
+        - {who: Sun, text: "My six months come last. Feel that warmth? Mine."}
         - {who: Moon, text: "Did you eat? I will call at eleven to check."}
         - {who: Mars, text: "Five am tomorrow. Is that table wobbling at me? Come here, table."}
-  caption: "Venus softens the end, the Sun warms it, and the Commander is already fighting your furniture in the hallway."
+  caption: "Venus softens the Moon's last years, the Sun warms them, and Mars, next in line, is already fighting your furniture."
