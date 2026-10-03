@@ -1,0 +1,238 @@
+# Your Life in Seasons: the comic. Part 2, chapter: the Rahu season (18 years).
+# Fact source: book/09-the-rahu-season.md, book/03-seasons-inside-seasons.md, tools/CASE-TIMELINES.md
+
+- id: p067
+  part: 2
+  chapter: rahu
+  layout: single
+  title: "The Stranger Takes the Keys"
+  panels:
+    - scene: "The flat's front door. Mars holds out a bunch of keys stiffly, guarding his rebuilt wall. Rahu floats past him in smoke and sunglasses, foreign shopping bags on both arms, while his drone carries a boxed espresso machine in through the window. A globe and a blinking router already sit on the table. You watch the parcels pile up, the dog barking at the drone. Empty space above for bubbles."
+      chars: [Mars, Rahu, You]
+      bubbles:
+        - {who: Mars, text: "The keys. The wall is paid for. Do not touch the wall."}
+        - {who: Rahu, text: "Keys? Darling, a smart lock is arriving from Shenzhen. Also a cook from Lima."}
+        - {who: You, text: "I have one gas ring."}
+        - {who: Rahu, text: "You have potential."}
+  caption: "The Rahu season brings more of everything, including confusion. It rewards those who know what they actually want."
+
+- id: p068
+  part: 2
+  chapter: rahu
+  layout: four
+  title: "How the Rahu Season Feels"
+  panels:
+    - scene: "Body. You awake in bed at 1 am, face lit blue by a phone, a glass of water untouched. Rahu lounges along the headboard in smoke, and his drone hovers above the bed with a glowing screen. The small brown dog has given up and sleeps on the floor. Empty wall above the bed for bubbles."
+      chars: [You, Rahu]
+      bubbles:
+        - {who: Rahu, text: "Light sleep, buzzing nerves, a mystery complaint. Try an imported supplement."}
+        - {who: You, text: "I tried an ordinary doctor."}
+        - {who: Rahu, text: "Boring. Correct, but boring."}
+    - scene: "Home. An airport departure lounge, glass walls, a blank departures board. You sit on a suitcase with the small brown dog in a carrier beside her, sling bag in lap. Rahu floats past the board with eight shopping bags, pointing at it with a boarding pass. Empty space on the board for bubbles."
+      chars: [You, Rahu]
+      bubbles:
+        - {who: Rahu, text: "Home is wherever the visa is. Bangalore, Berlin, Bali."}
+        - {who: You, text: "My mother is in Bhopal."}
+        - {who: Rahu, text: "Bhopal is not on the list."}
+    - scene: "Love. A wedding hall, marigold strings and fairy lights, rows of chairs. You sit on the family side in a mustard kurta. Rahu leans in beside her, lowering his sunglasses, pointing across the hall at the far rows and the lit stage. Empty space above the chairs for bubbles."
+      chars: [You, Rahu]
+      bubbles:
+        - {who: Rahu, text: "Not the one the family picked. The one from the other side of the hall."}
+        - {who: You, text: "He is a DJ from Reykjavik."}
+        - {who: Rahu, text: "Exactly."}
+    - scene: "Work. A glass-walled startup office with bean bags, standing desks and a neon shape on the wall. Rahu hangs an oversized lanyard and badge around You's neck, the badge blank and shiny. You hold a tiny intern's stool in one hand. Empty space on the glass wall for bubbles."
+      chars: [You, Rahu]
+      bubbles:
+        - {who: Rahu, text: "You are now Head of Growth. Yesterday you were the intern."}
+        - {who: You, text: "Is this real?"}
+        - {who: Rahu, text: "Ask me that twice a year. I will not answer."}
+  caption: "Light sleep, a far address, an unexpected partner, a title that doubled overnight. Ask twice a year if it is real."
+
+- id: p069
+  part: 2
+  chapter: rahu
+  layout: two
+  title: "Money and Mind"
+  panels:
+    - scene: "A bank loan counter, two forms laid out, a ceiling fan. You sit on the customer's chair with a pen. Rahu floats beside her holding a giant flat-screen TV box in one arm and a sturdy sewing machine in the other, smiling without a visible mouth. Empty space above the counter glass for bubbles."
+      chars: [You, Rahu]
+      bubbles:
+        - {who: Rahu, text: "Two loans. One for the TV the neighbours will see. One for the workshop."}
+        - {who: You, text: "One of these is a trap."}
+        - {who: Rahu, text: "Yes. But which? Suspense."}
+        - {who: You, text: "The TV. It is always the TV."}
+    - scene: "The flat at 3 am. You sit at a laptop with dozens of windows open, eyes wide, a journal and pen open beside her untouched. Rahu's drone fills the room with purple fog from above. Rahu's sunglasses glint in the fog by the ceiling. Empty space in the fog for bubbles."
+      chars: [You, Rahu]
+      bubbles:
+        - {who: Rahu, text: "You can grip a goal like never before. Or lose a year to a screen."}
+        - {who: You, text: "Which is this?"}
+        - {who: Rahu, text: "Keep a journal. Even I cannot tell in the fog."}
+  caption: "Big swings in money, obsession in the mind. Borrow for a real build, never for the neighbours."
+
+- id: p070
+  part: 2
+  chapter: rahu
+  layout: grid6
+  title: "The Deputies, Six at a Glance"
+  panels:
+    - scene: "A college library with tall shelves. Jupiter in yellow robes hands You a rolled blank scroll and a laddoo. Rahu floats behind them holding a graduation cap he clearly bought abroad. Empty space above the shelves for one bubble."
+      chars: [Jupiter, You, Rahu]
+      bubbles:
+        - {who: Jupiter, text: "Two years and five months. The hunger learns to read."}
+    - scene: "The living room. A huge inflated balloon shaped like a shopping bag floats near the ceiling. Saturn reaches up slowly with a pin, ledger under his arm, crow on his shoulder. Rahu winces, sunglasses slipping. Empty space beside the balloon for one bubble."
+      chars: [Saturn, Rahu]
+      bubbles:
+        - {who: Saturn, text: "Whatever was inflated deflates. Whatever was real holds."}
+    - scene: "A desk with four screens, each showing a different half-done course page with no readable text. Mercury in a green kurta types on two keyboards with three phones ringing. Rahu looks on, smoke drooping. Empty space above the screens for one bubble."
+      chars: [Mercury, Rahu]
+      bubbles:
+        - {who: Mercury, text: "Courses, plans, ideas. Seventeen tabs. Zero finished."}
+    - scene: "The flat's corner where Rahu's shopping bags are piled. Ketu sits cross-legged on the pile, bare feet, bowl in lap, glowing light where his head should be. The bags are all empty, and the sky outside the window is drone-free. Empty wall above for one bubble."
+      chars: [Ketu]
+      bubbles:
+        - {who: Ketu, text: "Drone."}
+    - scene: "A balcony at dusk with soft lights and plants. Venus in a pink and gold saree pours chai for You, who is finally leaning back in a cane chair. Rahu hovers quietly at the balcony edge, bags set down. Empty sky above for one bubble."
+      chars: [Venus, You, Rahu]
+      bubbles:
+        - {who: Venus, text: "Three years. Comfort, love, money. A softening."}
+    - scene: "The living room in harsh golden light. The Sun stands blazing in the centre in his crown. Rahu's smoke has shrunk into a corner behind the sofa, only his sunglasses showing. Empty space in the glare for one bubble."
+      chars: [Sun, Rahu]
+      bubbles:
+        - {who: Sun, text: "The Stranger and I do not get on. Eleven months."}
+  caption: "Then the Moon for a year and a half pulls the hunger toward the heart, and Mars closes with a push."
+
+- id: p071
+  part: 2
+  chapter: rahu
+  layout: three
+  title: "Rahu Season, Saturn Deputy"
+  panels:
+    - scene: "The flat's living room crammed with inflated things: giant balloons shaped like a car, a house and a trophy, a mountain of unopened parcels. Rahu floats proudly in the middle with his drone. Saturn walks in slowly with his ledger and a long pin, crow on his shoulder. You stand aside with the small brown dog. Empty space above for bubbles."
+      chars: [Rahu, Saturn, You]
+      bubbles:
+        - {who: Saturn, text: "Two years and ten months. I audit promises."}
+        - {who: Rahu, text: "Everything here is real. Mostly. Partly."}
+        - {who: You, text: "Define partly."}
+    - scene: "The same room. Saturn pricks the house-shaped balloon, which sags with a sad hiss. Rahu's sunglasses slip down his smoke. You stand holding a small sturdy potted plant that is clearly staying. The small brown dog sniffs the deflating balloon. Empty space above for bubbles."
+      chars: [Saturn, Rahu, You]
+      bubbles:
+        - {who: Saturn, text: "Inflated."}
+        - {who: Saturn, text: "Real."}
+        - {who: Rahu, text: "That plant was my idea."}
+        - {who: You, text: "It was mine. You wanted a lawn in Dubai."}
+    - scene: "A plain desk by a window, morning. You write a short checklist in a notebook, an alarm clock beside it, phone face down. Saturn nods slowly from an armchair. Rahu sulks in the corner with his drone grounded and his shopping bags folded flat. Empty space above the desk for bubbles."
+      chars: [You, Saturn, Rahu]
+      bubbles:
+        - {who: Saturn, text: "Routine. Duty. No shortcuts."}
+        - {who: Rahu, text: "Shortcuts are my love language."}
+        - {who: You, text: "I know."}
+  caption: "Saturn audits the Stranger's promises. The inflated deflates, the real holds, and the shortcut is not taken."
+
+- id: p072
+  part: 2
+  chapter: rahu
+  layout: three
+  title: "Rahu Season, Venus Deputy"
+  panels:
+    - scene: "The flat's living room. Rahu floats in wearing a pink and gold saree over his smoke, jasmine tucked behind his sunglasses. Venus walks in with chai and stops dead, staring at her own saree on him. You sit on the sofa with the small brown dog, unsurprised. Empty space above for bubbles."
+      chars: [Rahu, Venus, You]
+      bubbles:
+        - {who: Venus, text: "Is that my saree?"}
+        - {who: Rahu, text: "I have no clothes of my own. I borrow the landlord's."}
+        - {who: You, text: "Landlord?"}
+        - {who: Rahu, text: "Whoever owns the sign I sit in. Put me in Libra and I dress like Venus."}
+    - scene: "The same room over three years, now soft-lit and cushioned, imported cushions and a brass lamp. Venus arranges flowers. Rahu hangs a foreign tapestry with the drone. You sit on the sofa holding a blank wedding card, thinking. Empty space above the sofa for bubbles."
+      chars: [Venus, Rahu, You]
+      bubbles:
+        - {who: Venus, text: "Three years, the longest. Comfort, love, money, a softening."}
+        - {who: Rahu, text: "And when I wear her colour, the whole season's theme arrives now."}
+        - {who: You, text: "Which theme."}
+        - {who: Rahu, text: "Belonging. Who, and where. Decide slowly."}
+    - scene: "The kitchen table set for two, one chair empty, a cup of chai going cold. You sit with her chin on her hands, deciding. Venus and Rahu peek round the kitchen door together, Venus with chai, Rahu with his sunglasses pushed up. Empty space above the table for bubbles."
+      chars: [You, Venus, Rahu]
+      bubbles:
+        - {who: Venus, text: "Comfort comes with a cost or a choice. Pick one."}
+        - {who: You, text: "I would like a third option."}
+        - {who: Rahu, text: "There is always a third option abroad."}
+        - {who: You, text: "Why."}
+  caption: "Rahu borrows the landlord's colour. In the landlord's own sub-season the whole season's theme comes to a head."
+
+- id: p073
+  part: 2
+  chapter: rahu
+  layout: two
+  title: "The Wrong Room"
+  panels:
+    - scene: "The flat's corridor, now lit with LED strips. Rahu floats at his own door and counts doors along the corridor by sending his drone past each one. Jupiter, Saturn, Venus and the Moon wait in a line with luggage, the Moon holding a stack of tiffins. Empty space above the line for bubbles."
+      chars: [Rahu, Jupiter, Saturn, Venus, Moon]
+      bubbles:
+        - {who: Rahu, text: "Count from my room. Fifth and ninth doors get the view."}
+        - {who: Moon, text: "And where am I?"}
+        - {who: Rahu, text: "Eighth. The storeroom. Nothing personal."}
+    - scene: "A storeroom stacked with imported boxes and bubble wrap. The Moon sits on a box in her silver saree with a tiffin open in her lap, holding a bowl of soup out through the half-open door. You stand in the corridor between the storeroom and a bright glass room beyond, torn. Empty space above the door for bubbles."
+      chars: [Moon, You]
+      bubbles:
+        - {who: Moon, text: "The heart does not fit in a storeroom. Did you eat?"}
+        - {who: You, text: "He put me in a glass office and you in here."}
+        - {who: Moon, text: "Visit me. The hunger can wait an hour."}
+  caption: "Count from Rahu's room. A deputy in the 6th, 8th or 12th pulls the other way, and that stretch wobbles."
+
+- id: p074
+  part: 2
+  chapter: rahu
+  layout: fact
+  title: "Where Rahu Sits for You"
+  panels:
+    - scene: "A living room wall with twelve empty picture frames hung in a ring. Beside it a clothes rail holds the other planets' costumes: a yellow robe, a red cape, a black robe, a pink saree. Rahu has a yellow robe half on over his smoke and a red cape over one arm. You sit on the sofa with a phone app open. Empty space above the rail for bubbles."
+      chars: [Rahu, You]
+      bubbles:
+        - {who: Rahu, text: "I have no colour. I borrow the landlord's. Who owns my sign?"}
+        - {who: You, text: "The app says Libra."}
+        - {who: Rahu, text: "Then today I am Venus. Check what Venus is for your rising sign."}
+  fact:
+    - "Rahu has no colour of its own. Find the landlord first: the planet that owns the sign Rahu sits in."
+    - "Aries, Leo and Scorpio rising: a Sun, Mars or Jupiter landlord is on your side; Mercury, Venus or Saturn tests you."
+    - "Gemini and Libra rising: a Venus, Saturn or Mercury landlord is on your side; Mars, Jupiter or Sun tests you."
+    - "Cancer and Pisces rising: a Mars, Jupiter or Moon landlord is on your side. Any sign: Rahu likes rooms 3, 6, 10 and 11."
+  caption: "Judge Rahu by the lord of its sign and the planets in its room. Rahu is a mirror with an appetite."
+
+- id: p075
+  part: 2
+  chapter: rahu
+  layout: three
+  title: "Homework"
+  panels:
+    - scene: "The kitchen. You stick one small blank sticky note on the fridge door and step back. Rahu hovers beside her holding a fat pad of sticky notes, trying to add thirty more around hers. The small brown dog watches. Empty space above the fridge for bubbles."
+      chars: [You, Rahu]
+      bubbles:
+        - {who: Rahu, text: "Add a yacht. A podcast. Dubai."}
+        - {who: You, text: "One thing I actually want. Read it monthly."}
+        - {who: Rahu, text: "One is so few."}
+    - scene: "The living room. You hold up a sheaf of papers to the small brown dog, who sits on the sofa looking unimpressed. Rahu's purple smoke fills the top half of the room, his sunglasses floating in it. Empty space in the smoke for bubbles."
+      chars: [You, Rahu]
+      bubbles:
+        - {who: You, text: "Honest friend. Is this real, or smoke?"}
+        - {who: Rahu, text: "It is vision."}
+        - {who: You, text: "He sneezed. That is a no."}
+    - scene: "Saturday morning. You sit at a plain desk with a notebook and a printed bank statement with no readable figures, phone face down, curtains open. Rahu is outside the window with his drone pressed against the glass, bags dangling. Empty space in the window for bubbles."
+      chars: [You, Rahu]
+      bubbles:
+        - {who: Rahu, text: "Saturday is Saturn's day. Why check plans on his day?"}
+        - {who: You, text: "You have no weekday. You borrowed his. Like everything else."}
+        - {who: Rahu, text: "Fair."}
+  caption: "Write the one thing you want, keep one honest friend, learn the new thing, and check the plan on Saturdays."
+
+- id: p076
+  part: 2
+  chapter: rahu
+  layout: single
+  title: "Last Years: Jupiter in the Hallway"
+  panels:
+    - scene: "The flat after eighteen years, half imported gadgets, half plain kitchen. The Sun stands stiffly apart from Rahu. The Moon ladles soup for You at the table. Mars does a last push-up by the door. Rahu packs his bags, drone folded, sunglasses off for once. Through the open door Jupiter waits in the hallway with a book, a box of laddoos and a suitcase. Empty space above for bubbles."
+      chars: [Sun, Moon, You, Mars, Rahu, Jupiter]
+      bubbles:
+        - {who: Rahu, text: "Eighteen years. Was it robbery or enrichment?"}
+        - {who: You, text: "Both."}
+        - {who: Jupiter, text: "Both, said the Judge. Now, has anyone eaten? I brought laddoos. And meaning."}
+        - {who: Mars, text: "One last push. Then he can have the hallway."}
+  caption: "Hunger meets the heart, Mars gives the last push, and the Priest in the hallway turns hunger into meaning."

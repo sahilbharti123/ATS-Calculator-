@@ -1,0 +1,341 @@
+# Your Life in Seasons: the comic. Part 1: the management team.
+# Pages p001 to p016. Facts from book/00 to book/03 and tools/CASE-TIMELINES.md.
+# Cover and title page are not script pages. Footnotes carry each Sanskrit word once, on the first page that needs it.
+
+- id: p001
+  part: 1
+  chapter: team
+  layout: single
+  title: "Meet the Team"
+  panels:
+    - scene: "You opens the door of her 2BHK flat in a Mumbai housing society. The corridor is jammed with all nine planets like a landlord inspection: Sun in front, Moon with a tiffin, Mars with a whistle, Mercury on three phones, Jupiter with a laddoo, Venus with chai, Saturn at the back with ledger and crow, Rahu as purple smoke with shopping bags, headless Ketu barefoot. Plain wall above for bubbles."
+      chars: [You, Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn, Rahu, Ketu]
+      bubbles:
+        - {who: Sun, text: "Good evening. We are your management team. I am the one you have heard of."}
+        - {who: You, text: "I did not hire a management team."}
+        - {who: Saturn, text: "Nobody does."}
+        - {who: You, text: "Why."}
+  caption: "Your life has a management team of nine. They take turns running it. None of them asked you first."
+
+- id: p002
+  part: 1
+  chapter: team
+  layout: grid6
+  title: "Meet the Team, Continued"
+  panels:
+    - scene: "Close on the Sun in the flat's living room, standing on the coffee table in red and gold, arms wide, crown blazing, waiting for applause from You, who sits on the sofa unimpressed with the dog. Blank wall above him for a bubble."
+      chars: [You, Sun]
+      bubbles:
+        - {who: Sun, text: "Did everyone see that? Six years of this."}
+    - scene: "The Moon in her silver saree in the flat's tiny kitchen at 11 pm, pressing a steel tiffin into You's hands and tucking a shawl round her shoulders. You holds a toothbrush, already in nightclothes. Space above the fridge for a bubble."
+      chars: [You, Moon]
+      bubbles:
+        - {who: Moon, text: "Did you eat? Ten years. I will keep asking."}
+    - scene: "Mars in brass armour at 5 am in the flat's bedroom, whistle in his mouth, has flipped the mattress. You is still on it, on the floor, wrapped in a blanket, hugging the small brown dog. Grey dawn window above for a bubble."
+      chars: [You, Mars]
+      bubbles:
+        - {who: Mars, text: "Drill. Five a.m. Seven years. Move."}
+    - scene: "Mercury, green and young, perched on the arm of the sofa with three phones ringing and a notebook on his knee, mid-sentence, while You tries to read a paperback beside him. The wall behind the sofa is empty for a bubble."
+      chars: [You, Mercury]
+      bubbles:
+        - {who: Mercury, text: "Six ideas. Four finished. Seventeen years of this."}
+    - scene: "Jupiter, big and golden-robed, fills the flat's doorway holding a plate of laddoos in one hand and an open book in the other, offering both to You, who has clearly asked for neither. Empty ceiling space above his head for a bubble."
+      chars: [You, Jupiter]
+      bubbles:
+        - {who: Jupiter, text: "Have one. Also, some advice. Sixteen years."}
+    - scene: "Venus in pink and gold on the balcony, jasmine in her hair, chai in one hand and her phone showing a shopping cart in the other, nudging You, who is holding a printed household budget. Evening sky above for a bubble."
+      chars: [You, Venus]
+      bubbles:
+        - {who: Venus, text: "Treat yourself. That is policy. For twenty years."}
+  caption: "Each of them gets a fixed number of years. They put it in the contract. You never saw the contract."
+
+- id: p003
+  part: 1
+  chapter: team
+  layout: three
+  title: "The Three Nobody Warned You About"
+  panels:
+    - scene: "Saturn, old and dark blue in a black robe, sits very slowly down on the single plastic chair in the flat's hallway, opens a thick ledger across his knees, crow on his shoulder. You stands over him with her sling bag still on. Empty wall above for bubbles."
+      chars: [You, Saturn]
+      bubbles:
+        - {who: Saturn, text: "Page one. The things you avoided."}
+        - {who: You, text: "That is a thick ledger."}
+        - {who: Saturn, text: "Nineteen years."}
+    - scene: "Rahu, purple smoke from the waist down, designer sunglasses, drifts through the living room trailing foreign shopping bags while a small drone hovers over his head filming You, who ducks behind the sofa. Open ceiling space for bubbles."
+      chars: [You, Rahu]
+      bubbles:
+        - {who: Rahu, text: "Have you seen what they have abroad? We need all of it. Eighteen years."}
+        - {who: You, text: "We have a two-bedroom flat."}
+    - scene: "Ketu, saffron robes, bare feet, a soft glow where his head should be, walks calmly out of the flat's front door carrying You's toaster under one arm and a begging bowl in the other hand. You watches from the kitchen in pyjamas. Blank door frame above for bubbles."
+      chars: [You, Ketu]
+      bubbles:
+        - {who: You, text: "That is my toaster."}
+        - {who: Ketu, text: "Was."}
+        - {who: You, text: "Why."}
+  caption: "Saturn makes you do the thing. Rahu wants everything. Ketu takes the toaster. Nineteen, eighteen and seven years respectively."
+
+- id: p004
+  part: 1
+  chapter: team
+  layout: single
+  title: "How the Turns Work"
+  panels:
+    - scene: "A suburban railway platform at dawn, a Mumbai local waiting. The nine planets stand in a strict queue at the ticket window in this order: Ketu first, then Venus, Sun, Moon, Mars, Rahu, Jupiter, Saturn, Mercury last. Mercury is trying to slip past Saturn, who has not moved. You stands beside the queue with a ticket and the dog. Empty sky above the platform roof for bubbles."
+      chars: [You, Ketu, Venus, Sun, Moon, Mars, Rahu, Jupiter, Saturn, Mercury]
+      bubbles:
+        - {who: Mercury, text: "Could I go before Saturn? Just this once? I have a thing."}
+        - {who: Saturn, text: "You may change your pace. You may not change your place."}
+        - {who: Ketu, text: "Next."}
+        - {who: You, text: "Same order. Every time. For everyone."}
+  caption: "Ketu, Venus, Sun, Moon, Mars, Rahu, Jupiter, Saturn, Mercury, then Ketu again. Nobody knows why. Nobody skips a turn."
+  footnote: "mahadasha = season (the manager): the years when one planet runs your life."
+
+- id: p005
+  part: 1
+  chapter: team
+  layout: three
+  title: "Short Terms, Long Terms"
+  panels:
+    - scene: "A wedding reception stage in a Delhi banquet hall. The Sun poses in the centre for a photograph with You, flashbulbs going off, the whole frame bright and quick. You squints into the flash. Empty decorated backdrop above for bubbles."
+      chars: [You, Sun]
+      bubbles:
+        - {who: Sun, text: "Six years. Each one a highlight."}
+        - {who: You, text: "A chapter."}
+    - scene: "The same banquet hall, but the wedding has clearly gone on for years: garlands dried, a child grown tall, chairs stacked. Venus still sits serenely on a sofa with chai, patting the seat beside her for You, whose hair now has one grey streak. Space above the sofa for bubbles."
+      chars: [You, Venus]
+      bubbles:
+        - {who: Venus, text: "Twenty years. Settle in. Have more chai."}
+        - {who: You, text: "An era."}
+    - scene: "Outside the hall at the valet stand at night, Saturn and Rahu compare the lengths of their terms with their hands held apart, Saturn's slightly wider. Jupiter watches, amused, holding his book. You waits for her scooter with the dog. Empty night sky for bubbles."
+      chars: [You, Saturn, Rahu, Jupiter]
+      bubbles:
+        - {who: Rahu, text: "Eighteen years. Practically the same as yours."}
+        - {who: Saturn, text: "Nineteen."}
+        - {who: Rahu, text: "Rounding."}
+        - {who: Jupiter, text: "Sixteen, and I am not competing."}
+  caption: "Three long terms, Venus, Saturn and Rahu, take almost half the cycle. Three short ones, Sun, Ketu and Mars, barely a sixth."
+
+- id: p006
+  part: 1
+  chapter: team
+  layout: two
+  title: "Where You Board"
+  panels:
+    - scene: "A quiet residential street in Jaipur at night, lit by a long row of twenty-seven old lamp posts stretching into the distance. The Moon in her silver saree walks slowly down the middle of the road with a shawl, and has stopped under one particular lamp, looking up at it. Dark sky above the lamps for bubbles."
+      chars: [Moon]
+      bubbles:
+        - {who: Moon, text: "Here. This is where I was standing the night she was born."}
+    - scene: "The same lamp, closer. A small brass plate on the post is shaped like a jasmine flower. Venus steps out from behind the post in pink and gold, delighted, chai in hand, while the Moon points at her. Grown-up You stands at the kerb with the dog, watching this reconstruction. Empty road space above for bubbles."
+      chars: [You, Moon, Venus]
+      bubbles:
+        - {who: Moon, text: "This lamp is hers. So she goes first."}
+        - {who: Venus, text: "I knew it. I am always first somewhere."}
+        - {who: You, text: "A street lamp decided my first manager."}
+        - {who: Moon, text: "A street lamp decided everything, beta."}
+  caption: "The Moon's path has twenty-seven stars. The one the Moon stood in when you were born picks who goes first."
+  footnote: "nakshatra = the Moon's star: one of the twenty-seven equal stretches of the Moon's path round the sky."
+
+- id: p007
+  part: 1
+  chapter: team
+  layout: three
+  title: "Twenty-Seven Lamps, Nine Owners"
+  panels:
+    - scene: "Daylight on the same Jaipur street. The nine planets are each tying a coloured ribbon to lamp posts in order along the row: Ketu on the first, Venus the second, Sun the third, then Moon, Mars, Rahu, Jupiter, Saturn, Mercury on the ninth. Mercury has run ahead to the tenth post. You watches from a chai stall. Empty sky above for bubbles."
+      chars: [You, Ketu, Venus, Sun, Moon, Mars, Rahu, Jupiter, Saturn, Mercury]
+      bubbles:
+        - {who: Mercury, text: "The tenth is mine too, surely?"}
+        - {who: Saturn, text: "The tenth is Ketu's. The round starts again."}
+        - {who: Ketu, text: "Mine."}
+    - scene: "A wider view down the street: twenty-seven lamp posts with ribbons in nine colours repeating three times, like a very long rangoli border. Saturn, in the foreground, checks them against his ledger. You stands beside him while the dog sniffs a post. Clear sky above for bubbles."
+      chars: [You, Saturn]
+      bubbles:
+        - {who: Saturn, text: "Nine owners. Three lamps each. Twenty-seven. Nothing left over."}
+        - {who: You, text: "That is suspiciously tidy."}
+    - scene: "Back at the chai stall, You holds a paper cup and counts on her fingers while Venus leans on the counter beside her, pleased with herself, and Mercury sulks on a bench with his three phones. Empty stall awning above for bubbles."
+      chars: [You, Venus, Mercury]
+      bubbles:
+        - {who: You, text: "So one chance in nine that it was you."}
+        - {who: Venus, text: "And it was. Say thank you."}
+        - {who: You, text: "Why."}
+  caption: "Nine owners, three stars each, in the same fixed order. Whoever owns the Moon's star that night is your first manager."
+
+- id: p008
+  part: 1
+  chapter: team
+  layout: single
+  title: "The Balance at Birth"
+  panels:
+    - scene: "A wedding sangeet in full swing in a Jaipur courtyard at night. Venus is mid-dance on the stage in pink and gold, clearly years into the party, the garlands already dry. The Moon walks in carrying newborn You wrapped in a mustard cloth and hands the bundle to Venus, who keeps dancing. Saturn stands at the side, ledger open, counting on his fingers. Dark sky above the courtyard for bubbles."
+      chars: [You, Venus, Moon, Saturn]
+      bubbles:
+        - {who: Venus, text: "Oh, a baby. Welcome. You joined in the middle of my term. I am not restarting for you."}
+        - {who: Saturn, text: "Thirteen of her twenty years already spent. The child gets seven. Then the Sun."}
+        - {who: Moon, text: "She arrived about two thirds of the way through my star. Two thirds of Venus went with it."}
+        - {who: You, text: "Why."}
+  caption: "You join a season already running. What is left of the Moon's star is what is left of your first term."
+
+- id: p009
+  part: 1
+  chapter: team
+  layout: two
+  title: "Ask Your Mother Twice"
+  panels:
+    - scene: "A mother's kitchen in Jaipur, pressure cooker whistling. The Moon in her silver saree plays the mother at the stove, stirring dal, while You sits at the small table with a pencil, a notebook and a folded old hospital record. Steam rises; blank wall above the stove for bubbles."
+      chars: [You, Moon]
+      bubbles:
+        - {who: You, text: "What time was I born? Exactly."}
+        - {who: Moon, text: "Six. Six thirty. Before the milk came. Does it matter, beta?"}
+    - scene: "The flat's hallway seen lengthways. All nine planets stand in their fixed order with suitcases, and every one of them has shuffled a few steps along the corridor at once, like a queue adjusting. Saturn rubs out and rewrites a line in his ledger with a pencil. You holds up her phone, dismayed. Empty ceiling for bubbles."
+      chars: [You, Ketu, Venus, Sun, Moon, Mars, Rahu, Jupiter, Saturn, Mercury]
+      bubbles:
+        - {who: Saturn, text: "One hour. Every handover in your life moves by months."}
+        - {who: Mars, text: "I had packed."}
+        - {who: You, text: "It mattered."}
+  caption: "An hour's error in the birth time shifts every changeover by months. Ask your mother twice, and ask for the hospital record."
+
+- id: p010
+  part: 1
+  chapter: team
+  layout: single
+  title: "Deputies"
+  panels:
+    - scene: "Venus has taken over the flat's kitchen as manager: pink curtains, jasmine on the fridge, chai on every surface. On the fridge, a duty rota drawn as nine coloured squares, the first one pink. The other eight planets queue through the kitchen door in the fixed order, Sun first, Saturn near the back, Ketu last. You leans on the counter. Blank upper cupboards for bubbles."
+      chars: [You, Venus, Sun, Moon, Mars, Rahu, Jupiter, Saturn, Mercury, Ketu]
+      bubbles:
+        - {who: Venus, text: "I go first as my own deputy, so everyone sees how I like things done."}
+        - {who: Sun, text: "Then me. One year. Brief, but you will remember it."}
+        - {who: Saturn, text: "Then me, much later. Three years and two months. Bring receipts."}
+        - {who: You, text: "You are deputising for yourself."}
+  caption: "Inside each manager's term the other eight take turns as deputy, same order, starting with the manager herself."
+  footnote: "antardasha = sub-season (the deputy): the stretch inside a season run by a second planet beside the first."
+
+- id: p011
+  part: 1
+  chapter: team
+  layout: three
+  title: "The Deputy's Share"
+  panels:
+    - scene: "A birthday cake the size of a table in the flat's living room, iced in Venus's pink, with twenty candles. Mercury, notebook in hand, stands over it with a knife marking out nine unequal slices. Venus hovers protectively. You holds a stack of plates. Empty wall above the cake for bubbles."
+      chars: [You, Mercury, Venus]
+      bubbles:
+        - {who: Mercury, text: "Twenty years. Each of us gets our usual share of it."}
+        - {who: Venus, text: "The biggest slice is mine. Three years and four months."}
+    - scene: "Rahu's smoke swirls over the cake as he lifts a large slice onto his plate, while the Sun stares at a very thin slice on his own plate, crown drooping. Saturn waits with an empty plate and no expression. You passes napkins. Space above the cake for bubbles."
+      chars: [You, Rahu, Sun, Saturn]
+      bubbles:
+        - {who: Rahu, text: "Three years. Exactly. I checked."}
+        - {who: Sun, text: "One year? One?"}
+        - {who: Saturn, text: "Three years, two months. Mine is cut near the end."}
+    - scene: "Ketu stands last in line holding a plate with a modest slice and is already lowering it to the dog. Beside him, You does arithmetic on the back of a food delivery receipt with a pencil. Blank wall above for bubbles."
+      chars: [You, Ketu]
+      bubbles:
+        - {who: You, text: "Manager's years times deputy's years, divided by a hundred and twenty. It adds back up."}
+        - {who: Ketu, text: "Enough."}
+  caption: "Deputy's time is the manager's years times the deputy's years, divided by 120. Rahu's slice of any season is fifteen per cent."
+
+- id: p012
+  part: 1
+  chapter: team
+  layout: three
+  title: "Interns"
+  panels:
+    - scene: "An office with a broken air conditioner, a table fan rattling. Venus sits at the big manager's desk with chai; Saturn sits at a smaller side desk as deputy with his ledger; Mercury, the intern, perches on a stool in the corner with three phones and a lanyard. You stands in the doorway with a laptop bag. Empty whiteboard behind them for bubbles."
+      chars: [You, Venus, Saturn, Mercury]
+      bubbles:
+        - {who: You, text: "Who is actually in charge today?"}
+        - {who: Venus, text: "I set the menu."}
+        - {who: Saturn, text: "I set the mood."}
+        - {who: Mercury, text: "I set the Wi-Fi password. Nobody listens to me."}
+    - scene: "Mercury, as intern, sprints past the desks with a tray of chai, a courier parcel and a ringing phone, a blur of green; Venus and Saturn do not look up from their desks. You steps back to avoid him. Space above the desks for bubbles."
+      chars: [You, Venus, Saturn, Mercury]
+      bubbles:
+        - {who: Mercury, text: "Five months! I am here five months! Then Ketu!"}
+        - {who: You, text: "Who is Ketu replacing?"}
+        - {who: Saturn, text: "Him. Then the next. Same order, smaller slices."}
+    - scene: "You sits at a spare desk with a planner open, pencil raised, surrounded by the three of them: Venus pointing at a whole year, Saturn at a month, Mercury at a single day. The fan still rattles. Blank wall above for bubbles."
+      chars: [You, Venus, Saturn, Mercury]
+      bubbles:
+        - {who: You, text: "I am not planning my life around the intern."}
+        - {who: Saturn, text: "Correct."}
+        - {who: Mercury, text: "Rude."}
+  caption: "Manager, deputy, intern: a chapter, a scene, a sentence. The deputy's turn splits the same way. Do not live at intern level."
+  footnote: "pratyantardasha = sub-sub-season (the intern): the deputy's stretch split once more, by the same rule and order."
+
+- id: p013
+  part: 1
+  chapter: team
+  layout: two
+  title: "Reading the App"
+  panels:
+    - scene: "You on the sofa at night, face lit by her phone, eyes wide. The phone screen shows a list of coloured rows: one outer pink row with smaller indented rows beneath it, one of them dark blue and glowing. The dog looks worried. Blank wall above the sofa for bubbles."
+      chars: [You]
+      bubbles:
+        - {who: You, text: "It says Saturn. Right there. Saturn."}
+    - scene: "Venus, in pink, reaches over the back of the sofa and taps the phone screen with one manicured finger. In the hallway behind, Saturn stands with a small overnight bag, patient, crow on his shoulder. You exhales. Space above the sofa for bubbles."
+      chars: [You, Venus, Saturn]
+      bubbles:
+        - {who: Venus, text: "Under me, darling. Indented. He is the deputy, for three years and two months."}
+        - {who: Saturn, text: "I have one bag."}
+        - {who: You, text: "Three years is a length I can plan around. Twenty is a wall."}
+  caption: "The outer row is the manager. The indented row under it is the deputy. People frighten themselves nine times a season."
+
+- id: p014
+  part: 1
+  chapter: team
+  layout: fact
+  title: "The Whole Machine, in One Box"
+  panels:
+    - scene: "Half-page panel. The flat's fridge door with a single sheet of paper pinned under a magnet. All nine planets crowd round it, reading over each other's shoulders: Jupiter nodding, Mercury photographing it with all three phones, Rahu trying to add something with a pen, Saturn holding his wrist. You stands to one side, arms folded. Space above the fridge for bubbles and the fact box below."
+      chars: [You, Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn, Rahu, Ketu]
+      bubbles:
+        - {who: Rahu, text: "It needs more."}
+        - {who: Saturn, text: "It does not."}
+        - {who: You, text: "One sheet. That is the whole machine."}
+  fact:
+    - "The order and the years, always: Ketu 7, Venus 20, Sun 6, Moon 10, Mars 7, Rahu 18, Jupiter 16, Saturn 19, Mercury 17. Total 120."
+    - "The Moon's star at birth picks the first manager. The first term is cut short in proportion to how far the Moon had already gone through its star. Every term after that runs full length."
+    - "Inside each term the nine take turns as deputy, same order, starting with the manager, each for (manager's years times deputy's years) divided by 120."
+    - "Venus's 20 years, opened: Venus 3y 4m, Sun 1y, Moon 1y 8m, Mars 1y 2m, Rahu 3y, Jupiter 2y 8m, Saturn 3y 2m, Mercury 2y 10m, Ketu 1y 2m."
+    - "Each deputy's turn splits once more, the same way, into nine intern turns of weeks to months."
+    - "How a season lands on you in particular depends on the chart underneath: the twelve rooms counted from your rising sign, and which room each planet sits in. Part 2 shows where each one sits."
+  caption: "Nine managers, a fixed order, a start the Moon's star picks, a short first term, deputies in proportion. That is it."
+  footnote: "bhava = room (one of the twelve rooms of a birth chart) · lagna = rising sign (the sign coming up on the eastern horizon when you were born)"
+
+- id: p015
+  part: 1
+  chapter: team
+  layout: three
+  title: "How to Find Yours (the App)"
+  panels:
+    - scene: "Close on You's hands holding her phone at a kitchen table. The screen shows a simple form with three empty fields beside a calendar icon, a clock icon and a map pin icon. Next to the phone lie a folded hospital record and a cup of chai. Mercury leans in from the side, eager. Blank table surface above for bubbles."
+      chars: [You, Mercury]
+      bubbles:
+        - {who: Mercury, text: "Date, time, place. Town is enough. Time as exact as you can get it."}
+        - {who: You, text: "A free app. Good."}
+    - scene: "The phone screen fills the panel, drawn as a settings page with three toggle switches, all on and glowing green, each beside a small icon: a field of stars, a tiny ruler, and a wheel of nine coloured slices. Saturn's dark blue finger checks each one in turn. Space at the top of the screen for bubbles."
+      chars: [Saturn]
+      bubbles:
+        - {who: Saturn, text: "Sidereal zodiac. Lahiri. The 120-year timetable. These are the defaults. Look anyway."}
+    - scene: "The phone shows the season table: a column of coloured outer rows, one of them expanded into indented rows, one indented row highlighted. You's finger rests on it. The Moon peers over one shoulder with a tiffin, the Sun over the other. Clear space above the phone for bubbles."
+      chars: [You, Moon, Sun]
+      bubbles:
+        - {who: Moon, text: "Find the row with today's date in it, beta."}
+        - {who: Sun, text: "Is it me? Tell me it is me."}
+        - {who: You, text: "It is not you."}
+  caption: "Three facts, a free app, two settings, then the row holding today. Write down manager, deputy and both end dates."
+
+- id: p016
+  part: 1
+  chapter: team
+  layout: single
+  title: "How to Find Yours (the Note)"
+  panels:
+    - scene: "The flat's fridge again, evening. You sticks a small yellow note beside the pinned sheet, pencil behind her ear. The nine planets stand behind her in their fixed order, quiet for once, looking at the note. Saturn is nearest, nodding very slowly. The dog sits at her feet. Empty fridge door space around the note for bubbles."
+      chars: [You, Ketu, Venus, Sun, Moon, Mars, Rahu, Jupiter, Saturn, Mercury]
+      bubbles:
+        - {who: You, text: "Manager. Deputy. Two end dates. Done."}
+        - {who: Saturn, text: "Keep that. Everything from here talks to that note."}
+        - {who: Venus, text: "Is it me? It is often me."}
+        - {who: You, text: "Turn the page."}
+  caption: "One sticky note: your manager, your deputy, and when each leaves. The rest of this book talks to that note."

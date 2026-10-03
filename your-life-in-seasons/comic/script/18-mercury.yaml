@@ -1,0 +1,198 @@
+# Your Life in Seasons: the comic. Part 2, chapter 18: the Mercury season (17 years). Eight pages: no Money and mind; the wrong room is merged into the Venus deputy page.
+# Sub-seasons in order: Mercury 2y 5m, Ketu 1y, Venus 2y 10m, Sun 10m, Moon 1y 5m, Mars 1y, Rahu 2y 7m, Jupiter 2y 3m, Saturn 2y 8m.
+# Fact source: book/12-the-mercury-season.md and book/03-seasons-inside-seasons.md.
+
+- id: p097
+  part: 2
+  chapter: mercury
+  layout: single
+  title: "The window opens"
+  panels:
+    - scene: "You's flat the morning after Saturn. Mercury, green, young, sharp kurta, three phones and a notebook, throws every window open at once; light and wind scatter papers across the room. Courier parcels stacked by the door. In the stairwell Saturn leaves slowly with ledger and crow, one small backward nod. You holds the key and a cup of tea while the dog chases a page. Empty ceiling for bubbles."
+      chars: [You, Mercury, Saturn]
+      bubbles:
+        - {who: Saturn, text: "Finish what he starts."}
+        - {who: Mercury, text: "Ideas! A course! A trip! Three plans at once, and it is not yet nine."}
+        - {who: You, text: "You have three phones."}
+        - {who: Mercury, text: "One for each plan."}
+  caption: "After the Judge, the Prince. The Mercury season opens the window; the task is to finish what the breeze brings in."
+
+- id: p098
+  part: 2
+  chapter: mercury
+  layout: four
+  title: "Seventeen clever years"
+  panels:
+    - scene: "Body. Two in the morning. You lies in bed, eyes wide open, face lit by a phone. Mercury sits cross-legged on the bedside table with three glowing phones and a cold coffee. A half-eaten dinner plate sits on the floor at a strange hour. Dark empty wall above the bed for bubbles."
+      chars: [You, Mercury]
+      bubbles:
+        - {who: Mercury, text: "Just one more thought. And the thought has a thought."}
+        - {who: You, text: "It is two in the morning."}
+        - {who: Mercury, text: "Less coffee, more walking, a fixed bedtime. The nerves, the skin, the lungs."}
+        - {who: You, text: "Then put down the coffee."}
+    - scene: "Home. You's living room buried in books, devices, chargers and paperwork. Mercury stands at the door receiving a tower of parcels, a phone at each ear and one on speaker. A half-packed overnight bag sits by the sofa. You looks for somewhere to sit. Empty upper wall for bubbles."
+      chars: [You, Mercury]
+      bubbles:
+        - {who: Mercury, text: "Your cousin is calling. Also your neighbour. Also your other cousin."}
+        - {who: You, text: "I did not know I had this many cousins."}
+        - {who: Mercury, text: "Short trip Friday. Also a child's exam. Not yours. You are helping."}
+    - scene: "Love. A small cafe. You and Mercury sit hunched over one laptop, heads together, working on a shared project, coffee cups everywhere. Venus at the next table in pink and gold rolls her eyes over her chai. Blank cafe wall behind them for bubbles."
+      chars: [You, Mercury, Venus]
+      bubbles:
+        - {who: Venus, text: "This is a date?"}
+        - {who: Mercury, text: "Friendship first. It grows through talk and shared projects."}
+        - {who: You, text: "We built a spreadsheet together. It is the most intimate thing I have done."}
+    - scene: "Work. An office with a broken AC. You at a desk typing at a laptop, surrounded by numbers and drafts. Mercury at the next desk copies her posture exactly, down to the tilt of her head. Three blank offer letters lie fanned on her desk. Empty wall above the desks for bubbles."
+      chars: [You, Mercury]
+      bubbles:
+        - {who: You, text: "Third job in four years. Is that failure."}
+        - {who: Mercury, text: "Several changes in seventeen years is normal. Words and numbers earn the money."}
+        - {who: You, text: "Why are you sitting exactly like me."}
+        - {who: Mercury, text: "I sit like whoever I am next to."}
+  caption: "Wired nights, piled paperwork, love as friendship, several jobs. Mercury is fast; the shadow is anxiety dressed as planning."
+
+- id: p099
+  part: 2
+  chapter: mercury
+  layout: grid6
+  title: "The Prince's deputies, briefly"
+  panels:
+    - scene: "Ketu deputy, one year. You's desk. Ketu, saffron robes, glowing light for a head, silently places two of Mercury's three phones into his begging bowl and turns to leave. Mercury reaches after them, horrified. You looks relieved. Empty wall for one bubble."
+      chars: [You, Mercury, Ketu]
+      bubbles:
+        - {who: Mercury, text: "He took two of my phones. In silence."}
+    - scene: "Sun deputy, ten months. You's office. The Sun stands in a blaze, crown gleaming, announcing. Right behind him Mercury holds a bundle of letters, almost invisible in the glare, mouth open mid-idea. You squints against the light. Space above for one bubble."
+      chars: [You, Sun, Mercury]
+      bubbles:
+        - {who: Sun, text: "This idea was mine. Did everyone see?"}
+    - scene: "Moon deputy, one year five months. You's kitchen at eleven at night. The Moon in silver saree holds a tiffin and her phone. Mercury paces in a tight circle around the table, frowning at the same page of his notebook. You pours tea. Space above the table for one bubble."
+      chars: [You, Moon, Mercury]
+      bubbles:
+        - {who: Moon, text: "Did you eat? He is walking in circles again."}
+    - scene: "Mars deputy, one year. A gym at five in the morning. Mars in brass armour stands with his whistle. Mercury beside him copies his stance exactly, chest out, a borrowed whistle in his mouth, pointing at You on the mat. Blank mirror wall for one bubble."
+      chars: [You, Mars, Mercury]
+      bubbles:
+        - {who: Mercury, text: "Beside the Commander I bark. Twenty push-ups. Now."}
+    - scene: "Jupiter deputy, two years three months. A quiet library corner. Jupiter reads a thick book in an armchair, laddoo in hand. Mercury beside him copies the pose exactly with a slimmer book and a tiny laddoo. You reads too, content. Empty shelf space above for one bubble."
+      chars: [You, Jupiter, Mercury]
+      bubbles:
+        - {who: Mercury, text: "Beside the Priest I read law. And eat."}
+    - scene: "Saturn deputy, two years eight months, the last. You's dining table. Saturn slowly counts a small pile of sealed envelopes beside a wooden chest overflowing with blank half-written sheets. Mercury sweats. You watches, chin on hand. Space above for one bubble."
+      chars: [You, Saturn, Mercury]
+      bubbles:
+        - {who: Saturn, text: "Which of these did you finish? Count."}
+  caption: "The Prince turns the colour of whoever he sits beside. Venus and Rahu each get a page; Venus is sweeter."
+
+- id: p100
+  part: 2
+  chapter: mercury
+  layout: three
+  title: "Mercury season, Venus deputy: sweet, if housed well"
+  panels:
+    - scene: "You's living room. Venus arrives in pink and gold with jasmine and chai, and the flat instantly looks prettier. Mercury has already copied her: a jasmine flower behind his ear, chai in one hand, phone in the other, a small painting half done on an easel. You smiles despite herself. Clear upper wall for bubbles."
+      chars: [You, Venus, Mercury]
+      bubbles:
+        - {who: Venus, text: "The longest, sweetest sub-season of the Prince. Friends, art, money through pleasant work."}
+        - {who: Mercury, text: "I have taken up painting. And charm. And a jasmine."}
+        - {who: You, text: "This is actually nice."}
+    - scene: "The corridor of You's flat. Mercury, as host, leads Venus past the kitchen to the storeroom at the back: water drum, suitcases, a thin mattress. He counts rooms on his fingers, apologetic. Venus's face falls, chai tilting. You follows with a sigh. Empty corridor ceiling for bubbles."
+      chars: [You, Venus, Mercury]
+      bubbles:
+        - {who: Mercury, text: "Your room, Minister. Twelfth from mine. Sorry. Rules."}
+        - {who: Venus, text: "Twelfth? Past the kitchen? With the water drum?"}
+        - {who: You, text: "Here we go."}
+    - scene: "The kitchen weeks later. Venus storms through in heels, shopping bags on both arms, knocking a cup off the counter. You's wallet lies open and empty. Mercury is distracted by a glossy blank shopping catalogue, a new notebook under his arm. The dog hides behind You. Clear space above for bubbles."
+      chars: [You, Venus, Mercury]
+      bubbles:
+        - {who: Venus, text: "Sweetness in the wrong room becomes expenses and distraction. Not my fault."}
+        - {who: Mercury, text: "I bought a third notebook."}
+        - {who: You, text: "Why."}
+  caption: "Mercury/Venus is the sweetest stretch, unless Venus sits sixth, eighth or twelfth from Mercury. Count the rooms before you shop."
+
+- id: p101
+  part: 2
+  chapter: mercury
+  layout: three
+  title: "Mercury season, Rahu deputy: the confusion"
+  panels:
+    - scene: "You's living room. Rahu's purple smoke pours in through the window, his drone carrying a shiny blank envelope and a glowing laptop. Mercury has instantly copied him: sunglasses on, a foreign shopping bag in hand, all three phones lit. You stands with her tea, unimpressed. Empty ceiling for bubbles."
+      chars: [You, Rahu, Mercury]
+      bubbles:
+        - {who: Rahu, text: "Technology. A foreign country. A big idea. Possibly all three by Friday."}
+        - {who: Mercury, text: "I have become you. I love it. What is the idea?"}
+        - {who: Rahu, text: "Details later."}
+        - {who: You, text: "Why do all your ideas have no details."}
+    - scene: "An airport departure hall. You stands with a suitcase. Rahu pushes a trolley piled with bags and holds out a clipboard with a blank contract and a pen in his smoky hand. Mercury waves a blank boarding pass, sunglasses still on. A departures board glows blank behind them. Space above for bubbles."
+      chars: [You, Rahu, Mercury]
+      bubbles:
+        - {who: Rahu, text: "Sign here. Also here. Quickly, the gate is closing."}
+        - {who: You, text: "I will read it twice. Slowly."}
+        - {who: Mercury, text: "Reading is my whole thing and even I did not read it."}
+    - scene: "You sits on the airport floor against a pillar, reading the contract page by page with a highlighter. Rahu's drone circles impatiently overhead. Mercury has sat down beside her and now copies her instead, sunglasses off, reading his own copy slowly. Open hall space above for bubbles."
+      chars: [You, Rahu, Mercury]
+      bubbles:
+        - {who: You, text: "Restlessness is not a sign to change everything."}
+        - {who: Mercury, text: "Sometimes it is just me wanting a walk."}
+        - {who: Rahu, text: "Fine. Walk. The scheme will still be here."}
+  caption: "Mercury/Rahu brings big ideas, moves and schemes. Keep contracts in writing and read them twice, slowly, before the gate closes."
+
+- id: p102
+  part: 2
+  chapter: mercury
+  layout: fact
+  title: "Where Mercury sits for you"
+  panels:
+    - scene: "A long joint family dining table with many empty chairs. Mercury sits beside Jupiter, calmly working a calculator over You's tax papers, bookish and mild. The chair on his other side is empty but holds foreign shopping bags and a pair of designer sunglasses. You sits opposite, watching him. The right half of the panel is plain wall, left empty for the fact box and bubbles."
+      chars: [You, Mercury, Jupiter]
+      bubbles:
+        - {who: Mercury, text: "Next to the Priest I file your taxes. Next to those bags I sell you an investment."}
+        - {who: You, text: "So where you sit matters as much as whose side you are on."}
+        - {who: Mercury, text: "Both. Read the company."}
+  fact:
+    - "Mercury is on your side: Taurus, Gemini, Virgo, Libra and Capricorn rising."
+    - "Mercury tests you: Aries, Cancer, Leo, Scorpio and Pisces rising."
+    - "Mixed: Sagittarius and Aquarius rising. Read the company he keeps."
+    - "Seventeen years. Wednesday is his day. Never more than 28 degrees from the Sun."
+  caption: "Mercury has no nature of his own. Your rising sign says if he helps; the planets beside him say what he becomes."
+  footnote: "Budha = Mercury, the Prince"
+
+- id: p103
+  part: 2
+  chapter: mercury
+  layout: three
+  title: "Mercury homework"
+  panels:
+    - scene: "You's desk with six notebooks on it. You keeps one and slides five into a drawer. Mercury hugs the drawer shut from the other side, three phones in his kurta pocket, pleading. The small brown dog sits on the one remaining notebook. Empty wall above the desk for bubbles."
+      chars: [You, Mercury]
+      bubbles:
+        - {who: You, text: "One notebook. Every idea, list and plan in one place."}
+        - {who: Mercury, text: "Six is one for each plan."}
+        - {who: You, text: "Then I will finish one plan."}
+    - scene: "You's kitchen. A recipe book lies open at its last page, every page splattered from being cooked through. You plates the final dish, proud. Mercury leans on the counter with four course sign-up pages glowing on his phones. Steam rises. Clear space above for bubbles."
+      chars: [You, Mercury]
+      bubbles:
+        - {who: You, text: "One thing to completion each year. This book, cooked through to the last page."}
+        - {who: Mercury, text: "I started four courses while you plated that."}
+        - {who: You, text: "Started."}
+    - scene: "Wednesday dusk on a seafront promenade. You walks slowly, breathing deep, phone in her sling bag. Mercury walks beside her holding a wrapped book to give away and a sealed letter, trying to match her slow breath and failing slightly. Wide empty sky over the sea for bubbles."
+      chars: [You, Mercury]
+      bubbles:
+        - {who: You, text: "Wednesday. An hour of study, a letter actually sent, a book given to a child. Then walk."}
+        - {who: Mercury, text: "I am breathing like you. It is slower than I like."}
+        - {who: You, text: "Judge the year by what you finished, not what you learned about."}
+  caption: "One notebook, one thing finished each year, a daily walk. The finished list is shorter, and it is the one that counts."
+
+- id: p104
+  part: 2
+  chapter: mercury
+  layout: single
+  title: "Eleven letters long"
+  panels:
+    - scene: "You's flat, the last days of Mercury. Saturn, as deputy, sits at the dining table by an open wooden chest, counting a few sealed envelopes against a heap of blank half-written sheets. Mercury hovers behind him chewing a pen. You sits finishing one more letter. Through the open door Ketu stands barefoot, saffron robes, glowing light for a head, holding only a begging bowl. Empty ceiling for bubbles."
+      chars: [You, Saturn, Mercury, Ketu]
+      bubbles:
+        - {who: Saturn, text: "Hundreds written. Eleven sent. Then your season is eleven letters long. The rest is weather."}
+        - {who: Mercury, text: "That is not fair. They were brilliant."}
+        - {who: You, text: "Here is twelve. Why is it so quiet."}
+        - {who: Ketu, text: "Enough."}
+  caption: "Saturn's final stretch counts what you finished. Then the Sadhu is in the hallway with nothing but a bowl. The circle closes."

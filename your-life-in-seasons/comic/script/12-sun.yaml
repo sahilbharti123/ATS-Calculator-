@@ -1,0 +1,229 @@
+# Your Life in Seasons: the comic. Part 2, chapter 3: the Sun season (6 years).
+# Pages p037 to p046. Facts from book/06-the-sun-season.md, book/03-seasons-inside-seasons.md and tools/CASE-TIMELINES.md.
+
+- id: p037
+  part: 2
+  chapter: sun
+  layout: single
+  title: "The Sun Takes the Keys"
+  panels:
+    - scene: "The flat's living room lit by candles. In the hallway outside, Venus leaves with her suitcases and chai thermos, blowing a kiss. The Sun, golden skin, red and gold robes, radiant crown, has just flicked on a harsh tube light; everything is suddenly visible, including dust on the shelves and You, squinting with the keys in her hand. The dog hides under the sofa. Bright ceiling clear for bubbles."
+      chars: [You, Sun, Venus]
+      bubbles:
+        - {who: Sun, text: "Lights! Music off. Guests out. I have arrived. Did everyone see?"}
+        - {who: You, text: "Everyone can see everything now. Including me."}
+        - {who: Venus, text: "Six years, darling. I will be back as his last deputy."}
+        - {who: Sun, text: "Nobody is clapping. Why is nobody clapping."}
+  caption: "The Sun runs six years, the shortest season. The question on the floor: who are you when nobody is clapping?"
+
+- id: p038
+  part: 2
+  chapter: sun
+  layout: four
+  title: "How the Sun Feels"
+  panels:
+    - scene: "Seven in the evening, the window orange with sunset. You sits at a desk very upright, a blood pressure cuff on one arm, eyes tired, a glass of water beside her. The Sun stands behind her chair like a floor lamp, hands on her shoulders, straightening her spine. Blank wall above the desk for bubbles."
+      chars: [You, Sun]
+      bubbles:
+        - {who: Sun, text: "Spine straight. Heart strong. Eyes on me."}
+        - {who: You, text: "It is seven pm and I am done for the day. Warm, upright, finished."}
+    - scene: "The living room with an old armchair in the exact centre, spotlit. The Sun sits in it as if it were a throne, one leg crossed, chin up. A folder of property papers drawn as blank sheets lies on the table. You stands to one side on the phone, rubbing her forehead. Space above the armchair for bubbles."
+      chars: [You, Sun]
+      bubbles:
+        - {who: Sun, text: "Your father has opinions. So do I. We are the same voice."}
+        - {who: You, text: "Why."}
+        - {who: Sun, text: "Also, the property. Also, the family name. Also, me."}
+    - scene: "A small dining table laid for two with a candle, one chair empty. You sits in the other chair. The Sun reaches up and switches on the harsh overhead tube light; the candle looks silly in it. A dimmer switch on the wall is untouched. The small brown dog looks from one to the other. Ceiling space for bubbles."
+      chars: [You, Sun]
+      bubbles:
+        - {who: Sun, text: "You dimmed yourself for that one. I do not do dim."}
+        - {who: You, text: "Respect first, comfort second. Noted. Can we have the candle back."}
+        - {who: Sun, text: "No."}
+    - scene: "An office with a broken air conditioner and a standing fan. A small makeshift stage with a mic stand and a banner with no lettering. You stands on it holding a framed certificate, slightly exposed. The Sun stands beside her applauding loudly for himself under a spotlight he brought. Blank banner above for bubbles."
+      chars: [You, Sun]
+      bubbles:
+        - {who: Sun, text: "A title! For you! Did everyone see what I did?"}
+        - {who: You, text: "They can see everything I do now. The good work and the other kind."}
+  caption: "Warmer body, tired by evening. Father at the centre. Love wants respect. Work is visible, which promotes good work and exposes poor."
+
+- id: p039
+  part: 2
+  chapter: sun
+  layout: two
+  title: "Money and Mind"
+  panels:
+    - scene: "A bank queue. You holds a salary slip drawn as a blank sheet, looking at it with cautious pleasure. The Sun stands beside her pointing through the glass at a watch shop across the road, where one gold watch sits lit in the window. Blank poster frame on the wall for bubbles."
+      chars: [You, Sun]
+      bubbles:
+        - {who: Sun, text: "A King needs a watch that announces him."}
+        - {who: You, text: "My salary rose with my title. So did the price of looking the part."}
+        - {who: Sun, text: "Position pays. Position also shops."}
+    - scene: "A near-empty Mumbai local train at midday, no other passengers in frame. You sits at the window, sunlight hard on her face, looking at her own reflection in the glass with a clear, unsentimental expression. The Sun is the light pouring through the window, his crowned face faint in the glare. Space above the seats for bubbles."
+      chars: [You, Sun]
+      bubbles:
+        - {who: Sun, text: "You see through everyone now. They see through you."}
+        - {who: You, text: "I used to call that rude. Now I call it Tuesday."}
+  caption: "Money comes through position, not pleasure, and leaves on status. The mind gets clear and proud. Pretence stops working, yours included."
+
+- id: p040
+  part: 2
+  chapter: sun
+  layout: grid6
+  title: "The Other Deputies"
+  panels:
+    - scene: "The flat's living room, three framed things taken off the wall and leaning face down, a sealed envelope on the table. The Moon sits beside You on the sofa, wrapping a shawl round her, tiffin open. The Sun stands at the window with his back turned, arms folded. Space above the sofa for a bubble."
+      chars: [You, Moon, Sun]
+      bubbles:
+        - {who: Moon, text: "You quit three things. How do you feel?"}
+    - scene: "Five in the morning in the flat. Mars, red skin and brass armour, blows his whistle and points at a blank whiteboard with a single arrow drawn on it. You stands in pyjamas holding chai, resigned. The Sun sits on the sofa nodding his approval. Blank whiteboard space for a bubble."
+      chars: [You, Mars, Sun]
+      bubbles:
+        - {who: Mars, text: "The King wants a project. Five am. Go."}
+    - scene: "An office corridor. Jupiter, big and gold-robed, puts a hand on You's shoulder and hands her a laddoo; a framed award with no lettering hangs on the wall behind them. The Sun poses beside the award as if it were his own. Ceiling space for a bubble."
+      chars: [You, Jupiter, Sun]
+      bubbles:
+        - {who: Jupiter, text: "Recognition! Also a mentor. Also a laddoo."}
+    - scene: "The flat's desk piled with exam papers and notebooks drawn as blank lined pages. Mercury, green and quick, writes with one hand and holds two phones with the other. You writes alongside him, hair tied up, a pen in her teeth. The Sun reads over her shoulder. Space above the desk for a bubble."
+      chars: [You, Mercury, Sun]
+      bubbles:
+        - {who: Mercury, text: "Write it down. All of it. Faster."}
+    - scene: "The living room with five chairs set in a circle for friends, all empty. Ketu, glowing, quietly stacks the empty chairs. You stands holding a tray with too many cups of chai. The Sun looks at the empty chairs, affronted that nobody came. Blank wall for a bubble."
+      chars: [You, Ketu, Sun]
+      bubbles:
+        - {who: Ketu, text: "Fewer."}
+    - scene: "Evening in the flat. Venus, back in pink and gold with jasmine, lowers the harsh tube light to a warm lamp and sets a dinner table for two. The Sun sits on his chair, allowing it with difficulty. You stands upright, calm, a little surprised. Space above the table for a bubble."
+      chars: [You, Venus, Sun]
+      bubbles:
+        - {who: Venus, text: "The King found himself. Now, dinner for two."}
+  caption: "Six deputies in the King's bright flat. Rahu and Saturn, the eclipse and the audit, get the next two pages."
+
+- id: p041
+  part: 2
+  chapter: sun
+  layout: three
+  title: "Sun Season, Rahu Deputy"
+  panels:
+    - scene: "An office with a broken air conditioner, afternoon. Rahu, smoky purple, sunglasses, shopping bags, drifts in and hangs in the air directly in front of the Sun, so the Sun's light is blocked and the room darkens to a dim ring of eclipse light. You at her desk looks up from a form drawn as a blank page. Dark ceiling space for bubbles."
+      chars: [You, Rahu, Sun]
+      bubbles:
+        - {who: Rahu, text: "New name. New city. New you. Sign here."}
+        - {who: Sun, text: "Can anyone see me? Hello?"}
+        - {who: You, text: "Who turned the King off."}
+    - scene: "The same office in eclipse gloom. You stands wearing Rahu's oversized designer sunglasses and carrying two foreign shopping bags, a drone following her like a pet. Rahu gestures grandly at a window showing a foreign skyline in silhouette. The Sun is a faint outline behind the smoke; his crown sits on an empty chair, ignored. Blank wall above for bubbles."
+      chars: [You, Rahu, Sun]
+      bubbles:
+        - {who: Rahu, text: "Everyone is wearing my clothes now. Even the courtiers."}
+        - {who: You, text: "I applied for a job in a country I cannot pronounce. It felt like me."}
+        - {who: Sun, text: "It is not you. I am still here. Behind the smoke."}
+    - scene: "The smoke clears; daylight floods back into the office. The Sun stands exactly where he was, arms folded, embarrassed. You takes the sunglasses off and looks at the unsigned form in her hand, then at the Sun. Rahu is a wisp of purple drifting out of the door with his bags. Bright ceiling clear for bubbles."
+      chars: [You, Rahu, Sun]
+      bubbles:
+        - {who: Sun, text: "I was here the whole time. Nobody noticed. I am very hurt."}
+        - {who: You, text: "I nearly signed in a name that was not mine."}
+        - {who: Rahu, text: "Offer stands. Ten months, then I am back in eighteen years."}
+  caption: "Rahu swallows the Sun: the eclipse. You will be tempted to become someone else. Wait for the shadow to pass before signing."
+
+- id: p042
+  part: 2
+  chapter: sun
+  layout: three
+  title: "Sun Season, Saturn Deputy"
+  panels:
+    - scene: "The flat's living room, now very gold: a gold throw, gold cushions, the Sun on his armchair throne. Saturn walks in slowly, dark blue skin, black robe, grey beard, a crow on his shoulder and an open ledger in his hands showing blank pages. You sits at the dining table with chai, watching like it is a family dinner. Ceiling space clear for bubbles."
+      chars: [You, Sun, Saturn]
+      bubbles:
+        - {who: Saturn, text: "Father. The ledgers are empty."}
+        - {who: Sun, text: "Kings do not keep accounts."}
+        - {who: Saturn, text: "For eleven months, this one will."}
+        - {who: You, text: "Family dinner energy."}
+    - scene: "The dining table covered in small blank paper slips. Saturn stands over the seated Sun, who grips a pen and signs with a scowl. You passes the next slip across the table. The crow perches on a lamp. A lamp, a plate and a small trophy sit in a row as the items being signed for. Blank wall for bubbles."
+      chars: [You, Sun, Saturn]
+      bubbles:
+        - {who: Sun, text: "A receipt for a lamp? I am the light."}
+        - {who: Saturn, text: "Sign."}
+        - {who: You, text: "My boss and my father both called today. Same tone. Same question."}
+    - scene: "Eleven months later. The Sun sits quieter on the armchair, a filled ledger open on his lap, actually reading it, crown sitting a little straighter. Saturn walks slowly out of the door without looking back, the crow following. You stands by the window with better posture than before. Space above the door for bubbles."
+      chars: [You, Sun, Saturn]
+      bubbles:
+        - {who: Sun, text: "I know what the kingdom costs. And what I am for."}
+        - {who: Saturn, text: "Good. Eleven months."}
+        - {who: You, text: "The clarity was worth the humiliation. Do not tell him I said that."}
+  caption: "Saturn is the Sun's neglected son; they cannot stand each other. The audit of your authority. Do the paperwork."
+
+- id: p043
+  part: 2
+  chapter: sun
+  layout: two
+  title: "The Wrong Room"
+  panels:
+    - scene: "The flat drawn as a cutaway floor plan of twelve rooms in a ring. The Sun sits on the armchair in his room, the family living room. Venus, suitcases and chai thermos in hand, stands in the doorway of a storeroom at the far side of the ring, past the kitchen, full of pickle jars. You stands in the centre pointing at the storeroom. Centre space clear for bubbles."
+      chars: [You, Sun, Venus]
+      bubbles:
+        - {who: Venus, text: "The Minister of Pleasure. In the storeroom. Darling."}
+        - {who: Sun, text: "Count from me. Twelfth. Everyone counts from me."}
+        - {who: You, text: "He is right, for once. It is his season."}
+    - scene: "The back gate of the building at dawn. You stands outside it with a suitcase and a marigold garland round her neck, looking back. Venus holds the gate open from inside, chai in hand, smiling. The Sun watches from the living room window above, arms folded. The empty lane and sky above the gate for bubbles."
+      chars: [You, Sun, Venus]
+      bubbles:
+        - {who: Venus, text: "The wedding still happens, darling. By the back door."}
+        - {who: You, text: "Twelfth from home is leaving home. Nobody told me the floor plan meant that."}
+        - {who: Sun, text: "Visit. Often. Applaud when you do."}
+  caption: "Count from the Sun. A deputy in the 6th, 8th or 12th from him still delivers, late, sideways, or at a cost."
+
+- id: p044
+  part: 2
+  chapter: sun
+  layout: fact
+  title: "Where the Sun Sits"
+  panels:
+    - scene: "Half-page panel. You holds up a tablet showing a chart drawn as a 2BHK floor plan with twelve rooms, no lettering. The Sun stands beside her holding up a single golden key on a chain as if it were a trophy, crown blazing. You looks at the one key, then at the plan, then at him. Left side of the panel left empty for bubbles; fact box below."
+      chars: [You, Sun]
+      bubbles:
+        - {who: Sun, text: "I own one room in your chart. One. It decides everything."}
+        - {who: You, text: "One room, one verdict. The cleanest case there is."}
+        - {who: Sun, text: "The cleanest. Did everyone hear that?"}
+  fact:
+    - "The Sun is on your side: Aries, Taurus, Leo, Scorpio and Sagittarius rising."
+    - "The Sun tests you: Gemini, Libra and Pisces rising."
+    - "Mixed: Cancer, Virgo, Capricorn and Aquarius rising."
+    - "The Sun owns one sign, Leo, so he owns one room for your rising sign. That room decides."
+  caption: "The Sun owns one room for your rising sign. One room, one verdict. A Sun who tests you makes the seeing uncomfortable."
+
+- id: p045
+  part: 2
+  chapter: sun
+  layout: three
+  title: "Homework"
+  panels:
+    - scene: "Sunrise on a sea-facing promenade, the sea on one side, a long curve of pavement on the other. You walks upright with the small brown dog on a lead. The Sun rises over the water as himself, crowned, arms wide, lighting her from the side. Open sky for bubbles."
+      chars: [You, Sun]
+      bubbles:
+        - {who: Sun, text: "Walk at sunrise. Sit straight. Check the pressure."}
+        - {who: You, text: "You just want to be looked at every morning."}
+        - {who: Sun, text: "Both can be true."}
+    - scene: "The flat's living room, morning. You stands at the window with her phone to her ear, back straight, a small nervous smile. The old armchair in the centre of the room is empty. The Sun stands beside her, nodding slowly, hands behind his back. Blank wall above the armchair for bubbles."
+      chars: [You, Sun]
+      bubbles:
+        - {who: You, text: "Calling my father. Making peace, or at least making the call."}
+        - {who: Sun, text: "He is me. I am him. Say hello."}
+    - scene: "An office meeting room with a broken air conditioner and a long empty table, chairs pushed back as if others have just left. You stands at the head of the table with one hand half raised, having just asked. The Sun stands at the back applauding alone under his own light. Blank whiteboard behind for bubbles."
+      chars: [You, Sun]
+      bubbles:
+        - {who: You, text: "I asked for the title. The thing I would be embarrassed to be caught not doing."}
+        - {who: Sun, text: "Did everyone see what she did? Did you?"}
+  caption: "Ask for the title. Call your father. Walk at sunrise. Pride is the shadow; Saturn's year collects on it."
+
+- id: p046
+  part: 2
+  chapter: sun
+  layout: single
+  title: "Last Year: Venus Returns, the Moon Waits"
+  panels:
+    - scene: "The flat at evening. Venus, back for the closing year, has dimmed the tube light to a warm lamp and laid a dinner table for two. The Sun sits on his armchair, allowing it with visible effort. You sits at the table, calm. In the hallway outside the open door, the Moon waits in her silver-white saree with two stacked tiffins and a suitcase. Hallway ceiling clear for bubbles."
+      chars: [You, Sun, Venus, Moon]
+      bubbles:
+        - {who: Venus, text: "The kingdom found itself. Now, darling, let someone else matter."}
+        - {who: Sun, text: "That costs me something. Fine. Did everyone see me allow it?"}
+        - {who: Moon, text: "Have you eaten? I brought two tiffins. Ten years' worth."}
+        - {who: You, text: "Six years. I know what I am for. Also, I am hungry."}
+  caption: "The Sun's last year is Venus's: softness returns, with an ego cost. The Moon's ten years are in the hallway."

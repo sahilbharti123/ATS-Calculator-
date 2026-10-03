@@ -1,0 +1,238 @@
+# Your Life in Seasons: the comic. Part 2, chapter: the Mars season (7 years).
+# Fact source: book/08-the-mars-season.md, book/03-seasons-inside-seasons.md, tools/CASE-TIMELINES.md
+
+- id: p057
+  part: 2
+  chapter: mars
+  layout: single
+  title: "The Commander Takes the Keys"
+  panels:
+    - scene: "The flat's front door, morning. The Moon stands in the doorway holding out a bunch of keys and a tiffin. Mars in brass armour and red cape strides past her without a glance, hammer in hand, whistle in his teeth, tearing a framed picture off the wall to expose a long crack behind it. You stand by the sofa with the small brown dog. Empty space above Mars for bubbles."
+      chars: [Moon, Mars, You]
+      bubbles:
+        - {who: Moon, text: "The keys, Commander. And a tiffin for the road."}
+        - {who: Mars, text: "Keep them. Who cracked this wall? Ten years you stepped around it."}
+        - {who: You, text: "It is a rented flat."}
+        - {who: Mars, text: "Not for long."}
+  caption: "The Mars season builds, defends and fights, in that order of value. Your job is to choose the fights."
+
+- id: p058
+  part: 2
+  chapter: mars
+  layout: four
+  title: "How the Mars Season Feels"
+  panels:
+    - scene: "Body. A small neighbourhood gym at 5 am, dark windows, one tube light. You run on a treadmill in a mustard t-shirt, half awake. Mars stands beside it with a stopwatch and whistle, a scooter helmet hung on the treadmill handle. Empty space on the mirror wall behind for bubbles."
+      chars: [You, Mars]
+      bubbles:
+        - {who: Mars, text: "Move and the body pays you back. Also wear the helmet."}
+        - {who: You, text: "On a treadmill?"}
+        - {who: Mars, text: "Everywhere."}
+    - scene: "Home. An empty plot of land at the edge of a town, a surveyor's tape stretched across it. Mars paces out the boundary in big strides and kicks a neighbour's fence post. You hold the other end of the tape, sling bag across her chest, a brochure under her arm. Open sky above for bubbles."
+      chars: [Mars, You]
+      bubbles:
+        - {who: Mars, text: "Buy land. Build a wall. Then find out exactly whose fence that is."}
+        - {who: You, text: "I came to look at a one-bedroom flat."}
+        - {who: Mars, text: "Flats do not have walls you can defend."}
+    - scene: "Love. The flat's kitchen, evening. You pace with a phone to her ear, mid-argument, a torn cushion on the floor. Mars stands behind her like a boxing coach, hands on her shoulders, nodding her on. The small brown dog hides under the table. Empty space above the counter for bubbles."
+      chars: [You, Mars]
+      bubbles:
+        - {who: Mars, text: "Say it now. Loudly. Then make up. Also loudly."}
+        - {who: You, text: "It is about the dishes."}
+        - {who: Mars, text: "Everything is about the dishes."}
+    - scene: "Work. An office with a broken AC, a desk fan pointed at nothing, sweat on every surface. You sit at her desk. Mars stands on the desk pointing his whistle at a closed glass cabin door at the back. Papers lift in the fan's breeze. Empty space above the cabin for bubbles."
+      chars: [You, Mars]
+      bubbles:
+        - {who: Mars, text: "Promotions are not waited for. March in. Ask."}
+        - {who: You, text: "The AC is broken and the boss is sweating. Now?"}
+        - {who: Mars, text: "Now is when they are weakest."}
+  caption: "Body, home, love, work: everything that was someday becomes now, including the argument."
+
+- id: p059
+  part: 2
+  chapter: mars
+  layout: two
+  title: "Money and Mind"
+  panels:
+    - scene: "A two-wheeler showroom on a busy Indian road. Mars pushes a trolley loaded with a power drill, a cement sack and a scooter helmet, pointing at a red scooter. You stand beside a salesman's empty desk holding a small budget notebook open, pen raised. Empty space above the scooter for bubbles."
+      chars: [Mars, You]
+      bubbles:
+        - {who: Mars, text: "A scooter, a drill, a down payment. Money is for deploying."}
+        - {who: You, text: "And saving?"}
+        - {who: Mars, text: "Saving is retreat."}
+        - {who: You, text: "A bold loan needs a budget behind it. I wrote one. Read it."}
+    - scene: "A packed Mumbai local, daytime. You stand holding the overhead rail, clear-eyed, pointing out of the open door at the city passing. Mars beside her grips the rail with steam rising off his armour, impatient. Empty space above the heads of the two for bubbles."
+      chars: [You, Mars]
+      bubbles:
+        - {who: Mars, text: "You know what you want faster now. Say it."}
+        - {who: You, text: "That job. That flat. And that man to stop leaning on me."}
+        - {who: Mars, text: "Good. Louder."}
+  caption: "Mars spends on action and thinks in verdicts. Impatience and clarity arrive on the same train."
+
+- id: p060
+  part: 2
+  chapter: mars
+  layout: grid6
+  title: "The Deputies, Six at a Glance"
+  panels:
+    - scene: "The flat turned into a barracks: cots, a punching bag, a whiteboard with arrows and no words. Rahu floats in with shopping bags and unrolls a huge map in front of Mars, his drone hovering above it. Mars leans in, eyes wide. Empty space above the map for one bubble."
+      chars: [Rahu, Mars]
+      bubbles:
+        - {who: Rahu, text: "A map of a country you have never seen. Charge."}
+    - scene: "A property registration office with a long queue of empty chairs and a ceiling fan. Jupiter in yellow robes points at one page of a brochure while holding a laddoo, and Mars nods for once. Empty space above the counter for one bubble."
+      chars: [Jupiter, Mars]
+      bubbles:
+        - {who: Jupiter, text: "This property, not that one. Eleven months. Build."}
+    - scene: "A colony road at dawn. Mars is mid-sprint, cape flying. Saturn stands directly in his path like a speed bump, one palm raised, ledger under his arm, crow on his shoulder. Mars skids. Empty space in the sky for one bubble."
+      chars: [Mars, Saturn]
+      bubbles:
+        - {who: Saturn, text: "You cannot march until the wall is paid for."}
+    - scene: "A desk piled with forms and stamps. Mercury in a green kurta fills in forms with one hand and holds three phones in the other, while Mars stands behind him, arms crossed, whistle drooping. Empty space above the desk for one bubble."
+      chars: [Mercury, Mars]
+      bubbles:
+        - {who: Mercury, text: "Paperwork, follow-ups, forms. Yes, all twelve copies."}
+    - scene: "The barracks gym corner. Ketu sits cross-legged on the weight bench, begging bowl in lap, glowing light where his head should be. The dumbbell rack behind him is empty. Mars looks around the room, baffled. Empty space above for one bubble."
+      chars: [Ketu, Mars]
+      bubbles:
+        - {who: Ketu, text: "Dumbbells."}
+    - scene: "The barracks now strung with fairy lights. Venus in a pink and gold saree lounges on the weight bench with a cup of chai, a jasmine garland hung on Mars's whistle. Mars stares at the garland. Empty space above the bench for one bubble."
+      chars: [Venus, Mars]
+      bubbles:
+        - {who: Venus, text: "Fourteen months. Passion, comfort, a nicer sofa."}
+  caption: "Then the Sun's four months bring recognition for what was built, and the Moon's seven months cool the bridge to Rahu."
+
+- id: p061
+  part: 2
+  chapter: mars
+  layout: three
+  title: "Mars season, Venus deputy, Sun intern"
+  panels:
+    - scene: "An office at 9 pm, shelves of files, a dying plant, one desk lamp. You sit at a desk with a laptop, tired, chin on hand. Mars leans in from the left and slams a clipboard on the desk. Venus perches on the right desk edge with chai and her phone. The Sun bursts through the door behind in a blaze of gold. Empty space above the heads for bubbles."
+      chars: [You, Mars, Venus, Sun]
+      bubbles:
+        - {who: Mars, text: "Training at five. Non-negotiable."}
+        - {who: Venus, text: "After which, brunch. Also non-negotiable."}
+        - {who: Sun, text: "AND I have arrived."}
+        - {who: You, text: "It is a Tuesday."}
+    - scene: "Closer on the same desk. Venus swipes through a dating app, chai in the other hand. Mars has the whistle in his mouth, cheeks puffed. You sit between them with her eyes closed. The Sun poses in the doorway behind for nobody, one hand raised. Empty space above the desk for bubbles."
+      chars: [You, Mars, Venus, Sun]
+      bubbles:
+        - {who: Venus, text: "Fourteen months of me. Passion, comfort, property with a nice balcony."}
+        - {who: Mars, text: "Passion is fine. Marriage heat is fine. Over-spending is not."}
+        - {who: Sun, text: "Nobody is looking at me."}
+        - {who: You, text: "Correct."}
+    - scene: "The gym at 5 am, still dark. You jog on a treadmill half asleep. Venus is asleep on a yoga mat under a shawl, chai cup beside her. The Sun glares in through the window, rising. Mars blows his whistle at the treadmill. Empty space on the back wall for bubbles."
+      chars: [You, Mars, Venus, Sun]
+      bubbles:
+        - {who: Mars, text: "See? Everyone came."}
+        - {who: Venus, text: "I am here in spirit. The spirit is asleep."}
+        - {who: Sun, text: "I rise at this hour every day. Unthanked."}
+        - {who: You, text: "Why."}
+  caption: "Manager, deputy, intern. Your week is whatever the three of them agree on, which is nothing."
+
+- id: p062
+  part: 2
+  chapter: mars
+  layout: three
+  title: "Mars Season, Saturn Deputy"
+  panels:
+    - scene: "The flat's front door. Mars stands ready to charge out, three rolled maps under one arm, gym bag over the other shoulder. Saturn blocks the doorway slowly, ledger open, crow on his shoulder, not moving. You watch from the sofa with the small brown dog. Empty space above the door for bubbles."
+      chars: [Mars, Saturn, You]
+      bubbles:
+        - {who: Mars, text: "Three campaigns. A gym, a venture, a fight with the neighbour."}
+        - {who: Saturn, text: "The wall is not paid for. Sit."}
+        - {who: Mars, text: "Commanders do not sit."}
+        - {who: Saturn, text: "This one does. A year and a month."}
+    - scene: "A hospital waiting room, plastic chairs in a row, a token display with no numbers, a water cooler. Mars sits perfectly still for the first time, rubbing his shoulder, armour off his arm. You sit beside him holding a file. Saturn reads his ledger two chairs away. Empty space above the chairs for bubbles."
+      chars: [Mars, You, Saturn]
+      bubbles:
+        - {who: Mars, text: "My shoulder has hurt for months. Why am I only noticing now."}
+        - {who: You, text: "Because you stopped."}
+        - {who: Saturn, text: "Routine check-up. Small things. This is the gift."}
+    - scene: "The flat a year later. Mars does a one-armed push-up with the crow perched on his back, fitter than ever. Saturn closes his ledger with a slow nod. You stand at the door with the small brown dog, bag on shoulder, watching Mars eye the neighbour's door. Empty space above for bubbles."
+      chars: [Mars, Saturn, You]
+      bubbles:
+        - {who: Mars, text: "Fittest I have ever been. I hated every day."}
+        - {who: Saturn, text: "Noted."}
+        - {who: You, text: "He is going to charge the neighbour now, is he not."}
+  caption: "Accelerator and brake pressed together. Saturn stops the Commander so the body and the accounts can catch up."
+
+- id: p063
+  part: 2
+  chapter: mars
+  layout: two
+  title: "The Wrong Room"
+  panels:
+    - scene: "The barracks corridor, cots lined up through the doors. Mars stands at his own door with a whistle, counting doors along the corridor with sharp chops of his hand. Venus, Jupiter, Rahu and Saturn wait in a line with luggage, Venus with a vanity case. Empty space above the line for bubbles."
+      chars: [Mars, Venus, Jupiter, Rahu, Saturn]
+      bubbles:
+        - {who: Mars, text: "Count from my room. Fifth and ninth doors, good cots. Sixth, eighth, twelfth..."}
+        - {who: Venus, text: "Let me guess."}
+        - {who: Mars, text: "The storeroom. With the cement."}
+    - scene: "A cramped storeroom stacked with cement sacks and paint tins. Venus has hung a string of fairy lights anyway and lounges on a sack in her pink saree, chai balanced on a tin, jasmine in her hair. You peer in from the doorway with the small brown dog, sniffing. Empty space above the door for bubbles."
+      chars: [Venus, You]
+      bubbles:
+        - {who: Venus, text: "It is not that I am bad. It is where he put me."}
+        - {who: You, text: "You have made the cement smell of jasmine."}
+        - {who: Venus, text: "Fourteen months is a long time to sulk."}
+  caption: "Count the deputy's room from Mars's. In the 6th, 8th or 12th, even the sweetest sub-season gets distracted and spends."
+
+- id: p064
+  part: 2
+  chapter: mars
+  layout: fact
+  title: "Where Mars Sits for You"
+  panels:
+    - scene: "A living room wall with twelve empty picture frames hung in a ring, six glowing red-gold, six in shadow. Mars stands before it pointing his whistle at the frames, cape still. You sit on the sofa with a phone app open, the small brown dog hiding behind a cushion. Empty space to the right for bubbles."
+      chars: [Mars, You]
+      bubbles:
+        - {who: Mars, text: "Six rising signs get me as a friend. Six get me as homework."}
+        - {who: You, text: "Which am I?"}
+        - {who: Mars, text: "Does not matter. Both wear the helmet."}
+  fact:
+    - "On your side: Aries, Cancer, Leo, Scorpio, Sagittarius and Pisces rising."
+    - "Tests you: Taurus, Gemini, Virgo, Libra, Capricorn and Aquarius rising."
+    - "Best planet of all for Cancer and Leo rising: career, children, home and luck rise together."
+    - "Mars is hard by nature. The rooms it owns for your rising sign decide, not its temper."
+  caption: "A tough contractor is the best man in town when the house he is building is yours."
+
+- id: p065
+  part: 2
+  chapter: mars
+  layout: three
+  title: "Homework"
+  panels:
+    - scene: "A quiet colony road at 5 am, streetlights still on, a chai stall shuttered. You jog in a mustard t-shirt with the small brown dog on a leash. Mars jogs backwards in front of her, whistle in his mouth, cape bouncing. Empty sky above for bubbles."
+      chars: [You, Mars]
+      bubbles:
+        - {who: Mars, text: "Move every day. A body that trains does not pick fights."}
+        - {who: You, text: "You pick fights with chairs."}
+        - {who: Mars, text: "Chairs start it."}
+    - scene: "The dining table. You write in a small notebook, pen paused, the page blank from the reader's angle. Mars leans over her shoulder, arms crossed, reading. A chair lies tipped over behind him. Empty space above the table for bubbles."
+      chars: [You, Mars]
+      bubbles:
+        - {who: Mars, text: "Choose your fights in writing. What do you want from this one?"}
+        - {who: You, text: "I cannot write it down."}
+        - {who: Mars, text: "Then you do not have it."}
+    - scene: "A balcony at dusk, Tuesday. You stand with a phone to her ear, holding an old photograph of two children. Mars stands beside her, unusually quiet, holding the small brown dog under one arm like a football. Empty sky above for bubbles."
+      chars: [You, Mars]
+      bubbles:
+        - {who: Mars, text: "Tuesday. Something that costs you effort, for someone else."}
+        - {who: You, text: "I am calling my sister. We have not spoken since the wedding."}
+        - {who: Mars, text: "That is the drill."}
+  caption: "Move daily, pick fights in writing, do not drive angry. You are hotter for seven years, not forever."
+
+- id: p066
+  part: 2
+  chapter: mars
+  layout: single
+  title: "Last Year: Rahu in the Hallway"
+  panels:
+    - scene: "The flat, its cracked wall now rebuilt and painted. The Sun pins a medal on Mars's armour while Mars stands at attention. The Moon ladles soup for You at the table under a cooling fan, the small brown dog asleep. Through the open door Rahu floats in the hallway with six foreign shopping bags and sunglasses, his drone hovering, peering at the new wall. Empty space above for bubbles."
+      chars: [Sun, Mars, Moon, You, Rahu]
+      bubbles:
+        - {who: Sun, text: "For the wall, the field and the fitness: a medal. From me. Applaud."}
+        - {who: Moon, text: "Seven months of soup before the Stranger arrives. Eat."}
+        - {who: Rahu, text: "Is that wall load-bearing? I know a guy in Dubai."}
+        - {who: Mars, text: "Who let the drone in."}
+  caption: "The Sun pins a medal on what you built, the Moon cools the house, and the Stranger has already measured it."
