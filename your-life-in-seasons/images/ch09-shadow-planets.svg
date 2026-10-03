@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="740" height="360" viewBox="0 0 740 360" font-family="Georgia, 'Times New Roman', serif">
+  <rect x="0.5" y="0.5" width="739" height="359" fill="#fffaf0" stroke="#b8956a" stroke-width="1.5" rx="6"/>
+  <text x="370" y="30" text-anchor="middle" font-size="18" font-weight="bold" fill="#1e2a5a">Rahu and Ketu: two crossing points, not two bodies</text>
+  <text x="370" y="52" text-anchor="middle" font-size="12.5" fill="#2b3350">Seen from Earth, the Sun's yearly path and the Moon's monthly path are two rings tilted about 5 degrees apart. They cross in exactly two places.</text>
+
+  <!-- Earth -->
+  <circle cx="370" cy="200" r="14" fill="#bfdbfe" stroke="#1e2a5a" stroke-width="1.5"/>
+  <text x="370" y="204" text-anchor="middle" font-size="9.5" fill="#1e2a5a">Earth</text>
+
+  <!-- Sun's path (ecliptic) -->
+  <ellipse cx="370" cy="200" rx="250" ry="70" fill="none" stroke="#fed7aa" stroke-width="5"/>
+  <text x="700" y="98" text-anchor="end" font-size="11.5" fill="#2b3350">the Sun's path (one round a year)</text>
+
+  <!-- Moon's path, tilted -->
+  <ellipse cx="370" cy="200" rx="250" ry="70" fill="none" stroke="#e5e7eb" stroke-width="5" transform="rotate(-9 370 200)"/>
+  <text x="40" y="98" text-anchor="start" font-size="11.5" fill="#2b3350">the Moon's path (one round a month), tilted about 5 degrees</text>
+
+  <!-- crossing points: the two ellipses share the centre, so they cross on the long axis ends -->
+  <circle cx="620" cy="200" r="9" fill="#c7d2fe" stroke="#1e2a5a" stroke-width="1.5"/>
+  <text x="620" y="232" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#1e2a5a">Rahu</text>
+  <text x="620" y="248" text-anchor="middle" font-size="10.5" fill="#2b3350">where the Moon crosses going north</text>
+
+  <circle cx="120" cy="200" r="9" fill="#e9d5ff" stroke="#1e2a5a" stroke-width="1.5"/>
+  <text x="120" y="232" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#1e2a5a">Ketu</text>
+  <text x="120" y="248" text-anchor="middle" font-size="10.5" fill="#2b3350">where the Moon crosses going south</text>
+
+  <!-- backwards arrow -->
+  <path d="M 560 290 A 200 60 0 0 0 180 290" fill="none" stroke="#1e2a5a" stroke-width="1.5" stroke-dasharray="5 4"/>
+  <polygon points="180,290 192,282 190,296" fill="#1e2a5a"/>
+  <text x="370" y="318" text-anchor="middle" font-size="11.5" fill="#2b3350">The two points slide slowly backwards through the zodiac, one full round in about 18.6 years. They are always exactly opposite each other.</text>
+  <text x="370" y="340" text-anchor="middle" font-size="10" font-style="italic" fill="#2b3350">Eclipses happen only when a new or full Moon falls near one of these points: the ancient reason the two points were called the eaters of the Sun and Moon.</text>
+</svg>

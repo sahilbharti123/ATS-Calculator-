@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="230" viewBox="0 0 760 230" font-family="Georgia, 'Times New Roman', serif">
+<rect x="0" y="0" width="760" height="230" rx="12" fill="#fffaf0" stroke="#b8860b" stroke-width="2"/>
+<text x="380.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#7f1d1d">The 120-year timetable when Mercury runs first</text>
+<rect x="30" y="70" width="99.16666666666667" height="46" fill="#bbf7d0" stroke="#3b2314" stroke-width="1.2"/>
+<text x="79.58333333333334" y="90" text-anchor="middle" font-size="12" font-weight="bold" fill="#3b2314">Mercury</text>
+<text x="79.58333333333334" y="107" text-anchor="middle" font-size="11" fill="#7f1d1d">17 y</text>
+<line x1="129.16666666666669" y1="116" x2="129.16666666666669" y2="124" stroke="#3b2314"/>
+<text x="129.16666666666669" y="138" text-anchor="middle" font-size="10" fill="#3b2314">age 17</text>
+<rect x="129.16666666666669" y="70" width="40.833333333333336" height="46" fill="#e9d5ff" stroke="#3b2314" stroke-width="1.2"/>
+<text x="149.58333333333334" y="90" text-anchor="middle" font-size="10" font-weight="bold" fill="#3b2314">Ke</text>
+<text x="149.58333333333334" y="107" text-anchor="middle" font-size="11" fill="#7f1d1d">7 y</text>
+<line x1="170.00000000000003" y1="116" x2="170.00000000000003" y2="124" stroke="#3b2314"/>
+<text x="170.00000000000003" y="138" text-anchor="middle" font-size="10" fill="#3b2314">age 24</text>
+<rect x="170.00000000000003" y="70" width="116.66666666666667" height="46" fill="#fbcfe8" stroke="#3b2314" stroke-width="1.2"/>
+<text x="228.33333333333337" y="90" text-anchor="middle" font-size="12" font-weight="bold" fill="#3b2314">Venus</text>
+<text x="228.33333333333337" y="107" text-anchor="middle" font-size="11" fill="#7f1d1d">20 y</text>
+<line x1="286.6666666666667" y1="116" x2="286.6666666666667" y2="124" stroke="#3b2314"/>
+<text x="286.6666666666667" y="138" text-anchor="middle" font-size="10" fill="#3b2314">age 44</text>
+<rect x="286.6666666666667" y="70" width="35.0" height="46" fill="#fed7aa" stroke="#3b2314" stroke-width="1.2"/>
+<text x="304.1666666666667" y="90" text-anchor="middle" font-size="10" font-weight="bold" fill="#3b2314">Su</text>
+<text x="304.1666666666667" y="107" text-anchor="middle" font-size="11" fill="#7f1d1d">6 y</text>
+<line x1="321.6666666666667" y1="116" x2="321.6666666666667" y2="124" stroke="#3b2314"/>
+<text x="321.6666666666667" y="138" text-anchor="middle" font-size="10" fill="#3b2314">age 50</text>
+<rect x="321.6666666666667" y="70" width="58.333333333333336" height="46" fill="#e5e7eb" stroke="#3b2314" stroke-width="1.2"/>
+<text x="350.83333333333337" y="90" text-anchor="middle" font-size="12" font-weight="bold" fill="#3b2314">Mo</text>
+<text x="350.83333333333337" y="107" text-anchor="middle" font-size="11" fill="#7f1d1d">10 y</text>
+<line x1="380.0" y1="116" x2="380.0" y2="124" stroke="#3b2314"/>
+<text x="380.0" y="138" text-anchor="middle" font-size="10" fill="#3b2314">age 60</text>
+<rect x="380.0" y="70" width="40.833333333333336" height="46" fill="#fecaca" stroke="#3b2314" stroke-width="1.2"/>
+<text x="400.4166666666667" y="90" text-anchor="middle" font-size="10" font-weight="bold" fill="#3b2314">Ma</text>
+<text x="400.4166666666667" y="107" text-anchor="middle" font-size="11" fill="#7f1d1d">7 y</text>
+<line x1="420.8333333333333" y1="116" x2="420.8333333333333" y2="124" stroke="#3b2314"/>
+<text x="420.8333333333333" y="138" text-anchor="middle" font-size="10" fill="#3b2314">age 67</text>
+<rect x="420.8333333333333" y="70" width="105.0" height="46" fill="#c7d2fe" stroke="#3b2314" stroke-width="1.2"/>
+<text x="473.3333333333333" y="90" text-anchor="middle" font-size="12" font-weight="bold" fill="#3b2314">Rahu</text>
+<text x="473.3333333333333" y="107" text-anchor="middle" font-size="11" fill="#7f1d1d">18 y</text>
+<line x1="525.8333333333333" y1="116" x2="525.8333333333333" y2="124" stroke="#3b2314"/>
+<text x="525.8333333333333" y="138" text-anchor="middle" font-size="10" fill="#3b2314">age 85</text>
+<rect x="525.8333333333333" y="70" width="93.33333333333333" height="46" fill="#fde68a" stroke="#3b2314" stroke-width="1.2"/>
+<text x="572.4999999999999" y="90" text-anchor="middle" font-size="12" font-weight="bold" fill="#3b2314">Jupiter</text>
+<text x="572.4999999999999" y="107" text-anchor="middle" font-size="11" fill="#7f1d1d">16 y</text>
+<line x1="619.1666666666666" y1="116" x2="619.1666666666666" y2="124" stroke="#3b2314"/>
+<text x="619.1666666666666" y="138" text-anchor="middle" font-size="10" fill="#3b2314">age 101</text>
+<rect x="619.1666666666666" y="70" width="110.83333333333333" height="46" fill="#bfdbfe" stroke="#3b2314" stroke-width="1.2"/>
+<text x="674.5833333333333" y="90" text-anchor="middle" font-size="12" font-weight="bold" fill="#3b2314">Saturn</text>
+<text x="674.5833333333333" y="107" text-anchor="middle" font-size="11" fill="#7f1d1d">19 y</text>
+<line x1="730.0" y1="116" x2="730.0" y2="124" stroke="#3b2314"/>
+<text x="730.0" y="138" text-anchor="middle" font-size="10" fill="#3b2314">age 120</text>
+<text x="30" y="60" font-size="12" fill="#3b2314">Birth (balance of Mercury dasha runs first)</text>
+<text x="30" y="161" font-size="12" fill="#3b2314">Order never changes: Ketu → Venus → Sun → Moon → Mars → Rahu → Jupiter → Saturn → Mercury → (Ketu again)</text>
+<text x="380.0" y="218" text-anchor="middle" font-size="13" fill="#3b2314" font-style="italic">A full Mercury season is shown; a real person starts partway through the first one (Meera had 11.5 years of it left). Ages are approximate.</text>
+</svg>

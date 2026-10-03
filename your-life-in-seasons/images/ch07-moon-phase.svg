@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="740" height="300" viewBox="0 0 740 300" font-family="Georgia, 'Times New Roman', serif">
+  <rect x="0.5" y="0.5" width="739" height="299" fill="#fffaf0" stroke="#b8956a" stroke-width="1.5" rx="6"/>
+  <text x="370" y="30" text-anchor="middle" font-size="18" font-weight="bold" fill="#1e2a5a">How bright was your Moon at birth?</text>
+  <text x="370" y="52" text-anchor="middle" font-size="12.5" fill="#2b3350">Count how far the Moon stands ahead of the Sun in your chart. Up to 180 degrees it is growing (bright half); after that it is shrinking (dark half).</text>
+
+  <!-- Sun on the left -->
+  <circle cx="60" cy="140" r="22" fill="#fed7aa" stroke="#b8956a" stroke-width="1.5"/>
+  <text x="60" y="145" text-anchor="middle" font-size="11" fill="#2b3350">Sun</text>
+  <text x="60" y="180" text-anchor="middle" font-size="10" fill="#2b3350">0 degrees</text>
+
+  <!-- phase strip -->
+  <line x1="110" y1="140" x2="700" y2="140" stroke="#b8956a" stroke-width="1"/>
+
+  <!-- 45: growing crescent -->
+  <g transform="translate(150,140)">
+    <circle r="18" fill="#2b3350"/>
+    <path d="M0,-18 A18,18 0 0,1 0,18 Z" fill="#fde68a"/>
+    <ellipse rx="9" ry="18" fill="#2b3350"/>
+    <text y="34" text-anchor="middle" font-size="10" fill="#2b3350">45</text>
+  </g>
+  <!-- 90: first half -->
+  <g transform="translate(230,140)">
+    <circle r="18" fill="#2b3350"/>
+    <path d="M0,-18 A18,18 0 0,1 0,18 Z" fill="#fde68a"/>
+    <text y="34" text-anchor="middle" font-size="10" fill="#2b3350">90</text>
+  </g>
+  <!-- 135: growing gibbous -->
+  <g transform="translate(310,140)">
+    <circle r="18" fill="#2b3350"/>
+    <path d="M0,-18 A18,18 0 0,1 0,18 Z" fill="#fde68a"/>
+    <ellipse rx="9" ry="18" fill="#fde68a"/>
+    <text y="34" text-anchor="middle" font-size="10" fill="#2b3350">135</text>
+  </g>
+  <!-- 180: full -->
+  <g transform="translate(390,140)">
+    <circle r="18" fill="#fde68a" stroke="#b8956a" stroke-width="1"/>
+    <text y="34" text-anchor="middle" font-size="10" fill="#2b3350">180 full</text>
+  </g>
+  <!-- 225: shrinking gibbous -->
+  <g transform="translate(470,140)">
+    <circle r="18" fill="#2b3350"/>
+    <path d="M0,-18 A18,18 0 0,0 0,18 Z" fill="#fde68a"/>
+    <ellipse rx="9" ry="18" fill="#fde68a"/>
+    <text y="34" text-anchor="middle" font-size="10" fill="#2b3350">225</text>
+  </g>
+  <!-- 270: last half -->
+  <g transform="translate(550,140)">
+    <circle r="18" fill="#2b3350"/>
+    <path d="M0,-18 A18,18 0 0,0 0,18 Z" fill="#fde68a"/>
+    <text y="34" text-anchor="middle" font-size="10" fill="#2b3350">270</text>
+  </g>
+  <!-- 315: shrinking crescent -->
+  <g transform="translate(630,140)">
+    <circle r="18" fill="#2b3350"/>
+    <path d="M0,-18 A18,18 0 0,0 0,18 Z" fill="#fde68a"/>
+    <ellipse rx="9" ry="18" fill="#2b3350"/>
+    <text y="34" text-anchor="middle" font-size="10" fill="#2b3350">315</text>
+  </g>
+  <!-- 360: new, back with the Sun -->
+  <g transform="translate(700,140)">
+    <circle r="12" fill="#2b3350"/>
+    <text y="30" text-anchor="middle" font-size="10" fill="#2b3350">360 new</text>
+  </g>
+
+  <!-- bright / dark half brackets -->
+  <line x1="120" y1="205" x2="390" y2="205" stroke="#1e2a5a" stroke-width="1.5"/>
+  <text x="255" y="222" text-anchor="middle" font-size="11.5" fill="#1e2a5a">Bright half: the Moon is growing, counted as on your side by nature</text>
+  <line x1="400" y1="205" x2="700" y2="205" stroke="#1e2a5a" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <text x="550" y="222" text-anchor="middle" font-size="11.5" fill="#1e2a5a">Dark half: the Moon is shrinking, weaker by nature</text>
+
+  <!-- case markers -->
+  <circle cx="233" cy="98" r="4" fill="#1e2a5a"/>
+  <text x="233" y="88" text-anchor="middle" font-size="10.5" fill="#1e2a5a">Arjun: 78 degrees, a fat growing crescent</text>
+  <line x1="233" y1="102" x2="233" y2="118" stroke="#1e2a5a" stroke-width="1" stroke-dasharray="3 3"/>
+  <circle cx="357" cy="98" r="4" fill="#1e2a5a"/>
+  <text x="400" y="78" text-anchor="middle" font-size="10.5" fill="#1e2a5a">Devika: 159 degrees, nearly full</text>
+  <line x1="357" y1="102" x2="357" y2="118" stroke="#1e2a5a" stroke-width="1" stroke-dasharray="3 3"/>
+
+  <text x="370" y="252" text-anchor="middle" font-size="11" fill="#2b3350">Parashara counts the growing Moon as on your side by nature and the shrinking Moon as weaker.</text>
+  <text x="370" y="268" text-anchor="middle" font-size="11" fill="#2b3350">A Moon within about 12 degrees of the Sun is outshone, whichever half it is in.</text>
+  <text x="370" y="286" text-anchor="middle" font-size="10" font-style="italic" fill="#2b3350">In the chart: count signs from the Sun to the Moon. In the 7th sign from the Sun it is near full; in the same sign it is near new.</text>
+</svg>

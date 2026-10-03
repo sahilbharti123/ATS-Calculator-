@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="740" height="250" viewBox="0 0 740 250" font-family="Georgia, serif">
+<rect x="1" y="1" width="738" height="248" rx="12" fill="#fffaf0" stroke="#b8956a" stroke-width="2"/>
+<text x="370.0" y="32" text-anchor="middle" font-size="19" font-weight="bold" fill="#1e2a5a">Three kinds of karma, in plain words</text>
+<rect x="30" y="70" width="200" height="110" rx="10" fill="#e5e7eb" stroke="#2b3350" stroke-width="1.2"/>
+<text x="130" y="96" text-anchor="middle" font-size="13" fill="#1e2a5a" font-weight="bold">The whole store</text>
+<text x="130" y="122" text-anchor="middle" font-size="11" fill="#2b3350">Everything you have ever set in motion.</text>
+<text x="130" y="142" text-anchor="middle" font-size="11" fill="#2b3350" font-style="italic">Nobody can read all of it.</text>
+<rect x="270" y="70" width="200" height="110" rx="10" fill="#fde68a" stroke="#2b3350" stroke-width="1.2"/>
+<text x="370" y="96" text-anchor="middle" font-size="13" fill="#1e2a5a" font-weight="bold">The portion allotted to this life</text>
+<text x="370" y="122" text-anchor="middle" font-size="11" fill="#2b3350">The part that has ripened for now.</text>
+<text x="370" y="142" text-anchor="middle" font-size="11" fill="#2b3350" font-style="italic">This is what the chart and its seasons show.</text>
+<rect x="510" y="70" width="200" height="110" rx="10" fill="#bbf7d0" stroke="#2b3350" stroke-width="1.2"/>
+<text x="610" y="96" text-anchor="middle" font-size="13" fill="#1e2a5a" font-weight="bold">What you do now</text>
+<text x="610" y="122" text-anchor="middle" font-size="11" fill="#2b3350">Your choices inside each season.</text>
+<text x="610" y="142" text-anchor="middle" font-size="11" fill="#2b3350" font-style="italic">No chart can show this. It is yours.</text>
+<path d="M232 125 L266 125" stroke="#1e2a5a" stroke-width="2"/>
+<path d="M260 119 L268 125 L260 131" fill="none" stroke="#1e2a5a" stroke-width="2"/>
+<path d="M472 125 L506 125" stroke="#1e2a5a" stroke-width="2"/>
+<path d="M500 119 L508 125 L500 131" fill="none" stroke="#1e2a5a" stroke-width="2"/>
+<text x="370.0" y="212" text-anchor="middle" font-size="12" fill="#2b3350" font-style="italic">The tradition's own picture: a season map is a timetable of the allotted part, never of the whole.</text>
+<text x="370.0" y="232" text-anchor="middle" font-size="11" fill="#2b3350">Sanskrit, for the glossary only: sanchita, prarabdha, kriyamana.</text>
+</svg>

@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="740" height="470" viewBox="0 0 740 470" font-family="Georgia, serif">
+<rect x="1" y="1" width="738" height="468" rx="12" fill="#fffaf0" stroke="#b8956a" stroke-width="2"/>
+<text x="370.0" y="32" text-anchor="middle" font-size="19" font-weight="bold" fill="#1e2a5a">Friend or stranger? The season lord (row) looks at the sub-lord (column)</text>
+<text x="102" y="72" text-anchor="end" font-size="10.5" fill="#1e2a5a" font-weight="bold">Season lord</text>
+<text x="142.0" y="72" text-anchor="middle" font-size="10.5" fill="#1e2a5a" font-weight="bold">Sun</text>
+<text x="206.0" y="72" text-anchor="middle" font-size="10.5" fill="#1e2a5a" font-weight="bold">Moon</text>
+<text x="270.0" y="72" text-anchor="middle" font-size="10.5" fill="#1e2a5a" font-weight="bold">Mars</text>
+<text x="334.0" y="72" text-anchor="middle" font-size="10.5" fill="#1e2a5a" font-weight="bold">Mercury</text>
+<text x="398.0" y="72" text-anchor="middle" font-size="10.5" fill="#1e2a5a" font-weight="bold">Jupiter</text>
+<text x="462.0" y="72" text-anchor="middle" font-size="10.5" fill="#1e2a5a" font-weight="bold">Venus</text>
+<text x="526.0" y="72" text-anchor="middle" font-size="10.5" fill="#1e2a5a" font-weight="bold">Saturn</text>
+<text x="590.0" y="72" text-anchor="middle" font-size="10.5" fill="#1e2a5a" font-weight="bold">Rahu</text>
+<text x="654.0" y="72" text-anchor="middle" font-size="10.5" fill="#1e2a5a" font-weight="bold">Ketu</text>
+<rect x="10" y="80" width="676" height="36" fill="#fed7aa" fill-opacity="0.55" stroke="#b8956a" stroke-width="0.6"/>
+<text x="102" y="102.0" text-anchor="end" font-size="11" fill="#1e2a5a" font-weight="bold">Sun</text>
+<text x="142.0" y="102.0" text-anchor="middle" font-size="9" fill="#2b3350" font-style="italic">itself</text>
+<circle cx="206.0" cy="98.0" r="8" fill="#15803d" stroke="#15803d" stroke-width="1.5"/>
+<circle cx="270.0" cy="98.0" r="8" fill="#15803d" stroke="#15803d" stroke-width="1.5"/>
+<circle cx="334.0" cy="98.0" r="8" fill="none" stroke="#b45309" stroke-width="1.5"/><path d="M334.0 90.0 A8 8 0 0 1 334.0 106.0 Z" fill="#b45309"/>
+<circle cx="398.0" cy="98.0" r="8" fill="#15803d" stroke="#15803d" stroke-width="1.5"/>
+<circle cx="462.0" cy="98.0" r="8" fill="none" stroke="#b91c1c" stroke-width="2"/>
+<circle cx="526.0" cy="98.0" r="8" fill="none" stroke="#b91c1c" stroke-width="2"/>
+<circle cx="590.0" cy="98.0" r="8" fill="none" stroke="#b91c1c" stroke-width="2"/>
+<circle cx="654.0" cy="98.0" r="8" fill="none" stroke="#b91c1c" stroke-width="2"/>
+<rect x="10" y="116" width="676" height="36" fill="#e5e7eb" fill-opacity="0.55" stroke="#b8956a" stroke-width="0.6"/>
+<text x="102" y="138.0" text-anchor="end" font-size="11" fill="#1e2a5a" font-weight="bold">Moon</text>
+<circle cx="142.0" cy="134.0" r="8" fill="#15803d" stroke="#15803d" stroke-width="1.5"/>
+<text x="206.0" y="138.0" text-anchor="middle" font-size="9" fill="#2b3350" font-style="italic">itself</text>
+<circle cx="270.0" cy="134.0" r="8" fill="none" stroke="#b45309" stroke-width="1.5"/><path d="M270.0 126.0 A8 8 0 0 1 270.0 142.0 Z" fill="#b45309"/>
+<circle cx="334.0" cy="134.0" r="8" fill="#15803d" stroke="#15803d" stroke-width="1.5"/>
+<circle cx="398.0" cy="134.0" r="8" fill="none" stroke="#b45309" stroke-width="1.5"/><path d="M398.0 126.0 A8 8 0 0 1 398.0 142.0 Z" fill="#b45309"/>
+<circle cx="462.0" cy="134.0" r="8" fill="none" stroke="#b45309" stroke-width="1.5"/><path d="M462.0 126.0 A8 8 0 0 1 462.0 142.0 Z" fill="#b45309"/>
+<circle cx="526.0" cy="134.0" r="8" fill="none" stroke="#b45309" stroke-width="1.5"/><path d="M526.0 126.0 A8 8 0 0 1 526.0 142.0 Z" fill="#b45309"/>
+<circle cx="590.0" cy="134.0" r="8" fill="none" stroke="#b91c1c" stroke-width="2"/>
+<circle cx="654.0" cy="134.0" r="8" fill="none" stroke="#b91c1c" stroke-width="2"/>
+<rect x="10" y="152" width="676" height="36" fill="#fecaca" fill-opacity="0.55" stroke="#b8956a" stroke-width="0.6"/>
+<text x="102" y="174.0" text-anchor="end" font-size="11" fill="#1e2a5a" font-weight="bold">Mars</text>
+<circle cx="142.0" cy="170.0" r="8" fill="#15803d" stroke="#15803d" stroke-width="1.5"/>
+<circle cx="206.0" cy="170.0" r="8" fill="#15803d" stroke="#15803d" stroke-width="1.5"/>
+<text x="270.0" y="174.0" text-anchor="middle" font-size="9" fill="#2b3350" font-style="italic">itself</text>
+<circle cx="334.0" cy="170.0" r="8" fill="none" stroke="#b91c1c" stroke-width="2"/>
+<circle cx="398.0" cy="170.0" r="8" fill="#15803d" stroke="#15803d" stroke-width="1.5"/>
+<circle cx="462.0" cy="170.0" r="8" fill="none" stroke="#b45309" stroke-width="1.5"/><path d="M462.0 162.0 A8 8 0 0 1 462.0 178.0 Z" fill="#b45309"/>
+<circle cx="526.0" cy="170.0" r="8" fill="none" stroke="#b45309" stroke-width="1.5"/><path d="M526.0 162.0 A8 8 0 0 1 526.0 178.0 Z" fill="#b45309"/>
+<circle cx="590.0" cy="170.0" r="8" fill="none" stroke="#b91c1c" stroke-width="2"/>
+<circle cx="654.0" cy="170.0" r="8" fill="#15803d" stroke="#15803d" stroke-width="1.5"/>
+<rect x="10" y="188" width="676" height="36" fill="#bbf7d0" fill-opacity="0.55" stroke="#b8956a" stroke-width="0.6"/>
+<text x="102" y="210.0" text-anchor="end" font-size="11" fill="#1e2a5a" font-weight="bold">Mercury</text>
+<circle cx="142.0" cy="206.0" r="8" fill="#15803d" stroke="#15803d" stroke-width="1.5"/>
+<circle cx="206.0" cy="206.0" r="8" fill="none" stroke="#b91c1c" stroke-width="2"/>
+<circle cx="270.0" cy="206.0" r="8" fill="none" stroke="#b45309" stroke-width="1.5"/><path d="M270.0 198.0 A8 8 0 0 1 270.0 214.0 Z" fill="#b45309"/>
+<text x="334.0" y="210.0" text-anchor="middle" font-size="9" fill="#2b3350" font-style="italic">itself</text>
+<circle cx="398.0" cy="206.0" r="8" fill="none" stroke="#b45309" stroke-width="1.5"/><path d="M398.0 198.0 A8 8 0 0 1 398.0 214.0 Z" fill="#b45309"/>
+<circle cx="462.0" cy="206.0" r="8" fill="#15803d" stroke="#15803d" stroke-width="1.5"/>
+<circle cx="526.0" cy="206.0" r="8" fill="none" stroke="#b45309" stroke-width="1.5"/><path d="M526.0 198.0 A8 8 0 0 1 526.0 214.0 Z" fill="#b45309"/>
+<circle cx="590.0" cy="206.0" r="8" fill="#15803d" stroke="#15803d" stroke-width="1.5"/>
+<circle cx="654.0" cy="206.0" r="8" fill="none" stroke="#b45309" stroke-width="1.5"/><path d="M654.0 198.0 A8 8 0 0 1 654.0 214.0 Z" fill="#b45309"/>
+<rect x="10" y="224" width="676" height="36" fill="#fde68a" fill-opacity="0.55" stroke="#b8956a" stroke-width="0.6"/>
+<text x="102" y="246.0" text-anchor="end" font-size="11" fill="#1e2a5a" font-weight="bold">Jupiter</text>
+<circle cx="142.0" cy="242.0" r="8" fill="#15803d" stroke="#15803d" stroke-width="1.5"/>
+<circle cx="206.0" cy="242.0" r="8" fill="#15803d" stroke="#15803d" stroke-width="1.5"/>
+<circle cx="270.0" cy="242.0" r="8" fill="#15803d" stroke="#15803d" stroke-width="1.5"/>
+<circle cx="334.0" cy="242.0" r="8" fill="none" stroke="#b91c1c" stroke-width="2"/>
+<text x="398.0" y="246.0" text-anchor="middle" font-size="9" fill="#2b3350" font-style="italic">itself</text>
+<circle cx="462.0" cy="242.0" r="8" fill="none" stroke="#b91c1c" stroke-width="2"/>
+<circle cx="526.0" cy="242.0" r="8" fill="none" stroke="#b45309" stroke-width="1.5"/><path d="M526.0 234.0 A8 8 0 0 1 526.0 250.0 Z" fill="#b45309"/>
+<circle cx="590.0" cy="242.0" r="8" fill="none" stroke="#b45309" stroke-width="1.5"/><path d="M590.0 234.0 A8 8 0 0 1 590.0 250.0 Z" fill="#b45309"/>
+<circle cx="654.0" cy="242.0" r="8" fill="none" stroke="#b45309" stroke-width="1.5"/><path d="M654.0 234.0 A8 8 0 0 1 654.0 250.0 Z" fill="#b45309"/>
+<rect x="10" y="260" width="676" height="36" fill="#fbcfe8" fill-opacity="0.55" stroke="#b8956a" stroke-width="0.6"/>
+<text x="102" y="282.0" text-anchor="end" font-size="11" fill="#1e2a5a" font-weight="bold">Venus</text>
+<circle cx="142.0" cy="278.0" r="8" fill="none" stroke="#b91c1c" stroke-width="2"/>
+<circle cx="206.0" cy="278.0" r="8" fill="none" stroke="#b91c1c" stroke-width="2"/>
+<circle cx="270.0" cy="278.0" r="8" fill="none" stroke="#b45309" stroke-width="1.5"/><path d="M270.0 270.0 A8 8 0 0 1 270.0 286.0 Z" fill="#b45309"/>
+<circle cx="334.0" cy="278.0" r="8" fill="#15803d" stroke="#15803d" stroke-width="1.5"/>
+<circle cx="398.0" cy="278.0" r="8" fill="none" stroke="#b45309" stroke-width="1.5"/><path d="M398.0 270.0 A8 8 0 0 1 398.0 286.0 Z" fill="#b45309"/>
+<text x="462.0" y="282.0" text-anchor="middle" font-size="9" fill="#2b3350" font-style="italic">itself</text>
+<circle cx="526.0" cy="278.0" r="8" fill="#15803d" stroke="#15803d" stroke-width="1.5"/>
+<circle cx="590.0" cy="278.0" r="8" fill="#15803d" stroke="#15803d" stroke-width="1.5"/>
+<circle cx="654.0" cy="278.0" r="8" fill="#15803d" stroke="#15803d" stroke-width="1.5"/>
+<rect x="10" y="296" width="676" height="36" fill="#bfdbfe" fill-opacity="0.55" stroke="#b8956a" stroke-width="0.6"/>
+<text x="102" y="318.0" text-anchor="end" font-size="11" fill="#1e2a5a" font-weight="bold">Saturn</text>
+<circle cx="142.0" cy="314.0" r="8" fill="none" stroke="#b91c1c" stroke-width="2"/>
+<circle cx="206.0" cy="314.0" r="8" fill="none" stroke="#b91c1c" stroke-width="2"/>
+<circle cx="270.0" cy="314.0" r="8" fill="none" stroke="#b91c1c" stroke-width="2"/>
+<circle cx="334.0" cy="314.0" r="8" fill="#15803d" stroke="#15803d" stroke-width="1.5"/>
+<circle cx="398.0" cy="314.0" r="8" fill="none" stroke="#b45309" stroke-width="1.5"/><path d="M398.0 306.0 A8 8 0 0 1 398.0 322.0 Z" fill="#b45309"/>
+<circle cx="462.0" cy="314.0" r="8" fill="#15803d" stroke="#15803d" stroke-width="1.5"/>
+<text x="526.0" y="318.0" text-anchor="middle" font-size="9" fill="#2b3350" font-style="italic">itself</text>
+<circle cx="590.0" cy="314.0" r="8" fill="#15803d" stroke="#15803d" stroke-width="1.5"/>
+<circle cx="654.0" cy="314.0" r="8" fill="#15803d" stroke="#15803d" stroke-width="1.5"/>
+<rect x="10" y="332" width="676" height="36" fill="#c7d2fe" fill-opacity="0.55" stroke="#b8956a" stroke-width="0.6"/>
+<text x="102" y="354.0" text-anchor="end" font-size="11" fill="#1e2a5a" font-weight="bold">Rahu</text>
+<circle cx="142.0" cy="350.0" r="8" fill="none" stroke="#b91c1c" stroke-width="2"/>
+<circle cx="206.0" cy="350.0" r="8" fill="none" stroke="#b91c1c" stroke-width="2"/>
+<circle cx="270.0" cy="350.0" r="8" fill="none" stroke="#b91c1c" stroke-width="2"/>
+<circle cx="334.0" cy="350.0" r="8" fill="#15803d" stroke="#15803d" stroke-width="1.5"/>
+<circle cx="398.0" cy="350.0" r="8" fill="none" stroke="#b45309" stroke-width="1.5"/><path d="M398.0 342.0 A8 8 0 0 1 398.0 358.0 Z" fill="#b45309"/>
+<circle cx="462.0" cy="350.0" r="8" fill="#15803d" stroke="#15803d" stroke-width="1.5"/>
+<circle cx="526.0" cy="350.0" r="8" fill="#15803d" stroke="#15803d" stroke-width="1.5"/>
+<text x="590.0" y="354.0" text-anchor="middle" font-size="9" fill="#2b3350" font-style="italic">itself</text>
+<circle cx="654.0" cy="350.0" r="8" fill="none" stroke="#b45309" stroke-width="1.5"/><path d="M654.0 342.0 A8 8 0 0 1 654.0 358.0 Z" fill="#b45309"/>
+<rect x="10" y="368" width="676" height="36" fill="#e9d5ff" fill-opacity="0.55" stroke="#b8956a" stroke-width="0.6"/>
+<text x="102" y="390.0" text-anchor="end" font-size="11" fill="#1e2a5a" font-weight="bold">Ketu</text>
+<circle cx="142.0" cy="386.0" r="8" fill="none" stroke="#b91c1c" stroke-width="2"/>
+<circle cx="206.0" cy="386.0" r="8" fill="none" stroke="#b91c1c" stroke-width="2"/>
+<circle cx="270.0" cy="386.0" r="8" fill="#15803d" stroke="#15803d" stroke-width="1.5"/>
+<circle cx="334.0" cy="386.0" r="8" fill="none" stroke="#b45309" stroke-width="1.5"/><path d="M334.0 378.0 A8 8 0 0 1 334.0 394.0 Z" fill="#b45309"/>
+<circle cx="398.0" cy="386.0" r="8" fill="none" stroke="#b45309" stroke-width="1.5"/><path d="M398.0 378.0 A8 8 0 0 1 398.0 394.0 Z" fill="#b45309"/>
+<circle cx="462.0" cy="386.0" r="8" fill="#15803d" stroke="#15803d" stroke-width="1.5"/>
+<circle cx="526.0" cy="386.0" r="8" fill="#15803d" stroke="#15803d" stroke-width="1.5"/>
+<circle cx="590.0" cy="386.0" r="8" fill="none" stroke="#b45309" stroke-width="1.5"/><path d="M590.0 378.0 A8 8 0 0 1 590.0 394.0 Z" fill="#b45309"/>
+<text x="654.0" y="390.0" text-anchor="middle" font-size="9" fill="#2b3350" font-style="italic">itself</text>
+<circle cx="60" cy="430" r="8" fill="#15803d" stroke="#15803d" stroke-width="1.5"/>
+<text x="76" y="434" text-anchor="start" font-size="11" fill="#2b3350">friend: the sub-lord works with the season lord</text>
+<circle cx="60" cy="454" r="8" fill="none" stroke="#b45309" stroke-width="1.5"/><path d="M60 446 A8 8 0 0 1 60 462 Z" fill="#b45309"/>
+<text x="76" y="458" text-anchor="start" font-size="11" fill="#2b3350">neutral: neither helps nor hinders by itself</text>
+<circle cx="60" cy="478" r="8" fill="none" stroke="#b91c1c" stroke-width="2"/>
+<text x="76" y="482" text-anchor="start" font-size="11" fill="#2b3350">stranger: expect friction, delays or a change of direction</text>
+<text x="370.0" y="456" text-anchor="middle" font-size="10" fill="#2b3350" font-style="italic">Parashara's natural friendships for the seven; Rahu and Ketu by the common working convention. The diagonal is the planet's own sub-season.</text>
+</svg>

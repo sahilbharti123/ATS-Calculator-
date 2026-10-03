@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="740" height="520" viewBox="0 0 740 520" font-family="Georgia, serif">
+<rect x="1" y="1" width="738" height="518" rx="12" fill="#fffaf0" stroke="#b8956a" stroke-width="2"/>
+<text x="370.0" y="32" text-anchor="middle" font-size="19" font-weight="bold" fill="#1e2a5a">The wheel of 120 years</text>
+<path d="M370.0 90.0 A190 190 0 0 1 438.1 102.6 L404.0 191.3 A95 95 0 0 0 370.0 185.0 Z" fill="#e9d5ff" stroke="#2b3350" stroke-width="1.2"/>
+<text x="395.96856238263103" y="137.88617567213646" text-anchor="middle" font-size="12" fill="#1e2a5a" font-weight="bold">Ketu</text>
+<text x="395.96856238263103" y="152.88617567213646" text-anchor="middle" font-size="11" fill="#2b3350">7 y</text>
+<text x="443.10706170724126" y="93.54959299457084" text-anchor="middle" font-size="10" fill="#2b3350">7</text>
+<path d="M438.1 102.6 A190 190 0 0 1 557.7 250.3 L463.8 265.1 A95 95 0 0 0 404.0 191.3 Z" fill="#fbcfe8" stroke="#2b3350" stroke-width="1.2"/>
+<text x="480.74329950761836" y="188.32184427539818" text-anchor="middle" font-size="12" fill="#1e2a5a" font-weight="bold">Venus</text>
+<text x="480.74329950761836" y="203.32184427539818" text-anchor="middle" font-size="11" fill="#2b3350">20 y</text>
+<text x="571.4884214814081" y="252.0873691317929" text-anchor="middle" font-size="10" fill="#2b3350">27</text>
+<path d="M557.7 250.3 A190 190 0 0 1 557.7 309.7 L463.8 294.9 A95 95 0 0 0 463.8 265.1 Z" fill="#fed7aa" stroke="#2b3350" stroke-width="1.2"/>
+<text x="512.5" y="278.0" text-anchor="middle" font-size="12" fill="#1e2a5a" font-weight="bold">Sun</text>
+<text x="512.5" y="293.0" text-anchor="middle" font-size="11" fill="#2b3350">6 y</text>
+<text x="571.4884214814081" y="315.9126308682071" text-anchor="middle" font-size="10" fill="#2b3350">33</text>
+<path d="M557.7 309.7 A190 190 0 0 1 517.7 399.6 L443.8 339.8 A95 95 0 0 0 463.8 294.9 Z" fill="#e5e7eb" stroke="#2b3350" stroke-width="1.2"/>
+<text x="500.1802277140706" y="335.9599716383015" text-anchor="middle" font-size="12" fill="#1e2a5a" font-weight="bold">Moon</text>
+<text x="500.1802277140706" y="350.9599716383015" text-anchor="middle" font-size="11" fill="#2b3350">10 y</text>
+<text x="528.5377761372221" y="412.38135977416687" text-anchor="middle" font-size="10" fill="#2b3350">43</text>
+<path d="M517.7 399.6 A190 190 0 0 1 465.0 444.5 L417.5 362.3 A95 95 0 0 0 443.8 339.8 Z" fill="#fecaca" stroke="#2b3350" stroke-width="1.2"/>
+<text x="462.5463468870512" y="386.3578500980044" text-anchor="middle" font-size="12" fill="#1e2a5a" font-weight="bold">Mars</text>
+<text x="462.5463468870512" y="401.3578500980044" text-anchor="middle" font-size="11" fill="#2b3350">7 y</text>
+<text x="472.0" y="460.6691823720255" text-anchor="middle" font-size="10" fill="#2b3350">50</text>
+<path d="M465.0 444.5 A190 190 0 0 1 292.7 453.6 L331.4 366.8 A95 95 0 0 0 417.5 362.3 Z" fill="#c7d2fe" stroke="#2b3350" stroke-width="1.2"/>
+<text x="377.45787376461953" y="420.3047087025268" text-anchor="middle" font-size="12" fill="#1e2a5a" font-weight="bold">Rahu</text>
+<text x="377.45787376461953" y="435.3047087025268" text-anchor="middle" font-size="11" fill="#2b3350">18 y</text>
+<text x="287.02572481253674" y="470.3632733590906" text-anchor="middle" font-size="10" fill="#2b3350">68</text>
+<path d="M292.7 453.6 A190 190 0 0 1 189.3 338.7 L279.6 309.4 A95 95 0 0 0 331.4 366.8 Z" fill="#fde68a" stroke="#2b3350" stroke-width="1.2"/>
+<text x="264.10186236947135" y="373.3511114061373" text-anchor="middle" font-size="12" fill="#1e2a5a" font-weight="bold">Jupiter</text>
+<text x="264.10186236947135" y="388.3511114061373" text-anchor="middle" font-size="11" fill="#2b3350">16 y</text>
+<text x="175.98447067578869" y="347.0394668524893" text-anchor="middle" font-size="10" fill="#2b3350">84</text>
+<path d="M189.3 338.7 A190 190 0 0 1 222.3 160.4 L296.2 220.2 A95 95 0 0 0 279.6 309.4 Z" fill="#bfdbfe" stroke="#2b3350" stroke-width="1.2"/>
+<text x="229.88617567213646" y="252.031437617369" text-anchor="middle" font-size="12" fill="#1e2a5a" font-weight="bold">Saturn</text>
+<text x="229.88617567213646" y="267.03143761736897" text-anchor="middle" font-size="11" fill="#2b3350">19 y</text>
+<text x="211.46222386277796" y="155.61864022583313" text-anchor="middle" font-size="10" fill="#2b3350">103</text>
+<path d="M222.3 160.4 A190 190 0 0 1 370.0 90.0 L370.0 185.0 A95 95 0 0 0 296.2 220.2 Z" fill="#bbf7d0" stroke="#2b3350" stroke-width="1.2"/>
+<text x="308.65216870481794" y="149.38159698014485" text-anchor="middle" font-size="12" fill="#1e2a5a" font-weight="bold">Mercury</text>
+<text x="308.65216870481794" y="164.38159698014485" text-anchor="middle" font-size="11" fill="#2b3350">17 y</text>
+<text x="370" y="274" text-anchor="middle" font-size="14" fill="#1e2a5a" font-weight="bold">120 years</text>
+<text x="370" y="294" text-anchor="middle" font-size="11" fill="#2b3350">one full round</text>
+<text x="370" y="66" text-anchor="middle" font-size="10" fill="#2b3350" font-style="italic">0 and 120: the order starts here</text>
+<text x="370.0" y="506" text-anchor="middle" font-size="11" fill="#2b3350" font-style="italic">Each slice is a season; its width is its share of the 120 years. The order runs clockwise and never changes.</text>
+</svg>

@@ -1,0 +1,65 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='740' height='336' viewBox='0 0 740 336'>
+<rect x='0.5' y='0.5' width='739' height='335' fill='#fffaf0' stroke='#b8956a' stroke-width='1.5' rx='6'/>
+<text x='370.0' y='34' text-anchor='middle' font-family='Georgia, serif' font-size='19' font-weight='bold' fill='#1e2a5a'>The Jupiter season: sixteen years in nine sub-seasons</text>
+<text x='370.0' y='56' text-anchor='middle' font-family='Georgia, serif' font-size='13' fill='#2b3350'>Each sub-season lasts (16 x the sub-lord's years) / 120. Widths are to scale.</text>
+<rect x='40.0' y='110' width='88.0' height='46' fill='#fde68a' stroke='#b8956a' stroke-width='1'/>
+<text x='84.0' y='138.0' text-anchor='middle' font-family='Georgia, serif' font-size='13' fill='#2b3350'>Jupiter</text>
+<line x1='40.0' y1='110' x2='40.0' y2='88' stroke='#2b3350' stroke-width='0.8'/>
+<text x='40.0' y='98' text-anchor='middle' font-family='Georgia, serif' font-size='11' fill='#2b3350'>Jupiter</text>
+<rect x='128.0' y='110' width='104.5' height='46' fill='#bfdbfe' stroke='#b8956a' stroke-width='1'/>
+<text x='180.2' y='138.0' text-anchor='middle' font-family='Georgia, serif' font-size='13' fill='#2b3350'>Saturn</text>
+<line x1='128.0' y1='156' x2='128.0' y2='166' stroke='#2b3350' stroke-width='0.8'/>
+<text x='128.0' y='178' text-anchor='middle' font-family='Georgia, serif' font-size='11' fill='#2b3350'>Saturn</text>
+<rect x='232.5' y='110' width='93.5' height='46' fill='#bbf7d0' stroke='#b8956a' stroke-width='1'/>
+<text x='279.2' y='138.0' text-anchor='middle' font-family='Georgia, serif' font-size='13' fill='#2b3350'>Mercury</text>
+<line x1='232.5' y1='110' x2='232.5' y2='88' stroke='#2b3350' stroke-width='0.8'/>
+<text x='232.5' y='98' text-anchor='middle' font-family='Georgia, serif' font-size='11' fill='#2b3350'>Mercury</text>
+<rect x='326.0' y='110' width='38.5' height='46' fill='#e9d5ff' stroke='#b8956a' stroke-width='1'/>
+<text x='345.2' y='138.0' text-anchor='middle' font-family='Georgia, serif' font-size='13' fill='#2b3350'>Ke</text>
+<line x1='326.0' y1='156' x2='326.0' y2='166' stroke='#2b3350' stroke-width='0.8'/>
+<text x='326.0' y='178' text-anchor='middle' font-family='Georgia, serif' font-size='11' fill='#2b3350'>Ketu</text>
+<rect x='364.5' y='110' width='110.0' height='46' fill='#fbcfe8' stroke='#b8956a' stroke-width='1'/>
+<text x='419.5' y='138.0' text-anchor='middle' font-family='Georgia, serif' font-size='13' fill='#2b3350'>Venus</text>
+<line x1='364.5' y1='110' x2='364.5' y2='88' stroke='#2b3350' stroke-width='0.8'/>
+<text x='364.5' y='98' text-anchor='middle' font-family='Georgia, serif' font-size='11' fill='#2b3350'>Venus</text>
+<rect x='474.5' y='110' width='33.0' height='46' fill='#fed7aa' stroke='#b8956a' stroke-width='1'/>
+<text x='491.0' y='138.0' text-anchor='middle' font-family='Georgia, serif' font-size='13' fill='#2b3350'>Su</text>
+<line x1='474.5' y1='156' x2='474.5' y2='166' stroke='#2b3350' stroke-width='0.8'/>
+<text x='474.5' y='178' text-anchor='middle' font-family='Georgia, serif' font-size='11' fill='#2b3350'>Sun</text>
+<rect x='507.5' y='110' width='55.0' height='46' fill='#e5e7eb' stroke='#b8956a' stroke-width='1'/>
+<text x='535.0' y='138.0' text-anchor='middle' font-family='Georgia, serif' font-size='13' fill='#2b3350'>Moon</text>
+<line x1='507.5' y1='110' x2='507.5' y2='88' stroke='#2b3350' stroke-width='0.8'/>
+<text x='507.5' y='98' text-anchor='middle' font-family='Georgia, serif' font-size='11' fill='#2b3350'>Moon</text>
+<rect x='562.5' y='110' width='38.5' height='46' fill='#fecaca' stroke='#b8956a' stroke-width='1'/>
+<text x='581.8' y='138.0' text-anchor='middle' font-family='Georgia, serif' font-size='13' fill='#2b3350'>Ma</text>
+<line x1='562.5' y1='156' x2='562.5' y2='166' stroke='#2b3350' stroke-width='0.8'/>
+<text x='562.5' y='178' text-anchor='middle' font-family='Georgia, serif' font-size='11' fill='#2b3350'>Mars</text>
+<rect x='601.0' y='110' width='99.0' height='46' fill='#c7d2fe' stroke='#b8956a' stroke-width='1'/>
+<text x='650.5' y='138.0' text-anchor='middle' font-family='Georgia, serif' font-size='13' fill='#2b3350'>Rahu</text>
+<line x1='601.0' y1='110' x2='601.0' y2='88' stroke='#2b3350' stroke-width='0.8'/>
+<text x='601.0' y='98' text-anchor='middle' font-family='Georgia, serif' font-size='11' fill='#2b3350'>Rahu</text>
+<line x1='700' y1='156' x2='700' y2='166' stroke='#2b3350' stroke-width='0.8'/>
+<text x='700' y='178' text-anchor='middle' font-family='Georgia, serif' font-size='11' fill='#2b3350'>end</text>
+<line x1='40' y1='204' x2='700' y2='204' stroke='#b8956a' stroke-width='1'/>
+<line x1='40.0' y1='200' x2='40.0' y2='208' stroke='#b8956a' stroke-width='1'/>
+<text x='40.0' y='222' text-anchor='middle' font-family='Georgia, serif' font-size='10' fill='#2b3350'>0</text>
+<line x1='122.5' y1='200' x2='122.5' y2='208' stroke='#b8956a' stroke-width='1'/>
+<text x='122.5' y='222' text-anchor='middle' font-family='Georgia, serif' font-size='10' fill='#2b3350'>2</text>
+<line x1='205.0' y1='200' x2='205.0' y2='208' stroke='#b8956a' stroke-width='1'/>
+<text x='205.0' y='222' text-anchor='middle' font-family='Georgia, serif' font-size='10' fill='#2b3350'>4</text>
+<line x1='287.5' y1='200' x2='287.5' y2='208' stroke='#b8956a' stroke-width='1'/>
+<text x='287.5' y='222' text-anchor='middle' font-family='Georgia, serif' font-size='10' fill='#2b3350'>6</text>
+<line x1='370.0' y1='200' x2='370.0' y2='208' stroke='#b8956a' stroke-width='1'/>
+<text x='370.0' y='222' text-anchor='middle' font-family='Georgia, serif' font-size='10' fill='#2b3350'>8</text>
+<line x1='452.5' y1='200' x2='452.5' y2='208' stroke='#b8956a' stroke-width='1'/>
+<text x='452.5' y='222' text-anchor='middle' font-family='Georgia, serif' font-size='10' fill='#2b3350'>10</text>
+<line x1='535.0' y1='200' x2='535.0' y2='208' stroke='#b8956a' stroke-width='1'/>
+<text x='535.0' y='222' text-anchor='middle' font-family='Georgia, serif' font-size='10' fill='#2b3350'>12</text>
+<line x1='617.5' y1='200' x2='617.5' y2='208' stroke='#b8956a' stroke-width='1'/>
+<text x='617.5' y='222' text-anchor='middle' font-family='Georgia, serif' font-size='10' fill='#2b3350'>14</text>
+<line x1='700.0' y1='200' x2='700.0' y2='208' stroke='#b8956a' stroke-width='1'/>
+<text x='700.0' y='222' text-anchor='middle' font-family='Georgia, serif' font-size='10' fill='#2b3350'>16</text>
+<text x='370.0' y='240' text-anchor='middle' font-family='Georgia, serif' font-size='11' fill='#2b3350'>years into the season</text>
+<text x='40' y='264' font-family='Georgia, serif' font-size='12' fill='#2b3350'>Longest: Venus (2y 8m), Saturn (2y 6m), Rahu (2y 5m), Mercury (2y 3m), Jupiter (2y 2m).</text>
+<text x='40' y='282' font-family='Georgia, serif' font-size='12' fill='#2b3350'>Shortest: Sun (9m 18d), Ketu and Mars (11m 6d each), Moon (1y 4m).</text>
+</svg>

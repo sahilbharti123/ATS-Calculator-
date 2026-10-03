@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="740" height="300" viewBox="0 0 740 300" font-family="Georgia, serif">
+<rect x="1" y="1" width="738" height="298" rx="12" fill="#fffaf0" stroke="#b8956a" stroke-width="2"/>
+<text x="370.0" y="32" text-anchor="middle" font-size="19" font-weight="bold" fill="#1e2a5a">The changeover is a bridge, not a wall</text>
+<rect x="40" y="90" width="320" height="70" rx="4" fill="#fbcfe8" stroke="#2b3350" stroke-width="1.1"/>
+<rect x="380" y="90" width="320" height="70" rx="4" fill="#fed7aa" stroke="#2b3350" stroke-width="1.1"/>
+<text x="200.0" y="120" text-anchor="middle" font-size="14" fill="#1e2a5a" font-weight="bold">Season A (ending)</text>
+<text x="200.0" y="142" text-anchor="middle" font-size="11" fill="#2b3350" font-style="italic">its nine sub-seasons run down to the last one</text>
+<text x="540.0" y="120" text-anchor="middle" font-size="14" fill="#1e2a5a" font-weight="bold">Season B (beginning)</text>
+<text x="540.0" y="142" text-anchor="middle" font-size="11" fill="#2b3350" font-style="italic">opens with the new lord's own sub-season</text>
+<rect x="250" y="90" width="110" height="70" fill="none" stroke="#1e2a5a" stroke-width="2" stroke-dasharray="6,3"/>
+<rect x="380" y="90" width="110" height="70" fill="none" stroke="#1e2a5a" stroke-width="2" stroke-dasharray="6,3"/>
+<text x="305" y="80" text-anchor="middle" font-size="11" fill="#1e2a5a" font-weight="bold">last year of A</text>
+<text x="435" y="80" text-anchor="middle" font-size="11" fill="#1e2a5a" font-weight="bold">first year of B</text>
+<path d="M 250 190 Q 370 130 490 190" fill="none" stroke="#1e2a5a" stroke-width="2.5"/>
+<text x="370" y="210" text-anchor="middle" font-size="12" fill="#1e2a5a" font-weight="bold">the bridge: about two years, one foot on each bank</text>
+<line x1="370" y1="60" x2="370" y2="165" stroke="#9ca3af" stroke-width="1" stroke-dasharray="2,3"/>
+<text x="370" y="54" text-anchor="middle" font-size="10" fill="#6b7280" font-style="italic">the date in the app</text>
+<text x="40" y="240" text-anchor="start" font-size="12" fill="#1e2a5a" font-weight="bold">On the far bank (last year of A)</text>
+<text x="40" y="258" text-anchor="start" font-size="11" fill="#2b3350">tiredness with the old theme; loose ends; a wish to</text>
+<text x="40" y="273" text-anchor="start" font-size="11" fill="#2b3350">finish; small endings arrive on their own</text>
+<text x="380" y="240" text-anchor="start" font-size="12" fill="#1e2a5a" font-weight="bold">On the near bank (first year of B)</text>
+<text x="380" y="258" text-anchor="start" font-size="11" fill="#2b3350">new people and new rooms; the new lord speaks twice</text>
+<text x="380" y="273" text-anchor="start" font-size="11" fill="#2b3350">(season and sub-season); you do not yet know the</text>
+<text x="380" y="288" text-anchor="start" font-size="11" fill="#2b3350">rules</text>
+</svg>
