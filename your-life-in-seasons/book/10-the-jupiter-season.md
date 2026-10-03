@@ -2,7 +2,11 @@
 
 If you asked a hundred people which season they would choose, most would choose this one. Jupiter is the planet the old books call the great benefic, the Royal Priest of our court, the one who blesses weddings, teaches the children and keeps the King honest. Sixteen years with the Priest running the household sounds like sixteen years of grace.
 
-Often it is: a late child, a first house, a teacher who changes a life, a faith that finally feels like your own. But I have also sat across from people halfway through a Jupiter season who were confused and a little ashamed: "Everyone told me these would be my best years. Why do I feel heavier, slower and poorer?" This chapter is for both. Jupiter's season is the season of growth, and growth is not the same as ease. As in every chapter of this part, the dates for our case-study lives are approximate, to within a month or two.
+![Comic strip: The Jupiter season in three panels.](../images/ch10-comic.png)
+*The Jupiter season in three panels.*
+
+
+Often it is: a late child, a first house, a teacher who changes a life. But I have also sat across from people halfway through a Jupiter season who were confused and a little ashamed: "Everyone told me these would be my best years. Why do I feel heavier, slower and poorer?" This chapter is for both. Jupiter's season is the season of growth, and growth is not the same as ease. As in every chapter of this part, the dates for our case-study lives are approximate, to within a month or two.
 
 ## The Priest runs the household
 
@@ -58,7 +62,7 @@ Here is the part most books leave out, and the part that most often explains a d
 
 > **🔍 Why can the great benefic's season disappoint?** This is the system's own logic, set out by Parashara. Lords of the three lucky rooms (1, 5, 9) help you; lords of rooms 3, 6 and 11 work against you; and a naturally kind planet that owns the pillar rooms (4, 7, 10) loses its kindness there, because the pillars demand action and a priest is not built for action. So for Taurus, Gemini, Virgo, Libra, Capricorn and Aquarius rising, Jupiter owns the wrong rooms, and its season delivers Jupiter's themes through Jupiter's hardest offices: debt, obligation, the in-laws, the heavy career. The great benefic has not turned cruel; he has been given the wrong job. Everyday parallel: the kindest uncle in the family is made treasurer of the housing society. He is still kind. He is also now the man who chases you for the maintenance money.
 
-If Jupiter tests you, do not dread this season. It still brings learning and growth; it simply sends the bill with them: the child who needs expensive schooling, the promotion that eats your evenings, the guru who wants a donation. Knowing this in advance is most of the protection you need.
+If Jupiter tests you, do not dread this season. It still brings learning and growth; it simply sends the bill with them: the child who needs expensive schooling, the promotion that eats your evenings, the guru who wants a donation. Knowing this in advance is most of the protection.
 
 ## The room Jupiter sits in changes the story
 
@@ -105,12 +109,12 @@ This season rewards practices more than purchases, whether Jupiter is on your si
 
 ## Two lives approaching the Priest's years
 
-None of our three case-study people is in a Jupiter season as I write; two are approaching it, so this is a forward look. The dates are solid, because the timetable is arithmetic. The texture is a reading of tendencies, the kind of thing I would say to a friend over tea, not a prophecy.
+None of our three case-study people is in a Jupiter season as I write; two are approaching it, so this is a forward look. The dates are solid, because the timetable is arithmetic; the texture is a reading of tendencies, what I would say to a friend over tea, not a prophecy.
 
 ![Arjun's Jupiter season timeline](../images/ch10-arjun-jupiter.svg)
 *Figure 10.2: Arjun's Jupiter season, December 2031 to December 2047. The dashed sub-seasons are those whose lords sit in a wrong room counted from his Jupiter.*
 
-**Arjun, Cancer rising.** His Rahu season ends around December 2031, and Jupiter runs until December 2047, from age 36.8 to 52.8. For Cancer rising Jupiter owns rooms 6 and 9, and the 9th wins: Jupiter is on his side. It sits in his room 5, Scorpio, the room of children, students and creative work, in the sign of his best planet, Mars. On paper this should feel like coming home after a long hard trip: a teacher, perhaps a child, work that uses his judgement rather than only his hours.
+**Arjun, Cancer rising.** His Rahu season ends around December 2031, and Jupiter runs until December 2047, from age 36.8 to 52.8. For Cancer rising Jupiter owns rooms 6 and 9, and the 9th wins: Jupiter is on his side. It sits in his room 5, Scorpio, the room of children, students and creative work, in the sign of his best planet, Mars. On paper this should feel like coming home after a long hard trip: a teacher, perhaps a child, work that uses his judgement.
 
 Counting rooms from Jupiter in Scorpio: his Saturn, Sun and Mercury in Aquarius are 4th from it, Venus 3rd, the Moon 7th, Mars 10th; none in a wrong room. Two are: Ketu in Aries, 6th from Jupiter (around November 2038 to October 2039), and Rahu in Libra, 12th (around July 2045 to December 2047). So the first dozen years look clear, with the usual Saturn slowing from early 2034 to mid 2036; the short Ketu stretch may bring a withdrawal he should not act on hastily; and the closing Rahu years are his bridge into Saturn, where I would want him finishing things. That is as far as I will go.
 
@@ -119,7 +123,7 @@ Counting rooms from Jupiter in Scorpio: his Saturn, Sun and Mercury in Aquarius 
 
 **Devika, Aries rising.** Her Jupiter season runs from around July 2039 to July 2055, age 60 to 76. For Aries rising Jupiter owns rooms 9 and 12, and again the 9th wins. Her Jupiter sits at its strongest place, Cancer, in her room 4, the room of home, mother and inner peace, beside her Sun; and her Moon and Jupiter have exchanged homes, which the tradition reads as a binding of mind and wisdom.
 
-This is the chart of someone who could become the grandmother everyone consults. Four sub-lords do sit in wrong rooms from her Jupiter: Venus and Mars in Gemini (12th), Ketu in Aquarius (8th), the Moon in Sagittarius (6th, softened by that exchange). So the Venus years, around May 2047 to January 2050, may bring expenses and a quieter social life rather than the usual sweetness. Against that, a Jupiter this strong in the room of home tends to carry its season. If I were reading for her in 2039 I would say: this is your season to teach, to settle, to give the household its shape. Enjoy it.
+Four sub-lords do sit in wrong rooms from her Jupiter: Venus and Mars in Gemini (12th), Ketu in Aquarius (8th), the Moon in Sagittarius (6th, softened by that exchange). So the Venus years, around May 2047 to January 2050, may bring expenses and a quieter social life rather than the usual sweetness. Against that, a Jupiter this strong in the room of home tends to carry its season. If I were reading for her in 2039 I would say: this is your season to teach, to settle, to give the household its shape. Enjoy it.
 
 > **📖 Story: The Priest's two pupils.** The Priest once took two pupils. The first came from the lucky rooms of the palace, and every lesson landed softly. The second was the treasurer's son, and every lesson came with a cost: a fee, a duty, a ledger to balance. Years later both were wise. "Who learned more?" asked the King. "The same," said the Priest. "Who paid more?" "The second. And he will never lend grain he does not have." **Rule:** when Jupiter tests you, the season still teaches; it only charges tuition.
 
@@ -128,12 +132,12 @@ This is the chart of someone who could become the grandmother everyone consults.
 - The Jupiter season is sixteen years when the Royal Priest runs the household: teachers, children, faith, law, wealth and expansion of every kind, including weight and debt.
 - It asks you to grow in the right direction, to give within a budget, and to decide what you believe.
 - Whether Jupiter is on your side depends on your rising sign; for Taurus, Gemini, Virgo, Libra, Capricorn and Aquarius rising it owns the wrong rooms, and its blessings arrive with a bill.
-- Watch Jupiter/Jupiter (the theme), Jupiter/Saturn (the audit), Jupiter/Mercury (the paperwork) and Jupiter/Rahu (the bridge into Saturn); a sub-lord in the 6th, 8th or 12th room from Jupiter works against the season.
+- Watch Jupiter/Jupiter (the theme), Jupiter/Saturn (the audit), Jupiter/Mercury (the paperwork) and Jupiter/Rahu (the bridge into Saturn).
 - Arjun enters this season around December 2031 and Devika around July 2039; both have Jupiter on their side, with a few sub-seasons to walk carefully.
 
 ## Try this
 
-1. Find your rising sign in the table. Note which rooms Jupiter owns for you and whether it is on your side. If you have lived through any of a Jupiter season, write three things that grew in those years. Were they the things you wanted?
+1. Find your rising sign in the table and note whether Jupiter is on your side. If you have lived through any of a Jupiter season, write three things that grew in those years. Were they the things you wanted?
 2. In a free app, find your Jupiter season, past or future, and mark the Jupiter/Saturn and Jupiter/Rahu sub-seasons. If they are past, what slowed in the first and what tempted you in the second?
 3. Count the rooms from your Jupiter to each other planet. Which sit in the 6th, 8th or 12th from it? Note those sub-seasons' dates.
 4. A factual check: for Cancer rising, which rooms does Jupiter own, and why is it counted as on your side?
