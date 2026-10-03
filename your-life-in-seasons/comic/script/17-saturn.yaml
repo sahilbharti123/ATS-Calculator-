@@ -11,9 +11,9 @@
     - scene: "You's 2BHK living room, morning. Jupiter leaves through the front door, visibly rounder, with a laddoo tin and a heavy suitcase, waving kindly; guests' shoes still heaped by the door. Saturn, dark blue, grey beard, black robe, walks slowly in, ignores the kitchen, sets a thick ledger on the dining table and opens it. His crow lands on the fan. You holds the key. Empty ceiling for bubbles."
       chars: [You, Jupiter, Saturn]
       bubbles:
-        - {who: Jupiter, text: "I leave you blessings, guests, and a small amount of debt."}
-        - {who: Saturn, text: "I will not open the storeroom. I will open the book."}
-        - {who: You, text: "Is this the part everyone warned me about."}
+        - {who: Jupiter, text: "Goodbye. I leave you blessings, guests, and a small amount of debt."}
+        - {who: Saturn, text: "I am Saturn. I run the next nineteen years. First, we open the book."}
+        - {who: You, text: "Is this the part everyone warned me about?"}
         - {who: Saturn, text: "This is the part where we read. Then we work. Then you are free."}
   caption: "Saturn's season is an audit, not a sentence. The work it asks for was always going to be yours."
 
@@ -26,21 +26,21 @@
     - scene: "Body. Five in the morning in You's living room. You does a slow back stretch on a mat, yawning. Saturn beside her does the same stretch far more slowly, robe pooled on the floor. The crow stretches one wing on the windowsill. A plain wall above them left empty for bubbles."
       chars: [You, Saturn]
       bubbles:
-        - {who: Saturn, text: "The back. The knees. The teeth. Sleep. One yearly check."}
+        - {who: Saturn, text: "In my years, mind the back, the knees and the teeth. Sleep well. One check-up a year."}
         - {who: You, text: "I am tired all the time."}
         - {who: Saturn, text: "Then see a doctor, not a planet."}
     - scene: "Home. You stands on a ladder patching a damp patch on the ceiling, a bucket below. Saturn holds the ladder steady with one hand. The Moon sits wrapped in a shawl on the sofa, older and tired, a tiffin untouched beside her. The shoe rack by the door is empty. Clear space on the upper wall for bubbles."
       chars: [You, Saturn, Moon]
       bubbles:
         - {who: Moon, text: "Nobody visits any more."}
-        - {who: Saturn, text: "Fewer guests. More repairs. One elder who needs you."}
-        - {who: You, text: "Why is the ceiling leaking in your season."}
-        - {who: Saturn, text: "It leaked before. Now you notice."}
+        - {who: Saturn, text: "Yes. Fewer guests, more repairs, and one elder who needs you. That is a Saturn home."}
+        - {who: You, text: "Why is the ceiling leaking the moment you move in?"}
+        - {who: Saturn, text: "It leaked before. Now you notice, and now you fix it."}
     - scene: "Love. A wedding hall late at night, marigold garlands drooping, chairs being stacked. You sits alone on a plastic chair in her good kurta. Saturn sits two chairs away, ledger closed on his lap, keeping her company without a word. An abandoned chai cup with lipstick on the rim sits on a nearby chair. Empty hall space above for bubbles."
       chars: [You, Saturn]
       bubbles:
         - {who: You, text: "Everyone here is paired up and I still feel alone in the room."}
-        - {who: Saturn, text: "Yes. Even the married ones. The real ones stay."}
+        - {who: Saturn, text: "Everyone feels alone in my years. Even the married ones. The real friends stay."}
         - {who: You, text: "You could say something comforting."}
         - {who: Saturn, text: "I am sitting here."}
     - scene: "Work. An office at night, broken AC with a bucket under it, one desk lamp on. You works at her desk, sleeves rolled. Saturn works at the next desk at the same slow pace. A wall calendar with many blank pages. Far down the corridor a golden glow lights up somebody else's desk. Space above the desks for bubbles."
@@ -48,29 +48,29 @@
       bubbles:
         - {who: You, text: "I have been here every night for three years. Nobody noticed."}
         - {who: Saturn, text: "Someone noticed."}
-        - {who: You, text: "Who."}
-        - {who: Saturn, text: "Later."}
-  caption: "Bones, repairs, loneliness, long hours. Saturn's recognition comes late and lasts. The lateness is the point."
+        - {who: You, text: "Who noticed?"}
+        - {who: Saturn, text: "You will find out later. I pay late."}
+  caption: "Bones, repairs, loneliness, long hours. Saturn's recognition comes late and lasts, and the lateness is the point."
 
 - id: p089
   part: 2
   chapter: saturn
   layout: two
-  title: "Slow money, grey filter"
+  title: "Slow money and a grey filter"
   panels:
     - scene: "Money. A bank hall. You at a counter paying a loan instalment, passbook open. Saturn stands behind her with the ledger. At the loans desk across the hall, Rahu waves glossy blank brochures and Venus holds up a shiny new card, both beckoning. Saturn shakes his head once, slowly. Plain wall above the counter for bubbles."
       chars: [You, Saturn, Rahu, Venus]
       bubbles:
-        - {who: Rahu, text: "A small loan, just to look successful."}
-        - {who: Saturn, text: "No new debt. Pay down. First line of every month."}
+        - {who: Rahu, text: "Take a small loan. Just enough to look successful."}
+        - {who: Saturn, text: "No new debt. Pay the old one down. That is the first line of every month."}
         - {who: You, text: "Slow and steady. I hate it. It is working."}
     - scene: "Mind. You's living room drawn almost entirely in greys: You on the sofa with tea, morning light flat and colourless, the small brown dog's head on her knee. Saturn stands at the window very slowly opening the curtain a crack, so one thin stripe of real colour falls across the floor. Empty grey ceiling for bubbles."
       chars: [You, Saturn]
       bubbles:
-        - {who: You, text: "Everything is grey. Not sad exactly. Just not light."}
-        - {who: Saturn, text: "A filter. It lifts. Later it becomes steadiness."}
+        - {who: You, text: "Everything looks grey. I am not sad exactly. It is just not light."}
+        - {who: Saturn, text: "It is a filter, not the world. It lifts. Later it becomes steadiness."}
         - {who: You, text: "And if I cannot get out of bed at all?"}
-        - {who: Saturn, text: "Then a doctor, the same week. I am only a planet."}
+        - {who: Saturn, text: "Then you see a doctor the same week. I am only a planet."}
   caption: "Saturn's money pays down instead of piling up. His greyness is a filter, not a verdict, and it lifts."
 
 - id: p090
@@ -82,28 +82,28 @@
     - scene: "Mercury deputy, two years eight months. A coaching class room. You at a desk with a thick textbook. Mercury beside her has become a careful clerk: one phone only, sleeves rolled, filing papers in neat stacks. Saturn at the back nods slowly. Blank board behind for one bubble."
       chars: [You, Mercury, Saturn]
       bubbles:
-        - {who: Mercury, text: "Beside the Judge I finish files. Qualify, file, repeat."}
+        - {who: Mercury, text: "My turn as deputy. Beside the Judge, I actually finish my files."}
     - scene: "Ketu deputy, one year one month. You's bare living room. Ketu, saffron robes and a glowing light for a head, quietly carries out a decorative lamp. Saturn in his chair gives a slow approving nod. You shrugs. Empty wall for one bubble."
       chars: [You, Ketu, Saturn]
       bubbles:
-        - {who: You, text: "He only takes what Saturn already said no to."}
+        - {who: You, text: "Ketu's turn. He only takes what Saturn already said no to."}
     - scene: "Sun deputy, eleven months. The office. The Sun strides in blazing, crown gleaming, arms wide. Saturn does not look up from his desk. Behind You, a half-built brick wall of her own work has suddenly become visible in the light. Empty space above for one bubble."
       chars: [You, Sun, Saturn]
       bubbles:
-        - {who: Sun, text: "Did everyone see what I did? Someone built something."}
+        - {who: Sun, text: "My eleven months. Did everyone see? Her work finally shows."}
     - scene: "Moon deputy, one year seven months. You's kitchen at eleven at night. The Moon sits at the table with a tiffin and her phone, writing slowly in Saturn's ledger while Saturn points to a line. You pours tea for both. Space above the table for one bubble."
       chars: [You, Moon, Saturn]
       bubbles:
-        - {who: Moon, text: "He made me write down every worry. With dates."}
+        - {who: Moon, text: "My turn. He made me write down every worry, with dates."}
     - scene: "Mars deputy, one year one month. Five in the morning on a small house construction site. Mars in brass armour blows his whistle. You carries one brick. Saturn carries one brick, slowly. The crow carries a pebble. Pale dawn sky above for one bubble."
       chars: [You, Mars, Saturn]
       bubbles:
-        - {who: Mars, text: "One brick a day is a drill. I accept."}
+        - {who: Mars, text: "My turn. One brick a day is still a drill. Accepted."}
     - scene: "Rahu deputy, two years ten months. You's window at night. Rahu's purple smoke leans in with a foreign bag and his drone. Saturn slowly holds the window half open, no more. You stands with arms folded, curious but calm. Dark sky above for one bubble."
       chars: [You, Rahu, Saturn]
       bubbles:
-        - {who: Rahu, text: "The Judge lets me in. On a visitor's pass."}
-  caption: "Short deputies, visible bricks. Venus gets a page, three years of her. Jupiter gets the last page; he pays."
+        - {who: Rahu, text: "My turn. The Judge lets me in, on a visitor's pass."}
+  caption: "Six short deputies, one brick a day. Venus gets her own page next, and Jupiter the last one, where he pays."
 
 - id: p091
   part: 2
@@ -114,22 +114,22 @@
     - scene: "You's front door. Saturn opens it slowly. Outside stands Venus in pink and gold, jasmine in her hair, chai in one hand, six shopping bags in the other, radiant. Saturn holds out a very thin envelope. You peers over his shoulder, hopeful. Clear landing space above for bubbles."
       chars: [You, Saturn, Venus]
       bubbles:
-        - {who: Venus, text: "I am back. The kindest three years of your audit."}
+        - {who: Venus, text: "I am back, darling. The kindest three years of your whole audit start now."}
         - {who: Saturn, text: "Welcome, Minister. Here is the budget."}
         - {who: Venus, text: "This envelope is very thin."}
     - scene: "You's living room, warmer now: one new curtain, one plant, a small speaker. Venus and You paint a single wall a soft colour, laughing. Saturn sits in his chair almost smiling, the crow holding a flower in its beak. Empty upper wall for bubbles."
       chars: [You, Saturn, Venus]
       bubbles:
-        - {who: You, text: "The flat feels like a home. When did that happen."}
-        - {who: Venus, text: "Year six. I did it with one envelope. Imagine two."}
+        - {who: You, text: "The flat feels like a home. When did that happen?"}
+        - {who: Venus, text: "Year six of his season, darling. I did this with one envelope. Imagine two."}
         - {who: Saturn, text: "No."}
     - scene: "A plain family restaurant. Venus orders happily from a menu, Saturn checks the ledger and gives a slow nod, You leans back relaxed for the first time in years. A single marigold in a glass on the table. Blank wall behind the table for bubbles."
       chars: [You, Saturn, Venus]
       bubbles:
-        - {who: Venus, text: "Longest sub-season of his nineteen years, and the kindest. Three years and two months."}
-        - {who: Saturn, text: "Three years, two months. Then the Sun."}
-        - {who: You, text: "Let me enjoy this one."}
-  caption: "Saturn/Venus is the longest stretch of the season and the kindest: pleasure, with a budget. Unless Venus has the storeroom."
+        - {who: Venus, text: "My turn is the longest of his nineteen years, and the kindest. Three years and two months."}
+        - {who: Saturn, text: "Three years and two months. Then the Sun takes over as deputy."}
+        - {who: You, text: "Let me enjoy this one first."}
+  caption: "Venus as Saturn's deputy is the longest, kindest stretch of the season: pleasure, with a budget. Unless she got the storeroom."
 
 - id: p092
   part: 2
@@ -140,43 +140,43 @@
     - scene: "You's 2BHK. In the living room Saturn sits at the dining table with his ledger as manager. A second Saturn, identical but drawn pale grey like weather, walks slowly into the second bedroom, where the Moon sits on the bed in silver saree with a shawl, worried. You stands in the corridor between the rooms, looking from one Saturn to the other. Clear ceiling space for bubbles."
       chars: [You, Saturn, Moon]
       bubbles:
-        - {who: You, text: "Why are there two of you."}
-        - {who: Saturn, text: "One is the season. One is weather, visiting the Moon seven and a half years. Both me."}
-        - {who: You, text: "So no second voice to soften the first."}
+        - {who: You, text: "Why are there two of you?"}
+        - {who: Saturn, text: "One of me runs your season. The other is weather, passing your Moon for seven and a half years."}
+        - {who: You, text: "So there is no second voice to soften the first."}
         - {who: Moon, text: "He only asks me what is true. Then he helps me carry it."}
     - scene: "Early morning. A plain breakfast on the dining table. You and the Moon write worries into the ledger with dates while Saturn sits beside them. Through the window the grey weather Saturn paces the balcony slowly. The small brown dog sleeps under the table. Empty wall space for bubbles."
       chars: [You, Saturn, Moon]
       bubbles:
-        - {who: You, text: "The heaviest stretch in all nine seasons."}
-        - {who: Saturn, text: "Heaviest. Not worst. Whatever is made now is made properly."}
-        - {who: You, text: "Because two inspectors."}
+        - {who: You, text: "This must be the heaviest stretch in all nine seasons."}
+        - {who: Saturn, text: "The heaviest, yes. Not the worst. Whatever is made now is made properly."}
+        - {who: You, text: "Because there are two inspectors on site."}
         - {who: Saturn, text: "A bridge checked by two engineers is the one you trust for forty years."}
     - scene: "Later. The grey weather Saturn walks away down the street outside, small in the distance. The Moon's room is tidy and full of light, the Moon folding her shawl with a clear face. You holds a finished bound notebook. Saturn the manager still sits at the table, unmoved. Open sky through the window for bubbles."
       chars: [You, Saturn, Moon]
       bubbles:
         - {who: Moon, text: "The house has never been so honest. My accounts are clear."}
-        - {who: You, text: "He left. The other one is still here."}
-        - {who: Saturn, text: "The weather passes in seven and a half years. The season stays. Sit."}
-  caption: "Saturn's seven and a half years is weather. Inside a Saturn season you hear the Judge twice: heaviest stretch, most clarifying."
+        - {who: You, text: "The grey one has left. The other one is still here."}
+        - {who: Saturn, text: "The weather passes in seven and a half years. The season stays. Sit down."}
+  caption: "Saturn's seven and a half years is weather. When it falls inside a Saturn season you hear the Judge twice: heaviest stretch, clearest."
 
 - id: p093
   part: 2
   chapter: saturn
   layout: two
-  title: "Friends. Still the storeroom."
+  title: "Friends, but still the storeroom"
   panels:
     - scene: "The corridor of You's flat. Saturn, as host, leads Mercury past the kitchen to the storeroom at the back: water drum, suitcases, a thin mattress on a shelf. Saturn counts rooms on his fingers, slowly. Mercury clutches his three phones and notebook, dismayed. You watches from the kitchen doorway with tea. Empty corridor ceiling for bubbles."
       chars: [You, Saturn, Mercury]
       bubbles:
-        - {who: Saturn, text: "Your room, Prince. Eighth from mine."}
+        - {who: Saturn, text: "Your room, Prince. Count the doors: it is eight from mine. The storeroom."}
         - {who: Mercury, text: "We are friends. I finish your files. Why the storeroom?"}
-        - {who: Saturn, text: "Friendship is the first question. The room is the second."}
+        - {who: Saturn, text: "Friendship is the first question. The room is the second. Both count."}
     - scene: "Weeks later. Blank papers with red stamps spill out of the storeroom and across the kitchen floor, every one a dispute or a debt notice by its look. Mercury wades through them on all three phones at once. You holds her head. Saturn stands unmoved, crow on shoulder. Clear upper wall for bubbles."
       chars: [You, Saturn, Mercury]
       bubbles:
-        - {who: Mercury, text: "Training became disputes. Qualifications became debt notices. Location, not character."}
-        - {who: You, text: "Why."}
-        - {who: Saturn, text: "Count the rooms. Then work."}
+        - {who: Mercury, text: "My training turned into disputes. My qualifications turned into debt notices. It is the room, not me."}
+        - {who: You, text: "So a friend in the wrong room still does this."}
+        - {who: Saturn, text: "Yes. Count the rooms first. Then work."}
   caption: "A deputy in the sixth, eighth or twelfth room from the manager pulls against the season, friend or not. Count first."
 
 - id: p094
@@ -190,13 +190,13 @@
       bubbles:
         - {who: You, text: "A strict teacher is a gift when she teaches your child."}
         - {who: Saturn, text: "And a burden when she is your landlord. Which am I, for you?"}
-        - {who: You, text: "Depends on my rising sign, apparently."}
+        - {who: You, text: "That depends on my rising sign, apparently."}
   fact:
-    - "Saturn is on your side: Taurus and Libra (your best planet), Gemini, Capricorn and Aquarius rising."
-    - "Saturn tests you: Aries, Leo, Sagittarius and Pisces rising; Scorpio, mildly."
-    - "Neutral: Cancer and Virgo rising."
-    - "Nineteen years. Saturday is his day. When he tests you, out-work him: the dull thing, on time, for years."
-  caption: "Best for Taurus and Libra, sternest for Aries, Leo, Sagittarius, Pisces. Either way the answer is the dull thing, on time."
+    - "Saturn is on your side for Taurus, Libra, Gemini, Capricorn and Aquarius rising. For Taurus and Libra he is the best planet."
+    - "Saturn tests you for Aries, Leo, Sagittarius and Pisces rising, and mildly for Scorpio rising."
+    - "For Cancer and Virgo rising he is neutral."
+    - "His season lasts nineteen years. Saturday is his day. When he tests you, out-work him: the dull thing, on time, for years."
+  caption: "Best for Taurus and Libra, sternest for Aries, Leo, Sagittarius and Pisces. Either way the answer is the dull thing, done on time."
   footnote: "Shani = Saturn, the Judge"
 
 - id: p095
@@ -208,24 +208,24 @@
     - scene: "Dawn in the lane outside You's building, soft gold light. You walks the small brown dog. Saturn walks beside her at his own slow pace, hands behind his back, the crow hopping along the compound wall. Faint ghost outlines of the same two figures on earlier mornings trail behind them. Clear sky above for bubbles."
       chars: [You, Saturn]
       bubbles:
-        - {who: Saturn, text: "One dull thing. Every day. Not intensity. Repetition."}
+        - {who: Saturn, text: "One dull thing, every day. I do not want intensity. I want repetition."}
         - {who: You, text: "A walk? That is the great secret of the Judge?"}
         - {who: Saturn, text: "What you keep for nineteen years is what you have at the end."}
-        - {who: You, text: "Fine. But you walk too."}
+        - {who: You, text: "Fine. But you walk with me."}
     - scene: "The building gate at night. You places a folded blanket and a full tiffin on the stool of the empty watchman's booth and sets down a bowl of food for two stray dogs. Saturn stands with one hand on the gate, crow on his shoulder, his old face unusually gentle. Empty night sky above for bubbles."
       chars: [You, Saturn]
       bubbles:
-        - {who: Saturn, text: "The watchman. The one who cleans. The neighbour nobody visits. The stray. Mine."}
-        - {who: You, text: "Yours?"}
+        - {who: Saturn, text: "The watchman, the one who cleans, the neighbour nobody visits, the stray dog. They are my people."}
+        - {who: You, text: "Your people?"}
         - {who: Saturn, text: "I am the servant in the court. The season goes better with someone to look after."}
     - scene: "Saturday evening in You's flat. A simple bowl of khichdi on the table, phone switched off, one lamp lit early. Saturn sits on the floor with the small brown dog's head on his knee. You stands behind him wrapping a blanket around his shoulders. The crow is asleep on the ledger. Warm empty wall for bubbles."
       chars: [You, Saturn]
       bubbles:
-        - {who: You, text: "Simple food, early night. A blanket for someone who needs it."}
-        - {who: Saturn, text: "Who is it for?"}
+        - {who: You, text: "Saturday. Simple food, an early night, and a blanket for someone who needs it."}
+        - {who: Saturn, text: "Who is the blanket for?"}
         - {who: You, text: "You looked cold. Nineteen years is a long time to be the one everyone fears."}
         - {who: Saturn, text: "Thank you."}
-  caption: "One dull habit, one person to look after, one plain Saturday. Saturn was never the enemy. He was the one who stayed."
+  caption: "One dull habit, one person to look after, one plain Saturday. Saturn was never the enemy; he was the one who stayed."
 
 - id: p096
   part: 2
@@ -236,8 +236,8 @@
     - scene: "You's flat, solid and quiet now: repaired ceiling, a framed blank certificate, a tall plant, keys on a hook. Saturn stands with the ledger open at its last page, reading to You, crow on his shoulder. Jupiter, as deputy, beams beside him with a laddoo. Through the open door Mercury waits on the landing with three phones, already talking. You listens with the dog. Clear ceiling for bubbles."
       chars: [You, Saturn, Jupiter, Mercury]
       bubbles:
-        - {who: Saturn, text: "You thought I was taking. I was holding. Here it is."}
-        - {who: You, text: "The flat. The qualification. A back that does not hurt. Four real friends."}
-        - {who: Jupiter, text: "And a laddoo. Growth!"}
-        - {who: Mercury, text: "Hello hello hello, am I early? I am early. Three plans already."}
-  caption: "Saturn gives late and gives what lasts. The final Jupiter stretch is where nineteen years of work are paid out."
+        - {who: Saturn, text: "You thought I was taking from you. I was holding it for you. Here it is."}
+        - {who: You, text: "The flat, fixed. The qualification. A back that does not hurt. Four real friends."}
+        - {who: Jupiter, text: "And a laddoo from me. Growth!"}
+        - {who: Mercury, text: "Hello, hello, hello. Am I early? I am early. I have three plans already."}
+  caption: "Saturn gives late, and he gives what lasts. The last deputy is Jupiter, and that is where nineteen years of work get paid out."

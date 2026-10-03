@@ -6,7 +6,7 @@
   part: 3
   chapter: living
   layout: three
-  title: "Mars Season, Venus Deputy, Sun Intern"
+  title: "Mars season, Venus deputy, Sun intern"
   panels:
     - scene: "An open-plan office in Gurgaon at 9 pm, most lights off, a broken AC dripping into a bucket. You is at her desk with a laptop and cold chai. Mars, in brass armour and red cape, slams a clipboard onto the desk; Venus lounges on the desk edge with chai and a glowing dating app. Empty dark office space above for bubbles."
       chars: [You, Mars, Venus]
@@ -17,69 +17,69 @@
     - scene: "The office door bursts open in a blaze of gold light and the Sun strides in, crown radiant, arms wide, a brand new intern lanyard round his neck. Mars and Venus turn to look; You does not. Papers blow off the desk. Space above the door for bubbles."
       chars: [You, Mars, Venus, Sun]
       bubbles:
-        - {who: Sun, text: "AND I have arrived. Three weeks. Make them count."}
-        - {who: Mars, text: "You are the intern."}
-        - {who: Sun, text: "I am THE intern."}
+        - {who: Sun, text: "AND I have arrived."}
+        - {who: Mars, text: "You are the intern. Three weeks."}
+        - {who: Sun, text: "I am THE intern. Three weeks. Make them count."}
     - scene: "The three planets argue in a tight knot beside the desk, Mars pointing at the wall clock, Venus pointing at her phone, the Sun pointing at himself, while You quietly puts on her sling bag and heads for the lift with her laptop. Empty ceiling space for bubbles."
       chars: [You, Mars, Venus, Sun]
       bubbles:
         - {who: You, text: "I am going home. Decide among yourselves."}
         - {who: Venus, text: "We will not."}
-        - {who: Mars, text: "Five a.m.!"}
+        - {who: Mars, text: "Five in the morning!"}
   caption: "Manager, deputy, intern. Your week is whatever the three of them agree on, which is nothing."
 
 - id: p106
   part: 3
   chapter: living
   layout: two
-  title: "The Intern's Three Weeks"
+  title: "The intern's three weeks"
   panels:
     - scene: "A wall calendar with blank squares in the office kitchenette. The Sun has circled three weeks in gold crayon and stands proudly beside it holding the crayon. Mars and Venus flank the calendar with much longer strips of coloured tape marking their own stretches. You pours chai from a flask. Space above the calendar for bubbles."
       chars: [You, Sun, Mars, Venus]
       bubbles:
-        - {who: Sun, text: "Three weeks. Mine. Historic."}
+        - {who: Sun, text: "These three weeks are mine. Historic."}
         - {who: You, text: "Mars has seven years. Venus has fourteen months inside them. You have three weeks."}
         - {who: Sun, text: "Three UNFORGETTABLE weeks."}
     - scene: "Three weeks later. The Sun leaves the kitchenette through the door, crown slightly dimmed, waving dramatically. The Moon is already coming in behind him with a tiffin for her own turn as intern. Mars and Venus have not moved. You sits at the same desk with the same chai. Empty wall for bubbles."
       chars: [You, Sun, Moon, Mars, Venus]
       bubbles:
-        - {who: Moon, text: "Did you eat? I have five weeks."}
-        - {who: You, text: "I noticed nothing."}
+        - {who: Moon, text: "Did you eat? I am the next intern. I have five weeks."}
+        - {who: You, text: "Three weeks of the Sun, and I noticed nothing."}
         - {who: Sun, text: "You noticed EVERYTHING."}
-  caption: "A season is a chapter, a deputy a scene, an intern a sentence. Interns settle arguments. They do not plan lives."
+  caption: "A season is a chapter, a deputy is a scene, an intern is a sentence. Interns settle arguments; they do not plan lives."
 
 - id: p107
   part: 3
   chapter: living
   layout: single
-  title: "The Changeover: Two Sets of Keys"
+  title: "The changeover: two sets of keys"
   panels:
     - scene: "Moving day in the flat's hallway. Venus is packing twenty years of saris and chai cups into cardboard boxes, stopping to admire each one. The Sun has arrived a year early and waits in the doorway with gold luggage. Ketu is quietly switching off lamps one by one. You stands in the middle holding two sets of keys, one in each hand. Blank ceiling for bubbles."
       chars: [You, Venus, Sun, Ketu]
       bubbles:
-        - {who: Sun, text: "I know the date is next June. I like to walk the kitchens first."}
-        - {who: Venus, text: "And I stay a year after, by the gate, answering questions."}
-        - {who: Ketu, text: "Lights."}
-        - {who: You, text: "Whose orders do I follow?"}
+        - {who: Sun, text: "I know my season starts next June. I like to walk the kitchens a year early."}
+        - {who: Venus, text: "And I stay on a year after I finish, by the gate, answering questions."}
+        - {who: Ketu, text: "I am the last deputy. Lights off."}
+        - {who: You, text: "So whose orders do I follow this year?"}
   caption: "A changeover is a bridge, not a line: the old season's last year and the new one's first. Two sets of keys."
 
 - id: p108
   part: 3
   chapter: living
   layout: four
-  title: "What the Bridge Feels Like"
+  title: "What the bridge feels like"
   panels:
     - scene: "You on the sofa in the flat, surrounded by twenty years of shopping bags, yawning at one more that Venus holds out with a hopeful smile. The small brown dog is asleep on a pile of them. Blank wall above the sofa for bubbles."
       chars: [You, Venus]
       bubbles:
         - {who: Venus, text: "One more? It is on sale."}
         - {who: You, text: "I do not know what I want any more."}
-        - {who: Venus, text: "That is accurate, actually."}
+        - {who: Venus, text: "That is accurate, actually. It is my last year."}
     - scene: "The flat's door, late afternoon. Ketu carries out the last box without being asked, a folded lease paper lies on the shoe rack, and the neighbour's flat opposite stands empty with its door open. You watches from the corridor, calm, arms folded. Space above the doors for bubbles."
       chars: [You, Ketu]
       bubbles:
         - {who: You, text: "The lease ended on its own. So did the project. So did the group chat."}
-        - {who: Ketu, text: "Yes."}
+        - {who: Ketu, text: "Yes. They end themselves."}
     - scene: "A crowded Mumbai local compartment at rush hour. The Sun stands in the middle in full regalia, introducing You to a dozen commuters at once, all of them turning to look at her. You grips the overhead handle and stares straight ahead. Space above the heads for bubbles."
       chars: [You, Sun]
       bubbles:
@@ -90,52 +90,52 @@
       bubbles:
         - {who: Sun, text: "First, we open the shutters."}
         - {who: You, text: "I do not know the rules here yet."}
-        - {who: Sun, text: "Nobody does. That is the first year."}
-  caption: "Last year: tired of the theme, loose ends close by themselves. First year: new people, rules you do not know yet."
+        - {who: Sun, text: "Nobody does. That is what a first year is."}
+  caption: "In a season's last year you tire of its theme and loose ends close by themselves. In the first year: new people, new rules."
 
 - id: p109
   part: 3
   chapter: living
   layout: three
-  title: "Homework for the Bridge"
+  title: "Homework for the bridge"
   panels:
     - scene: "You at the kitchen table at night, writing one page by hand in a notebook, a cup of chai cooling. Venus sits opposite, reading upside down, touched and slightly tearful. Saturn stands behind You, approving without comment, crow on his shoulder. Blank kitchen wall above for bubbles."
       chars: [You, Venus, Saturn]
       bubbles:
-        - {who: You, text: "What it gave. What it took. What it taught. One page."}
+        - {who: You, text: "What the season gave. What it took. What it taught. One page, no more."}
         - {who: Venus, text: "Did you write about the wedding?"}
         - {who: You, text: "I wrote about the bill too."}
     - scene: "The flat's doorway in daylight. You hands a bag of folded clothes to Ketu, who takes it without a word, while the Moon beside her holds a phone to You's ear so she can thank someone on a call. Three sealed envelopes sit on the shoe rack. Space above the door for bubbles."
       chars: [You, Ketu, Moon]
       bubbles:
-        - {who: You, text: "Three people to thank. In words. Then the cupboards."}
-        - {who: Moon, text: "Say it properly, beta. Not a forward."}
-        - {who: Ketu, text: "Cupboards."}
+        - {who: You, text: "Three people to thank, in actual words. Then I clear the cupboards."}
+        - {who: Moon, text: "Say it properly, on the phone. Not a forwarded message."}
+        - {who: Ketu, text: "I will take the cupboards."}
     - scene: "You seals an envelope at the table and tucks it inside a folded chart. The Sun leans in from the side, delighted, convinced the letter is for him, crown glowing. Saturn raises one slow finger in warning. Empty wall above for bubbles."
       chars: [You, Sun, Saturn]
       bubbles:
         - {who: Sun, text: "Fan mail. For me. Already."}
-        - {who: You, text: "A letter to the next season. You open it a year in."}
+        - {who: You, text: "No. It is a letter to my next season. I open it one year in."}
         - {who: Saturn, text: "Finish in the last year. Start nothing irreversible in the first six months."}
-  caption: "Review, thank three people, clear the cupboards, write to the next season. Finish on the far bank. Build nothing on the bridge."
+  caption: "Review the season, thank three people, clear the cupboards, write to the next season. Finish on the far bank; build nothing on the bridge."
 
 - id: p110
   part: 3
   chapter: living
   layout: two
-  title: "Saturn's Seven and a Half Years"
+  title: "Saturn's seven and a half years"
   panels:
     - scene: "You on the balcony of the flat at night, phone in hand, a long chain of forwarded messages glowing on the screen, her face alarmed. Inside, through the open door, Venus is still at the manager's desk with chai, unbothered. The dog looks up at the sky. Space above the railing for bubbles."
       chars: [You, Venus]
       bubbles:
-        - {who: You, text: "My cousin says my Saturn has started. In capitals."}
-        - {who: Venus, text: "I am still your manager, darling. Check the fridge."}
+        - {who: You, text: "My cousin says my Saturn years have started. She typed it in capitals."}
+        - {who: Venus, text: "I am still your manager, darling. Nothing in this flat has changed."}
     - scene: "The view from outside the building. Saturn, huge and slow, drifts past the balcony at the height of the Moon, who sits in her own lit window one floor along with a tiffin. Saturn's crow perches on You's railing. You leans out, looking up at him. Dark sky around him for bubbles."
       chars: [You, Saturn, Moon]
       bubbles:
         - {who: Saturn, text: "I am not your manager. I am passing your Moon's window. Slowly."}
-        - {who: You, text: "How slowly."}
-        - {who: Saturn, text: "Seven and a half years."}
+        - {who: You, text: "How slowly?"}
+        - {who: Saturn, text: "It takes seven and a half years."}
         - {who: You, text: "That is a long pass."}
   caption: "Saturn's seven and a half years is weather around your birth Moon, not a new manager. The season inside stays the same."
   footnote: "Sade Sati = Saturn's seven and a half years: Saturn crossing the sign before your birth Moon, the Moon's own sign, and the sign after · gochar = weather: the planets moving overhead right now (apps say transit)"
@@ -144,196 +144,198 @@
   part: 3
   chapter: living
   layout: three
-  title: "Three Flats, Two and a Half Years Each"
+  title: "Three flats, two and a half years each"
   panels:
     - scene: "A housing society corridor with three doors in a row. Saturn sits on a plastic chair outside the first door, the one before the Moon's, reading his ledger, crow on his knee. The Moon peers out of the middle door with a tiffin, nervous. You stands at the far end with the dog. Empty corridor ceiling for bubbles."
       chars: [You, Saturn, Moon]
       bubbles:
-        - {who: Moon, text: "He is in the neighbour's flat. Reading."}
-        - {who: Saturn, text: "Two and a half years. Then I come to yours."}
+        - {who: Moon, text: "He is in the neighbour's flat, the one before mine. Reading."}
+        - {who: Saturn, text: "Two and a half years here. Then I come to yours."}
     - scene: "Inside the Moon's flat. Saturn sits at her kitchen table going through a stack of tiffin boxes and old account books, very slowly. The radio is off, the room quiet, the Moon sitting opposite with her hands folded. You leans in the doorway. Blank wall above the table for bubbles."
       chars: [You, Saturn, Moon]
       bubbles:
-        - {who: Saturn, text: "Three servants stealing. One old debt you can finally pay."}
+        - {who: Saturn, text: "Your accounts. Three servants stealing from the kitchen. One old debt you can finally pay."}
         - {who: Moon, text: "I kept honest accounts."}
         - {who: Saturn, text: "Then this is the easy version."}
     - scene: "Saturn walks slowly to the third door and sits down outside it. Behind him the Moon's flat lights up again, music drifts out, and she waves a shawl from her window, tearful but relieved. You looks along the three doors and counts on her fingers. Space above for bubbles."
       chars: [You, Saturn, Moon]
       bubbles:
-        - {who: You, text: "Three signs out of twelve are in it right now. A quarter of everyone alive."}
-        - {who: Saturn, text: "A tide. Not a curse."}
+        - {who: You, text: "Three signs out of twelve are under him at any time. That is a quarter of everyone alive."}
+        - {who: Saturn, text: "It is a tide, not a curse."}
         - {who: Moon, text: "Thank you. Do not come back for thirty years."}
-  caption: "The sign before the Moon, the Moon's sign, the sign after. An audit of the mind's household. Start keeping accounts now."
+  caption: "Saturn crosses the sign before your Moon, the Moon's sign, and the sign after: an audit of the mind's household. Start keeping accounts now."
 
 - id: p112
   part: 3
   chapter: living
   layout: two
-  title: "Rain on Two Fields"
+  title: "The same rain on two fields"
   panels:
     - scene: "Monsoon rain over two neighbouring fields outside Pune. On the left, Jupiter in yellow robes stands happily in a field of tall grain he has clearly spent the year sowing, laddoo in hand, as the rain fills the furrows. You stands under one umbrella at the fence between the fields. Grey sky above for bubbles."
       chars: [You, Jupiter]
       bubbles:
-        - {who: Jupiter, text: "I sowed all year. The rain came. Harvest."}
-        - {who: You, text: "Same rain on both fields?"}
+        - {who: Jupiter, text: "I sowed all year. Then the rain came. Now, harvest."}
+        - {who: You, text: "Is it the same rain on both fields?"}
     - scene: "On the right, the same rain falls on Ketu's field, which he left to rest. It is full of wildflowers and a flooded footpath, and Ketu sits cross-legged on a rock in the middle of it, headless glow serene, begging bowl filling with rainwater. You at the fence, umbrella dripping. Grey sky for bubbles."
       chars: [You, Ketu]
       bubbles:
-        - {who: You, text: "And yours?"}
+        - {who: You, text: "And what did the rain do to yours?"}
         - {who: Ketu, text: "Flowers."}
-        - {who: You, text: "Not cursed, then."}
-        - {who: Ketu, text: "Not planted."}
-  caption: "The season decides what can happen. The weather decides when it is likely, and how that year feels. Read the season first."
+        - {who: You, text: "So your field is not cursed."}
+        - {who: Ketu, text: "Not cursed. Not planted."}
+  caption: "The season decides what can happen; the weather decides when it is likely, and how that year feels. Read the season first."
 
 - id: p113
   part: 3
   chapter: living
   layout: single
-  title: "Three Friends of You"
+  title: "Three friends of You"
   panels:
     - scene: "A chai stall by Marine Drive in Mumbai, October evening. You sits on the low sea wall with her phone propped up, three video-call windows glowing on the screen, turned away from the viewer. Beside her on the wall sit Venus with chai, Rahu with shopping bags and a drone, and Saturn with his ledger, each leaning in to listen. Open sky above the sea for bubbles."
       chars: [You, Venus, Rahu, Saturn]
       bubbles:
-        - {who: You, text: "Meera, Arjun, Devika. Thirty-seven, thirty-one, forty-seven. Same evening, same question."}
-        - {who: Venus, text: "One of them is mine."}
-        - {who: Rahu, text: "Two of them are mine."}
-        - {who: Saturn, text: "I deputise for one. I pass another's window from next summer."}
-  caption: "Three friends, three ages, all three in a stretch asking them to slow down, close or steady. The calendar never guessed."
+        - {who: You, text: "Meera, Arjun and Devika. Thirty-seven, thirty-one and forty-seven. Same evening, same question: what time is it in my life?"}
+        - {who: Venus, text: "One of them is in my season. I am her manager."}
+        - {who: Rahu, text: "The other two are mine. Eighteen years each."}
+        - {who: Saturn, text: "I am deputy for one. From next summer I pass another one's Moon window. Slowly."}
+  caption: "Three friends, three ages, all three in a stretch that asks them to slow down, close up or steady. Age alone never shows that."
 
 - id: p114
   part: 3
   chapter: living
   layout: single
-  title: "Meera: Venus Manager, Ketu Deputy"
+  title: "Meera: Venus manager, Ketu deputy"
   panels:
     - scene: "A video call on You's phone, propped against a chai glass on the Marine Drive wall, the screen glowing but turned from the viewer. Beside it, acting out Meera's household in Jaipur: Venus packs twenty years of saris into a trunk and keeps admiring them; Ketu closes a cupboard door very quietly; the Sun waits in the background with luggage. You listens, pencil ready. Sky above for bubbles."
       chars: [You, Venus, Ketu, Sun]
       bubbles:
-        - {who: Venus, text: "College, her own face, a wedding, a home, and one long audit in the middle."}
-        - {who: Ketu, text: "Closing."}
-        - {who: Sun, text: "June next year. I have the courtyard booked."}
-        - {who: You, text: "She says she has stopped wanting to start things. I said: correct."}
-  caption: "Meera, 37: Venus manager to around June 2027, Ketu deputy. The task: finish, thank, clear a cupboard. Then the Sun."
+        - {who: Venus, text: "My twenty years gave her college, her own face, a wedding, a home, and one long audit in the middle."}
+        - {who: Ketu, text: "My turn now. I am closing things."}
+        - {who: Sun, text: "I take over in June next year. I have the courtyard booked."}
+        - {who: You, text: "She says she has stopped wanting to start things. I told her that is correct."}
+  caption: "Meera, 37: Venus manager until around June 2027, Ketu deputy. The task: finish, thank, clear a cupboard, then hand over to the Sun."
 
 - id: p115
   part: 3
   chapter: living
   layout: single
-  title: "Arjun: Rahu Manager, Venus Deputy"
+  title: "Arjun: Rahu manager, Venus deputy"
   panels:
     - scene: "The next video-call window, same sea wall. Acting out Arjun's flat in Pune: Rahu, purple smoke and sunglasses, flies his drone over a model of a sea-facing apartment built from shopping bags; Venus hangs new curtains in a corner set up as the partnership room, humming; Saturn sits on a stool in a far corner with his ledger, muttering. You listens with the phone. Open sky above for bubbles."
       chars: [You, Rahu, Venus, Saturn]
       bubbles:
-        - {who: Rahu, text: "A sea-facing flat. For two. Abroad, ideally. Eighteen years and I want all of it."}
-        - {who: Venus, text: "Curtains first. Then someone to share them with."}
-        - {who: Saturn, text: "She is lovely and she is expensive in this house. I am only saying."}
-        - {who: You, text: "He says: let someone in, and do not buy a flat to impress them."}
-  caption: "Arjun, 31: Rahu manager to late 2031, Venus deputy to July 2028. Want well. Enjoy it with a budget."
+        - {who: Rahu, text: "My eighteen years. I want a sea-facing flat, for two, abroad ideally. I want all of it."}
+        - {who: Venus, text: "I am his deputy. Curtains first. Then someone to share them with."}
+        - {who: Saturn, text: "She is lovely, and in this house she is expensive. I am only saying."}
+        - {who: You, text: "My advice to him: let someone in, and do not buy a flat to impress them."}
+  caption: "Arjun, 31: Rahu manager until late 2031, Venus deputy until July 2028. The task: want well, and enjoy it with a budget."
 
 - id: p116
   part: 3
   chapter: living
   layout: single
-  title: "Devika: Rahu Manager, Saturn Deputy"
+  title: "Devika: Rahu manager, Saturn deputy"
   panels:
     - scene: "The third video-call window. Acting out Devika's crowded Kolkata house: Rahu stands under a spotlight he has rigged himself, posing; Saturn sits at a desk in the same room, now on duty, one hand held out for receipts; Mercury shuffles a stack of papers beside them. Through a doorway, a flight of narrow back stairs. You listens from the wall, pencil moving. Space above for bubbles."
       chars: [You, Rahu, Saturn, Mercury]
       bubbles:
-        - {who: Saturn, text: "Receipts."}
+        - {who: Saturn, text: "I am his deputy now. Receipts, please."}
         - {who: Rahu, text: "For the stage lights?"}
         - {who: Saturn, text: "For everything. Until June 2029."}
-        - {who: You, text: "She says recognition is coming up the back stairs, late and on foot."}
-  caption: "Devika, 47: Rahu manager to 2039, Saturn deputy to June 2029. Routine, elders, receipts. The end date is on the map."
+        - {who: You, text: "I told her recognition is coming, but up the back stairs, late and on foot."}
+  caption: "Devika, 47: Rahu manager until 2039, Saturn deputy until June 2029. The task: routine, elders, receipts, and an end date on the map."
 
 - id: p117
   part: 3
   chapter: living
   layout: three
-  title: "Living Well in a Hard Season"
+  title: "Living well in a hard season"
   panels:
     - scene: "The flat's bedroom at 10 pm. You is in bed under a shawl the Moon is tucking in. Mercury's three phones have been shut in a drawer and he stands beside it, outraged but silent, both hands pressed flat on the drawer. Saturn sits on a chair by the door. Dim wall above the bed for bubbles."
       chars: [You, Moon, Mercury, Saturn]
       bubbles:
-        - {who: Moon, text: "Sleep. Before midnight. I will not call tonight."}
-        - {who: Mercury, text: "They are ringing. I can hear them ringing."}
+        - {who: Moon, text: "Sleep, before midnight. I will not call you tonight."}
+        - {who: Mercury, text: "My phones are ringing. I can hear them ringing in there."}
         - {who: You, text: "Good night, Mercury."}
     - scene: "Early morning on Marine Drive. You walks the small brown dog along the promenade. Saturn walks a few paces behind at his own slow pace, crow overhead, and Mars jogs circles around them both in brass armour, blowing his whistle softly for once. Sea and sky to the left for bubbles."
       chars: [You, Saturn, Mars]
       bubbles:
-        - {who: Saturn, text: "Walk. Every day. Not far. Just every day."}
+        - {who: Saturn, text: "Walk every day. Not far. Just every day."}
         - {who: Mars, text: "A walk is a drill with manners."}
-        - {who: You, text: "Why am I enjoying this."}
+        - {who: You, text: "Why am I enjoying this?"}
     - scene: "You at the kitchen table on a Sunday, phone to her ear mid-call, laughing, while with her other hand she closes a thick folder of finished work. The Moon beams over the stove; Saturn closes his ledger with a soft thump. Blank wall above for bubbles."
       chars: [You, Moon, Saturn]
       bubbles:
         - {who: You, text: "Hi Ma. Yes, I ate. Yes, I finished the thing."}
-        - {who: Saturn, text: "Finished."}
-        - {who: Moon, text: "She called. She called!"}
+        - {who: Saturn, text: "She finished it. Noted."}
+        - {who: Moon, text: "She called her mother. Did you hear? She called!"}
   caption: "The practice in a hard season is ordinary: sleep, walk, call your mother, finish the thing. Nobody sells those at a stall."
 
 - id: p118
   part: 3
   chapter: living
   layout: fact
-  title: "Your Own Season Map"
+  title: "Your own season map"
   panels:
     - scene: "Half-page panel. The kitchen table covered with a large sheet of paper turned sideways: a long pencil bar divided into coloured boxes of different lengths, dots along it, and a vertical pencil line near the middle. You draws with a pencil. The nine planets lean over her shoulders; Mercury offers a pen; Saturn pushes the pen away. Space above the heads for bubbles and the fact box below."
       chars: [You, Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn, Rahu, Ketu]
       bubbles:
-        - {who: Mercury, text: "Pen is faster."}
-        - {who: Saturn, text: "Pencil. You will be wrong somewhere."}
-        - {who: You, text: "Events first. Then I read the seasons. Not the other way round."}
+        - {who: Mercury, text: "Use a pen. A pen is faster."}
+        - {who: Saturn, text: "Use a pencil. You will be wrong somewhere."}
+        - {who: You, text: "I mark my life's events first. Then I read the seasons. Not the other way round."}
         - {who: Jupiter, text: "Nothing on this map is black. Use colours."}
   fact:
     - "1. Get the printout from a free app (sidereal zodiac, Lahiri, the 120-year timetable). Write down the Moon's star."
-    - "2. Turn the sheet sideways. Draw a bar from your birth year to your birth year plus a hundred. Draw the seasons as boxes in the fixed order, each as long as its years, the first one shortened by the balance at birth."
-    - "3. Write the year and your age at every boundary."
-    - "4. Under the bar, open each season you have lived, and the current one, into its nine deputies with dates."
-    - "5. Mark every event you can date to within a year, as a dot with one word. Do this before you read anything."
-    - "6. For each season write the manager, and whether that planet is on your side or tests you."
-    - "7. Read the past honestly: what you would have predicted, then what actually happened, in that order, in pencil. Count the misses."
-    - "8. Draw a line at today. Write the manager, the deputy and both end dates, large."
-    - "9. Write the next deputy and the next manager, and one sentence each on what they will ask."
-    - "10. Write the letter, date the map, and come back every birthday with a pencil."
+    - "2. Turn the sheet sideways. Draw a bar from your birth year to your birth year plus a hundred."
+    - "3. Draw the seasons as boxes in the fixed order, each as long as its years."
+    - "4. The first box is shorter: cut it by the balance at birth."
+    - "5. Write the year and your age at every boundary."
+    - "6. Under the bar, open each season you have lived, and the current one, into its nine deputies with dates."
+    - "7. Mark every event you can date to within a year as a dot with one word. Do this before reading anything."
+    - "8. For each season write the manager, and whether that planet is on your side or tests you."
+    - "9. Read the past honestly: what you would have predicted, then what actually happened, in that order, in pencil. Count the misses."
+    - "10. Draw a line at today. Write the manager, the deputy and both end dates, large."
+    - "11. Write the next deputy and the next manager, and one sentence each on what they will ask."
+    - "12. Write the letter to the next season, date the map, and come back every birthday with a pencil."
   caption: "Mark the events first, blind, then read the seasons. The map has to earn its keep against your real life."
 
 - id: p119
   part: 3
   chapter: living
   layout: three
-  title: "Three Sentences and a Letter"
+  title: "Three sentences and a letter"
   panels:
     - scene: "You at the kitchen table writes a single line in her notebook. Saturn stands beside her as the current manager, dictating with one slow finger raised. Venus sits at the end of the table as deputy, waiting her turn with chai. Blank wall above for bubbles."
       chars: [You, Saturn, Venus]
       bubbles:
-        - {who: Saturn, text: "Sentence one, the manager's task. Work. Limits. Time."}
-        - {who: You, text: "Three words. Nineteen years."}
+        - {who: Saturn, text: "Sentence one is the manager's task. Mine is three words: work, limits, time."}
+        - {who: You, text: "Three words for nineteen years. That seems fair."}
     - scene: "Venus leans across the table and writes the second line herself with a pink pen while You watches; Saturn does not object. On the table lies a small pencil sketch of twelve rooms in a square with two dots in it. Blank wall above for bubbles."
       chars: [You, Saturn, Venus]
       bubbles:
-        - {who: Venus, text: "Sentence two, the deputy's task. Love and enjoy without going soft. And we are friends, he and I."}
-        - {who: Saturn, text: "Friends, and not in one of the three wrong rooms from me. Easier, then."}
-        - {who: You, text: "Six, eight or twelve from you would have been the storeroom."}
+        - {who: Venus, text: "Sentence two is the deputy's task. Mine: love and enjoy, without going soft. And he and I are friends."}
+        - {who: Saturn, text: "Friends, and her room is not one of the three wrong rooms from mine. Easier, then."}
+        - {who: You, text: "Six, eight or twelve doors from you would have meant the storeroom."}
     - scene: "You reads the third line aloud from the notebook, holding it up. Rahu drifts in from the balcony, offended. Ketu sweeps the floor behind them and does not look up. An envelope lies folded inside the sideways map on the table. Space above for bubbles."
       chars: [You, Rahu, Ketu]
       bubbles:
-        - {who: You, text: "Sentence three, this year: finish the course, sleep before midnight, Sundays are for Ma."}
+        - {who: You, text: "Sentence three is for this year: finish the course, sleep before midnight, Sundays are for Ma."}
         - {who: Rahu, text: "No planet is named in that. Not even me."}
         - {who: You, text: "Especially not you."}
-        - {who: Ketu, text: "Write to the season. Fold it. Sweep."}
+        - {who: Ketu, text: "Now write the letter to the next season. Fold it. Then sweep."}
   caption: "Three sentences for the task, no planet named in the third. One page for the letter, one fear said once."
 
 - id: p120
   part: 3
   chapter: living
   layout: single
-  title: "It Was Never Random"
+  title: "It was never random"
   panels:
     - scene: "Dusk on a bench on the Marine Drive promenade, the sea going silver. Saturn sits at one end, ledger closed on his lap, crow asleep on the backrest. Venus sits at the other end with a glass of chai, jasmine in her hair, phone face down. In the distance, small, You walks home with the dog and her sling bag. Wide sky above the sea for bubbles."
       chars: [Saturn, Venus, You]
       bubbles:
         - {who: Venus, text: "All those years of me, then him, then the rest of us. She thought it was random."}
         - {who: Saturn, text: "It was never random. It was a timetable."}
-        - {who: Venus, text: "And what she did with it?"}
-        - {who: Saturn, text: "Hers."}
-  caption: "It was never random. The season decides what is asked. You decide what you do. The date is on the map."
+        - {who: Venus, text: "And what she did with all that time?"}
+        - {who: Saturn, text: "That was hers. It always was."}
+  caption: "It was never random: the season decides what is asked, and you decide what you do. The date is on the map."
