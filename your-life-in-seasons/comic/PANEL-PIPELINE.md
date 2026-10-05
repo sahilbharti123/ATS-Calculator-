@@ -61,7 +61,7 @@ and it is not needed).
 
 Generation agents stop after step 2 and write `comic/panels/manifest-<script name>.json` with every
 media id (`{"panels": {"<pid>-<n>": {"media_id": "..."}}}`). The coordinator then, in batches, adds pages
-to the existing container design **DAHW851NwBY** (`read-design` with `open_transaction`, one `edit-design`
+to the container design **DAHW80T729Q** (the first container, DAHW851NwBY, reached Canva's 100-page limit at panel p052-1) (`read-design` with `open_transaction`, one `edit-design`
 call with many `add_page` ops sized per layout, `read-design` for the new page ids, one `edit-design` call
 with many `insert_fill` ops, `commit`), exports those pages as PNG at width 2400 and downloads them to
 `comic/panels/<pid>-<n>.png`. `tools/comic_export_ops.py` prints the operation lists from the sidecars.
