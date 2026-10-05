@@ -102,9 +102,10 @@ def panel_image(pid, n, w, h):
     d.text((w / 2, h / 2), f"{pid} panel {n}", font=F_SMALL(min(48, w // 12)), fill=GREY, anchor="mm")
     return ph, False
 
-def draw_bubble(draw, text, cx, top, max_w, fnt, tail_to=None, thought=False, panel_x=(0, 10**6)):
+def draw_bubble(draw, text, cx, top, max_w, fnt, tail_to=None, thought=False, panel_x=(0, 10**6), tail_y=None):
     """Speech bubble centred near cx (kept inside panel_x) with its top edge at `top`.
-    The tail tip points at (tail_to, below the bubble); its base stays within the bubble so tails are short."""
+    The tail tip points at (tail_to, below the bubble); its base stays within the bubble. With tail_y the tail
+    stretches down to that height (the speaker's head), at most six text heights long."""
     pad_x, pad_y = int(fnt.size * 0.8), int(fnt.size * 0.55)
     lines = wrap(draw, text, fnt, max_w - 2 * pad_x)
     lh = int(fnt.size * 1.12)
@@ -119,6 +120,12 @@ def draw_bubble(draw, text, cx, top, max_w, fnt, tail_to=None, thought=False, pa
         base = int(fnt.size * 0.5)
         tail_len = int(fnt.size * 1.3)
         tip = (int(min(max(tail_to, tx - base * 2), tx + base * 2)), y1 + tail_len)
+        if tail_y is not None and tail_y > y1 + tail_len:
+            ty = min(tail_y, y1 + fnt.size * 6)
+            reach = (ty - y1) * 0.55                      # slant at most ~30 degrees
+            tip = (int(min(max(tail_to, tx - reach), tx + reach)), int(ty))
+            base = int(max(base, (ty - y1) * 0.13))       # long tails get a wider base
+            tx = int(min(max(tx, x0 + r + base), x1 - r - base)) if x1 - x0 > 2 * (r + base) else tx
         draw.polygon([(tx - base, y1 - 2), (tx + base, y1 - 2), tip], fill="white", outline=INK)
         draw.line([(tx - base, y1 - 2), tip, (tx + base, y1 - 2)], fill=INK, width=stroke)
     draw.rounded_rectangle([x0, y0, x1, y1], radius=r, fill="white", outline=INK, width=stroke)
@@ -174,10 +181,11 @@ def speaker_positions(pid, n, panel):
 def overlaps(a, b, gap=10):
     return not (a[2] + gap < b[0] or b[2] + gap < a[0] or a[3] + gap < b[1] or b[3] + gap < a[1])
 
-def place_bubbles(page_img, pid, n, panel, box, fsize):
-    """Bubbles in dialogue order, each above its speaker; later bubbles that collide are pushed DOWN (never
-    above an earlier one, so reading order is preserved); then the whole stack is lifted so no bubble covers
-    its speaker's head, as far as the panel's top margin allows."""
+def place_bubbles(page_img, pid, n, panel, box, fsize, beam=14, branch=7):
+    """Bubbles in dialogue order, laid out by a small beam search over positions (and two narrower wraps).
+    A layout scores well when no bubbles overlap, reading order holds (each bubble sits below the previous
+    one, or in the same row to its right), every character's face stays clear, bubbles sit high in the panel,
+    and each one is close to its speaker so the tail is short."""
     x0, y0, x1, y1 = box
     pw, ph = x1 - x0, y1 - y0
     bubbles = panel.get("bubbles") or []
@@ -187,81 +195,67 @@ def place_bubbles(page_img, pid, n, panel, box, fsize):
     fnt = F_BUBBLE(fsize)
     max_w = int(min(pw * 0.46, 620 * fsize / 36))
     top0 = y0 + int(fsize * 0.6)
-    panel_img = page_img.crop(box)
+    panel_img = page_img.crop((x0 + BORDER, y0 + BORDER, x1 - BORDER, y1 - BORDER))   # inside the border
     pad_x, pad_y = int(fnt.size * 0.8), int(fnt.size * 0.55)
-    items = []
-    for b in bubbles:
+    gap = int(fsize * 0.6)
+    # face zones of every character (head top from the art; tall enough to cover a crown or plume and the face)
+    hw, face_h = pw * 0.065, min(ph * 0.34, pw * 0.2)
+    heads = {who: y0 + int(content_top(panel_img, f) * ph) for who, f in pos.items()}
+    zones = [(x0 + pw * f - hw, heads[who], x0 + pw * f + hw, heads[who] + face_h) for who, f in pos.items()]
+
+    def candidates(b):
         who = b.get("who")
         px = x0 + pw * pos.get(who, 0.5)
-        head_y = y0 + int(content_top(panel_img, pos.get(who, 0.5)) * ph)
-        lines = wrap(draw, b["text"], fnt, max_w - 2 * pad_x)
-        bw = int(max(draw.textlength(l, font=fnt) for l in lines) + 2 * pad_x)
-        bh = int(len(lines) * int(fnt.size * 1.12) + 2 * pad_y)
-        cx = min(max(px, x0 + bw / 2 + 10), x1 - bw / 2 - 10)
-        want = head_y - int(fsize * 1.3) - bh - int(fsize * 0.3)
-        top = max(top0, min(want, y0 + int(ph * 0.45)))
-        items.append(dict(b=b, px=px, head_y=head_y, bw=bw, bh=bh, cx=cx, top=top))
-    # push-down pass in dialogue order
-    placed = []
-    gap = int(fsize * 0.6)
-    for it in items:
-        cx, bw, bh, top = it["cx"], it["bw"], it["bh"], it["top"]
-        # reading order: a bubble may share a row with the previous one only if it sits to its right
-        if placed:
-            prev = placed[-1]
-            if int(cx - bw / 2) >= prev[2] - gap:
-                top = max(top, prev[1])
-            else:
-                top = max(top, prev[3] + gap)
-        cand = (int(cx - bw / 2), top, int(cx + bw / 2), top + bh)
-        guard = 0
-        while any(overlaps(cand, q, gap) for q in placed) and guard < 12:
-            moved = False
-            for dx in (bw * 0.55, -bw * 0.55, bw * 1.1, -bw * 1.1):
-                c2 = min(max(cx + dx, x0 + bw / 2 + 10), x1 - bw / 2 - 10)
-                cand2 = (int(c2 - bw / 2), top, int(c2 + bw / 2), top + bh)
-                if not any(overlaps(cand2, q, gap) for q in placed) and abs(c2 - it["px"]) < pw * 0.45:
-                    cx, cand, moved = c2, cand2, True; break
-            if moved: break
-            top = max(q[3] for q in placed if overlaps((cand[0], top, cand[2], top + bh), q, gap)) + gap + int(fsize * 0.9)
-            cand = (int(cx - bw / 2), top, int(cx + bw / 2), top + bh)
-            guard += 1
-        it["cx"], it["top"] = cx, top
-        placed.append(cand)
-    # lift the whole stack if any bubble would cover its speaker's head
-    overshoot = max([it["top"] + it["bh"] + int(fsize * 1.2) - it["head_y"] for it in items] + [0])
-    lift = min(overshoot, min(it["top"] for it in items) - top0)
-    if lift > 0:
-        for it in items: it["top"] -= lift
-    # a bubble that still covers its speaker's head (head near the panel top) moves beside the head
-    # (rewrapped narrower if needed; the bubble lowest over a head moves first)
-    hw = pw * 0.07
-    for it in items: it["mw"] = max_w
-    rects = [(int(it["cx"] - it["bw"] / 2), it["top"], int(it["cx"] + it["bw"] / 2), it["top"] + it["bh"]) for it in items]
-    for i in sorted(range(len(items)), key=lambda k: -rects[k][3]):
-        it, r = items[i], rects[i]
-        if r[3] + int(fsize * 0.5) <= it["head_y"] or r[2] < it["px"] - hw or r[0] > it["px"] + hw:
-            continue
-        sides = (1, -1) if it["px"] < x0 + pw / 2 else (-1, 1)
-        done = False
-        for s in sides:
-            room = (x1 - 10 - (it["px"] + hw)) if s > 0 else ((it["px"] - hw) - (x0 + 10))
-            for mw in (it["bw"], min(max_w, int(room))):
-                if mw < pw * 0.22 or mw > room: continue
-                lines = wrap(draw, it["b"]["text"], fnt, mw - 2 * pad_x)
-                bw = int(max(draw.textlength(l, font=fnt) for l in lines) + 2 * pad_x)
-                bh = int(len(lines) * int(fnt.size * 1.12) + 2 * pad_y)
-                c2 = it["px"] + s * (hw + bw / 2)
-                for top in (r[1], r[3] - bh, r[1] + gap):
-                    r2 = (int(c2 - bw / 2), top, int(c2 + bw / 2), top + bh)
-                    if r2[1] < top0 or r2[3] > y1 - fsize: continue
-                    if any(overlaps(r2, q, gap // 2) for j, q in enumerate(rects) if j != i): continue
-                    it.update(cx=c2, top=top, bw=bw, bh=bh, mw=bw + 2); rects[i] = r2; done = True; break
-                if done: break
-            if done: break
-    for it in items:
-        draw_bubble(draw, it["b"]["text"], it["cx"], it["top"], it["mw"], fnt, tail_to=int(it["px"]),
-                    thought=bool(it["b"].get("thought")), panel_x=(x0, x1))
+        head_y = heads.get(who, y0 + int(content_top(panel_img, 0.5) * ph))
+        out = []
+        for mw, wpen in ((max_w, 0), (int(max_w * 0.72), 0.15), (int(max_w * 0.52), 0.35)):
+            lines = wrap(draw, b["text"], fnt, mw - 2 * pad_x)
+            bw = int(max(draw.textlength(l, font=fnt) for l in lines) + 2 * pad_x)
+            bh = int(len(lines) * int(fnt.size * 1.12) + 2 * pad_y)
+            if bw > pw - 20: continue
+            for top in range(top0, int(y1 - bh - fsize * 1.6), max(6, int(fsize * 0.7))):
+                for k in range(25):
+                    cx = x0 + bw / 2 + 10 + (pw - bw - 20) * k / 24
+                    r = (int(cx - bw / 2), top, int(cx + bw / 2), top + bh)
+                    s = wpen + 0.8 * (top - top0) / ph
+                    for z in zones:
+                        ix = min(r[2], z[2]) - max(r[0], z[0]); iy = min(r[3], z[3]) - max(r[1], z[1])
+                        if ix > 0 and iy > 0: s += 40 * ix * iy / ((z[2] - z[0]) * (z[3] - z[1]))
+                    dx = max(0, r[0] + fsize - px, px - (r[2] - fsize)) / pw
+                    s += 6 * dx + 0.6 * abs(cx - px) / pw
+                    above = head_y - int(fsize * 1.2) - r[3]
+                    if above >= 0: s += 0.3 * max(0, above - fsize * 6) / ph + 0.1 * above / ph
+                    else: s += 0.4 + 3 * (-above) / ph
+                    out.append((s, r, px, head_y))
+        return out
+
+    states = [(0.0, [], [])]
+    for b in bubbles:
+        cands = candidates(b)
+        nxt = []
+        for S, placed, laid in states:
+            scored = []
+            for s, r, px, hy in cands:
+                if any(overlaps(r, q, gap) for q in placed): s += 1000
+                if placed:
+                    prev = placed[-1]
+                    if r[0] >= prev[2] - gap:
+                        if r[1] < prev[1]: s += 200
+                    elif r[1] < prev[3] + gap // 2: s += 200
+                scored.append((s, r, px, hy))
+            scored.sort(key=lambda c: c[0])
+            picked = []
+            for s, r, px, hy in scored:
+                if any(abs(r[0] - q[1][0]) < pw * 0.15 and abs(r[1] - q[1][1]) < fsize * 2 for q in picked): continue
+                picked.append((s, r, px, hy))
+                if len(picked) >= branch: break
+            for s, r, px, hy in picked:
+                nxt.append((S + s, placed + [r], laid + [(b, r, px, hy)]))
+        nxt.sort(key=lambda st: st[0])
+        states = nxt[:beam]
+    for b, r, px, hy in states[0][2]:
+        draw_bubble(draw, b["text"], (r[0] + r[2]) / 2, r[1], r[2] - r[0] + 2, fnt, tail_to=int(px),
+                    thought=bool(b.get("thought")), panel_x=(x0, x1), tail_y=hy - int(fsize * 0.3))
 
 def panel_boxes(layout, area):
     ax0, ay0, ax1, ay1 = area
