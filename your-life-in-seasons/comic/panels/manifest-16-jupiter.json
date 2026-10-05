@@ -1,0 +1,80 @@
+{
+ "panels": {
+  "p077-1": {
+   "media_id": "MAHXJH93pQU"
+  },
+  "p078-1": {
+   "media_id": "MAHXJNtczHg"
+  },
+  "p078-2": {
+   "media_id": "MAHXJMej3i4"
+  },
+  "p079-1": {
+   "media_id": "MAHXJZn89gM"
+  },
+  "p079-2": {
+   "media_id": "MAHXJXG4M0Y"
+  },
+  "p080-1": {
+   "media_id": "MAHXJf_PiiI"
+  },
+  "p080-2": {
+   "media_id": "MAHXJWoGOvs"
+  },
+  "p080-3": {
+   "media_id": "MAHXJdMQg3U"
+  },
+  "p080-4": {
+   "media_id": "MAHXJfa-vDk"
+  },
+  "p080-5": {
+   "media_id": "MAHXJZjQdQ4"
+  },
+  "p080-6": {
+   "media_id": "MAHXJdGHiLs"
+  },
+  "p081-1": {
+   "media_id": "MAHXJqWjjV0"
+  },
+  "p081-2": {
+   "media_id": "MAHXJoSIEcc"
+  },
+  "p081-3": {
+   "media_id": "MAHXJqYTtM8"
+  },
+  "p082-1": {
+   "media_id": "MAHXJvGJNnk"
+  },
+  "p082-2": {
+   "media_id": "MAHXJvB0V5A"
+  },
+  "p082-3": {
+   "media_id": "MAHXJrCuZOI"
+  },
+  "p083-1": {
+   "media_id": "MAHXJhhTuAk"
+  },
+  "p083-2": {
+   "media_id": "MAHXJ_dUs0E"
+  },
+  "p084-1": {
+   "media_id": "MAHXJ6u-lr0"
+  },
+  "p085-1": {
+   "media_id": "MAHXJwSs0wM"
+  },
+  "p085-2": {
+   "media_id": "MAHXJ_nPZ-M"
+  },
+  "p085-3": {
+   "media_id": "MAHXJ3pF11w"
+  },
+  "p086-1": {
+   "media_id": "MAHXJ9CnZYM"
+  }
+ },
+ "missing": [
+  "p078-3",
+  "p078-4"
+ ]
+}
