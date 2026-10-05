@@ -233,8 +233,34 @@ def place_bubbles(page_img, pid, n, panel, box, fsize):
     lift = min(overshoot, min(it["top"] for it in items) - top0)
     if lift > 0:
         for it in items: it["top"] -= lift
+    # a bubble that still covers its speaker's head (head near the panel top) moves beside the head
+    # (rewrapped narrower if needed; the bubble lowest over a head moves first)
+    hw = pw * 0.07
+    for it in items: it["mw"] = max_w
+    rects = [(int(it["cx"] - it["bw"] / 2), it["top"], int(it["cx"] + it["bw"] / 2), it["top"] + it["bh"]) for it in items]
+    for i in sorted(range(len(items)), key=lambda k: -rects[k][3]):
+        it, r = items[i], rects[i]
+        if r[3] + int(fsize * 0.5) <= it["head_y"] or r[2] < it["px"] - hw or r[0] > it["px"] + hw:
+            continue
+        sides = (1, -1) if it["px"] < x0 + pw / 2 else (-1, 1)
+        done = False
+        for s in sides:
+            room = (x1 - 10 - (it["px"] + hw)) if s > 0 else ((it["px"] - hw) - (x0 + 10))
+            for mw in (it["bw"], min(max_w, int(room))):
+                if mw < pw * 0.22 or mw > room: continue
+                lines = wrap(draw, it["b"]["text"], fnt, mw - 2 * pad_x)
+                bw = int(max(draw.textlength(l, font=fnt) for l in lines) + 2 * pad_x)
+                bh = int(len(lines) * int(fnt.size * 1.12) + 2 * pad_y)
+                c2 = it["px"] + s * (hw + bw / 2)
+                for top in (r[1], r[3] - bh, r[1] + gap):
+                    r2 = (int(c2 - bw / 2), top, int(c2 + bw / 2), top + bh)
+                    if r2[1] < top0 or r2[3] > y1 - fsize: continue
+                    if any(overlaps(r2, q, gap // 2) for j, q in enumerate(rects) if j != i): continue
+                    it.update(cx=c2, top=top, bw=bw, bh=bh, mw=bw + 2); rects[i] = r2; done = True; break
+                if done: break
+            if done: break
     for it in items:
-        draw_bubble(draw, it["b"]["text"], it["cx"], it["top"], max_w, fnt, tail_to=int(it["px"]),
+        draw_bubble(draw, it["b"]["text"], it["cx"], it["top"], it["mw"], fnt, tail_to=int(it["px"]),
                     thought=bool(it["b"].get("thought")), panel_x=(x0, x1))
 
 def panel_boxes(layout, area):
