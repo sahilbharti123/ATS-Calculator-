@@ -7,7 +7,7 @@ ROOT=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PAGES=sorted(glob.glob(os.path.join(ROOT,"comic","pages","p*.png")))
 COVER=os.path.join(ROOT,"cover","cover-comic-front.jpg")
 OUT=os.path.join(ROOT,"dist","Your-Life-in-Seasons-comic.epub")
-W,H=1800,2700
+W,H=1200,1800   # Kindle page size; smaller files keep the KDP delivery fee low
 TITLE="Your Life in Seasons: The Comic"; AUTHOR="Anushka Bharti"; UID="urn:uuid:"+str(uuid.uuid5(uuid.NAMESPACE_URL,"your-life-in-seasons-comic"))
 def xhtml(title, img, w, h):
     return f'''<?xml version="1.0" encoding="utf-8"?>
@@ -26,7 +26,7 @@ with zipfile.ZipFile(OUT,"w") as z:
     z.writestr("OEBPS/cover.xhtml",xhtml("Cover","images/cover.jpg",cw,ch)); manifest.append('<item id="cover" href="cover.xhtml" media-type="application/xhtml+xml"/>'); spine.append('<itemref idref="cover"/>')
     for i,f in enumerate(PAGES,1):
         name=os.path.basename(f)[:-4]
-        im=Image.open(f).convert("RGB"); buf=os.path.join(ROOT,"dist","_tmp.jpg"); im.save(buf,"JPEG",quality=88)
+        im=Image.open(f).convert("RGB").resize((W,H),Image.LANCZOS); buf=os.path.join(ROOT,"dist","_tmp.jpg"); im.save(buf,"JPEG",quality=80,optimize=True,progressive=True)
         z.write(buf,f"OEBPS/images/{name}.jpg"); os.remove(buf)
         z.writestr(f"OEBPS/{name}.xhtml",xhtml(f"Page {i}",f"images/{name}.jpg",W,H))
         manifest.append(f'<item id="i{name}" href="images/{name}.jpg" media-type="image/jpeg"/>')
