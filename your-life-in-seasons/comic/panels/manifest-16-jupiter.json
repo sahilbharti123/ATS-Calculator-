@@ -9,6 +9,12 @@
   "p078-2": {
    "media_id": "MAHXJMej3i4"
   },
+  "p078-3": {
+   "media_id": "MAHXPDeUXuA"
+  },
+  "p078-4": {
+   "media_id": "MAHXPOxcWHU"
+  },
   "p079-1": {
    "media_id": "MAHXJZn89gM"
   },
@@ -72,9 +78,5 @@
   "p086-1": {
    "media_id": "MAHXJ9CnZYM"
   }
- },
- "missing": [
-  "p078-3",
-  "p078-4"
- ]
+ }
 }

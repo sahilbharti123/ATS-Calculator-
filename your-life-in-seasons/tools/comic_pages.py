@@ -229,14 +229,24 @@ def place_bubbles(page_img, pid, n, panel, box, fsize, beam=14, branch=7):
                     out.append((s, r, px, head_y))
         return out
 
-    states = [(0.0, [], [])]
+    def tail_box(r, px, hy):
+        # the area a stretched tail sweeps, from the bubble's bottom edge down towards the speaker's head
+        tx = min(max(px, r[0] + fsize), r[2] - fsize)
+        ty = max(r[3] + int(fsize * 1.3), min(hy - int(fsize * 0.3), r[3] + fsize * 6))
+        reach = (ty - r[3]) * 0.55
+        tip = min(max(px, tx - reach), tx + reach)
+        return (int(min(tx, tip) - fsize * 0.5), r[3] + 2, int(max(tx, tip) + fsize * 0.5), int(ty))
+
+    states = [(0.0, [], [], [])]
     for b in bubbles:
         cands = candidates(b)
         nxt = []
-        for S, placed, laid in states:
+        for S, placed, laid, tails in states:
             scored = []
             for s, r, px, hy in cands:
                 if any(overlaps(r, q, gap) for q in placed): s += 1000
+                t = tail_box(r, px, hy)
+                s += 30 * sum(overlaps(t, q, 0) for q in placed) + 30 * sum(overlaps(r, q, 0) for q in tails)
                 if placed:
                     prev = placed[-1]
                     if r[0] >= prev[2] - gap:
@@ -250,7 +260,7 @@ def place_bubbles(page_img, pid, n, panel, box, fsize, beam=14, branch=7):
                 picked.append((s, r, px, hy))
                 if len(picked) >= branch: break
             for s, r, px, hy in picked:
-                nxt.append((S + s, placed + [r], laid + [(b, r, px, hy)]))
+                nxt.append((S + s, placed + [r], laid + [(b, r, px, hy)], tails + [tail_box(r, px, hy)]))
         nxt.sort(key=lambda st: st[0])
         states = nxt[:beam]
     for b, r, px, hy in states[0][2]:
